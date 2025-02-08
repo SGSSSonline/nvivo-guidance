@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Welcome!"
 subtitle: "**Qualitative Analysis Projects with NVivo: Going Further**"
 ---
 
@@ -18,3 +18,28 @@ We will use some curated open access qualitative data (the Qualitative Election 
 
 ## Session Aims
 
+### 🧑‍🎓 NVivo 201 - Additive Analysis
+
+...
+
+### 🤔 Problem-based approach
+
+Linking analysis aims with NVivo features 
+
+
+### 🗺️ Organising and navigating
+
+...
+
+
+### 🧶 Layering and weaving
+
+...
+
+### 🧟 Slaying QDAS zombies
+
+...
+
+### 🤢 It's not you, it's NVivo!
+
+...
