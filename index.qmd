@@ -1,7 +1,20 @@
 ---
-title: "NVivo Guidance"
+title: "Welcome"
+subtitle: "**Qualitative Analysis Projects with NVivo: Going Further**"
 ---
 
-This is a Quarto website.
+::: {.callout-note title="Session Brief"}
+This one-day in-person workshop is designed for those with a basic working knowledge of NVivo for qualitative research projects. It is designed to introduce you to more advanced features and the flexible ways these can be used for qualitative analysis. It is designed as a follow-on from the "Introduction to Qualitative Analysis Projects in NVivo", but is open to everyone regardless of whether they attended that session.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Students will learn how to use some more advanced features of NVivo:
+
+- coding workflows, tip and tricks
+- using static and dynamic sets
+- different types of queries
+- framework matrices
+
+We will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.
+:::
+
+## Session Aims
+

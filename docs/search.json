@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Session Brief\n\n\n\nThis one-day in-person workshop is designed for those with a basic working knowledge of NVivo for qualitative research projects. It is designed to introduce you to more advanced features and the flexible ways these can be used for qualitative analysis. It is designed as a follow-on from the “Introduction to Qualitative Analysis Projects in NVivo”, but is open to everyone regardless of whether they attended that session.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\nusing static and dynamic sets\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
+    "crumbs": [
+      "Going Further",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#aims",
+    "href": "index.html#aims",
+    "title": "Welcome",
+    "section": "Aims",
+    "text": "Aims",
+    "crumbs": [
+      "Going Further",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#project-file",
+    "href": "index.html#project-file",
+    "title": "Welcome",
+    "section": "Project File",
+    "text": "Project File",
+    "crumbs": [
+      "Going Further",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "index.html#dataset",
+    "href": "index.html#dataset",
+    "title": "Welcome",
+    "section": "Dataset",
+    "text": "Dataset",
+    "crumbs": [
+      "Going Further",
+      "Welcome"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:\n\nDr Kathryn Fredricks\nDr Katherine Keenan\nAlasdair B R Stewart\n\nWith additional material from:\n\nDr Rachel Shanks\n\nThese pages are a work in progress and will incrementally be updated over time."
+  },
+  {
+    "objectID": "primers.html",
+    "href": "primers.html",
+    "title": "Primers on qualitative data and analysis",
+    "section": "",
+    "text": "If you have never had formal masters-level training in qualitative enquiry, we recommend you follow some introductory material before you atten the NVivo workshops. This will help you get the most out of the day."
+  },
+  {
+    "objectID": "primers.html#what-is-qualitative-enquiry-and-data",
+    "href": "primers.html#what-is-qualitative-enquiry-and-data",
+    "title": "Primers on qualitative data and analysis",
+    "section": "What is qualitative enquiry and data?",
+    "text": "What is qualitative enquiry and data?\nEngage with one or all of the following:\n\nThe Discipline and Practice of Qualitative Research which is Chapter 1 in Denzin and Lincoln, eds. (2018) The SAGE Handbook of Qualitative Research. 5th ed. London: SAGE Publications.\nIntroduction to qualitative research methods - Part 1 by Bhangu, Provost, and Caduff (2023) in Perspectives in Clinical Research 14(1) pp.39-42\nQualitative research the basics YouTube video by Degree Doctor (Dr Elizabeth Yardley)"
+  },
+  {
+    "objectID": "primers.html#what-is-thematic-analysis",
+    "href": "primers.html#what-is-thematic-analysis",
+    "title": "Primers on qualitative data and analysis",
+    "section": "What is thematic analysis?",
+    "text": "What is thematic analysis?\nThematic analysis is a commonly used method within qualitative analysis, suitable for using with software like NVivo.\nPapers:\n\nBraun, Virginia, and Victoria Clarke (2006) ‘Using Thematic Analysis in Psychology’. Qualitative Research in Psychology 3(2):77–101. doi: 10.1191/1478088706qp063oa.\nBraun, Virginia, and Victoria Clarke (2019) ‘Reflecting on Reflexive Thematic Analysis’. Qualitative Research in Sport, Exercise and Health 11(4):589–97. doi: 10.1080/2159676X.2019.1628806.\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nKiger, Michelle E., and Lara Varpio. (2020) ‘Thematic Analysis of Qualitative Data: AMEE Guide No. 131’. Medical Teacher 42(8):846–54. doi: 10.1080/0142159X.2020.1755030.\n\nYouTube:\n\nThematic analysis in qualitative research by Degree Doctor (Dr Elizabeth Yardley)"
+  },
+  {
+    "objectID": "primers.html#what-is-coding",
+    "href": "primers.html#what-is-coding",
+    "title": "Primers on qualitative data and analysis",
+    "section": "What is coding?",
+    "text": "What is coding?\n\nAn Introduction to Codes and Coding which is Chapter 1 in Saldaña (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "If you are new to qualitative enquiry, please see the Primers page for recommended introduction materials."
+  },
+  {
+    "objectID": "resources.html#lumiveros-nvivo-user-help-pages",
+    "href": "resources.html#lumiveros-nvivo-user-help-pages",
+    "title": "Resources",
+    "section": "",
+    "text": "Windows:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\nMac:\n\nNVivo 12\nNVivo Release 1\nNVivo 14"
+  },
+  {
+    "objectID": "resources.html#nvivo-user-help",
+    "href": "resources.html#nvivo-user-help",
+    "title": "Resources",
+    "section": "",
+    "text": "Below are links to Lumivero’s NVivo User Help pages for the more recent Windows and MacOS versions of NVivo.\nWindows:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\nMacOS:\n\nNVivo 12\nNVivo Release 1\nNVivo 14"
+  },
+  {
+    "objectID": "resources.html#highly-recommended-reading",
+    "href": "resources.html#highly-recommended-reading",
+    "title": "Resources",
+    "section": "Highly Recommended Reading",
+    "text": "Highly Recommended Reading\n\nThis is a test of a quote block"
+  },
+  {
+    "objectID": "resources.html#lumivero-resources",
+    "href": "resources.html#lumivero-resources",
+    "title": "Resources",
+    "section": "",
+    "text": "Lumivero, the software company that produces NVivo,\n\n\nBelow are links to Lumivero’s NVivo User Help pages for the more recent Windows and MacOS versions of NVivo.\n\n\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\n\n\n\n\nNVivo 12\nNVivo Release 1\nNVivo 14"
+  },
+  {
+    "objectID": "resources.html#lumiveros-nvivo-resources",
+    "href": "resources.html#lumiveros-nvivo-resources",
+    "title": "Resources",
+    "section": "Lumivero’s NVivo Resources",
+    "text": "Lumivero’s NVivo Resources\n\nUser Help Pages\nBelow are links to Lumivero’s NVivo User Help pages for the more recent Windows and MacOS versions of NVivo.\nWindows:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\nMacOS:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\n\n\nOther online Lumivero resources\n\nNVivo YouTube Channel\nNVivo Podcast series\nLumivero Webinars and Events (for payment, some webinars are free)\nNVivo Knowledge Base\nNVivo Customer Hub (requires Lumivero username and password to log in)"
+  },
+  {
+    "objectID": "resources.html#recommended-reading",
+    "href": "resources.html#recommended-reading",
+    "title": "Resources",
+    "section": "Recommended Reading",
+    "text": "Recommended Reading\n\nQualitative Analysis Software\nThe best texts on using software for qualitative analysis:\n\nJackson, Kristi, and Pat Bazeley. (2019) Qualitative Data Analysis with NVivo. 3rd ed. Thousand Oaks, CA: SAGE Publications Ltd.\n\nPDF for Chapter 1 - ‘Where to begin?’\nClick by click instructions accompanying the book.\n\nBazeley, Pat. (2017) ‘Using Qualitative Data Analysis Software (QDAS) to Assist Data Analyses’. Pp. 1–18 in Handbook of Research Methods in Health Social Sciences, edited by P. Liamputtong. Singapore: Springer.\n\nOpen access copy.\n\n\n\n\nQualitative Analysis\nAlso useful as a basis for understanding qualitative analysis, coding, and writing up more generally:\n\nBazeley, Pat. 2020. Qualitative Data Analysis: Practical Strategies. 2nd ed. London: SAGE Pubications.\n\nHard-copies available in most university libraries.\n\nSaldaña, Johnny. (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd.\n\nAn Introduction to Codes and Coding PDF of Chapter 1.\n\n\n\n\nNVivo Examples\n\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nHutchison, Andrew John, Lynne Halley Johnston, and Jeff David Breckon. (2010) ‘Using QSR‐NVivo to Facilitate the Development of a Grounded Theory Project: An Account of a Worked Example’. International Journal of Social Research Methodology 13(4):283–302. doi: 10.1080/13645570902996301."
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Qualitative Analysis Projects with NVivo",
+    "section": "",
+    "text": "Session Brief\n\n\n\nThis one-day in-person workshop is designed for those with a basic working knowledge of NVivo for qualitative research projects. It is designed to introduce you to more advanced features and the flexible ways these can be used for qualitative analysis. It is designed as a follow-on from the “Introduction to Qualitative Analysis Projects in NVivo”, but is open to everyone regardless of whether they attended that session.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\nusing static and dynamic sets\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
+    "crumbs": [
+      "Going Further",
+      "Qualitative Analysis Projects with NVivo"
+    ]
+  },
+  {
+    "objectID": "project-file.html",
+    "href": "project-file.html",
+    "title": "Project File",
+    "section": "",
+    "text": "testing",
+    "crumbs": [
+      "Going Further",
+      "Project File"
+    ]
+  },
+  {
+    "objectID": "index.html#session-aims",
+    "href": "index.html#session-aims",
+    "title": "Welcome",
+    "section": "Session Aims",
+    "text": "Session Aims",
+    "crumbs": [
+      "Going Further",
+      "Welcome"
+    ]
+  }
+]
