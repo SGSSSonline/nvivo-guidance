@@ -20,11 +20,15 @@ We will use some curated open access qualitative data (the Qualitative Election 
 
 ### 🧑‍🎓 NVivo 201 - Additive Analysis
 
-...
+This workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for 'additive analysis'. They add to the 'foundational' elements of your project -- your files, folders, nodes, cases, and notes -- providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.
+
+It is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.
+
+A [Project File](project-file.qmd) though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.
 
 ### 🤔 Problem-based approach
 
-The sections and tasks for this session are based around problems and considerations to make you might encounter as your analysis progresses.
+The sections and tasks for this workshop session are based around problems and considerations to make that you might encounter as your analysis progresses.
 
 With each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.
 
@@ -39,22 +43,17 @@ These pages are 'living documents', they will continually and iteratively be upd
 
 :::
 
-
-
-
-### 🗺️ Organising and navigating
-
-...
-
-### 🧶 Layering and weaving
-
-...
-
-(distance between steps - why may want to do 1 thing that can reuse again and again)
-
 ### 🧟 Slaying QDAS zombies
 
-...
+To say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.
+
+There was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.
+
+The big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.
+
+However, the critiques unfortunately still persist as [QDAS Zombies](https://core.ac.uk/reader/215349760) by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen -- or copying chunks of text into Word/Excel files -- it's no wonder these critiques feel more alive than dead.
+
+What we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I'd go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.
 
 ### 🤢 It's not you, it's NVivo!
 
