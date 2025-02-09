@@ -12,15 +12,330 @@ Within NVivo guidance and training you'll often see emphasis being placed on con
 
 When first starting with NVivo, it may not always be clear why such importance is placed on these considerations.
 
+Let's say you have the following series of questions during your analysis:
 
-### Interview Participants
+- How do I find the cases for all the interview participants?
+- How do I find the cases for interview participants who supported Remain?
+- How do I find what views interview participants who supported Remain had on the Leave campaign?
 
+## Interview Participants
 
+Within the project file, all our participant cases are in the **Cases > Participants** folder. This though includes interview and focus group participant cases.
 
-### 
+This is a perfect scenario for creating a dynamic set.
 
+### Basics of creating a dynamic set
 
+::: {.panel-tabset}
+### New Dynamic Set
 
+![](images/dynamic-set-new.png)
+
+1. In the left-hand Navigation View, **right-click** 'Dynamic Sets'.
+2. From the context menu, click 'New Dynamic Set...'
+
+### General Details
+
+![](images/dynamic-set-details.png)
+
+Provide an apt 'Name' and 'Description'.
+
+### Search Criteria Tab
+
+![](images/dynamic-set-search-tab.png)
+
+Click the 'Search Criteria' tab, and ...
+
+### Advanced Tab
+
+![](images/dynamic-set-advanced.png)
+
+Within the Search Criteria view, click the 'Advanced' tab!
+
+In my opinion, the default, supposedly, 'Intermediate' tab is an overwhelming mess. It shows you upfront all the various options that are available, making it difficult to visually parse.
+
+You can see it has a series of lines with check boxes of what you want to search for. Consider the 'Advanced' tab we are switching to as adding as many of these lines as needed one by one.
+
+:::
+
+### Look for interview participant cases
+
+Then for our search criteria, we know two things that distinguishes our interview participants cases:
+1. The cases code parts of the interview transcripts.
+2. The cases are classified within the 'People' case classification.
+
+::: {.panel-tabset}
+
+### Look for
+
+First, let's set the dynamic set to look for cases.
+
+![](images/dynamic-sets-looking-for.png)
+
+Within the 'Advanced' view:
+1. Select the drop-down to choose what to 'Look for'.
+2. As we want to find interview participant cases, select 'Codes & Cases'
+
+### 1st Criteria
+
+As our first criteria, let's add a criteria to return any 'codes & cases' that code any of our interview transcripts.
+
+![](images/dynamic-set-1-code.png)
+
+3. Within the 'Define more criteria' section, click the box under 'Interaction'.
+4. From the drop-down list select 'Code'.
+
+![](images/dynamic-set-1-option.png)
+
+5. Click the box under 'Option'.
+6. From the drop-down list select 'That Codes'.
+
+![](images/dynamic-set-1-value.png)
+
+7. Click the box under 'Value'.
+8. From the drop-down list select 'Selected Items'.
+
+A 'Select Project Items' dialogue will pop open.
+
+![](images/dynamic-set-1-interviews.png)
+
+9. Expand the 'Files' folder to see the sub-folders.
+10. Check the tick-box for the 'Interviews (2016)' sub-folder. This will select all the interview transcripts in the sub-folder.
+11. Hit 'OK' to confirm the selection.
+
+A wee example of odd minor frustrations NVivo presents. After selecting our interaction, option, value, and files of interest, the 'Add to List' option remains greyed out -- but, why?
+
+![](images/dynamic-set-1-by.png)
+
+There's a sneaky additional 'by' field that can't be left blank.
+
+12. Click the box to the right of 'by' (and under the box for 'Select Items')
+13. From the drop-down list, select 'Any User'
+
+![](images/dynamic-set-1-add.png)
+
+14. Click 'Add to List'.
+
+![](images/dynamic-set-1st.png)
+
+Our 1st criteria now appears in the giant box for 'Find items that match all these criteria'.
+
+### 2nd Criteria
+
+Next, we now 
+
+![](images/dynamic-set-2-code.png)
+
+15. Click the box under Interaction.
+16. Select 'Code' again.
+
+![](images/dynamic-set-2-option.png) 
+
+17. Click the box under Option.
+18. Select 'Assigned to Classification'.
+
+![](images/dynamic-set-2-value.png)
+
+19. Click the box under Value.
+20. Select 'Selected Classifications'.
+
+![](images/dynamic-set-2-select-people.png)
+
+21. Within the Select Project Items dialogue that pops up, tick the checkbox for 'People' case classification.
+22. Hit 'OK' to confirm.
+
+![](images/dynamic-set-2-done.png)
+
+23.  Click 'Add to List'.
+24.  Hit 'OK' to save your dynamic list.
+
+### Done
+
+![](images/dynamic-set-results.png)
+
+And there we have it. Our dynamic set (in red) appears in the Navigation Folder similar to a folder and the items meeting our search criteria (in green) are listed in the Display panel.
+
+:::
+
+### Quick?
+
+OK, so maybe that did not feel like a 'quick' example. However, that is more to do with the number of steps required, it being something new, and weird quirks in NVivo. Once you gain a sense for how to create criteria for dynamic sets they can be created in a minute or less. Importantly, remember these are dynamically updated, you only need to create each once.
+
+## Remain Interview Participants
+
+So, our next question was finding all our interview participants who support Remain the EU Referendum. As it is similar steps to follow, a shortened version of the instructions are included below.
+
+::: {.panel-tabset}
+### New Dynamic Set
+
+![](images/dynamic-b-info.png)
+
+Create a new dynamic set (right-click on 'Dynamic Sets' and select 'New Dynamic Set...') and provide it relevant Name and Description.
+
+![](images/dnyamic-set-b-c1.png)
+
+Then in 'Search Criteria' tab and 'Advanced' sub-tab:
+
+1. Look for: 'Codes % Cases'
+2. Interaction: "Code"
+3. Option: "That Codes"
+4. Value: "Select Items" & tick the checkbox next to 'Interviews (2016)' in the pop up dialogue.
+5. By: "Any User"
+6. Hit "Add to List"
+
+### 2nd Criteria
+
+![](images/dynamic-set-b-interaction.png)
+
+This time for the 2nd criteria, select 'Attribute' for the interaction.
+
+![](images/dynamic-set-b-attrib.png)
+
+Within the Select Project Item dialogue that opens:
+
+1. Expand the People case classification.
+2. Select '2016 vote' (the attribute to Remain/Leave in the EU Referendum)
+3. Hit 'OK'
+
+![](images/dynamic-set-b-remain.png)
+
+All that's left to do:
+
+1. Change the 'Value' we are selecting for to 'Remain'.
+2. Click 'Add to List'.
+3. Hit 'OK' to create the Dynamic Set.
+
+:::
+
+![](images/dynamic-set-b-done.png)
+
+And again our Dynamic Set is shown in red and the results in green.
+
+As you can see, once you start getting a sense for how to create search criteria, it becomes relatively quick for creating them -- most of the time spent is figuring out how to do it in the first place.
+
+## Remain Interview Participants Views on the Leave Campaign
+
+Another benefit to Dynamic Sets is they can be used when creating other objects, such as Queries. This helps us then towards our third question - what were our interview participants who supported Remain say about the Leave Campaign.
+
+Here we can combine our "Remain Interview Participants" Dynamic Set and the "LEAVE CAMPAIGN" code.
+
+(If you missed the Intro workshop, this code and others were created by auto-coding the interview transcripts. This was possible as the transcripts have Headings for each of the main topics covered in the interviews.)
+
+::: {.panel-tabset}
+
+### Create Coding Query
+
+![](images/coding-query1.png)
+
+First, click 'Query Criteria' in the left Navigation View.
+
+![](images/coding-query2.png)
+
+Within the Details list you may see a message explaining what Query criteria are, if so hit 'Close'.
+
+![](images/coding-query3.png)
+
+Right-click anywhere within the white space of the Details list, and:
+
+1. Select 'New Query'
+2. 'Coding'
+
+![](images/coding-query4.png)
+
+This will open a new tab for creating a Coding Query. Similar to when creating Dynamic Sets in the Advanced view, we have 'Search in' options to limit our query to specific files, items, or folders (in blue). We also have rows for our search criteria (in green).
+
+### Coding Query Criteria
+
+We what are our two main criteria?
+
+- Interview participants who supported Remain.
+- Transcript sections where they speak about the Leave Campaign.
+
+![](images/coding-query5.png)
+
+To begin then:
+
+1. Change 'All Selected Codes or Cases' to 'Any Selected Code or Case'. (We want to find any text in the transcripts coded to any of our remain participants case)
+2. Click the '...' to open a 'Select Project Items' dialogue to select our cases.
+
+![](images/coding-query6.png)
+
+Within the 'Select Project Items':
+
+3. Tick the checkbox for the 'Remain Interview Participants' dynamic set.
+4. Hit 'OK'
+
+And that is it -- our first criteria done!
+
+![](images/coding-query7.png)
+
+By default a new Coding Query is set to return 'All' (in light blue) coded sections that meet the listed criteria. So, all we need to do now is add another criteria for our 'LEAVE CAMPAIGN' code.
+
+1. Click the '+' at the end of our first criteria to add another criteria below.
+2. Change the middle box again to 'Any Selected Code or Case'
+3. Click the '...' once more for a 'Select Project Items' dialogue.
+
+### 2nd Criteria
+
+![](images/coding-query8.png)
+
+Within the 'Select Project Items' dialogue:
+
+1. Expand the 'Codes' folder.
+2. Select the 'Autocoded (Sections)' subfolder.
+3. Check the tickbox for the 'LEAVE CAMPAIGN' node.
+4. Hit 'OK' to confirm.
+
+![](images/coding-query9.png)
+
+Now you can hit Run Query (in pink) to check the query results match what we were expecting and Save Criteria... (in blue) so we can quickly access it again in future. As it is a fairly simple query and fast to run, there is no need to save a separate copy of the results.
+
+:::
+
+### View Results
+
+::: {.panel-tabset}
+
+### Node Views
+
+![](images/coding-query10.png)
+
+After hitting 'Run Query' you'll be able to see all coded sections that match our Code Query criteria. Just as when viewing regular Codes, there are three tabs on the right-hand side.
+
+![](images/summary.png)
+
+**Summary** - provides a list of the interview transcript files with details for how many 'References' there are - in other words, how many coded sections within this transcript met our criteria - and 'Coverage' - what percentage of the total transcript is captured by the coded sections meeting our criteria.
+
+![](images/reference.png)
+
+**Reference** - is the default view when viewing Code results. It provides a view with all the coded sections, ordered by file they appear in. At the top, in the blue box, you can see it noting that the coded sections that follow are from the Cathy interview transcript, alongside the total references found and coverage. Then it lists each coded section in turn with info for coverage for that individual coded section, in green box.
+
+![](images/text.png)
+
+**Text** - is similar to the 'Reference' view, but is like it's 'tab view' equivalent. Rather than showing all the coded sections in a single view, it adds a row along the top for all the files, where clicking to select any listed file (in blue box) will change the main view below to show only the coded sections from it.
+
+### Open Referenced File
+
+![](images/open-referenced-file.png)
+
+And, finally, remember when viewing coded sections, you can right-click on any reference (in blue) and select 'Open Referenced File' to open the file the coded section is from.
+
+![](images/opened-referenced-file.png)
+
+NVivo will open a new tab for the file, jumping to the specific coded section you had right-click on, and with a Coding Query will also highlight other coded sections from it in the file.
+
+:::
+
+## Summary
+
+These examples show different ways you can iteratively build upon your project structure as your analysis progresses.
+
+- Your initial structure (folders, codes, cases) can be used to create dynamic sets or query for specific coded sections.
+- It is possible to add layers upon layers. A dynamic set can be used as part of a query - saving you having to repeat the specific criteria for it again and again.
+
+It can be useful then, in addition to considering your 'foundational' structure to think about which dynamic sets can add a supporting additional layer to make other tasks easier in the long-term.
+
+---
 
 ::: {#living-documents .callout-important}
 ## Don't panic!
@@ -31,4 +346,11 @@ It is not a problem if you have already started your analysis and not added some
 2. Not every project and analysis needs to use all of these structuring options. Some options also add equivalent structure in different ways, where there is some 'aesthetic choice' in which to use.
 3. If your transcripts do not make use of headers to structure the main topics covered, you can still do manual 'broad-brush' coding. (If having this topic-level coding would benefit your analysis!)
 
+Importantly, for some project structure decisions there is no 100% right/wrong way to do it.
+
+In the example covered we had a 'Participants' case folder, containing the cases for all participants, and used a dynamic set to get 'Interview Participants'.
+
+Another project structure may have case folders for 'Interview participants' and 'Focus Group participants, and use a dynamic set to get 'All Participants'.
+
+Note, this would be feasible as long as the interview and focus group participants are two distinct groups. If some participants took part in both interviews and focus groups, then it would not be possible to have separate Cases folders for them, and the project would need to be structured similar to this example.
 :::
