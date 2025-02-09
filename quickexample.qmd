@@ -10,7 +10,9 @@ Within NVivo guidance and training you'll often see emphasis being placed on con
 - Which case classifications to create.
 - Auto-coding by speaker, style, and/or structure.
 
-When first starting with NVivo why such importance on placed 
+When first starting with NVivo, it may not always be clear why such importance is placed on these considerations.
+
+A common question I get asked at training workshops is 'Why auto-code '
 
 
 
@@ -20,7 +22,7 @@ When first starting with NVivo why such importance on placed
 It is not a problem if you have already started your analysis and not added some of the ways to structure a project file covered in this session.
 
 1. Most - such as auto-coding and creating folders - can be created at any stage.
-2. Not every project needs to use all of these structuring options, and there is some 'aesthetic choice' in which to use.
+2. Not every project and analysis needs to use all of these structuring options. Some options also add equivalent structure in different ways, where there is some 'aesthetic choice' in which to use.
 3. If your transcripts do not make use of headers to structure the main topics covered, you can still do manual 'broad-brush' coding. (If having this topic-level coding would benefit your analysis!)
 
 :::
