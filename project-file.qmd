@@ -2,7 +2,91 @@
 title: "Project File"
 ---
 
-testing
+An NVivo project file for this workshop is available to download from the ['NVivo Training 2024/25' group on Social](https://social.sgsss.ac.uk/groups/nvivo-training-2024-25/).
 
 
-## download and upgrade 
+## Downloading the NVivo Project File
+
+From the group page, to access the file:
+
+::: {.panel-tabset}
+
+### Download link
+
+![](images/social-feed.png)
+
+Click 'Feed' in the group navigation bar.
+
+![](images/social-onedrive-link.png)
+
+Scroll down the Feed to find my post with the OneDrive link and click it.
+
+![](images/onedrive-download.png)
+
+A new tab should open with a button to click to 'Download' the file.
+
+::: {.callout-note}
+## Fail-safe
+
+In case the download link is not working (my university seems to randomly stop share links from working), there is a zip file containing the NVivo project file on Social as well. Use the next tab for instructions to download and extract the zip file.
+
+:::
+
+### Zip file
+
+![](images/social-documents.png)
+
+Click 'Documents' in the group navigation bar.
+
+![](images/social-folder.png)
+
+Select the 'Going Further (Feb 2025)' folder.
+
+![](images/social-zip.png)
+
+1. Click the three dots to open the pop-up menu.
+2. Click 'Download' and choose a suitable location to save the file on your device.
+
+![](images/social-zip-extract.png)
+
+3. From the folder you downloaded it to, right-click on the zip file.
+4. Select 'Extract All...'
+
+![](images/social-zip-extract-confirm.png)
+
+5. Click 'Extract' from the dialogue window and a new folder will be created containing the NVivo project file.
+
+:::
+
+## The Data Set
+
+
+
+## Project File Overview
+
+
+
+## Converting/Upgrading the Project
+
+NVivo project files are 'forwards' but not 'backwards' compatible. This means that newer versions of NVivo can open project files created in older versions, but not vice versa.
+
+Due to that, the project file provided was created in NVivo 12, which was the oldest version attendees said they were using in the sign-up survey.
+
+If you are using NVivo 12, you can open the file and directly start working in it.
+
+If you are using a newer version of NVivo or NVivo for MacOS, you will be greeted by a screen asking you to convert/upgrade the file:
+
+::: {.panel-tabset}
+
+### Upgrade
+
+![](images/nvivo-upgrade-project.png)
+
+1. (Optional) click 'Browse...' to choose location to save and rename the project file.
+2. Click 'Next'.
+
+![](images/nvivo-upgrade-project-confirm.png)
+
+3. From the next screen, hit 'Upgrade' to confirm and start the upgrade. Once complete NVivo will open the file automatically.
+
+:::

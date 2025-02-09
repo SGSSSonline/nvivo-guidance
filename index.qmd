@@ -20,7 +20,7 @@ We will use some curated open access qualitative data (the Qualitative Election 
 
 ### 🧑‍🎓 NVivo 201 - Additive Analysis
 
-This workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for 'additive analysis'. They add to the 'foundational' elements of your project -- your files, folders, nodes, cases, and notes -- providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.
+This workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for 'additive analysis'. They add to the 'foundational' elements of your project -- your files, folders, nodes, cases, and notes -- providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.
 
 It is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.
 
