@@ -12,4 +12,19 @@ With additional material from:
 
 - Dr Rachel Shanks
 
-These pages are 'living documents' and will incrementally be updated over time.
+These pages are 'living documents' and will incrementally be updated over time. See the Callout below for more information.
+
+::: {.callout-important}
+## 'Living Documents'
+
+These pages are 'living documents', they will continually and iteratively be updated over time.
+
+I cannot promise additional content will be added within any specific period of time, but I will be taking note of frequently asked questions, different use cases, and any issues encountered. These will be used to update and add to the existing content.
+
+Similarly, following any of the sessions -- or if you were unable to attend the in-person workshops and are following along online - please feel free to email any questions: [alasdair.stewart@glasgow.ac.uk](alasdair.stewart@glasgow.ac.uk).
+
+Note - I take absolutely no offense if your question is due to any of the materials being unclear! In all my time teaching, the most useful feedback I have received has been from students pointing out something that was unclear to them or raised further questions.
+
+I am also dyslexic, so writing is the bane of my existence. Any help identifying spelling mistakes and grammaticay errors 
+
+:::

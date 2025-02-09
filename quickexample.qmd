@@ -12,11 +12,10 @@ Within NVivo guidance and training you'll often see emphasis being placed on con
 
 When first starting with NVivo, it may not always be clear why such importance is placed on these considerations.
 
-A common question I get asked at training workshops is 'Why auto-code '
+A common question I get asked at training workshops is 'Why auto-code the interviewer text?'. In other words, ...
 
 
-
-::: {.callout-important}
+::: {#living-documents .callout-important}
 ## Don't panic!
 
 It is not a problem if you have already started your analysis and not added some of the ways to structure a project file covered in this session.

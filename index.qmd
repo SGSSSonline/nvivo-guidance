@@ -24,11 +24,23 @@ We will use some curated open access qualitative data (the Qualitative Election 
 
 ### 🤔 Problem-based approach
 
-Linking analysis aims with NVivo features 
-conceptual ... and demonstration
-experimentation and discussion
+The sections and tasks for this session are based around problems and considerations to make you might encounter as your analysis progresses.
 
-- Important - please use the experimentation and discussion to raise any questions re own project and plans
+With each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.
+
+The purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.
+
+Importantly, after the follow along demonstrations, we will have time for experimentation and discussion. I have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the 'experiment and discuss' sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.
+
+::: {.callout-important}
+## 'Living Documents'
+
+These pages are 'living documents', they will continually and iteratively be updated over time. Please see the Callout on the [About page](about.qmd#living-documents) 
+
+:::
+
+
+
 
 ### 🗺️ Organising and navigating
 
