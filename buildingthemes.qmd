@@ -1,0 +1,20 @@
+---
+title: "Building Themes"
+---
+
+## 🤔 Synthesis, Interpretation, and Themes
+
+
+## Framework Matrices
+
+### Creating a Framework Matrix
+
+
+### Viewing a Framework Matrix
+
+
+## Reusable Cells
+
+
+##
+

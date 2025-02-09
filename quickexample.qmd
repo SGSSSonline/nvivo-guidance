@@ -1,5 +1,5 @@
 ---
-title: "Quick Example"
+title: "Layering Structure"
 ---
 
 ## 🤔 Project Structure
@@ -17,6 +17,7 @@ Let's say you have the following series of questions during your analysis:
 - How do I find the cases for all the interview participants?
 - How do I find the cases for interview participants who supported Remain?
 - How do I find what views interview participants who supported Remain had on the Leave campaign?
+- How can I do an initial broad comparison of the views of Remain and Leave campaign supports?
 
 ## Interview Participants
 
@@ -61,6 +62,7 @@ You can see it has a series of lines with check boxes of what you want to search
 ### Look for interview participant cases
 
 Then for our search criteria, we know two things that distinguishes our interview participants cases:
+
 1. The cases code parts of the interview transcripts.
 2. The cases are classified within the 'People' case classification.
 
@@ -73,6 +75,7 @@ First, let's set the dynamic set to look for cases.
 ![](images/dynamic-sets-looking-for.png)
 
 Within the 'Advanced' view:
+
 1. Select the drop-down to choose what to 'Look for'.
 2. As we want to find interview participant cases, select 'Codes & Cases'
 
@@ -326,6 +329,86 @@ NVivo will open a new tab for the file, jumping to the specific coded section yo
 
 :::
 
+
+## Comparing Leave and Remain Supporters
+
+Our final intial question was making an inital broad comparison between the views of Leave and Remain supporters.
+
+We can achieve this with a Matrix Coding Query combining our interview transcript autocoding with are People case classification attribute values.
+
+::: {.panel-tabset}
+
+### Matrix Coding Query
+
+![](images/matrix-coding1.png)
+
+Within the Query Criteria, right-click in the white space and -
+
+1. Select 'New Query'
+2. Then 'Matrix Coding Query'
+
+![](images/matrix-coding2.png)
+
+This will open a new tab for creating a Matrix Coding Query. We can see some of the familar elements again. In yellow we have the optiosn for searching across all Files & Externals or specific Items and Folders. In blue, we have the default 'And' for handling criteria - other options include Or, Not, and Near. What is different though is rather than adding 1+ criteria, we have a box for selecting Rows and another for Columns, in red.
+
+### Adding Rows
+
+It is possible to drag and drop items into the boxes for Rows and Columns, but it is often far quicker and more convenient to use the 'Select Project Items' dialogue.
+
+![](images/matrix-coding3.png)
+
+1. Click the '+' underneath the Rows box on the left.
+2. From the two options click 'Select Items...'
+
+![](images/matrix-coding4.png)
+
+Then within the Select Project Items dialogue:
+
+1. Expand the Codes folder.
+2. Check the tickbox for the 'Autocoded (Sections)' sub-folder.
+3. Hit 'OK'.
+
+### Adding Columns
+
+We can follow the same process to select our columns.
+
+![](images/matrix-coding5.png)
+
+1. Click the '+' underneath the Columns box.
+2. From the two options click 'Select Items...'
+
+Whilst 'Select Attribute Values..' is an option, that is for selecting individual values with criteria (equals, does not equal) one by one. For our purposes, 'Select Items...' remains more convenient.
+
+![](images/matrix-coding6.png)
+
+1. Select the 'Case Classifications' folder.
+2. Expand the 'People' case classification.
+3. Expand the '2016 vote' attribute.
+
+![](images/matrix-coding7.png)
+
+After scrolling down a bit:
+
+1. Check the box for 'Leave' attribute value.
+2. Check the box for 'Remain' attribute value.
+3. Hit 'OK'.
+
+### Viewing Results
+
+![](images/matrix-coding8.png)
+
+After selecting our Rows and Columns, we can hit 'Run Query' (in pink) to create our Coding Matrix. Remember if you want to be able to quickly re-run and update the Coding Matrix to also hit 'Save Criteria...' (in green) and give it a suitable name.
+
+The Coding Matrix itself (in blue) for each cell in the table shows how many coded sections intersect the two. So, the cell highlight (in yellow) is telling us that 15 sections coded 'VOTING DECISION' were also coded to cases, where the participant the case is for supported Leave (both in red). 
+
+![](images/matrix-coding9.png)
+
+That may not seem all that impressive at first. The real power of Coding Matrices though come from double-clicking any of the cells.
+
+That will open a new tab showing all the coded sections being counted in that cell. So, for our example, it opens a tab showing all sections coded 'VOTING DECISION' AND also coded to a case where the participant supported Leave.
+
+This makes a Coding Matrix the equivalent of a table of shortcuts to more specific queries. Since you can create them with classification attributes, it also makes them ideal for creating queries to aid comparison.
+
 ## Summary
 
 These examples show different ways you can iteratively build upon your project structure as your analysis progresses.
@@ -334,6 +417,8 @@ These examples show different ways you can iteratively build upon your project s
 - It is possible to add layers upon layers. A dynamic set can be used as part of a query - saving you having to repeat the specific criteria for it again and again.
 
 It can be useful then, in addition to considering your 'foundational' structure to think about which dynamic sets can add a supporting additional layer to make other tasks easier in the long-term.
+
+It can feel slow and clunky at first getting to grips with creating them, but as you create more your pace will quicken, and through combining them with queries start to more intuitively combine NVivo features in relation to questions that arise during analysis.
 
 ---
 

@@ -2,6 +2,12 @@
 title: "Organisation Nodes"
 ---
 
+## 🤔 Developing your initial coding
+
+
+
+## Adding Organisation Nodes
+
 ::: {.panel-tabset}
 
 ### Test 1
@@ -14,3 +20,17 @@ Another image goes here
 
 :::
 
+### Code Matrix Query
+
+
+
+## Memo Links
+
+
+### Autocode Memos 
+
+
+## Static Sets
+
+
+### Coded to Old Codes, but not New Codes  

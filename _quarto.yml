@@ -33,16 +33,12 @@ website:
       contents:
         - index.qmd
         - project-file.qmd
-        - quickexample.qmd
+        - section: "**Dynamic Sets & Queries**"
+          contents:
+          - quickexample.qmd
         - section: "**Coding Workflows**"
           contents:
             - orgnodes.qmd
-        - section: "**Static Sets**"
-          contents:
-            - placeholder.qmd
-        - section: "**Dynamic Sets & Queries**"
-          contents:
-            - placeholder.qmd
         - section: "**Framework Matrices**"
           contents:
             - placeholder.qmd
