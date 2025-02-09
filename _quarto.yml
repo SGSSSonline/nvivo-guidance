@@ -36,7 +36,17 @@ website:
         - section: "**Coding Workflows**"
           contents:
             - orgnodes.qmd
-
+        - section: "**Static Sets**"
+          contents:
+            - placeholder.qmd
+        - section: "**Dynamic Sets & Queries**"
+          contents:
+            - placeholder.qmd
+        - section: "**Framework Matrices**"
+          contents:
+            - placeholder.qmd
+        - href: going-further-slides.qmd
+          text: "Slides"
 
 format:
   html:

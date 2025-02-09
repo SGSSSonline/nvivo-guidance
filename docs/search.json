@@ -48,7 +48,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:\n\nDr Kathryn Fredricks\nDr Katherine Keenan\nAlasdair B R Stewart\n\nWith additional material from:\n\nDr Rachel Shanks\n\nThese pages are a work in progress and will incrementally be updated over time."
+    "text": "These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:\n\nDr Kathryn Fredricks\nDr Katherine Keenan\nAlasdair B R Stewart\n\nWith additional material from:\n\nDr Rachel Shanks\n\nThese pages are ‘living documents’ and will incrementally be updated over time."
   },
   {
     "objectID": "primers.html",
@@ -170,6 +170,17 @@
       "Going Further",
       "**Coding Workflows**",
       "Organisation Nodes"
+    ]
+  },
+  {
+    "objectID": "going-further-slides.html",
+    "href": "going-further-slides.html",
+    "title": "Going Further - Slides",
+    "section": "",
+    "text": "TODO\n\n\n\n\nEmbed copy of slides\nAdd download link\n\n\n\nBelow is an embedded copy of the slides:\n[embed here]\nClick here[add link] to download a copy of the slides.",
+    "crumbs": [
+      "Going Further",
+      "Slides"
     ]
   }
 ]

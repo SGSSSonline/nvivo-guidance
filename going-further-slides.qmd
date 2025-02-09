@@ -1,0 +1,16 @@
+---
+title: "Going Further - Slides"
+---
+
+::: {.callout-warning}
+## TODO
+- [ ] Embed copy of slides
+- [ ] Add download link
+:::
+
+Below is an embedded copy of the slides:
+
+[embed here]
+
+Click here[add link] to download a copy of the slides.
+
