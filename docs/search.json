@@ -154,10 +154,22 @@
     "href": "index.html#session-aims",
     "title": "Welcome!",
     "section": "Session Aims",
-    "text": "Session Aims\n\n🧑‍🎓 NVivo 201 - Additive Analysis\n…\n\n\n🤔 Problem-based approach\nLinking analysis aims with NVivo features\n\n\n🗺️ Organising and navigating\n…\n\n\n🧶 Layering and weaving\n…\n\n\n🧟 Slaying QDAS zombies\n…\n\n\n🤢 It’s not you, it’s NVivo!\n…",
+    "text": "Session Aims\n\n🧑‍🎓 NVivo 201 - Additive Analysis\n…\n\n\n🤔 Problem-based approach\nLinking analysis aims with NVivo features conceptual … and demonstration experimentation and discussion\n\nImportant - please use the experimentation and discussion to raise any questions re own project and plans\n\n\n\n🗺️ Organising and navigating\n…\n\n\n🧶 Layering and weaving\n…\n(distance between steps - why may want to do 1 thing that can reuse again and again)\n\n\n🧟 Slaying QDAS zombies\n…\n\n\n🤢 It’s not you, it’s NVivo!\nNVivo is powerful and without a doubt better than analogue paper and pen analysis – or worse, copying and pasting chunks of text into multiple Word/Excel files – but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.\nThe unintuitive design and labyrinthine steps required for some tasks – never mind the joys of trying to recall them each time when first starting – gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.\nTo Lumivero’s credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often ‘NVivo-error’ not ‘user-error’ – there was not anything wrong in how you set up your project or actions you were doing, it’s just NVivo being NVivo.",
     "crumbs": [
       "Going Further",
       "Welcome!"
+    ]
+  },
+  {
+    "objectID": "orgnodes.html",
+    "href": "orgnodes.html",
+    "title": "Organisation Nodes",
+    "section": "",
+    "text": "Test 1Test 2\n\n\nImage goes here\n\n\nAnother image goes here",
+    "crumbs": [
+      "Going Further",
+      "**Coding Workflows**",
+      "Organisation Nodes"
     ]
   }
 ]

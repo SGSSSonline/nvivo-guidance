@@ -25,16 +25,20 @@ We will use some curated open access qualitative data (the Qualitative Election 
 ### 🤔 Problem-based approach
 
 Linking analysis aims with NVivo features 
+conceptual ... and demonstration
+experimentation and discussion
 
+- Important - please use the experimentation and discussion to raise any questions re own project and plans
 
 ### 🗺️ Organising and navigating
 
 ...
 
-
 ### 🧶 Layering and weaving
 
 ...
+
+(distance between steps - why may want to do 1 thing that can reuse again and again)
 
 ### 🧟 Slaying QDAS zombies
 
@@ -42,4 +46,8 @@ Linking analysis aims with NVivo features
 
 ### 🤢 It's not you, it's NVivo!
 
-...
+NVivo is powerful and without a doubt better than analogue paper and pen analysis -- or worse, copying and pasting chunks of text into multiple Word/Excel files -- but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.
+
+The unintuitive design and labyrinthine steps required for some tasks -- never mind the joys of trying to recall them each time when first starting -- gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.
+
+To Lumivero's credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often 'NVivo-error' not 'user-error' -- there was not anything wrong in how you set up your project or actions you were doing, it's just NVivo being NVivo.

@@ -33,6 +33,9 @@ website:
       contents:
         - index.qmd
         - project-file.qmd
+        - section: "**Coding Workflows**"
+          contents:
+            - orgnodes.qmd
 
 
 format:
