@@ -9,12 +9,110 @@ title: "Building Themes"
 
 ### Creating a Framework Matrix
 
+![](images/framework-1.png)
+
+**Notes > Framework Matrices**
+
+![](images/framework-2.png)
+
+- Right-click in white space.
+- Select 'New Framework Matrix...'
+
+![](images/framework-3.png)
+
+- Provide it with a suitable name.
+
+![](images/framework-4.png)
+
+- Select the Rows tab.
+- Use the left-hand 'Select' button to open a dialogue and select the Participant case folder.
+- Use the right-hand 'Select' button to open a dialogue and select 1-4 attributes from the People classification that will be used to sort how the rows for participant cases will be ordered.
+- (Optional) if you pick more than one attribute, you can use the up/down arrows on the right, in blue, to change their order.
+
+![](images/framework-5.png)
+
+- Select the Colums tab.
+- Use the 'Select' button to pick codes to use as columns, in this case select the 'Auto-Code (Sections)' folder.
+- (Optional) use the arrows on the right to change the order of the codes.
+
+Hit 'OK' and after a few seconds the Framework Matrix will have been created and will automatically open.
 
 ### Viewing a Framework Matrix
 
+When viewing a framework matrix, the matrix itself appears in the middle and, by default, an 'associated view' appears on the right. This view, as the name suggestions, shows content associated with the framework matrix.
+
+![](images/framework-associatedview.png)
+
+You can change what precise content is displayed by clicking the 'Associated View' button on the Ribbon Bar. (If it is not visible, click inside a framework matrix cell first.)
+
+- **Row Coding** - show all content coded by the case the row is for.
+- **Cell Coding** - show all content coded by the row case AND the column code.
+- **Summary Links** - show only content whether a summary link has been made between text in the cell and the associated view.
+
+![](images/framework-highlight.png)
+
+Similarly, what gets highlighted in the Associated View can be changed by clicking the 'Highlight' button on the Ribbon bar.
+
+- **None** - turn off highlighting.
+- **Column Coding** - highlight everything in the Associated View coded at the code for the currently selected column.
+- **Summary Links** - highlight text in the Associated View that has a summary link with text in the currently selected cell.
+- **Summary Links from Position** - highlight text in the Associated View that has a summary link with text for where the tex cursor is currently within the selected cell.
+
+- **Auto Scroll** - a useful option to turn on, when on if you click text in the cell that has a summary link, the Associated View will immediately scroll to where the linked text is within the Associated View.
+
+### Summary Links
+
+![](images/framework-newsummarylink.png)
+
+To create a summary link:
+
+- Select text within a Framework Matrix cell (highlighted in blue).
+- Select text within the Associated View (highlighted in black).
+- Click the 'New Summary Link' button in the Ribbon bar.
 
 ## Reusable Cells
 
+Something not immediately clear when using Framework Matrices is that the cells actually exist independently of any given matrix. Behind the scenes each cells is stored by on its intersection, the case and code combination it relates to. A cell then will appear in **all** framework matrices which has that case and code.
 
-##
+After adding some text to cells in the 'ANY OTHER COMMENTS' and 'INTRODUCTION' columns - even if just gibberish:
 
+1. Create a new Framework Matrix.
+2. For rows use the cases in the 'Remain Interview Participants' dynamic set.
+3. For columns select only the 'ANY OTHER COMMENTS' and 'INTRODUCTION'codes.
+
+This makes cells within Framework Matrices 'composable', you can make various larger and smaller matrices based on particular analysis aims without risking losing text or accidentally duplicating work.
+
+## Re-Casing
+
+One limitation with Framework Matrices is that Rows must be cases and Columns codes. However, this is another situation where dynamic sets and queries can come to the rescue.
+
+First:
+
+1. Create a new Coding Query
+2. For criteria, 'Coded to', 'Any Selected Code or Case', in the 'Remain Interview Participants' dynamic set.
+3. 'Save Criteria...' as Sections Coded at Remain Interview Participants.
+4. Click wee triangle next to 'Run Query' and select 'Run and Save Results'
+5. In the Store Query Results dialogue on the Location row, click 'Select...'
+6. Select the 'Cases' folder as the location and hit 'OK'
+7. Give it a suitable name, such as "Remain Supporters"
+8. Hit 'OK'.
+
+Then:
+
+1. Create a new dynamic folder 'Leave Interview Participants' with criteria 'Code', 'That Codes', any items in the 'Interviews (2016)' folder.
+2. Create (and save) a new Coding Query, 'Coded to', 'Any Selected Code or Case', in the 'Leave Interview Participants' dynamic set.
+3. 'Run and Save Results' to a new case in the 'Cases' folder, "Leave Supporters"
+
+Finally:
+
+1. Create a new Framework Matrix
+2. Rows = "Remain Supporters" and "Leave Supporters"
+3. Columns = "Autocoded (Sections)"
+
+Another example:
+1. Create a new Framework Matrix
+2. Rows, first add all individual cases from the 'Remain Interview Participants' dynamic set.
+3. Rows, second add the 'Remain Supporters' case.
+4. Columns = "Autocoded (Sections)"
+
+This then provides a Framework Matrix with a row for each Remain supporting participant, and a row for summarising across all Remain supporters.

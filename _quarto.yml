@@ -41,7 +41,7 @@ website:
             - orgnodes.qmd
         - section: "**Framework Matrices**"
           contents:
-            - placeholder.qmd
+            - buildingthemes.qmd
         - href: going-further-slides.qmd
           text: "Slides"
 
