@@ -33,6 +33,7 @@ website:
       contents:
         - index.qmd
         - project-file.qmd
+        - quickexample.qmd
         - section: "**Coding Workflows**"
           contents:
             - orgnodes.qmd

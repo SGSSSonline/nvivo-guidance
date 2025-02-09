@@ -1,0 +1,7 @@
+---
+title: "Quick Example"
+---
+
+## 🤔 Project Structure
+
+Within NVivo guidance and training you'll see emphasis ...
