@@ -409,6 +409,8 @@ That will open a new tab showing all the coded sections being counted in that ce
 
 This makes a Coding Matrix the equivalent of a table of shortcuts to more specific queries. Since you can create them with classification attributes, it also makes them ideal for creating queries to aid comparison.
 
+:::
+
 ## Summary
 
 These examples show different ways you can iteratively build upon your project structure as your analysis progresses.
