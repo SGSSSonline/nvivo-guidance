@@ -42,8 +42,6 @@ website:
         - section: "**Framework Matrices**"
           contents:
             - buildingthemes.qmd
-        - href: going-further-slides.qmd
-          text: "Slides"
 
 format:
   html:

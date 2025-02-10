@@ -119,39 +119,39 @@
     ]
   },
   {
-    "objectID": "orgnodes.html#adding-organisation-nodes",
-    "href": "orgnodes.html#adding-organisation-nodes",
-    "title": "Organisation Nodes",
-    "section": "Adding Organisation Nodes",
-    "text": "Adding Organisation Nodes\n\nTest 1Test 2\n\n\nImage goes here\n\n\nAnother image goes here\n\n\n\n\nCode Matrix Query",
+    "objectID": "orgnodes.html#adding-organisation-codes",
+    "href": "orgnodes.html#adding-organisation-codes",
+    "title": "Organisation Codes",
+    "section": "Adding Organisation Codes",
+    "text": "Adding Organisation Codes\n\n\nGo to the main ‘Codes’ folder.\nRight-click on any white space and select ‘New Code…’\n\n\n\nProvide it with a suitable name, such as ‘Organisation Codes’\nI have added “z - …” at the start as that ensure it’s placed at the end when alphabetically ordered.\n\n\n\nDrag and drop the existing ‘quotable quote’ code to become a child code of ‘z - Organisation Codes’.\n(Optional) rename it to ‘Gold’.\nCreate another two child codes ‘Unsure’ and ‘Example’.\n\n\n\n\n\n\n\nDifferent organisation codes\n\n\n\n\nThere are various different codes researchers make to to help with organising their coding. A few examples:\n\nExample - Use for coding sections that are serve as illustrative example of another code.\nGold - Use for coding sections that have high probability of later being used as a quote. (Though ensure to avoid cherry-picking!)\nImportant - Use for coding sections that are important for the analysis. (This can be distinct in many cases from ‘Gold’.)\nUnsure - Use for coding sections that are coded to another code, but you are unsure whether either it is right code for the section or this coded section is making you question the overall code.\n\nIMPORTANT - You do not need all of these! This is merely showing range of examples. Which and how many to have wil change based on personal preferences and analysis aims. For example, when working as part of a large team, ‘example’ can be useful for researchers to identify coded sections they think illustrate specific codes they are developing. This can then help inform discussion to agree a share coding schema for the project.\n\nAnother way to use codes for organising is having codes to store excerpts you intend to use / have used in specific articles or thesis chapters. This can be combined with queries as well to aid finding most relevant sections. For example, a Matrix Coding Query with your writing organisation codes with your main coding schema.\nDue to the much more niche use-case for these codes, they are definitely ones to chuck in their own folder to avoid cluttering the top-level folder.\n\n\n\nCode Matrix Query\nFirst:\n\nSelect two or three existing codes from the top-level Codes folder or ‘Autocoded (Theme)’ sub-folder.\nOpen tabs for to view the code results for each.\nQuickly go through coding sections from the code results to ‘Example’, ‘Gold’, and ‘Unsure’.\n\n\n\nGo to the Query Criteria folder\nRight-click and select New Query\nand, Matrix Coding Query\n\n\n\nRows = the regular codes you chose.\nColumns = Gold, Unsure, and Example.\nHit ‘Run Query’\nRemember to also ‘Save Criteria…’\n\nThis will then produce a coding matrix you can then use to find sections coded at both a regular and organisation code.",
     "crumbs": [
       "Going Further",
       "**Coding Workflows**",
-      "Organisation Nodes"
+      "Organisation Codes"
     ]
   },
   {
     "objectID": "orgnodes.html#memo-links",
     "href": "orgnodes.html#memo-links",
-    "title": "Organisation Nodes",
+    "title": "Organisation Codes",
     "section": "Memo Links",
-    "text": "Memo Links\n\nAutocode Memos",
+    "text": "Memo Links\n\nCreate a linked memo for one of your chosen regular codes:\n\nRight-click the code.\nSelect ‘Memo Link’.\nThen ‘Link to New Memo…’\n\n\nProvide an appropriate name. For memos linked to codes I tend to go with “m - Code Name” naming convention.\n\n\nAdd headers for ‘Example’, ‘Gold’,’ Unsure’.\n\nYou can then use the coding matrix results to read through content coded to both the code and the three organisation nodes. (Or, for time, add some lorem ipsum.)\n\nMemo See Also Links\nIt is possible to link text within a file to text within a memo.\n\n\nSelect the text you want to link to the memo text.\nRight-click and select ‘Copy’.\n\n\nBack in the memo:\n\nSelect the memo text you want to be linked.\nRight-click and select ‘Paste as See-Also Link’.\n\n\nSee also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.\n\nImportantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can ‘Open To Item’. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.\n\n\nAutocode Memos\nAs an example of how flexible some of NVivos tools are, as with files, it is possible to autocode memos.\n\n\nRight-click the memo you created.\nSelect ‘Autocode…’\n\n\n\n\n\n\nChange ‘Under’ to ‘New Folder’\nProvide it an appropriate Name\nHit ‘Finish’\n\n\nThis may not seem like much with just a single memo, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections.",
     "crumbs": [
       "Going Further",
       "**Coding Workflows**",
-      "Organisation Nodes"
+      "Organisation Codes"
     ]
   },
   {
     "objectID": "orgnodes.html#static-sets",
     "href": "orgnodes.html#static-sets",
-    "title": "Organisation Nodes",
+    "title": "Organisation Codes",
     "section": "Static Sets",
-    "text": "Static Sets\n\nCoded to Old Codes, but not New Codes",
+    "text": "Static Sets\nGoing through the ‘Unsure’ sections, for example, may help you identify new code to create or ones to replace.\nSay you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.\nThis is where static sets come in handy.\n\nAdd three existing Codes to the static set.\nWithin your ‘Codes’ top-level folder create three new codes of your choice, for simplicity I’m just going with ‘A’, ‘B’, ‘C’.\nAdd these to the ‘New Codes’ static set.\n\n\nCoded to Old Codes, but not New Codes\n\n\nCreate a new Matrix Coding Query.\nRows = ‘Old Codes’ static set.\nColumns = ‘New Codes’ static set.\nChange ‘Coding at rows … columns’ to Not.\n‘Run Query’\n\nThis will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the ‘Old Codes’ static set.\nYou can now work your way recoding to the New Codes. Importantly, during recoding you can hit ‘Run Query’ and get an update of how many sections are left to recode. This can be extremely useful you whilst recoding you realise you actually need a fourth new code ‘D’. You can create it, add it to ‘New Codes’ static set and ‘Run Query’ for your ‘Recoding Old with New’ Matrix Code Query.\n\nRemember you can change the ‘coding content’ to view more text surrounding the sections coded to your old codes. That won’t make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.\n\nSimilarly, you can turn on coding stripes and highlighting using the static set as a filter.\n\nThis can save a lot of headaches and frustration when if adopting a coding approach that have multiple stages in developing and refinding your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.\n\n\nOther uses for static sets\n\nGrouping conceptual related codes outside your main coding schema.\nCollating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.\nMaking a group of participants with similar experiences, but where it would not necessarily make sense to capture it using Attributes.",
     "crumbs": [
       "Going Further",
       "**Coding Workflows**",
-      "Organisation Nodes"
+      "Organisation Codes"
     ]
   },
   {
@@ -180,11 +180,7 @@
     "href": "going-further-slides.html",
     "title": "Going Further - Slides",
     "section": "",
-    "text": "TODO\n\n\n\n\nEmbed copy of slides\nAdd download link\n\n\n\nBelow is an embedded copy of the slides:\n[embed here]\nClick here[add link] to download a copy of the slides.",
-    "crumbs": [
-      "Going Further",
-      "Slides"
-    ]
+    "text": "TODO\n\n\n\n\nEmbed copy of slides\nAdd download link\n\n\n\nBelow is an embedded copy of the slides:\n[embed here]\nClick here[add link] to download a copy of the slides."
   },
   {
     "objectID": "index.html",
