@@ -32,8 +32,9 @@ website:
 
   sidebar:
     - title: "Going Further"
-      style: "floating"
+      style: "docked"
       border: false
+      background: "#1B9D8E"
       contents:
         - index.qmd
         - project-file.qmd
