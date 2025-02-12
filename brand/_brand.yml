@@ -1,0 +1,14 @@
+color:
+  palette: 
+    blue: "#073B59"
+    pink: "#BD62AB"
+  primary: pink
+  secondary: blue
+
+
+typography: 
+  fonts: 
+    - family: Poppins
+      source: google
+  base: Roboto
+  headings: Poppins

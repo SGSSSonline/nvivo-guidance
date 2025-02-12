@@ -2,10 +2,12 @@ project:
   type: website
   output-dir: docs
 
+brand: brand/_brand.yml
+
 callout-appearance: simple
 
 website:
-  title: "NVivo Guidance"
+  title: "SGSSS NVivo Guidance"
   announcement:
     icon: info-circle
     dismissable: true
@@ -25,6 +27,8 @@ website:
         text: "Primers"
       - resources.qmd
       - about.qmd
+    logo: brand/solologo.png
+    background: "#073B59"
 
   sidebar:
     - title: "Going Further"
@@ -43,11 +47,23 @@ website:
           contents:
             - buildingthemes.qmd
 
+
+  page-footer:
+    center:
+      - text: "SGSSS"
+        href: "https://www.sgsss.ac.uk/"
+      - text: " | "
+      - text: "Social"
+        href: "https://social.sgsss.ac.uk/"
+      - text: " | "
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} Bluesky"
+        href: "https://bsky.app/profile/sgsss.bsky.social"
+
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: [cosmo, brand]
+      dark: [darkly, brand]
     css: styles.css
     toc: true
 
