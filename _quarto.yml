@@ -14,7 +14,7 @@ website:
     content: "**Work in Progress** - these additional online materials are work in progress and will continue to be updated following the session."
     type: info
     position: below-navbar
-  bread-crumbs: false
+  bread-crumbs: true
   page-navigation: true
   search:
     location: navbar
@@ -38,7 +38,7 @@ website:
       contents:
         - index.qmd
         - project-file.qmd
-        - section: "**Dynamic Sets & Queries**"
+        - section: "**Dynamic Sets and Queries**"
           contents:
           - quickexample.qmd
         - section: "**Coding Workflows**"
