@@ -1,1 +1,12 @@
 /* css styles */
+a:hover {
+    color: #BD62AB !important;
+}
+
+#TOC a:hover {
+  color: #BD62AB !important;
+}
+
+.sidebar-menu-container .menu-text {
+  font-weight: 500;
+}
