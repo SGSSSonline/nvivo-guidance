@@ -22,8 +22,14 @@ website:
   navbar:
     pinned: true
     left:
+      - href: placeholder.qmd
+        text: "Project Setup"
+      - href: placeholder.qmd
+        text: "Start Coding"
       - href: index.qmd
         text: "Going Further"
+    
+    right:
       - href: primers.qmd
         text: "Primers"
       - resources.qmd

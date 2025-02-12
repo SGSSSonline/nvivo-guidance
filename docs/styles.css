@@ -10,3 +10,14 @@ a:hover {
 .sidebar-menu-container .menu-text {
   font-weight: 500;
 }
+
+/* Bold the navigation bar title */
+.navbar-title {
+  font-weight: bold;
+}
+
+/* Bold the left navigation items */
+.navbar-nav.me-auto .nav-link,
+.navbar-nav.me-auto .menu-text {
+  font-weight: bold;
+}
