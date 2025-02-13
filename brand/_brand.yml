@@ -5,10 +5,3 @@ color:
   primary: pink
   secondary: blue
 
-
-typography: 
-  fonts: 
-    - family: Poppins
-      source: google
-  base: Roboto
-  headings: Poppins
