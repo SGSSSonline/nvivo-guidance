@@ -22,7 +22,7 @@ website:
   navbar:
     pinned: true
     left:
-      - href: placeholder.qmd
+      - href: project-setup.qmd
         text: "Project Setup"
       - href: placeholder.qmd
         text: "Start Coding"
@@ -54,6 +54,12 @@ website:
         - section: "**Framework Matrices**"
           contents:
             - buildingthemes.qmd
+    - title: "Project Setup"
+      style: "docked"
+      border: false
+      background: "#1B9D8E"
+      contents:
+        - project-setup.qmd
 
 
   page-footer:
