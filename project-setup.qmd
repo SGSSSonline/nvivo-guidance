@@ -2,5 +2,43 @@
 title: "Project Setup"
 ---
 
-![](images/framework-1.png)
+* This page will walk you through the basic steps of creating a project from scratch, and covers: 
+  + how to import and organise files, 
+  + how to create [cases](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html) and [case classifications](https://help-nv.qsrinternational.com/20/win/Content/classifications/about-classifications.html).
+
+•	**The dataset we are using** 
+
+The project we will create uses qualitative data from a longitudinal qualitative study called the [Qualitative Election Study of Britain](https://qesb.info/). 
+
+> The QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.
+
+The data is open access and available from the [UK Data Service](https://beta.ukdataservice.ac.uk/datacatalogue/studies/?Search=qualitative+election+study+of+britain#!?Search=qualitative%20election%20study%20of%20britain&Page=1&Rows=10&Sort=1&DateFrom=440&DateTo=2025).
+
+For more information on open research and data:
+- The [FAIR principles](https://www.go-fair.org/fair-principles/) to improve the findability, accessibility, interoperability, and reuse of digital assets.
+- UK Data Service hub for [archiving qualitative data and secondary analysis](https://ukdataservice.ac.uk/learning-hub/qualitative-data/).
+- UK Data Service hub for [data skills modules](https://ukdataservice.ac.uk/learning-hub/data-skills-modules/), covering research data management, data for reuse, and more.
+
+We chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017. The data we will be working with is mainly connected to the 2015 and 2016 rounds. 
+ 
+
+•	**Which Nvivo version?** 
+
+This page uses screenshots from [NVivo Release 1](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm) (windows and mac versions are shown). Things may look a little different if you’re working on other versions. Across Nvivo versions some things are differently named (see our cheatsheet) and some processes have a slightly different flow. For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources] (resources.qmd) tab above. 
+
+## Downloading the project files
+
+From the Social group page, to access the file:
+
+::: {.panel-tabset}
+
+
+## 1. Creating a project and importing files
+
+
+### 1.1 Create a new project 
+
+1. Download and save the project files from the [Social group page](https://social.sgsss.ac.uk/groups/nvivo-training-2024-25/documents/). 
+
+Go to documents->2.Project files 
 

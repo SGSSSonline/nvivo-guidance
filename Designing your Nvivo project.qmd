@@ -1,0 +1,54 @@
+---
+title: "Designing your Nvivo project"
+format: html
+---
+
+
+Aside from helping you conduct analysis, Nvivo can be really helpful as a project management tool,  helping to structure your data and other useful information in one place. You can start an Nvivo project at any point in the research lifecycle: when you are just designing the project, when you have already collected data, or even later. 
+
+But before you start building your Nvivo project, it's worth reflecting on what you are trying to create.  
+
+🤔Ask yourself the following questions: 
+
+### **The components: What types of data and files do I have?** 
+
+  This could include things like...
+  
+    - transcripts of interviews/focus groups 
+    - field notes 
+    - research tools
+    - photographs or images 
+    - policy documents
+    - literature 
+    - video/audio 
+    
+  Please bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example.  Referencing software might be better for managing academic literature. The same goes for video/audio files. 
+  
+  It is helpful to imagine how these things might be connected in a file hierachy. 
+  
+### **What are the main units of analysis?** 
+  
+  These could be individuals you've interviewed, organisations you've studied, communities you've worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities). 
+  
+  These units of analysis might later get created as ['cases'](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html) in the Nvivo project file, which enable you to keep information about that case all in one place.  
+  
+  For example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics. 
+  
+  These cases and case structures can evolve as you conduct your research, too. 
+  
+  
+### **What are the characteristics of these units?**
+  
+  Now consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education)
+  This would be known as metadata, and might be recorded in a spreadsheet or table. 
+  
+### **What are the linkages within the project?**
+
+This might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household. 
+
+### **What are likely to be key topics or themes?**
+
+This may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as 'trust in institutions' , 'sense of loss', etc. 
+
+These themes might become ['codes'](https://help-nv.qsrinternational.com/12/win/v12.1.115-d3ea61/Content/nodes/codes.htm)  within your Nvivo project. 
+
