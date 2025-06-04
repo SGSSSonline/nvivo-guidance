@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "Designing your Nvivo project.html",
+    "href": "Designing your Nvivo project.html",
+    "title": "Designing your Nvivo project",
+    "section": "",
+    "text": "Aside from helping you conduct analysis, Nvivo can be really helpful as a project management tool, helping to structure your data and other useful information in one place. You can start an Nvivo project at any point in the research lifecycle: when you are just designing the project, when you have already collected data, or even later.\nBut before you start building your Nvivo project, it’s worth reflecting on what you are trying to create.\n🤔Ask yourself the following questions:\n\nThe components: What types of data and files do I have?\nThis could include things like…\n- transcripts of interviews/focus groups \n- field notes \n- research tools\n- photographs or images \n- policy documents\n- literature \n- video/audio \nPlease bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things might be connected in a file hierachy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as ‘trust in institutions’ , ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
+  },
+  {
     "objectID": "primers.html",
     "href": "primers.html",
     "title": "Primers on qualitative data and analysis",
@@ -296,29 +303,11 @@
     ]
   },
   {
-    "objectID": "Designing your Nvivo project.html",
-    "href": "Designing your Nvivo project.html",
-    "title": "Designing your Nvivo project",
-    "section": "",
-    "text": "Aside from helping you conduct analysis, Nvivo can be really helpful as a project management tool, helping to structure your data and other useful information in one place. You can start an Nvivo project at any point in the research lifecycle: when you are just designing the project, when you have already collected data, or even later.\nBut before you start building your Nvivo project, it’s worth reflecting on what you are trying to create.\n🤔Ask yourself the following questions:\n\nThe components: What types of data and files do I have?\nThis could include things like…\n- transcripts of interviews/focus groups \n- field notes \n- research tools\n- photographs or images \n- policy documents\n- literature \n- video/audio \nPlease bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things might be connected in a file hierachy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as ‘trust in institutions’ , ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
-  },
-  {
     "objectID": "project-setup.html",
     "href": "project-setup.html",
     "title": "Project Setup",
     "section": "",
     "text": "This page will walk you through the basic steps of creating a project from scratch, and covers:\n\nhow to import and organise files,\nhow to create cases and case classifications.\n• The dataset we are using\nThe project we will create uses qualitative data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\nThe data is open access and available from the UK Data Service.\nFor more information on open research and data: - The FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets. - UK Data Service hub for archiving qualitative data and secondary analysis. - UK Data Service hub for data skills modules, covering research data management, data for reuse, and more.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017. The data we will be working with is mainly connected to the 2015 and 2016 rounds.\n• Which Nvivo version?\nThis page uses screenshots from NVivo Release 1 (windows and mac versions are shown). Things may look a little different if you’re working on other versions. Across Nvivo versions some things are differently named (see our cheatsheet) and some processes have a slightly different flow. For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources] (resources.qmd) tab above.",
-    "crumbs": [
-      "Designing your Nvivo project",
-      "Project Setup"
-    ]
-  },
-  {
-    "objectID": "project-setup.html#creating-a-project-and-importing-files",
-    "href": "project-setup.html#creating-a-project-and-importing-files",
-    "title": "Project Setup",
-    "section": "1: Creating a project and importing files",
-    "text": "1: Creating a project and importing files\n\nCreate a new project",
     "crumbs": [
       "Designing your Nvivo project",
       "Project Setup"
