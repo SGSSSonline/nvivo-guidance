@@ -1,38 +1,71 @@
 [
   {
-    "objectID": "primers.html",
-    "href": "primers.html",
-    "title": "Primers on qualitative data and analysis",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "If you have never had formal masters-level training in qualitative enquiry, we recommend you follow some introductory material before you atten the NVivo workshops. This will help you get the most out of the day."
+    "text": "If you are new to qualitative enquiry, please see the Primers page for recommended introduction materials."
   },
   {
-    "objectID": "primers.html#what-is-qualitative-enquiry-and-data",
-    "href": "primers.html#what-is-qualitative-enquiry-and-data",
-    "title": "Primers on qualitative data and analysis",
-    "section": "What is qualitative enquiry and data?",
-    "text": "What is qualitative enquiry and data?\nEngage with one or all of the following:\n\nThe Discipline and Practice of Qualitative Research which is Chapter 1 in Denzin and Lincoln, eds. (2018) The SAGE Handbook of Qualitative Research. 5th ed. London: SAGE Publications.\nIntroduction to qualitative research methods - Part 1 by Bhangu, Provost, and Caduff (2023) in Perspectives in Clinical Research 14(1) pp.39-42\nQualitative research the basics YouTube video by Degree Doctor (Dr Elizabeth Yardley)"
+    "objectID": "resources.html#lumiveros-nvivo-resources",
+    "href": "resources.html#lumiveros-nvivo-resources",
+    "title": "Resources",
+    "section": "Lumivero’s NVivo Resources",
+    "text": "Lumivero’s NVivo Resources\n\nUser Help Pages\nBelow are links to Lumivero’s NVivo User Help pages for the more recent Windows and MacOS versions of NVivo.\nWindows:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\nMacOS:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\n\n\nOther online Lumivero resources\n\nNVivo YouTube Channel\nNVivo Podcast series\nLumivero Webinars and Events (for payment, some webinars are free)\nNVivo Knowledge Base\nNVivo Customer Hub (requires Lumivero username and password to log in)"
   },
   {
-    "objectID": "primers.html#what-is-thematic-analysis",
-    "href": "primers.html#what-is-thematic-analysis",
-    "title": "Primers on qualitative data and analysis",
-    "section": "What is thematic analysis?",
-    "text": "What is thematic analysis?\nThematic analysis is a commonly used method within qualitative analysis, suitable for using with software like NVivo.\nPapers:\n\nBraun, Virginia, and Victoria Clarke (2006) ‘Using Thematic Analysis in Psychology’. Qualitative Research in Psychology 3(2):77–101. doi: 10.1191/1478088706qp063oa.\nBraun, Virginia, and Victoria Clarke (2019) ‘Reflecting on Reflexive Thematic Analysis’. Qualitative Research in Sport, Exercise and Health 11(4):589–97. doi: 10.1080/2159676X.2019.1628806.\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nKiger, Michelle E., and Lara Varpio. (2020) ‘Thematic Analysis of Qualitative Data: AMEE Guide No. 131’. Medical Teacher 42(8):846–54. doi: 10.1080/0142159X.2020.1755030.\n\nYouTube:\n\nThematic analysis in qualitative research by Degree Doctor (Dr Elizabeth Yardley)"
+    "objectID": "resources.html#recommended-reading",
+    "href": "resources.html#recommended-reading",
+    "title": "Resources",
+    "section": "Recommended Reading",
+    "text": "Recommended Reading\n\nQualitative Analysis Software\nThe best texts on using software for qualitative analysis:\n\nJackson, Kristi, and Pat Bazeley. (2019) Qualitative Data Analysis with NVivo. 3rd ed. Thousand Oaks, CA: SAGE Publications Ltd.\n\nPDF for Chapter 1 - ‘Where to begin?’\nClick by click instructions accompanying the book.\n\nBazeley, Pat. (2017) ‘Using Qualitative Data Analysis Software (QDAS) to Assist Data Analyses’. Pp. 1–18 in Handbook of Research Methods in Health Social Sciences, edited by P. Liamputtong. Singapore: Springer.\n\nOpen access copy.\n\n\n\n\nQualitative Analysis\nAlso useful as a basis for understanding qualitative analysis, coding, and writing up more generally:\n\nBazeley, Pat. 2020. Qualitative Data Analysis: Practical Strategies. 2nd ed. London: SAGE Pubications.\n\nHard-copies available in most university libraries.\n\nSaldaña, Johnny. (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd.\n\nAn Introduction to Codes and Coding PDF of Chapter 1.\n\n\n\n\nExamples of applied use of NVivo\n\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nHutchison, Andrew John, Lynne Halley Johnston, and Jeff David Breckon. (2010) ‘Using QSR‐NVivo to Facilitate the Development of a Grounded Theory Project: An Account of a Worked Example’. International Journal of Social Research Methodology 13(4):283–302. doi: 10.1080/13645570902996301.\n\n\n\nOther qualitative analysis software\nNvivo is the market leader but some other popular ones are listed below:\nSubscription/licenced software: + ‘ATLAS.ti’, + ‘MAXQDA’, + ‘Dedoose’.\nFree /open source: + ‘Taguette’."
   },
   {
-    "objectID": "primers.html#what-is-coding",
-    "href": "primers.html#what-is-coding",
-    "title": "Primers on qualitative data and analysis",
-    "section": "What is coding?",
-    "text": "What is coding?\n\nAn Introduction to Codes and Coding which is Chapter 1 in Saldaña (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "Getting started.html",
+    "href": "Getting started.html",
+    "title": "Introduction: What to use Nvivo for",
     "section": "",
-    "text": "These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:\n\nDr Kathryn Fredricks\nDr Katherine Keenan\nAlasdair B R Stewart\n\nWith additional material from:\n\nDr Rachel Shanks\n\nThese pages are ‘living documents’ and will incrementally be updated over time. See the Callout below for more information.\n\n\n\n\n\n\n‘Living Documents’\n\n\n\nThese pages are ‘living documents’, they will continually and iteratively be updated over time.\nI cannot promise additional content will be added within any specific period of time, but I will be taking note of frequently asked questions, different use cases, and any issues encountered. These will be used to update and add to the existing content.\nSimilarly, following any of the sessions – or if you were unable to attend the in-person workshops and are following along online - please feel free to email any questions: alasdair.stewart@glasgow.ac.uk.\nNote - I take absolutely no offense if your question is due to any of the materials being unclear! In all my time teaching, the most useful feedback I have received has been from students pointing out something that was unclear to them or raised further questions.\nI am also dyslexic, so writing is the bane of my existence. Any help identifying spelling mistakes and grammatical errors will earn my eternal gratitude."
+    "text": "Nvivo is a software program for managing qualitative analysis projects.\nYou can start an Nvivo project at any point in the research lifecycle: at the design phase, when you have already collected data, or even later.\n\nHow can Nvivo help me? and what can’t it do?\nAs an analysis tool, Nvivo can help you:\n\norganise complex coding\nmanage your data sources\nintroduces a system of recording your work and coding - rigour and robustness\nsaves you time compared with manual coding\nhelp you visualize and cross-check data and coding\n\nBut aside from helping to structure your analysis, Nvivo can be really helpful as a project management tool, organising your data and other useful information in one place.\nYou can also use Nvivo to collaborate - you can share projects or using cloud functionality to invite others in.\nUsing Nvivo will NOT:\n\nmake your analysis better\nmake meaning- you as the researcher do that\nautomatically provide objectivity and clarity, or ensure reproducibility\n\nBefore you start building your Nvivo project, it’s worth reflecting on whether you really need it, and what you want to get out of it.\nNvivo takes time to set up and use properly. It is also useful for some forms of qualitative analysis more than others: very good for content analysis, but not so great if you intend to use interpretative phenomenological analysis (IPA).\nConvinced you want to try it? Great, read on….\n🤔 Now ask yourself the following questions about your project:\n\n\nThe components: What types of data and files do I have?\nThis could include things like…\n- transcripts of interviews/focus groups \n- field notes \n- research tools\n- photographs or images \n- policy documents\n- literature \n- video/audio \nPlease bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things might be connected in a file hierachy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as ‘trust in institutions’ , ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
+  },
+  {
+    "objectID": "project-setup.html",
+    "href": "project-setup.html",
+    "title": "Nvivo Project Setup",
+    "section": "",
+    "text": "This page will walk you through the steps of creating a new project.\nWe will cover:\n\nhow to import and organise files,\nhow to create cases and case classifications.\n\nDataset\nWe will use data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nHear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee:\n\nThe data is open access and available from the UK Data Service.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017. The data we will be working with is mainly connected to the 2015 and 2016 rounds.\nFor more information on open research and data:\n\nThe FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets.\nUK Data Service hub for archiving qualitative data and secondary analysis.\nUK Data Service hub for data skills modules, covering research data management, data for reuse, and more.\n\nWhich Nvivo version?\nThis page uses screenshots from NVivo Windows Release 1 (windows and mac versions are shown). Things may look a little different if you’re working on other versions. Differences with versions 14 and 15 are minimal.\nSee our cheatsheet for a quick guide to how things differ across versions.\nFor more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources] (resources.qmd) tab above.\n\nDownloading the project files\nDownload and save the project files from the SGSSS Social group page for Nvivo training.\nNavigate to documents-&gt;2.Data and Project files",
+    "crumbs": [
+      "Project Setup",
+      "Nvivo Project Setup"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Session Brief\n\n\n\nThis one-day in-person workshop is designed for those with a basic working knowledge of NVivo for qualitative research projects. It is designed to introduce you to more advanced features and the flexible ways these can be used for qualitative analysis. It is designed as a follow-on from the “Introduction to Qualitative Analysis Projects in NVivo”, but is open to everyone regardless of whether they attended that session.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\nusing static and dynamic sets\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
+    "crumbs": [
+      "Going Further",
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "index.html#session-aims",
+    "href": "index.html#session-aims",
+    "title": "Welcome!",
+    "section": "Session Aims",
+    "text": "Session Aims\n\n🧑‍🎓 NVivo 201 - Additive Analysis\nThis workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for ‘additive analysis’. They add to the ‘foundational’ elements of your project – your files, folders, nodes, cases, and notes – providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.\nIt is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.\nA Project File though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.\n\n\n🤔 Problem-based approach\nThe sections and tasks for this workshop session are based around problems and considerations to make that you might encounter as your analysis progresses.\nWith each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.\nThe purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.\nImportantly, after the follow along demonstrations, we will have time for experimentation and discussion. I have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the ‘experiment and discuss’ sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.\n\n\n\n\n\n\n‘Living Documents’\n\n\n\nThese pages are ‘living documents’, they will continually and iteratively be updated over time. Please see the Callout on the About page\n\n\n\n\n🧟 Slaying QDAS zombies\nTo say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.\nThere was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.\nThe big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.\nHowever, the critiques unfortunately still persist as QDAS Zombies by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen – or copying chunks of text into Word/Excel files – it’s no wonder these critiques feel more alive than dead.\nWhat we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I’d go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.\n\n\n🤢 It’s not you, it’s NVivo!\nNVivo is powerful and without a doubt better than analogue paper and pen analysis – or worse, copying and pasting chunks of text into multiple Word/Excel files – but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.\nThe unintuitive design and labyrinthine steps required for some tasks – never mind the joys of trying to recall them each time when first starting – gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.\nTo Lumivero’s credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often ‘NVivo-error’ not ‘user-error’ – there was not anything wrong in how you set up your project or actions you were doing, it’s just NVivo being NVivo.",
+    "crumbs": [
+      "Going Further",
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "going-further-slides.html",
+    "href": "going-further-slides.html",
+    "title": "Going Further - Slides",
+    "section": "",
+    "text": "TODO\n\n\n\n\nEmbed copy of slides\nAdd download link\n\n\n\nBelow is an embedded copy of the slides:\n[embed here]\nClick here[add link] to download a copy of the slides."
   },
   {
     "objectID": "quickexample.html",
@@ -119,6 +152,34 @@
     ]
   },
   {
+    "objectID": "primers.html",
+    "href": "primers.html",
+    "title": "Primers on qualitative data and analysis",
+    "section": "",
+    "text": "If you have never had formal masters-level training in qualitative enquiry, we recommend you follow some introductory material before you atten the NVivo workshops. This will help you get the most out of the day."
+  },
+  {
+    "objectID": "primers.html#what-is-qualitative-enquiry-and-data",
+    "href": "primers.html#what-is-qualitative-enquiry-and-data",
+    "title": "Primers on qualitative data and analysis",
+    "section": "What is qualitative enquiry and data?",
+    "text": "What is qualitative enquiry and data?\nEngage with one or all of the following:\n\nThe Discipline and Practice of Qualitative Research which is Chapter 1 in Denzin and Lincoln, eds. (2018) The SAGE Handbook of Qualitative Research. 5th ed. London: SAGE Publications.\nIntroduction to qualitative research methods - Part 1 by Bhangu, Provost, and Caduff (2023) in Perspectives in Clinical Research 14(1) pp.39-42\nQualitative research the basics YouTube video by Degree Doctor (Dr Elizabeth Yardley)"
+  },
+  {
+    "objectID": "primers.html#what-is-thematic-analysis",
+    "href": "primers.html#what-is-thematic-analysis",
+    "title": "Primers on qualitative data and analysis",
+    "section": "What is thematic analysis?",
+    "text": "What is thematic analysis?\nThematic analysis is a commonly used method within qualitative analysis, suitable for using with software like NVivo.\nPapers:\n\nBraun, Virginia, and Victoria Clarke (2006) ‘Using Thematic Analysis in Psychology’. Qualitative Research in Psychology 3(2):77–101. doi: 10.1191/1478088706qp063oa.\nBraun, Virginia, and Victoria Clarke (2019) ‘Reflecting on Reflexive Thematic Analysis’. Qualitative Research in Sport, Exercise and Health 11(4):589–97. doi: 10.1080/2159676X.2019.1628806.\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nKiger, Michelle E., and Lara Varpio. (2020) ‘Thematic Analysis of Qualitative Data: AMEE Guide No. 131’. Medical Teacher 42(8):846–54. doi: 10.1080/0142159X.2020.1755030.\n\nYouTube:\n\nThematic analysis in qualitative research by Degree Doctor (Dr Elizabeth Yardley)"
+  },
+  {
+    "objectID": "primers.html#what-is-coding",
+    "href": "primers.html#what-is-coding",
+    "title": "Primers on qualitative data and analysis",
+    "section": "What is coding?",
+    "text": "What is coding?\n\nAn Introduction to Codes and Coding which is Chapter 1 in Saldaña (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd."
+  },
+  {
     "objectID": "orgnodes.html#adding-organisation-codes",
     "href": "orgnodes.html#adding-organisation-codes",
     "title": "Organisation Codes",
@@ -152,56 +213,6 @@
       "Going Further",
       "**Coding Workflows**",
       "Organisation Codes"
-    ]
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "If you are new to qualitative enquiry, please see the Primers page for recommended introduction materials."
-  },
-  {
-    "objectID": "resources.html#lumiveros-nvivo-resources",
-    "href": "resources.html#lumiveros-nvivo-resources",
-    "title": "Resources",
-    "section": "Lumivero’s NVivo Resources",
-    "text": "Lumivero’s NVivo Resources\n\nUser Help Pages\nBelow are links to Lumivero’s NVivo User Help pages for the more recent Windows and MacOS versions of NVivo.\nWindows:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\nMacOS:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\n\n\n\nOther online Lumivero resources\n\nNVivo YouTube Channel\nNVivo Podcast series\nLumivero Webinars and Events (for payment, some webinars are free)\nNVivo Knowledge Base\nNVivo Customer Hub (requires Lumivero username and password to log in)"
-  },
-  {
-    "objectID": "resources.html#recommended-reading",
-    "href": "resources.html#recommended-reading",
-    "title": "Resources",
-    "section": "Recommended Reading",
-    "text": "Recommended Reading\n\nQualitative Analysis Software\nThe best texts on using software for qualitative analysis:\n\nJackson, Kristi, and Pat Bazeley. (2019) Qualitative Data Analysis with NVivo. 3rd ed. Thousand Oaks, CA: SAGE Publications Ltd.\n\nPDF for Chapter 1 - ‘Where to begin?’\nClick by click instructions accompanying the book.\n\nBazeley, Pat. (2017) ‘Using Qualitative Data Analysis Software (QDAS) to Assist Data Analyses’. Pp. 1–18 in Handbook of Research Methods in Health Social Sciences, edited by P. Liamputtong. Singapore: Springer.\n\nOpen access copy.\n\n\n\n\nQualitative Analysis\nAlso useful as a basis for understanding qualitative analysis, coding, and writing up more generally:\n\nBazeley, Pat. 2020. Qualitative Data Analysis: Practical Strategies. 2nd ed. London: SAGE Pubications.\n\nHard-copies available in most university libraries.\n\nSaldaña, Johnny. (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd.\n\nAn Introduction to Codes and Coding PDF of Chapter 1.\n\n\n\n\nNVivo Examples\n\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nHutchison, Andrew John, Lynne Halley Johnston, and Jeff David Breckon. (2010) ‘Using QSR‐NVivo to Facilitate the Development of a Grounded Theory Project: An Account of a Worked Example’. International Journal of Social Research Methodology 13(4):283–302. doi: 10.1080/13645570902996301."
-  },
-  {
-    "objectID": "going-further-slides.html",
-    "href": "going-further-slides.html",
-    "title": "Going Further - Slides",
-    "section": "",
-    "text": "TODO\n\n\n\n\nEmbed copy of slides\nAdd download link\n\n\n\nBelow is an embedded copy of the slides:\n[embed here]\nClick here[add link] to download a copy of the slides."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Session Brief\n\n\n\nThis one-day in-person workshop is designed for those with a basic working knowledge of NVivo for qualitative research projects. It is designed to introduce you to more advanced features and the flexible ways these can be used for qualitative analysis. It is designed as a follow-on from the “Introduction to Qualitative Analysis Projects in NVivo”, but is open to everyone regardless of whether they attended that session.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\nusing static and dynamic sets\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
-    "crumbs": [
-      "Going Further",
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "index.html#session-aims",
-    "href": "index.html#session-aims",
-    "title": "Welcome!",
-    "section": "Session Aims",
-    "text": "Session Aims\n\n🧑‍🎓 NVivo 201 - Additive Analysis\nThis workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for ‘additive analysis’. They add to the ‘foundational’ elements of your project – your files, folders, nodes, cases, and notes – providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.\nIt is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.\nA Project File though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.\n\n\n🤔 Problem-based approach\nThe sections and tasks for this workshop session are based around problems and considerations to make that you might encounter as your analysis progresses.\nWith each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.\nThe purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.\nImportantly, after the follow along demonstrations, we will have time for experimentation and discussion. I have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the ‘experiment and discuss’ sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.\n\n\n\n\n\n\n‘Living Documents’\n\n\n\nThese pages are ‘living documents’, they will continually and iteratively be updated over time. Please see the Callout on the About page\n\n\n\n\n🧟 Slaying QDAS zombies\nTo say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.\nThere was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.\nThe big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.\nHowever, the critiques unfortunately still persist as QDAS Zombies by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen – or copying chunks of text into Word/Excel files – it’s no wonder these critiques feel more alive than dead.\nWhat we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I’d go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.\n\n\n🤢 It’s not you, it’s NVivo!\nNVivo is powerful and without a doubt better than analogue paper and pen analysis – or worse, copying and pasting chunks of text into multiple Word/Excel files – but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.\nThe unintuitive design and labyrinthine steps required for some tasks – never mind the joys of trying to recall them each time when first starting – gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.\nTo Lumivero’s credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often ‘NVivo-error’ not ‘user-error’ – there was not anything wrong in how you set up your project or actions you were doing, it’s just NVivo being NVivo.",
-    "crumbs": [
-      "Going Further",
-      "Welcome!"
     ]
   },
   {
@@ -298,41 +309,15 @@
   {
     "objectID": "Designing your Nvivo project.html",
     "href": "Designing your Nvivo project.html",
-    "title": "Designing your Nvivo project",
+    "title": "What to use Nvivo for",
     "section": "",
-    "text": "Aside from helping you conduct analysis, Nvivo can be really helpful as a project management tool, helping to structure your data and other useful information in one place. You can start an Nvivo project at any point in the research lifecycle: when you are just designing the project, when you have already collected data, or even later.\nBut before you start building your Nvivo project, it’s worth reflecting on what you are trying to create.\n🤔Ask yourself the following questions:\n\nThe components: What types of data and files do I have?\nThis could include things like…\n- transcripts of interviews/focus groups \n- field notes \n- research tools\n- photographs or images \n- policy documents\n- literature \n- video/audio \nPlease bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things might be connected in a file hierachy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as ‘trust in institutions’ , ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
+    "text": "Nvivo is a software program for managing qualitative analysis projects.\nIt is the market leader but there are plenty of others: ‘ATLAS.ti’, ‘MAXQDA’, and up and coming open source platforms like ‘Taguette’.\nYou can start an Nvivo project at any point in the research lifecycle: when you are just designing the project, when you have already collected data, or even later.\n\nHow can Nvivo help me? and what can’t it do?\nAs an analysis tool, Nvivo can help you:\n\norganise complex coding\nmanage your data sources\nintroduces a system of recording your work and coding - rigour and robustness\nsaves you time compared with manual coding\nhelp you visualize and cross-check data and coding\n\nBut aside from helping to structure your analysis, Nvivo can be really helpful as a project management tool, organising your data and other useful information in one place.\nYou can also use Nvivo to collaborate - you can share projects or using cloud functionality to invite others in.\nUsing Nvivo will NOT:\n\nmake your analysis better\n\nBut before you start building your Nvivo project, it’s worth reflecting on whether you really need it, and what you want to get out of it.\n\nAlso, think in advance, what material do you have,\n\n🤔Ask yourself the following questions:\n\n\nThe components: What types of data and files do I have?\nThis could include things like…\n- transcripts of interviews/focus groups \n- field notes \n- research tools\n- photographs or images \n- policy documents\n- literature \n- video/audio \nPlease bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things might be connected in a file hierachy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as ‘trust in institutions’ , ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
   },
   {
-    "objectID": "project-setup.html",
-    "href": "project-setup.html",
-    "title": "Project Setup",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This page will walk you through the basic steps of creating a project from scratch, and covers:\n\nhow to import and organise files,\nhow to create cases and case classifications.\n• The dataset we are using\nThe project we will create uses qualitative data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\nThe data is open access and available from the UK Data Service.\nFor more information on open research and data: - The FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets. - UK Data Service hub for archiving qualitative data and secondary analysis. - UK Data Service hub for data skills modules, covering research data management, data for reuse, and more.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017. The data we will be working with is mainly connected to the 2015 and 2016 rounds.\n• Which Nvivo version?\nThis page uses screenshots from NVivo Release 1 (windows and mac versions are shown). Things may look a little different if you’re working on other versions. Across Nvivo versions some things are differently named (see our cheatsheet) and some processes have a slightly different flow. For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources] (resources.qmd) tab above.",
-    "crumbs": [
-      "Designing your Nvivo project",
-      "Project Setup"
-    ]
-  },
-  {
-    "objectID": "project-setup.html#creating-a-project-and-importing-files",
-    "href": "project-setup.html#creating-a-project-and-importing-files",
-    "title": "Project Setup",
-    "section": "1: Creating a project and importing files",
-    "text": "1: Creating a project and importing files\n\nCreate a new project",
-    "crumbs": [
-      "Designing your Nvivo project",
-      "Project Setup"
-    ]
-  },
-  {
-    "objectID": "project-setup.html#downloading-the-project-files",
-    "href": "project-setup.html#downloading-the-project-files",
-    "title": "Project Setup",
-    "section": "Downloading the project files",
-    "text": "Downloading the project files\nFrom the Social group page, to access the file:\n\n1. Creating a project and importing files\n\n\n\n1.1 Create a new project\n\nDownload and save the project files from the Social group page.\n\nGo to documents-&gt;2.Project files",
-    "crumbs": [
-      "Designing your Nvivo project",
-      "Project Setup"
-    ]
+    "text": "These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:\n\nDr Kathryn Fredricks\nDr Katherine Keenan\nAlasdair B R Stewart\n\nWith additional material from:\n\nDr Rachel Shanks\n\nThese pages are ‘living documents’ and will incrementally be updated over time. See the Callout below for more information.\n\n\n\n\n\n\n‘Living Documents’\n\n\n\nThese pages are ‘living documents’, they will continually and iteratively be updated over time.\nI cannot promise additional content will be added within any specific period of time, but I will be taking note of frequently asked questions, different use cases, and any issues encountered. These will be used to update and add to the existing content.\nSimilarly, following any of the sessions – or if you were unable to attend the in-person workshops and are following along online - please feel free to email any questions: alasdair.stewart@glasgow.ac.uk.\nNote - I take absolutely no offense if your question is due to any of the materials being unclear! In all my time teaching, the most useful feedback I have received has been from students pointing out something that was unclear to them or raised further questions.\nI am also dyslexic, so writing is the bane of my existence. Any help identifying spelling mistakes and grammatical errors will earn my eternal gratitude."
   }
 ]

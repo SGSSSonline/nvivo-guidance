@@ -22,8 +22,8 @@ website:
   navbar:
     pinned: true
     left:
-      - href: project-setup.qmd
-        text: "Designing your Nvivo project"
+      - href: Getting started.qmd
+        text: "Getting started"
       - href: project-setup.qmd
         text: "Project Setup"
       - href: placeholder.qmd

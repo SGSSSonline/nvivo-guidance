@@ -1,13 +1,11 @@
 ---
-title: "What to use Nvivo for"
+title: "Introduction: What to use Nvivo for"
 format: html
 ---
 
 Nvivo is a software program for managing qualitative analysis projects. 
 
-It is the market leader but there are plenty of others: ['ATLAS.ti'](https://atlasti.com/?x-source=gsa&x-campaign=en-search-qda&ai&x-id=19885666023&x-term=147048052029&gad_source=1&gad_campaignid=19885666023&gbraid=0AAAAApc8-YAdvnoKabqn1618YFYKX11TV&gclid=Cj0KCQjwuvrBBhDcARIsAKRrkjfPfcfOgqEWtEVsbGOZ7YRl3CGQJi4uIQfAq0Pxq1CO_LzkAMGVnIkaAvS8EALw_wcB), ['MAXQDA'](https://www.maxqda.com/), and up and coming open source platforms like ['Taguette'](https://www.taguette.org/).  
-
-You can start an Nvivo project at any point in the research lifecycle: when you are just designing the project, when you have already collected data, or even later. 
+You can start an Nvivo project at any point in the research lifecycle: at the design phase, when you have already collected data, or even later. 
 
 ### How can Nvivo help me? and what can't it do? 
 
@@ -26,16 +24,17 @@ You can also use Nvivo to **collaborate** - you can share projects or using clou
 
 Using Nvivo will NOT: 
 
-- make your analysis better 
+- make your analysis better
+- make meaning- you as the researcher do that 
+- automatically provide objectivity and clarity, or ensure reproducibility 
 
-But before you start building your Nvivo project, it's worth reflecting on whether you really need it, and what you want to get out of it.  
+Before you start building your Nvivo project, it's worth reflecting on whether you really need it, and what you want to get out of it.  
 
+Nvivo takes time  to set up and use properly. It is also useful for some forms of qualitative analysis more than others: very good for content analysis, but not so great if you intend to use interpretative phenomenological analysis (IPA). 
 
+Convinced you want to try it? Great, read on....
 
-- 
-Also, think in advance, what material do you have, 
-
-🤔Ask yourself the following questions: 
+🤔 Now ask yourself the following questions about your project: 
 
 ### **The components: What types of data and files do I have?** 
 
@@ -49,7 +48,7 @@ Also, think in advance, what material do you have,
     - literature 
     - video/audio 
     
-  Please bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example.  Referencing software might be better for managing academic literature. The same goes for video/audio files. 
+Please bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files. 
   
   It is helpful to imagine how these things might be connected in a file hierachy. 
   
