@@ -1,13 +1,43 @@
 ---
-title: "Introduction: What to use Nvivo for"
+title: "Welcome!"
+subtitle: "**Summer school 2025 Nvivo workshop**"
 format: html
 ---
 
-Nvivo is a software program for managing qualitative analysis projects. 
+
+### Session brief
+
+This one-day in-person workshop is aimed at those with no experience of Nvivo, or those who would like a refresher. We will move through three topics:
+
+
+![](Images/Session brief-1.png)
+
+The morning is led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/) will work through some basic tasks: 
+
+- setting up a new Nvivo project 
+- organising materials
+- creating [cases](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html) and [case classifications](https://help-nv.qsrinternational.com/20/win/Content/classifications/about-classifications.html)
+- manual coding 
+- some autocoding features 
+
+The afternoon is led by [Dr Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
+
+Students will learn how to use some more advanced features of NVivo:
+
+- coding workflows, tip and tricks
+- different types of queries
+- framework matrices
+
+We will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.
+
+
+### How can Nvivo help me? 
+
+![](images/nvivo logo.png)
+
+Nvivo is a software package for managing qualitative and mixed methods analysis projects. 
 
 You can start an Nvivo project at any point in the research lifecycle: at the design phase, when you have already collected data, or even later. 
-
-### How can Nvivo help me? and what can't it do? 
 
 As an **analysis tool**, Nvivo can help you: 
 
@@ -21,60 +51,16 @@ But aside from helping to structure your  *analysis*, Nvivo can be really helpfu
 
 You can also use Nvivo to **collaborate** - you can share projects or using cloud functionality to invite others in. 
 
-
-Using Nvivo will NOT: 
+### And what can't it do? 
+Important to note, using Nvivo will [NOT:]{.mark} 
 
 - make your analysis better
 - make meaning- you as the researcher do that 
 - automatically provide objectivity and clarity, or ensure reproducibility 
 
-Before you start building your Nvivo project, it's worth reflecting on whether you really need it, and what you want to get out of it.  
+Even though it allows linkage of qualitative and quantitative data, it **can't** perform quantitative analysis.
 
-Nvivo takes time  to set up and use properly. It is also useful for some forms of qualitative analysis more than others: very good for content analysis, but not so great if you intend to use interpretative phenomenological analysis (IPA). 
+Nvivo takes time to set up; and to make the most of the software, it requires some patience. 
 
-Convinced you want to try it? Great, read on....
-
-🤔 Now ask yourself the following questions about your project: 
-
-### **The components: What types of data and files do I have?** 
-
-  This could include things like...
-  
-    - transcripts of interviews/focus groups 
-    - field notes 
-    - research tools
-    - photographs or images 
-    - policy documents
-    - literature 
-    - video/audio 
-    
-Please bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files. 
-  
-  It is helpful to imagine how these things might be connected in a file hierachy. 
-  
-### **What are the main units of analysis?** 
-  
-  These could be individuals you've interviewed, organisations you've studied, communities you've worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities). 
-  
-  These units of analysis might later get created as ['cases'](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html) in the Nvivo project file, which enable you to keep information about that case all in one place.  
-  
-  For example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics. 
-  
-  These cases and case structures can evolve as you conduct your research, too. 
-  
-  
-### **What are the characteristics of these units?**
-  
-  Now consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education)
-  This would be known as metadata, and might be recorded in a spreadsheet or table. 
-  
-### **What are the linkages within the project?**
-
-This might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household. 
-
-### **What are likely to be key topics or themes?**
-
-This may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as 'trust in institutions' , 'sense of loss', etc. 
-
-These themes might become ['codes'](https://help-nv.qsrinternational.com/12/win/v12.1.115-d3ea61/Content/nodes/codes.htm)  within your Nvivo project. 
+It is also more useful for some analysis approaches than others: for example very good for thematic content analysis (which we will cover today), but not so well adapted for others like interpretative phenomenological analysis (IPA). 
 

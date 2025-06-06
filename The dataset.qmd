@@ -1,0 +1,52 @@
+---
+title: "The dataset"
+format: html
+---
+
+## Qualitative Election Study of Britain
+
+We will use data from a longitudinal qualitative study called the [Qualitative Election Study of Britain](https://qesb.info/). 
+
+Here's an explanation of the study by it's leads:  
+
+> The QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.
+
+Hear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee: 
+{{< video https://www.youtube.com/embed/k_nc4-uXZLA?si=sXkU6xovXw-_13FG >}}
+
+The data is open access and available from the [UK Data Service](https://beta.ukdataservice.ac.uk/datacatalogue/studies/?Search=qualitative+election+study+of+britain#!?Search=qualitative%20election%20study%20of%20britain&Page=1&Rows=10&Sort=1&DateFrom=440&DateTo=2025).
+
+We chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017.
+
+## The data subset we are using 
+
+The data we will be working with was collected in 2015 and 2016, and were timed to collect opinions prior to the [UK 2015 General Election](https://en.wikipedia.org/wiki/2015_United_Kingdom_general_election), and just after the [EU or 'Brexit' Referendum](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum). This period was one of great political unpredictability and voter volatility. Both of those votes had controversial and unexpected results: the 2015 Election was a surprise win for the Conservatives, and in Scotland, the Scottish National Party made huge gains over Labour. The 2016 EU referendum resulted in a 52% vote to leave the European Union, and this marked a change in the UK's relationship with Europe and the rest of the world. 
+
+![](Images/Data slide-1.png)
+
+The data extract we are using allows longitudinal linkage because some of the people who took part in the 2015 focus groups later participated in a 1-2-1 telephone interview. 
+
+The data citations: 
+
+Carvalho, E., Winters, K. (2019). Qualitative Election Study of Britain, 2015. [data collection]. UK Data Service. SN: 8117, [DOI](10.5255/UKDA-SN-8117-1)
+
+Carvalho, E., Winters, K., Oliver, T. (2023). The Qualitative Election Study of Britain: The EU Referendum Interviews Dataset, 2016. [data collection]. UK Data Service. SN: 856170, [DOI](10.5255/UKDA-SN-856170)
+
+Some more information: 
+
+Carvalho, Edzia and Winters, Kristi and Oliver, Thom (2023). The Qualitative Election Study of Britain: The EU Referendum Interviews Dataset, 2016. [Data Collection]. Colchester, Essex: UK Data Service. [10.5255/UKDA-SN-856170](https://brill.com/view/journals/rdj/2/1/article-p23_23.xml)
+
+
+##  Open research 
+
+This dataset is a brilliant example of Open Science: the data are open access but also organised to promote reusability. This is good practice, and there a lot of resources to help guide you on the use and reuse of secondary data, and how you can play your part.   
+
+For more information on open research and data:
+
+  + The [FAIR principles](https://www.go-fair.org/fair-principles/) to improve the findability, accessibility, interoperability, and reuse of digital assets.
+
+  + UK Data Service hub for [archiving qualitative data and secondary analysis](https://ukdataservice.ac.uk/learning-hub/qualitative-data/).
+
+  + Take one of these **free** [data skills modules](https://ukdataservice.ac.uk/learning-hub/data-skills-modules/) from the UK Data Service which covers topics like research data management, finding secondary data, data resuse and many more topics. 
+  
+![](Images/UK data service.png)

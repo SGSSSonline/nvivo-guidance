@@ -11,7 +11,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Work in Progress** - these additional online materials are work in progress and will continue to be updated following the session."
+    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated following the session."
     type: info
     position: below-navbar
   bread-crumbs: true
@@ -23,17 +23,20 @@ website:
     pinned: true
     left:
       - href: Getting started.qmd
-        text: "Getting started"
+        text: "Introduction"
       - href: project-setup.qmd
         text: "Project Setup"
       - href: placeholder.qmd
         text: "Start Coding"
       - href: index.qmd
         text: "Going Further"
+      - href: Designing your Nvivo project.qmd
+        text: "Designing your own Nvivo project"
     
     right:
       - href: primers.qmd
         text: "Primers"
+      - Nvivo versions.qmd
       - resources.qmd
       - about.qmd
     logo: brand/whitelogo.png
@@ -56,12 +59,18 @@ website:
         - section: "**Framework Matrices**"
           contents:
             - buildingthemes.qmd
+            
     - title: "Project Setup"
       style: "docked"
       border: false
       background: "#1B9D8E"
       contents:
         - project-setup.qmd
+        - The dataset.qmd
+        - Downloading the data.qmd
+        - Importing files.qmd
+        - Cases.qmd
+        - Adding metadata.qmd
 
 
   page-footer:

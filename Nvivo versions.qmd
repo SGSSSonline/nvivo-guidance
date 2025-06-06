@@ -1,0 +1,33 @@
+---
+title: "Nvivo versions"
+format: html
+---
+
+## How many versions of Nvivo are there? 
+  
+  In recent years, there have been several different releases of QSR Nvivo software, in both Windows and Mac versions. Different institutions may subscribe    to different versions. 
+
+  This matters because some features differ and compatibility cannot always be assumed, which can be quite annoying. 
+  Where possible, we recommend working with a **windows version**, because you have more advanced features available. Some windows features are 'hidden' for the    mac versions. 
+  
+  The most commonly encountered versions :
+  
+  ![](Images/Nvivo versions table-1.png)
+Between Nvivo versions, there is **forwards compatibility only**. 
+This means that you can open an Nvivo nvp file made in Nvivo 12 in Nvivo Release 1, but not the other way around. To open an older file in a more recent version, open the file, and then click ‘upgrade’. 
+
+## Converting Nvivo files between windows /mac versions
+
+  To convert .nvp files (windows) to .nvpx (mac), do this within the windows platform, by choosing ‘copy project’-> copy to...
+  
+  We recommend you work on one platform only and avoid frequent conversion.
+
+## Naming and terminology changes
+
+With Nvivo Release 1.0 (Nvivo 13), QSR changed the terminology for key elements. A full list is [here](https://help-nv.qsrinternational.com/20/win/Content/about-nvivo/terminology-changes.htm). 
+
+Some important ones to note: 
+
+![](Images/Naming-1 2.png)
+
+## The guidance for your specific version can be found [here](resources.qmd). 

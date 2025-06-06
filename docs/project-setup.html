@@ -29,6 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./The dataset.html" rel="next">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -94,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./Getting started.html"> 
-<span class="menu-text">Getting started</span></a>
+<span class="menu-text">Introduction</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./project-setup.html" aria-current="page"> 
@@ -108,11 +109,19 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Going Further</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Designing your Nvivo project.html"> 
+<span class="menu-text">Designing your own Nvivo project</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="./primers.html"> 
 <span class="menu-text">Primers</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./Nvivo versions.html"> 
+<span class="menu-text">Nvivo versions</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./resources.html"> 
@@ -139,8 +148,8 @@ ul.task-list li input[type="checkbox"] {
         </a>
     </div>
   </nav>
-  <div id="quarto-announcement" data-announcement-id="c73e91caa6ec2653885e99101673729e" class="alert alert-info hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p><strong>Work in Progress</strong> - these additional online materials are work in progress and will continue to be updated following the session.</p>
+  <div id="quarto-announcement" data-announcement-id="e72585d3759fe6bb943cf82e3a1a48f5" class="alert alert-info hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p><strong>Work in Progress</strong> - these online materials are work in progress and will continue to be updated following the session.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
@@ -155,19 +164,43 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Nvivo Project Setup</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./The dataset.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">The dataset</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Downloading the data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Downloading the data</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Importing files.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Importing files</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Cases.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Cases and case classifications</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Adding metadata.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Adding metadata</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#downloading-the-project-files" id="toc-downloading-the-project-files" class="nav-link active" data-scroll-target="#downloading-the-project-files">Downloading the project files</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -196,33 +229,15 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>how to import and organise files,</li>
 <li>how to create <a href="https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html">cases</a> and <a href="https://help-nv.qsrinternational.com/20/win/Content/classifications/about-classifications.html">case classifications</a>.</li>
+<li>How to connect metadata (e.g.&nbsp;demographic information about interviewees)</li>
 </ul>
-<p><strong>Dataset</strong></p>
-<p>We will use data from a longitudinal qualitative study called the <a href="https://qesb.info/">Qualitative Election Study of Britain</a>.</p>
-<blockquote class="blockquote">
-<p>The QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.</p>
-</blockquote>
-<p>Hear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee:</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/k_nc4-uXZLA?si=sXkU6xovXw-_13FG" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>The data is open access and available from the <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/?Search=qualitative+election+study+of+britain#!?Search=qualitative%20election%20study%20of%20britain&amp;Page=1&amp;Rows=10&amp;Sort=1&amp;DateFrom=440&amp;DateTo=2025">UK Data Service</a>.</p>
-<p>We chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017. The data we will be working with is mainly connected to the 2015 and 2016 rounds.</p>
-<p>For more information on open research and data:</p>
-<ul>
-<li><p>The <a href="https://www.go-fair.org/fair-principles/">FAIR principles</a> to improve the findability, accessibility, interoperability, and reuse of digital assets.</p></li>
-<li><p>UK Data Service hub for <a href="https://ukdataservice.ac.uk/learning-hub/qualitative-data/">archiving qualitative data and secondary analysis</a>.</p></li>
-<li><p>UK Data Service hub for <a href="https://ukdataservice.ac.uk/learning-hub/data-skills-modules/">data skills modules</a>, covering research data management, data for reuse, and more.</p></li>
-</ul>
-<p><strong>Which Nvivo version?</strong></p>
-<p>This page uses screenshots from <a href="https://help-nv.qsrinternational.com/20/win/Content/welcome.htm">NVivo Windows Release 1</a> (windows and mac versions are shown). Things may look a little different if you’re working on other versions. Differences with versions 14 and 15 are minimal.</p>
-<p>See our cheatsheet for a quick guide to how things differ across versions.<br>
-For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources] (resources.qmd) tab above.</p>
-<section id="downloading-the-project-files" class="level1">
-<h1>Downloading the project files</h1>
-<p>Download and save the project files from the <a href="https://social.sgsss.ac.uk/groups/nvivo-training-2024-25/documents/">SGSSS Social group page for Nvivo training</a>.</p>
-<p>Navigate to documents-&gt;2.Data and Project files</p>
+<p>Follow the steps by clicking through the arrows at the bottom right.</p>
+<p><strong>Which Nvivo version are we using?</strong></p>
+<p>This project setup guide uses screenshots from <a href="https://help-nv.qsrinternational.com/20/win/Content/welcome.htm">NVivo Windows Release 1</a>. Things may look a little different if you’re working on other versions. Differences with windows 14 and 15 are minimal.</p>
+<p>See our <a href="./Nvivo versions.html">cheatsheet</a> for a quick guide to how things differ across versions.</p>
+<p>For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the <a href="./resources.html">Resources</a> tab above.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -786,6 +801,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./The dataset.html" class="pagination-link" aria-label="The dataset">
+        <span class="nav-page-text">The dataset</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

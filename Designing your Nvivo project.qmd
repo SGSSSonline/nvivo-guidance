@@ -1,57 +1,38 @@
 ---
-title: "What to use Nvivo for"
+title: "Designing your own Nvivo project: first steps"
 format: html
 ---
 
-Nvivo is a software program for managing qualitative analysis projects. 
+Before you start building your own Nvivo project,it's a good idea to think through the components and architecture in advance.  
 
-It is the market leader but there are plenty of others: ['ATLAS.ti'](https://atlasti.com/?x-source=gsa&x-campaign=en-search-qda&ai&x-id=19885666023&x-term=147048052029&gad_source=1&gad_campaignid=19885666023&gbraid=0AAAAApc8-YAdvnoKabqn1618YFYKX11TV&gclid=Cj0KCQjwuvrBBhDcARIsAKRrkjfPfcfOgqEWtEVsbGOZ7YRl3CGQJi4uIQfAq0Pxq1CO_LzkAMGVnIkaAvS8EALw_wcB), ['MAXQDA'](https://www.maxqda.com/), and up and coming open source platforms like ['Taguette'](https://www.taguette.org/).  
+🤔 Ask yourself the following questions: 
 
-You can start an Nvivo project at any point in the research lifecycle: when you are just designing the project, when you have already collected data, or even later. 
-
-### How can Nvivo help me? and what can't it do? 
-
-As an **analysis tool**, Nvivo can help you: 
-
-- organise complex coding 
-- manage your data sources 
-- introduces a system of recording your work and coding - rigour and robustness 
-- saves you time compared with manual coding
-- help you visualize and cross-check data and coding 
-
-But aside from helping to structure your  *analysis*, Nvivo can be really helpful as a **project management tool**, organising your data and other useful information in one place.
-
-You can also use Nvivo to **collaborate** - you can share projects or using cloud functionality to invite others in. 
+### **What types of data and files do I have?**
 
 
-Using Nvivo will NOT: 
+![](Images/design 1.png)
 
-- make your analysis better 
-
-But before you start building your Nvivo project, it's worth reflecting on whether you really need it, and what you want to get out of it.  
-
-
-
-- 
-Also, think in advance, what material do you have, 
-
-🤔Ask yourself the following questions: 
-
-### **The components: What types of data and files do I have?** 
-
-  This could include things like...
+These need to be digitized, but could include text items like...
   
     - transcripts of interviews/focus groups 
+    - quantitative metadata
     - field notes 
     - research tools
-    - photographs or images 
     - policy documents
     - literature 
-    - video/audio 
+    - archive materials
     
-  Please bear in mind that adding large files to Nvivo can slow the software down. For that reason we caution against using Nvivo for compiling many PDF articles, for example.  Referencing software might be better for managing academic literature. The same goes for video/audio files. 
+   It is also possible to include things like.. 
+   
+    - photographs or images
+    - video/audio 
+    - maps 
+    
+**[CAUTION:]{.mark}** adding large files to Nvivo slows the software down dramatically. 
+
+For that reason we advise against using Nvivo for compiling many PDF articles, for example.  Referencing software might be better for managing academic literature. The same goes for video/audio files. 
   
-  It is helpful to imagine how these things might be connected in a file hierachy. 
+It is helpful to imagine how these things are best organised in a file hierarchy. 
   
 ### **What are the main units of analysis?** 
   
