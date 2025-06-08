@@ -52,6 +52,7 @@ But aside from helping to structure your  *analysis*, Nvivo can be really helpfu
 You can also use Nvivo to **collaborate** - you can share projects or using cloud functionality to invite others in. 
 
 ### And what can't it do? 
+
 Important to note, using Nvivo will [NOT:]{.mark} 
 
 - make your analysis better
@@ -64,3 +65,14 @@ Nvivo takes time to set up; and to make the most of the software, it requires so
 
 It is also more useful for some analysis approaches than others: for example very good for thematic content analysis (which we will cover today), but not so well adapted for others like interpretative phenomenological analysis (IPA). 
 
+### The logic of Nvivo 
+
+****Maybe insert the thing about nvivo zombies....
+
+### Navigating online resources 
+
+There are a plethora of online resources for Nvivo (of varying quality...). This can be overwhelming! 
+
+After you've done this workshop, you should feel more confident at searching and using these. 
+
+Where possible, we will sign post you to more advanced online tutorials.  

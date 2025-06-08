@@ -45,7 +45,7 @@ The best texts on using software for qualitative analysis:
 - Bazeley, Pat. (2017) ‘Using Qualitative Data Analysis Software (QDAS) to Assist Data Analyses’. Pp. 1–18 in _Handbook of Research Methods in Health Social Sciences_, edited by P. Liamputtong. Singapore: Springer.
   - [Open access copy](https://researchsupport.com.au/Bazeley_2018_Using_QDAS_submitted.pdf).
 
-### Qualitative Analysis
+### Qualitative Analysis - how to resources
 
 Also useful as a basis for understanding qualitative analysis, coding, and writing up more generally:
 
@@ -53,6 +53,17 @@ Also useful as a basis for understanding qualitative analysis, coding, and writi
   - Hard-copies available in most university libraries.
 -  Saldaña, Johnny. (2013) _The Coding Manual for Qualitative Researchers_. 2nd ed. London: Sage Publications Ltd.
    -  [An Introduction to Codes and Coding](https://emotrab.ufba.br/wp-content/uploads/2020/09/Saldana-2013-TheCodingManualforQualitativeResearchers.pdf) PDF of Chapter 1.
+   
+### Reflexive Thematic analysis (Braun and Clarke) : lectures and videos 
+
+- A [foundational textbook on this approach with interactive online content](https://study.sagepub.com/thematicanalysis).  
+![](images/Braun and Clarke website.png)
+- Accompanying youtube lectures: 
+
+{{< video https://www.youtube.com/embed/DtfPqcwaIoc?si=pW7vwgtNDkUHMvMd >}}
+
+{{< video https://www.youtube.com/embed/-VqcGKvcWm8?si=ybkTdewbrFRK-aiy >}}
+
 
 ### Examples of applied use of NVivo 
 
@@ -64,9 +75,11 @@ Also useful as a basis for understanding qualitative analysis, coding, and writi
 Nvivo is the market leader but some other popular ones are listed below: 
 
 Subscription/licenced software: 
-  + ['ATLAS.ti'](https://atlasti.com/?x-source=gsa&x-campaign=en-search-qda&ai&x-id=19885666023&x-term=147048052029&gad_source=1&gad_campaignid=19885666023&gbraid=0AAAAApc8-YAdvnoKabqn1618YFYKX11TV&gclid=Cj0KCQjwuvrBBhDcARIsAKRrkjfPfcfOgqEWtEVsbGOZ7YRl3CGQJi4uIQfAq0Pxq1CO_LzkAMGVnIkaAvS8EALw_wcB), 
-  + ['MAXQDA'](https://www.maxqda.com/), 
-  + ['Dedoose'](https://www.dedoose.com/). 
+
+-  [ATLAS.ti](https://atlasti.com/?x-source=gsa&x-campaign=en-search-qda&ai&x-id=19885666023&x-term=147048052029&gad_source=1&gad_campaignid=19885666023&gbraid=0AAAAApc8-YAdvnoKabqn1618YFYKX11TV&gclid=Cj0KCQjwuvrBBhDcARIsAKRrkjfPfcfOgqEWtEVsbGOZ7YRl3CGQJi4uIQfAq0Pxq1CO_LzkAMGVnIkaAvS8EALw_wcB), 
+- [MAXQDA](https://www.maxqda.com/), 
+- [Dedoose](https://www.dedoose.com/). 
   
 Free /open source: 
-  + ['Taguette'](https://www.taguette.org/).  
+
+- [Taguette](https://www.taguette.org/).  

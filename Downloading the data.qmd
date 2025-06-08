@@ -21,4 +21,12 @@ You can also access the group directly [here](https://social.sgsss.ac.uk/groups/
 
 ![](Images/Documents.png)
 
-5. Download the whole folder and save it somewhere sensible e.g your documents folder. 
+5. Download the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed. 
+
+6.  Check the content. You should have 4 folders: 
+
+  + 2015 FGDs: 3 transcripts 
+  + 2016 interviews: 14 transcripts, 
+  + Literature: 3 articles 
+  + Research tools: 7 documents: 1 interview questions, 1 list of interview question codes, 1 interview schedule, 3 FGD info sheets, 1 excel of metadata. 
+

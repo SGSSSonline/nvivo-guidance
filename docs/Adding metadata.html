@@ -29,6 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./Saving and sharing.html" rel="next">
 <link href="./Cases.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -102,7 +103,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Project Setup</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./placeholder.html"> 
+    <a class="nav-link" href="./Start coding.html"> 
 <span class="menu-text">Start Coding</span></a>
   </li>  
   <li class="nav-item">
@@ -178,6 +179,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./New project.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Set up a new project</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./Importing files.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Importing files</span></a>
   </div>
@@ -185,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Cases.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Cases and case classifications</span></a>
+ <span class="menu-text">Cases</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -194,13 +201,28 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Adding metadata</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Saving and sharing.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Saving and sharing</span></a>
+  </div>
+</li>
     </ul>
     </div>
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#metadata-file" id="toc-metadata-file" class="nav-link active" data-scroll-target="#metadata-file">Metadata file</a></li>
+  <li><a href="#import-classification-sheet" id="toc-import-classification-sheet" class="nav-link" data-scroll-target="#import-classification-sheet">Import classification sheet</a></li>
+  <li><a href="#manually-add-new-cases" id="toc-manually-add-new-cases" class="nav-link" data-scroll-target="#manually-add-new-cases">Manually add new cases</a></li>
+  <li><a href="#create-new-attributes-for-an-existing-case" id="toc-create-new-attributes-for-an-existing-case" class="nav-link" data-scroll-target="#create-new-attributes-for-an-existing-case">Create new attributes for an existing case</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -224,9 +246,76 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>placeholder</p>
+<p>Now that we have our cases, we can create ‘case classifications’, bringing in the metadata related to each file or individual.</p>
+<p>This could be any number of things, for example socio-demographics like age or gender, or that person’s response to a survey.</p>
+<section id="metadata-file" class="level3">
+<h3 class="anchored" data-anchor-id="metadata-file">Metadata file</h3>
+<p>In the project files you downloaded, in the folder ‘research tools’, open and check the excel sheet entitled ‘metadata’:</p>
+<p><img src="Images/metadata.png" class="img-fluid"></p>
+<p>This file contains information on our participants from the 2016 interviews. We are trying to match this with our existing case classification of ‘People’, so we need to make sure it’s formatted the same way to enable it to match.</p>
+<p>So check that:</p>
+<ul>
+<li>The first column - ‘People’- indicate the cases. Check this is typed the same way in your Nvivo project setup:</li>
+</ul>
+<p><strong><em>insert screenshot</em></strong></p>
+<ul>
+<li>The names in this first column should match the formatting of the cases and the interview file names in Nvivo - and this is <strong>case sensitive</strong> (i.e.&nbsp;if it’s ‘charles’ it must also be ‘charles’ and not ‘Charles’)</li>
+</ul>
+<p><strong><em>insert screenshot</em></strong></p>
+</section>
+<section id="import-classification-sheet" class="level3">
+<h3 class="anchored" data-anchor-id="import-classification-sheet">Import classification sheet</h3>
+<p>From the Import ribbon tab, select ‘classifications’ and then ‘Import classification sheets’.</p>
+<p><img src="Images/Import classification sheet.png" class="img-fluid"></p>
+<p>Select the ‘metadata.xls’ file from the ‘Research tools’ folder.</p>
+<p>Click Open to select file.</p>
+<p>Then click Next on the import Wizard:</p>
+<p><img src="Images/Import classification wizard.png" class="img-fluid"></p>
+<p>Set classification type as ‘case classification’.</p>
+<p>You can select or deselect if you want to create new attributes, update existing classifications, or replace existing attribute values.</p>
+<p>Click Next.</p>
+<p>N.B. to set up ‘file classifications’, follow the same process but select ‘file classifications’ here (might include similar demographic info as well as things like location of interview, who interviewer was, time, date, etc.)</p>
+<p>Choose to represent files ‘as hierarchical names’; click next.</p>
+<p><img src="Images/class wizard step 3.png" class="img-fluid"></p>
+<p>Select how you want blank attributes, dates, time and numbers to be represented.</p>
+<p><img src="Images/class wizard step 4.png" class="img-fluid"></p>
+<p>Click finish.</p>
+<p>Check that case info has been imported to existing ‘People’ classification. You can see that the first row of the excel sheet linked with the cases that already existed, and now you have columns indicating exactly the columns that were in the spreadsheet.</p>
+<p><img src="Images/check case classification.png" class="img-fluid"></p>
+<p>*****UPDATE THIS SETCION TO DEMONSTRATE LINKAGES</p>
+</section>
+<section id="manually-add-new-cases" class="level3">
+<h3 class="anchored" data-anchor-id="manually-add-new-cases">Manually add new cases</h3>
+<p>Click on the ‘cases’ on left hand menu, then right click on the open space in the ‘List View’ under your cases and select ‘New Case’, or use shortcut or Ctrl+Shift+N.</p>
+<p><img src="Images/new case.png" class="img-fluid"></p>
+<p>Input any name / description for the case under ‘General’</p>
+<ul>
+<li><p>Select relevant attributes under ‘Attribute values’</p></li>
+<li><p>Select case classification as ‘People’</p></li>
+<li><p>You can assign values from the drop down box for each attribute</p></li>
+</ul>
+<p>Select OK.</p>
+<p><img src="Images/new case 2.png" class="img-fluid"></p>
+<p><img src="Images/new case 3.png" class="img-fluid"></p>
+</section>
+<section id="create-new-attributes-for-an-existing-case" class="level3">
+<h3 class="anchored" data-anchor-id="create-new-attributes-for-an-existing-case">Create new attributes for an existing case</h3>
+<p>You might want to create a new column in the metadata for a new feature that varies among your cases.</p>
+<p>We are going to create a new attribute ‘2015 pre-election’ that indicates whether they also took part in the 2016 pre-election focus group.</p>
+<p>In the Classification Ribbon, select ‘New Attribute’, OR In the home ribbon, select ‘case classification’, then ‘new attribute’.</p>
+<p>In the ‘General’ tab, enter the name (‘2015 pre-election’) and a description, then move to the ‘Values’ tab.</p>
+<p><img src="Images/new attribute 1.png" class="img-fluid"></p>
+<p><img src="Images/new attribute 2.png" class="img-fluid"></p>
+<p>Assign Values for the attribute (‘values’ tab)</p>
+<p>Click ‘Add’ -&gt; enter ‘Yes’ Click ‘Add’ -&gt; enter ‘No’</p>
+<p>Select ‘OK’ /done</p>
+<p>N.B. default is set to ‘unassigned’ – you can change this depending on your preference</p>
+<p><img src="Images/new attribute 3.png" class="img-fluid"></p>
+<p>Now this column will appear as the last column in your case classifications sheet. Practice toggling this new attribute for your files by clicking on the drop-down arrow.</p>
+<p><img src="Images/new attribute 4.png" class="img-fluid"></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -792,11 +881,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./Cases.html" class="pagination-link" aria-label="Cases and case classifications">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Cases and case classifications</span>
+      <a href="./Cases.html" class="pagination-link" aria-label="Cases">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Cases</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="./Saving and sharing.html" class="pagination-link" aria-label="Saving and sharing">
+        <span class="nav-page-text">Saving and sharing</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->

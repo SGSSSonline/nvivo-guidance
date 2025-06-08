@@ -1,0 +1,67 @@
+---
+title: "Open coding"
+format: html
+---
+
+### What is open coding? 
+
+'Open coding' refers to inductive forms of coding, where meaning emerges from the data through the researcher engaging with the content and deciding to create a code. They are not pre-defined; they emerge through the analysis. 
+
+Before jumping into open coding, let’s consider as a group what themes we might expect to emerge from this dataset?  
+
+### Creating a structure for open coding 
+
+We know there are likely to be strong opinions expressed, so let’s set up some attitude codes that we can quickly apply while reading the interviews: 
+
+- Create an ‘attitude’ code: 
+
+![](Images/attitude code.png)
+
+
+> N.B. Unlike other codes, do not ‘aggregate coding from children’ for the attitude parent code, as we would seldom search for something including everything coded at any type attitude. This can be toggled on later if needed, though. 
+
+- Create subcodes for: 
+
+  + Mixed
+  + Negative 
+  + Neutral 
+  + Positive 
+
+- To create a sub-code right-click an existing code and select ‘new code’. 
+
+![](Images/new subcode.png)
+
+- You can also drag and drop existing codes into another code to make it a subcode.
+
+![](Images/new subcode 2.png)
+
+
+### Create new code based on ideas emerging in the data 
+
+As you read, you may start to notice a key theme/idea/concept popping up throughout that doesn't fit into an attitude that you have pre-defined. You may decide that this deserves its own new code. 
+
+For example, the theme of 'trust' emerges repeatedly: 
+
+****insert screenshot 
+
+- Create a new code for this in the same way as before. 
+
+
+### Continue open coding 
+
+
+- Spend some more time open coding by reading thorough the interviews in the 2016 interview folder. 
+
+- As you go along, code to existing codes or make new ones for recurring ideas. Don’t worry about going back and coding something that might not have occurred to you earlier in the interview or in previous interviews. 
+
+> Remember that coding is iterative! and the same piece of text can have MULTIPLE CODES. 
+
+- After reading a few interviews, take a break to revisit your codes. 
+
+  + Are there any common themes that might make a good ‘parent code’? 
+  + is there something that stands out in your mind from reading that you don’t see in your coding? 
+  
+> Don’t be afraid to re-code the same section with more than one thing (e.g. you might code one comment as ‘trust’, ‘Labour Party’, and ‘positive’).
+
+> Don’t be afraid to make mistakes – you can always un-code!
+

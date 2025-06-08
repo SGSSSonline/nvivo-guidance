@@ -1,0 +1,11 @@
+---
+title: "Coding text material to cases"
+format: html
+---
+
+
+
+### Connecting text from transcripts to a case: manual approach 
+
+### Connecting text from transcripts to a case: autocoding approach 
+

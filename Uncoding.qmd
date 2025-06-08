@@ -1,0 +1,22 @@
+---
+title: "Uncoding"
+format: html
+---
+
+
+### Uncode when necessary 
+
+If you’ve coded something incorrectly, you can **uncode text** in as many ways as you can code. 
+
+After highlighting the text, you can either: 
+
+-	select ‘uncode’ in the document ribbon or the coding bar; 
+
+-	use the keystroke (CTRL+SHIFT+F9); 
+
+-	rightclick and choose uncode. 
+
+***add arrows 
+
+![](Images/uncode.png)
+

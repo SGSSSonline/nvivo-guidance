@@ -1,5 +1,0 @@
----
-title: "Cases and metadata"
-format: html
----
-

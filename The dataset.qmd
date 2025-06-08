@@ -50,3 +50,5 @@ For more information on open research and data:
   + Take one of these **free** [data skills modules](https://ukdataservice.ac.uk/learning-hub/data-skills-modules/) from the UK Data Service which covers topics like research data management, finding secondary data, data resuse and many more topics. 
   
 ![](Images/UK data service.png)
+
+
