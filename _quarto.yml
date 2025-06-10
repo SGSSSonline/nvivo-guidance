@@ -23,7 +23,7 @@ website:
     pinned: true
     left:
       - href: Getting started.qmd
-        text: "Introduction"
+        text: "Intro"
       - href: project-setup.qmd
         text: "Project Setup"
       - href: Start coding.qmd
@@ -31,13 +31,14 @@ website:
       - href: index.qmd
         text: "Going Further"
       - href: Designing your Nvivo project.qmd
-        text: "Designing your own Nvivo project"
+        text: "Design your own project"
     
     right:
       - href: primers.qmd
-        text: "Primers"
+        text: "Analysis primers"
       - Nvivo versions.qmd
-      - resources.qmd
+      - href: resources.qpm
+      - text: "Nvivo resources"
       - about.qmd
     logo: brand/whitelogo.png
     background: "#073B59"

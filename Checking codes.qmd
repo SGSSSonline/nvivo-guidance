@@ -12,7 +12,7 @@ Here is an example of seeing all material with the 'economy' code:
 
 ****update screeenshot with this project 
 
-![](Images/view codes.png)
+![](images/view codes.png)
 
 
 ### Coding stripes 
@@ -20,5 +20,5 @@ Here is an example of seeing all material with the 'economy' code:
 
 To see what you have (and haven’t) coded already, you can turn on **coding stripes**, which visualize the amount of text in the transcript coded against different codes.  You may find that you’ve coded some areas mistakenly or missed other codes 
 
-![](Images/coding stripes.png)
+![](images/coding stripes.png)
 

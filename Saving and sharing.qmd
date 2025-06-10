@@ -13,7 +13,7 @@ To remind yourself where the file is saved you can go to:
   
   and look at the location under File Name:  
   
-  ![](Images/save 1.png)
+  ![](images/save 1.png)
 
 ### Sharing with others 
 

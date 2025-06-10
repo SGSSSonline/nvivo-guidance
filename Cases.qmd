@@ -19,9 +19,9 @@ Basically anything you want to organise and compare.
 
 Before you build a new project, you should decide what are your cases/units of analysis. 
 
-In this QESB project, we have created cases for every person with a 1-2-1 interview: 
+In this QESB project, we have created cases for every person with a 1-2-1 interview; heer you can see Claire's case highlighted:  
 
-![](Images/cases created.png)
+![](images/cases created.png)
 
 and you can see that each person has 1 file associated with them (the interview transcript). 
 
@@ -42,7 +42,7 @@ Some examples:
   
   Here's an example taken from an [Nvivo explainer on cases](https://help-nv.qsrinternational.com/12/win/v12.1.115-d3ea61/Content/cases/cases.htm): 
   
-![](Images/cases graphic.png)
+![](images/cases graphic.png)
 
 
 You don't have to use cases, but doing us unlocks a lot of extra functionality, and it makes a lot of sense if you have anything more than just a few transcripts. 

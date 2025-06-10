@@ -1,5 +1,5 @@
 ---
-title: "Designing your own Nvivo project: first steps"
+title: "Design your own Nvivo project: first steps"
 format: html
 ---
 
@@ -10,7 +10,7 @@ Before you start building your own Nvivo project,it's a good idea to think throu
 ### **What types of data and files do I have?**
 
 
-![](Images/design 1.png)
+![](images/design 1.png)
 
 These need to be digitized, but could include text items like...
   

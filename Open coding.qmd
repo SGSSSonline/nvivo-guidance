@@ -15,7 +15,7 @@ We know there are likely to be strong opinions expressed, so let’s set up some
 
 - Create an ‘attitude’ code: 
 
-![](Images/attitude code.png)
+![](images/attitude code.png)
 
 
 > N.B. Unlike other codes, do not ‘aggregate coding from children’ for the attitude parent code, as we would seldom search for something including everything coded at any type attitude. This can be toggled on later if needed, though. 
@@ -29,11 +29,11 @@ We know there are likely to be strong opinions expressed, so let’s set up some
 
 - To create a sub-code right-click an existing code and select ‘new code’. 
 
-![](Images/new subcode.png)
+![](images/new subcode.png)
 
 - You can also drag and drop existing codes into another code to make it a subcode.
 
-![](Images/new subcode 2.png)
+![](images/new subcode 2.png)
 
 
 ### Create new code based on ideas emerging in the data 

@@ -4,13 +4,14 @@ subtitle: "**Summer school 2025 Nvivo workshop**"
 format: html
 ---
 
+![](images/nvivo logo.png)
 
 ### Session brief
 
 This one-day in-person workshop is aimed at those with no experience of Nvivo, or those who would like a refresher. We will move through three topics:
 
 
-![](Images/Session brief-1.png)
+![](images/Session brief-1.png)
 
 The morning is led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/) will work through some basic tasks: 
 
@@ -33,7 +34,6 @@ We will use some curated open access qualitative data (the Qualitative Election 
 
 ### How can Nvivo help me? 
 
-![](images/nvivo logo.png)
 
 Nvivo is a software package for managing qualitative and mixed methods analysis projects. 
 

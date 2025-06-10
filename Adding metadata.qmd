@@ -3,7 +3,11 @@ title: "Adding metadata"
 format: html
 ---
 
-Now that we have our cases, we can create  ‘case classifications’, bringing in the metadata related to each file or individual. 
+Right now, when we look at our cases, they don't have attributes or metadata: 
+
+![](images/case no attribute.png)
+
+Now we will create ‘case classifications’, bringing in the metadata related to each file or individual. 
 
 This could be any number of things, for example socio-demographics like age or gender, or that person's response to a survey. 
 
@@ -11,57 +15,58 @@ This could be any number of things, for example socio-demographics like age or g
 
 In the project files you downloaded, in the folder 'research tools', open and check the excel sheet entitled ‘metadata’: 
 
-![](Images/metadata.png)
+![](images/metadata.png)
 
 This file contains information on our participants from the 2016 interviews. We are trying to match this with our existing case classification of ‘People’, so we need to make sure it's formatted the same way to enable it to match. 
 
 So check that: 
 
--	The first column - 'People'- indicate the cases. Check this is typed the same way in your Nvivo project setup: 
+-	The first column - 'People'- indicate the cases. Check this is typed the same way in your Nvivo project setup. 
 
-***insert screenshot***
 
-- The names in this first column should match the formatting of the cases and the interview file names in Nvivo - and this is **case sensitive** (i.e. if it's 'charles' it must also be 'charles' and not 'Charles') 
+- The names in this first column should match the formatting of the cases and the interview file names in Nvivo - and this is **case sensitive** (i.e. if it's vince it must also be 'vince' and not 'Vince') 
 
-***insert screenshot***
+![](images/check metadata format.png)
+
+
 
 ### Import classification sheet
 
-From the Import ribbon tab, select ‘classifications’ and then ‘Import classification sheets’. 
+- From the Import ribbon tab, select ‘classifications’ and then ‘Import classification sheets’. 
 
-![](Images/Import classification sheet.png)
+![](images/Import classification sheet.png)
 
-Select the ‘metadata.xls’ file from the ‘Research tools’ folder. 
+- Select the ‘metadata.xls’ file from the ‘Research tools’ folder. 
 
-Click Open to select file. 
+- Click Open to select file. 
 
-Then click Next on the import Wizard:  
+- Then click Next on the import Wizard:  
 
-![](Images/Import classification wizard.png)
+![](images/Import classification wizard.png)
 
 
-Set classification type as ‘case classification’.
+- Set classification type as ‘case classification’.
 
 You can select or deselect if you want to create new attributes, update existing classifications, or replace existing attribute values. 
 
-Click Next. 
+- Click Next. 
 
 N.B. to set up ‘file classifications’, follow the same process but select ‘file classifications’ here (might include similar demographic info as well as things like location of interview, who interviewer was, time, date, etc.)
 
-Choose to represent files ‘as hierarchical names’; click next.
+- Choose to represent files ‘as hierarchical names’; click next.
 
-![](Images/class wizard step 3.png)
+![](images/class wizard step 3.png)
 
 
 Select how you want blank attributes, dates, time and numbers to be represented. 
 
-![](Images/class wizard step 4.png)
+![](images/class wizard 4.png)
 
-Click finish.
+- Click finish.
 
-Check that case info has been imported to existing ‘People’ classification. You can see that the first row of the excel sheet linked with the cases that already existed, and now you have columns indicating exactly the columns that were in the spreadsheet. 
+- Now, check that case info has been imported to existing ‘People’ classification. You can see that the first row of the excel sheet linked with the cases that already existed, and now you have columns indicating exactly the columns that were in the spreadsheet. 
 
-![](Images/check case classification.png)
+![](images/check class classification.png)
 
 *****UPDATE THIS SETCION TO DEMONSTRATE LINKAGES 
 
@@ -69,7 +74,7 @@ Check that case info has been imported to existing ‘People’ classification. 
 
 Click on the 'cases' on left hand menu, then right click on the open space in the ‘List View’ under your cases and select ‘New Case', or use shortcut or Ctrl+Shift+N. 
 
-![](Images/new case.png)
+![](images/new case.png)
 
 Input any name / description for the case under ‘General’ 
 
@@ -81,9 +86,9 @@ Input any name / description for the case under ‘General’
 
 Select OK. 
 
-![](Images/new case 2.png)
+![](images/new case 2.png)
 
-![](Images/new case 3.png)
+![](images/new case 3.png)
 
 ### Create new attributes for an existing case 
 
@@ -96,9 +101,9 @@ In the home ribbon, select ‘case classification’, then ‘new attribute’.
 
 In the ‘General’ tab, enter the name ('2015 pre-election’) and a description, then move to the ‘Values’ tab. 
 
-![](Images/new attribute 1.png)
+![](images/new attribute 1.png)
 
-![](Images/new attribute 2.png)
+![](images/new attribute 2.png)
 
 
 Assign Values for the attribute (‘values’ tab)
@@ -110,11 +115,11 @@ Select ‘OK’ /done
 
 N.B. default is set to ‘unassigned’ – you can change this depending on your preference
 
-![](Images/new attribute 3.png)
+![](images/new attribute 3.png)
 
 Now this column will appear as the last column in your case classifications sheet. Practice toggling this new attribute for your files by clicking on the drop-down arrow. 
 
-![](Images/new attribute 4.png)
+![](images/new attribute 4.png)
 
 
 

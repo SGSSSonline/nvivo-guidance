@@ -13,11 +13,11 @@ Now that we have established our cases, we will link the responses of the 14 peo
 
 So, we will link the interview transcript of Walt: 
 
-![](Images/Walt interview.png)
+![](images/Walt interview.png)
 
 with Walt's data from the focus group he took part in: 
 
-![](Images/Walt FGD.png)
+![](images/Walt FGD.png)
 
 
 To do this, we need to go into  each focus group transcript, search for responses from Walt, and manually code this to Walt's case. 
@@ -31,7 +31,7 @@ To do this, we need to go into  each focus group transcript, search for response
 
 - In the focus group data, use Ctrl+F (find) to search for responses from Walt. 
 
-![](Images/Code to case ctrl F.png)
+![](images/Code to case ctrl F.png)
 
 ***screenshot 
 
@@ -40,7 +40,7 @@ To do this, we need to go into  each focus group transcript, search for response
 
 ****update screesnhot- add arrow for drag 
 
-![](Images/Code to case drag.png)
+![](images/Code to case drag.png)
 
 - You can check it has been added to Walt's case by clicking on it. It should show...
 
@@ -66,7 +66,7 @@ We will look at how to do this using our focus group discussions, and sort speak
 
 - In the autocode wizard, select speaker name and click next. 
 
-![](Images/autocode 1.png)
+![](images/autocode 1.png)
 
 - In the autocode wizard, input all the speaker names from the transcript. 
 
@@ -74,7 +74,7 @@ You can either scroll through the text and insert the names one by one, or you c
 
 As you insert each name, the relevant text following their name will change color throughout the transcript. 
 
-![](Images/autocode 2.png)
+![](images/autocode 2.png)
 
 >NOTE above, if the person’s name is also mentioned in the text of what someone else says,  it gets picked up as well. 
 > This **isn't** what we want! 
@@ -88,7 +88,7 @@ Let's start the process again using a properly formatted transcript.
 
 Notice that in the Birmingham transcript, every time a person speaks it is followed by a colon: 
 
-![](Images/Birmingham FGD.png)
+![](images/Birmingham FGD.png)
 
 
 - In the autocode wizard, enter speaker names with a colon (e.g. ***Charles:***) and click next. 
@@ -97,7 +97,7 @@ Notice that in the Birmingham transcript, every time a person speaks it is follo
 
 - As we already have cases set up for the people we are interested in, select ‘add to existing classifications’, ‘people’ and select ‘finish’. 
 
-![](Images/autocode 3.png)
+![](images/autocode 3.png)
 
 - Check results by clicking into ‘cases’ and you should see that for those cases you have just autocoded, they have a higher number of references.
 

@@ -14,7 +14,7 @@ With additional material from:
 
 This work is supported by the UKRI Economic and Social Research Council (ESRC). 
 
-![](Images/ESRC logo.png)
+![](images/ESRC logo.png)
 
 
 These pages are 'living documents' and will incrementally be updated over time. See the Callout below for more information.

@@ -7,29 +7,35 @@ format: html
 
 Open NVivo and click the ‘New Project’ tile on the welcome page. 
 
-If you already have a project open in NVivo, go to ‘File’ on the ribbon and select ‘New’. 
-**Insert screenshot of opening a new project 
+If you already have a project open in NVivo, go to ‘File’ on the ribbon and select ‘New’ (step 1). 
 
+![](images/newproject.png)
 
-### Project settings 
+- Give your project a suitable title (2)
 
-The file name will be automatically generated. 
+- The file name will be automatically generated (3). 
 
-You can enter a description of the project at this stage as well. While not required, it’s good practice to include something here.
+- You can enter a description of the project at this stage as well (4). While not required, it’s good practice to include something here.
 
-Choose your preferred save and recovery settings. 
+- You can choose a language here - English (US) is the default (5)
 
-NB: default settings are to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled. 
+- Click next (6)
 
-**Insert screenshot 
+- Choose your preferred save and recovery settings:  
+
+![](images/new project save setting.png)
+
+> NB: default settings are to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled. 
+It's VERY IMPORTANT to save regularly as Nvivo has a habit of crashing. 
 
 
 ### Optional tour 
 
-![](Images/Optional tour.png)
+![](images/optional tour.png)
 
 You will be prompted to take a quick tour, which will outline:  
-  +	Importing data 
+
+  + Importing data 
   + Cases 
   + Notes
   +	Queries
@@ -38,4 +44,3 @@ You will be prompted to take a quick tour, which will outline:
 
 Skip for now – but may be worth coming back to in the future.
 
-### 

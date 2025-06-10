@@ -12,7 +12,7 @@ format: html
   
   The most commonly encountered versions :
   
-  ![](Images/Nvivo versions table-1.png)
+  ![](images/Nvivo versions table-1.png)
 Between Nvivo versions, there is **forwards compatibility only**. 
 This means that you can open an Nvivo nvp file made in Nvivo 12 in Nvivo Release 1, but not the other way around. To open an older file in a more recent version, open the file, and then click ‘upgrade’. 
 
@@ -28,6 +28,6 @@ With Nvivo Release 1.0 (Nvivo 13), QSR changed the terminology for key elements.
 
 Some important ones to note: 
 
-![](Images/Naming-1 2.png)
+![](images/Naming-1 2.png)
 
 ## The guidance for your specific version can be found [here](resources.qmd). 

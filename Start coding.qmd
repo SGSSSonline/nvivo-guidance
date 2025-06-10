@@ -5,19 +5,13 @@ format: html
 
 ### What are codes? 
 
-> Codes are *tags or containers* for complex qualitative data; 
-
-> they are a *way to index, sort, link and interrogate* data. 
-
-> They help us compile information that is related.  
-
-> Codes are a unit we use to organize our analysis. 
+> Codes are *tags or containers* for complex qualitative data; they are a *way to index, sort, link and interrogate* data. 
 
 > The process of coding data involves finding ways of summarizing key meanings within your data. 
 
 > Remember: the same piece of text can have MULTIPLE CODES. 
 
-![](Images/coding.png)
+![](images/coding.png)
  
 
 ### Deductive vs inductive coding 

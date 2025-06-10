@@ -1,5 +1,5 @@
 ---
-title: "Adding new emerging codes"
+title: "Adding new codes"
 format: html
 ---
 
@@ -14,7 +14,7 @@ An example of this in the Dundee transcript is the question header 'Subsequent P
 
 
 ****add highlight on the this screenshot 
-![](Images/Subsequent political change.png)
+![](images/Subsequent political change.png)
 
 To code this to a new code, highlight the text, and use one of 4 methods: 
 
@@ -25,7 +25,7 @@ To code this to a new code, highlight the text, and use one of 4 methods:
 > You can use this coding bar to code to existing codes as well. 
 > Once you start typing in the bar, NVivo will offer you existing codes to select:
 
-![](Images/coding bar.png)
+![](images/coding bar.png)
 
 3. Right click and choose ‘code selection’, then you can create a new code
 
@@ -33,7 +33,7 @@ To code this to a new code, highlight the text, and use one of 4 methods:
 
 ***add highlighting 
 
-![](Images/new code drag.png)
+![](images/new code drag.png)
 
 
 ### Things to remember 

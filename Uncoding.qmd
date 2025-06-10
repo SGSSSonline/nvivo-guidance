@@ -18,5 +18,5 @@ After highlighting the text, you can either:
 
 ***add arrows 
 
-![](Images/uncode.png)
+![](images/uncode.png)
 
