@@ -1,13 +1,6 @@
 ---
 title: "About"
-about:
-  id: about-section
-  template: broadside
-  image: brand/solologo.png
-  image-width: 1em
 ---
-
-:::{#about-section}
 
 These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:
 
@@ -22,9 +15,6 @@ With additional material from:
 This work is supported by the UKRI Economic and Social Research Council (ESRC). 
 
 ![](images/ESRC logo.png)
-
-:::
-
 
 ::: {.callout-important}
 ## 'Living Documents'
