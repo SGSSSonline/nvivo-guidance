@@ -14,7 +14,7 @@ Follow the steps by clicking through the arrows at the bottom right.
 
 **Which Nvivo version are we using?** 
 
-This project setup guide uses screenshots from [NVivo Windows Release 1  ](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm). Things may look a little different if you’re working on other versions. Differences with windows 14 and 15 are minimal. 
+This project setup guide uses screenshots from [NVivo Windows 14 and 15 ](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm). Things may look a little different if you’re working on other versions. Differences with windows R1, 14 and 15 are minimal (where they exist, we'll try to mention it)
 
 See our [cheatsheet](Nvivo versions.qmd) for a quick guide to how things differ across versions.  
 

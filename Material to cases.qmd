@@ -4,7 +4,7 @@ format: html
 ---
 
 
-### Coding to a case - manual  
+### Coding to a case - manual approach  
 
 
 In this example project, we are most interested in people who have **both** a 2016 interview and took part in the 2015 pre-election FGDs. 
@@ -22,47 +22,41 @@ with Walt's data from the focus group he took part in:
 
 To do this, we need to go into  each focus group transcript, search for responses from Walt, and manually code this to Walt's case. 
 
-#### **Steps to do manually**
+#### **Steps to do this manually**
 
 - Open the 2015 Dundee pre-election focus group in your Detail View, and have Cases, People in your List View. 
 
-***screenshot 
-
-
 - In the focus group data, use Ctrl+F (find) to search for responses from Walt. 
 
-![](images/Code to case ctrl F.png)
-
-***screenshot 
-
-- Highlight the text and drag it across to Walt's case in the list view. NB. It may be useful to highlight the preceding moderator's question/prompt that Walt is responding to. 
+![](images/Code to case 1.png)
 
 
-****update screesnhot- add arrow for drag 
+- Highlight the text and drag it across to Walt's case in the list view. NB. It may be useful to highlight the preceding moderator's question/prompt that Walt is responding to.
 
-![](images/Code to case drag.png)
+- You can double click on Walt's case to check it's been coded correctly. 
 
-- You can check it has been added to Walt's case by clicking on it. It should show...
+![](images/Code to case 2.png)
 
-***screenshot 
-
-- Repeat manually for all instances of Walt's response in the focus group transcript, then repeat for other participants. 
+- Then you would cycle through manually for all instances of Walt's response in the focus group transcript, then repeat for other participants. 
 
 
-### Coding to a case- autocoding  
+### Coding to a case- using autocoding  
 
 
-Doing this manually gets really repetitive!  
+- While this is quite accurate, doing this manually gets really repetitive!  
 
 Luckily, autocoding can help speed it up. 
 
-However, for this to work, you must **format the transcripts appropriately** in Word before uploading them into NVivo. 
+However, for this to work, you must remember to **format the transcripts appropriately** in Word before uploading them into NVivo. 
 
-We will look at how to do this using our focus group discussions, and sort speakers to the into cases. 
+We will look at how to do this using our focus group discussions, and sort speakers to their cases. 
 
-#### **Autocode speakers - the importance of transcript formatting**
+> IMPORTANT: format of transcripts is crucial here. To use this feature, you need to format your transcript with each speaker's name at the beginning of a line, without any preceding characters. The speaker name can be on the same line as the response or on a separate line above it, as long as it's at the start of the line. You can also use a table format with the speaker name in the left column and the response in the right. 
 
-- Open the Dundee 2015 pre-election focus group discussion files and select 'autocode' from the ribbon. 
+Our transcripts are correctly formatted so it should work :-) ! 
+
+
+- Continue with Dundee 2015 pre-election focus group discussion file and select 'autocode' from the ribbon. 
 
 - In the autocode wizard, select speaker name and click next. 
 
@@ -76,11 +70,14 @@ As you insert each name, the relevant text following their name will change colo
 
 ![](images/autocode 2.png)
 
->NOTE above, if the person’s name is also mentioned in the text of what someone else says,  it gets picked up as well. 
+>NOTE above, as per the formatting, if the person’s name is mentioned at the start of a line as someone speaks,  it gets picked up as well. 
+
 > This **isn't** what we want! 
 > This highlights the importance of pre-formatting the transcript in Word so that autocode works as intended. 
 
 - Press cancel to exit the autocode wizard. 
+
+## 
 
 Let's start the process again using a properly formatted transcript. 
 

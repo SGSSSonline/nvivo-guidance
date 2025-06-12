@@ -76,7 +76,7 @@ Click on the 'cases' on left hand menu, then right click on the open space in th
 
 ![](images/new case.png)
 
-Input any name / description for the case under ‘General’ 
+- Input any name / description for the case under ‘General’ 
 
 - Select relevant attributes under ‘Attribute values’
 
@@ -88,38 +88,48 @@ Select OK.
 
 ![](images/new case 2.png)
 
-![](images/new case 3.png)
+![](images/new case 4.png)
+
 
 ### Create new attributes for an existing case 
 
-You might want to create a new column in the metadata for a new feature that varies among your cases.
+You might want to create a new attribute i.e. a new column in the metadata for some feature which varies between your cases. 
 
 We are going to create a new attribute ‘2015 pre-election’ that indicates whether they also took part in the 2016 pre-election focus group. 
 
-In the Classification Ribbon, select ‘New Attribute’, OR
-In the home ribbon, select ‘case classification’, then ‘new attribute’. 
+- Click on Case Classifications-> People 
 
-In the ‘General’ tab, enter the name ('2015 pre-election’) and a description, then move to the ‘Values’ tab. 
+- In the home ribbon, go to Case classification -> new attribute
 
 ![](images/new attribute 1.png)
+
+- In the ‘General’ tab, enter the name ('2015 pre-election’) and a description, then move to the ‘Values’ tab. 
+
+
+![](images/new attribute pop up.png)
+
+- Another way to do this is, within a case, scroll to the bottom of the list of attributes and click new attribute (step 1 below)
+
+- Then follow the same steps as above 
 
 ![](images/new attribute 2.png)
 
 
-Assign Values for the attribute (‘values’ tab)
+- Click the values tab to assign possible options for the attribute 
 
-Click ‘Add’ -> enter ‘Yes’
-Click ‘Add’ -> enter ‘No’
+- We are going to make this yes/ no, so click ‘Add’ -> enter ‘Yes’, 'Add' -> enter 'no' 
 
-Select ‘OK’ /done 
+- Select ‘OK’ /done: 
+
+![](images/new attribute pop up 2.png)
 
 N.B. default is set to ‘unassigned’ – you can change this depending on your preference
 
-![](images/new attribute 3.png)
+Now this column will appear as the last column in your case classifications sheet, but it is empty with no values (i.e. 'unassigned')
 
-Now this column will appear as the last column in your case classifications sheet. Practice toggling this new attribute for your files by clicking on the drop-down arrow. 
+- You can set values for this new attribute by clicking on the drop-down arrow. 
 
-![](images/new attribute 4.png)
+![](images/new attribute show 1.png)
 
 
 

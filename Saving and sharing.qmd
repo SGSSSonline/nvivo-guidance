@@ -5,15 +5,25 @@ format: html
 
 ### Saving the project 
 
-If you followed the default settings, we have been saving our project as we go (every 15 minutes). 
+If you followed the default settings, we will have seen pop-ups every 15 minutes to ask us to save. 
 
-To remind yourself where the file is saved you can go to: 
+- To remind yourself where the file is saved you can go to: 
 
   File > Project Properties > General 
   
-  and look at the location under File Name:  
+- and look at the location under File Name:  
   
-  ![](images/save 1.png)
+  ![](images/project properties.png)
+
+
+- If you click on the 'save and recovery' tab you can alter the frequency of saving.
+
+- You also get the chance to set up a recovery option. This can be helpful if you are experiencing issues with Nvivo crashing. 
+
+
+![](images/save settings.png)
+
+
 
 ### Sharing with others 
 
@@ -21,14 +31,22 @@ You can easily email or share the project (.nvp file) with others.
 
 **REMEMBER:** There is forwards compatibility only. 
 
-That means, as we are working Windows R1, it can only be opened in versions Windows R1, Nvivo 14 or 15. 
+If you created a project in Nvivo 14, you can only share with those using Nvivo 14 and 15, but not earlier versions. 
 
-If you want to share with a mac user, you need to convert it before you share it. 
+If you want to share with a mac user, you also need to convert it before you share it. 
 
-To do this, open the file tab -> Copy project -> Copy to, Nvivo (Mac), and choose a save location.  
+- To do this, open the file tab -> Copy project
+
+![](images/File copy project.png)
 
 
-This process may take some time. 
+- Copy to, Nvivo (Mac), and choose a save location.  
+
+![](images/copy project 2.png)
+
+
+
+The conversion to mac and vice versa may take some time. 
 
 After the conversion is complete, you should have created a duplicate mac version fo the file in .nvpx format. 
 
