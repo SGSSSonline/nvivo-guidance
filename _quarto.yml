@@ -112,3 +112,12 @@ format:
     css:
       - styles.css
     toc: true
+
+custom-callout:
+  zombie:
+    title: "QDAS Zombies"
+    icon-symbol: "fa-viruses"
+    color: "green"
+
+filters:
+  - custom-callout

@@ -39,3 +39,7 @@
   background-color: softbox-bg($callout-color-important);
   border-color: $callout-color-important;
 }
+.callout-zombie.callout-style-simple {
+  background-color: softbox-bg($green);
+  border-color: $green;
+}
