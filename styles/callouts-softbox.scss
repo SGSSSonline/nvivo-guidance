@@ -1,0 +1,29 @@
+/*-- scss:rules --*/
+
+.callout.softbox {
+  border-left-width: var(--bs-border-width);
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  --callout-header-bg: transparent;
+}
+
+.callout.softbox .callout-header,
+.callout.softbox .callout-title {
+  color: var(--bs-body-color);
+}
+
+.callout-note.softbox {
+  background-color: tint-color($callout-color-note, 92%);
+}
+.callout-tip.softbox {
+  background-color: tint-color($callout-color-tip, 92%);
+}
+.callout-caution.softbox {
+  background-color: tint-color($callout-color-caution, 92%);
+}
+.callout-warning.softbox {
+  background-color: tint-color($callout-color-warning, 92%);
+}
+.callout-important.softbox {
+  background-color: tint-color($callout-color-important, 97%);
+}

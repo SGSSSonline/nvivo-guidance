@@ -1,10 +1,10 @@
 /* css styles */
 a:hover {
-    color: #BD62AB !important;
+  color: #bd62ab !important;
 }
 
 #TOC a:hover {
-  color: #BD62AB !important;
+  color: #bd62ab !important;
 }
 
 .sidebar-menu-container .menu-text {
@@ -21,3 +21,13 @@ a:hover {
 .navbar-nav.me-auto .menu-text {
   font-weight: bold;
 }
+
+.callout.callout-style-simple > div.callout-header {
+  font-size: unset;
+  margin-bottom: 1rem;
+}
+
+.callout.callout-style-simple .callout-body {
+  font-size: unset;
+}
+
