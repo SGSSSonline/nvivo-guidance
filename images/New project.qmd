@@ -1,0 +1,43 @@
+---
+title: "Set up a new project"
+format: html
+---
+
+### Create a new project in Nvivo 
+
+Open NVivo and click the ‘New Project’ tile on the welcome page. 
+
+If you already have a project open in NVivo, go to ‘File’ on the ribbon and select ‘New’. 
+**Insert screenshot of opening a new project 
+
+
+### Project setup 
+
+Add a **project title**. 
+
+The **file name** will be automatically generated, but you may want to adjust where this is being saved to. 
+
+You can enter a **description of the project** at this stage as well. While not required, it’s good practice to include something here.
+
+Next, choose your preferred **save and recovery** settings. 
+
+NB: the default settings are to have autosave disabled with save prompts every 15 minutes, which is quite useful.  If you turn on autosave, undo functions are disabled. 
+
+**Insert screenshot 
+
+
+### Optional tour 
+
+![](~/Desktop/git/nvivo-guidance/images/Optional tour.png)
+
+You will be prompted to take a quick tour of Nvivo, which will outline:  
+  +	Importing data 
+  + Cases 
+  + Notes
+  +	Queries
+  + Visualizations 
+  + Centralizing workflow
+
+Skip for now – but may be worth coming back to in the future.
+
+### 

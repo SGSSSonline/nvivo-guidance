@@ -15,12 +15,14 @@ Below are links to Lumivero's NVivo User Help pages for the more recent Windows 
 - [NVivo 12](https://help-nv.qsrinternational.com/12/win/v12.1.115-d3ea61/Content/welcome.htm)
 - [NVivo Release 1](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm)
 - [NVivo 14](https://help-nv.qsrinternational.com/14/win/Content/welcome.htm)
+- [Nvivo 15](https://help-nv.qsrinternational.com/15/win/Content/welcome.htm)
 
 **MacOS**:
 
 - [NVivo 12](https://help-nv.qsrinternational.com/12/mac/v12.1.115-d3ea61/Content/welcome.htm)
 - [NVivo Release 1](https://help-nv.qsrinternational.com/20/mac/Content/welcome.htm)
 - [NVivo 14](https://help-nv.qsrinternational.com/14/mac/Content/welcome.htm)
+- [Nvivo 15](https://help-nv.qsrinternational.com/15/mac/Content/welcome.htm)
 
 ### Other online Lumivero resources
 
@@ -43,7 +45,7 @@ The best texts on using software for qualitative analysis:
 - Bazeley, Pat. (2017) ‘Using Qualitative Data Analysis Software (QDAS) to Assist Data Analyses’. Pp. 1–18 in _Handbook of Research Methods in Health Social Sciences_, edited by P. Liamputtong. Singapore: Springer.
   - [Open access copy](https://researchsupport.com.au/Bazeley_2018_Using_QDAS_submitted.pdf).
 
-### Qualitative Analysis
+### Qualitative Analysis - how to resources
 
 Also useful as a basis for understanding qualitative analysis, coding, and writing up more generally:
 
@@ -51,8 +53,23 @@ Also useful as a basis for understanding qualitative analysis, coding, and writi
   - Hard-copies available in most university libraries.
 -  Saldaña, Johnny. (2013) _The Coding Manual for Qualitative Researchers_. 2nd ed. London: Sage Publications Ltd.
    -  [An Introduction to Codes and Coding](https://emotrab.ufba.br/wp-content/uploads/2020/09/Saldana-2013-TheCodingManualforQualitativeResearchers.pdf) PDF of Chapter 1.
-
-### NVivo Examples
+ 
+ 
+### Examples of applied use of NVivo 
 
 - Byrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. _Quality & Quantity_ 56(3):1391–1412. doi: [10.1007/s11135-021-01182-y](https://doi.org/10.1007/s11135-021-01182-y).
 - Hutchison, Andrew John, Lynne Halley Johnston, and Jeff David Breckon. (2010) ‘Using QSR‐NVivo to Facilitate the Development of a Grounded Theory Project: An Account of a Worked Example’. _International Journal of Social Research Methodology_ 13(4):283–302. doi: [10.1080/13645570902996301](https://doi.org/10.1080/13645570902996301).
+
+### Other qualitative analysis software 
+
+Nvivo is the market leader but some other popular ones are listed below: 
+
+Subscription/licenced software: 
+
+-  [ATLAS.ti](https://atlasti.com/?x-source=gsa&x-campaign=en-search-qda&ai&x-id=19885666023&x-term=147048052029&gad_source=1&gad_campaignid=19885666023&gbraid=0AAAAApc8-YAdvnoKabqn1618YFYKX11TV&gclid=Cj0KCQjwuvrBBhDcARIsAKRrkjfPfcfOgqEWtEVsbGOZ7YRl3CGQJi4uIQfAq0Pxq1CO_LzkAMGVnIkaAvS8EALw_wcB), 
+- [MAXQDA](https://www.maxqda.com/), 
+- [Dedoose](https://www.dedoose.com/). 
+  
+Free /open source: 
+
+- [Taguette](https://www.taguette.org/).  

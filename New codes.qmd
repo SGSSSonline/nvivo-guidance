@@ -1,0 +1,50 @@
+---
+title: "Adding new codes"
+format: html
+---
+
+
+### Creating new codes
+
+As you progress with coding, some headings may not correspond to our initial question guide. 
+
+This is common- these may be questions that were added in later or discussion that came up unexpectedly in the conversation. 
+
+An example of this in the Dundee transcript is the question header 'Subsequent Political Change' : 
+
+
+****add highlight on the this screenshot 
+![](images/Subsequent political change.png)
+
+To code this to a new code, highlight the text, and use one of 4 methods: 
+
+1. Type a new code into the bar after ‘Code to:’, then push ‘Enter’ 
+
+2. Click the Open Circle after the bar to create the code and code highlighted text
+
+> You can use this coding bar to code to existing codes as well. 
+> Once you start typing in the bar, NVivo will offer you existing codes to select:
+
+![](images/coding bar.png)
+
+3. Right click and choose ‘code selection’, then you can create a new code
+
+4. Yet another way is to drag and drop text into the open space below the codes to open a prompt to create a new code: 
+
+***add highlighting 
+
+![](images/new code drag.png)
+
+
+### Things to remember 
+
+
+- Codes will sort themselves to be alphabetical – clear, direct, short codes are helpful 
+
+
+- When creating a new code, think of your future self and any collaborators. 
+
+**Always** include a description of what you think this code means and what should be included here. 
+
+
+

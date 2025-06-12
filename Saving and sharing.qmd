@@ -1,0 +1,35 @@
+---
+title: "Saving and sharing"
+format: html
+---
+
+### Saving the project 
+
+If you followed the default settings, we have been saving our project as we go (every 15 minutes). 
+
+To remind yourself where the file is saved you can go to: 
+
+  File > Project Properties > General 
+  
+  and look at the location under File Name:  
+  
+  ![](images/save 1.png)
+
+### Sharing with others 
+
+You can easily email or share the project (.nvp file) with others. 
+
+**REMEMBER:** There is forwards compatibility only. 
+
+That means, as we are working Windows R1, it can only be opened in versions Windows R1, Nvivo 14 or 15. 
+
+If you want to share with a mac user, you need to convert it before you share it. 
+
+To do this, open the file tab -> Copy project -> Copy to, Nvivo (Mac), and choose a save location.  
+
+
+This process may take some time. 
+
+After the conversion is complete, you should have created a duplicate mac version fo the file in .nvpx format. 
+
+More information [here](https://help-nv.qsrinternational.com/15/mac/Content/projects-teamwork/work-with-projects-windows-mac.htm). 

@@ -1,0 +1,48 @@
+---
+title: "Cases"
+format: html
+---
+
+### Recap: what is an Nvivo case? 
+
+> In Nvivo, a [case](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.htm) represents a *unit of analysis*. 
+
+This could be: 
+
+- people you've interviewed, 
+- events, 
+- organisations you worked with, 
+- communities, 
+- families, etc. 
+  
+Basically anything you want to organise and compare. 
+
+Before you build a new project, you should decide what are your cases/units of analysis. 
+
+In this QESB project, we have created cases for every person with a 1-2-1 interview; heer you can see Claire's case highlighted:  
+
+![](images/cases created.png)
+
+and you can see that each person has 1 file associated with them (the interview transcript). 
+
+### and why do I need cases? 
+
+
+Cases allow you to link information together related to unit. 
+They help you to connect and draw material across your files. 
+They are also very useful if you want to add metadata (e.g. sociodemographic info) 
+
+Some examples: 
+
+  + Connect text from focus groups to cases of individuals; 
+  + Connect photos, maps, audio, to cases of events;  
+  + Connect parliamentary debates to cases of policy /laws.
+  
+  
+  
+  Here's an example taken from an [Nvivo explainer on cases](https://help-nv.qsrinternational.com/12/win/v12.1.115-d3ea61/Content/cases/cases.htm): 
+  
+![](images/cases graphic.png)
+
+
+You don't have to use cases, but doing us unlocks a lot of extra functionality, and it makes a lot of sense if you have anything more than just a few transcripts. 

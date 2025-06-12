@@ -11,7 +11,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Work in Progress** - these additional online materials are work in progress and will continue to be updated following the session."
+    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated following the session."
     type: info
     position: below-navbar
   bread-crumbs: true
@@ -22,19 +22,23 @@ website:
   navbar:
     pinned: true
     left:
-      - href: project-setup.qmd
-        text: "Designing your Nvivo project"
+      - href: Getting started.qmd
+        text: "Intro"
       - href: project-setup.qmd
         text: "Project Setup"
-      - href: placeholder.qmd
+      - href: Start coding.qmd
         text: "Start Coding"
       - href: index.qmd
         text: "Going Further"
+      - href: Designing your Nvivo project.qmd
+        text: "Design your own project"
     
     right:
       - href: primers.qmd
-        text: "Primers"
-      - resources.qmd
+        text: "Analysis primers"
+      - Nvivo versions.qmd
+      - href: resources.qpm
+      - text: "Nvivo resources"
       - about.qmd
     logo: brand/whitelogo.png
     background: "#073B59"
@@ -56,13 +60,35 @@ website:
         - section: "**Framework Matrices**"
           contents:
             - buildingthemes.qmd
+            
     - title: "Project Setup"
       style: "docked"
       border: false
       background: "#1B9D8E"
       contents:
         - project-setup.qmd
-
+        - The dataset.qmd
+        - Downloading the data.qmd
+        - New project.qmd
+        - Importing files.qmd
+        - Cases.qmd
+        - Adding metadata.qmd
+        - Saving and sharing.qmd
+        
+    - title: "Start Coding"
+      style: "docked"
+      border: false
+      background: "#1B9D8E"
+      contents:
+        - Start coding.qmd
+        - Material to cases.qmd
+        - Deductive coding.qmd
+        - New codes.qmd
+        - Checking codes.qmd
+        - Uncoding.qmd
+        - Open coding.qmd
+        - Organising codes.qmd
+        
 
   page-footer:
     center:

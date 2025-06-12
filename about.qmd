@@ -4,13 +4,18 @@ title: "About"
 
 These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:
 
-- Dr Kathryn Fredricks
-- Dr Katherine Keenan
-- Alasdair B R Stewart
+- [Dr Katherine Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/), University of St Andrews and SGSSS Deputy Director 
+- [Dr Alasdair B R Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/), University of Glasgow and SGSSS Training Network member 
+- [Dr Kathryn Fredricks](https://www.st-andrews.ac.uk/geography-sustainable-development/people/kjf4/), University of St Andrews 
 
 With additional material from:
 
-- Dr Rachel Shanks
+- [Dr Rachel Shanks](https://www.abdn.ac.uk/people/r.k.shanks), University of Aberdeen. 
+
+This work is supported by the UKRI Economic and Social Research Council (ESRC). 
+
+![](images/ESRC logo.png)
+
 
 These pages are 'living documents' and will incrementally be updated over time. See the Callout below for more information.
 
@@ -21,10 +26,8 @@ These pages are 'living documents', they will continually and iteratively be upd
 
 I cannot promise additional content will be added within any specific period of time, but I will be taking note of frequently asked questions, different use cases, and any issues encountered. These will be used to update and add to the existing content.
 
-Similarly, following any of the sessions -- or if you were unable to attend the in-person workshops and are following along online - please feel free to email any questions: [alasdair.stewart@glasgow.ac.uk](alasdair.stewart@glasgow.ac.uk).
+Similarly, following any of the sessions -- or if you were unable to attend the in-person workshops and are following along online - please feel free to email any questions: [alasdair.stewart@glasgow.ac.uk](alasdair.stewart@glasgow.ac.uk) or [katherine.keenan@st-andrews.ac.uk](katherine.keenan@st-andrews.ac.uk).
 
-Note - I take absolutely no offense if your question is due to any of the materials being unclear! In all my time teaching, the most useful feedback I have received has been from students pointing out something that was unclear to them or raised further questions.
-
-I am also dyslexic, so writing is the bane of my existence. Any help identifying spelling mistakes and grammatical errors will earn my eternal gratitude.
+Note - we take absolutely no offense if your question is due to any of the materials being unclear! In all our time teaching, the most useful feedback we have received has been from students pointing out something that was unclear to them or raised further questions.
 
 :::

@@ -1,0 +1,67 @@
+---
+title: "What is coding?"
+format: html
+---
+
+### What are codes? 
+
+> Codes are *tags or containers* for complex qualitative data; they are a *way to index, sort, link and interrogate* data. 
+
+> The process of coding data involves finding ways of summarizing key meanings within your data. 
+
+> Remember: the same piece of text can have MULTIPLE CODES. 
+
+![](images/coding.png)
+ 
+
+### Deductive vs inductive coding 
+
+
+In **deductive** coding, you approach your dataset with a pre-established list of codes, often based off existing theoretical frameworks or even the research tools themselves (e.g. the questions that were asked). This is a more top-down, etic approach that is most useful for confirming or testing existing theories, or imposing organizational and structure into your file (e.g. coding by interview guide or research questions). 
+
+Conversely, **inductive** coding occurs when you allow codes to emerge from your engagement with the dataset itself, with no preconceived categories. This is a bottom up, emic approach to coding. 
+
+Your own approach may be heavily influenced by your discipline, research aims, and research questions. 
+
+However, most work will be situated in a hybrid space between the two. 
+
+
+### Coding as iterative 
+
+
+Sorry folks, qualitative coding is far from one-and-done. Coding is a cyclical, ongoing process. Interviews cannot be read and coded just once. As we re-read our datasets, we continue to develop new codes and subcodes, and refine our understanding of the data. Each time we read our material, we gain a deeper level of understanding each time we read our transcripts. With each pass, we will notice new things, which may prompt us to read new academic articles or ask different questions. This work will in turn shape what we see and understand in our next reading of the dataset.
+Nvivo can help us organise and interrogate codes but coding is led by the researcher. 
+
+
+### The practice of coding 
+
+Remember, when coding in Nvivo: 
+
+- Codes can overlap 
+
+- Codes will sort themselves to be alphabetical list – so clear, direct, short codes are helpful. 
+
+- Consider your future self (and any collaborators), and try to annotate your coding by always including a code description: what you think this code means and what should be included here
+
+- Codes should change as your project changes. They can be combined and rearranged. 
+
+- Don’t be afraid to make a code because you’re uncertain if it will be relevant or important enough. They’re a tool to think with and can always be adjusted later.  
+
+- Be careful: try not to code when tired, bored, or distracted – you must always be actively thinking (the ‘organic computer’ [your brain] is the primary tool of analysis). 
+
+
+
+### Autocoding? 
+
+You might have heard about autocoding in Nvivo. Don't worry- it is not advanced enough to replace the essential work of a researcher. 
+
+This is currently a basic - but often useful- functionality in Nvivo. It can help you organise the text into cases or themes based on pre-defined criteria (we'll show you these below!) 
+
+However it is the researcher's job to interpret and make meaning from data. 
+
+
+### Different approaches to coding - learn more 
+
+See [resources tab](resources.qmd) for more information about various approaches to coding. 
+
+
