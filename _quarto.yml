@@ -107,9 +107,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, brand, styles/callouts-softbox.scss]
-      dark: [darkly, brand]
+      light: [cosmo, brand, styles/custom.scss]
+      dark: [darkly, brand, styles/custom.scss]
     css:
       - styles.css
-      - styles/custom.scss
     toc: true
