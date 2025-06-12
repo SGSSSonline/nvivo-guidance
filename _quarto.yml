@@ -4,6 +4,9 @@ project:
 
 brand: brand/_brand.yml
 
+execute:
+  freeze: auto
+
 callout-appearance: simple
 
 website:
@@ -32,7 +35,7 @@ website:
         text: "Going Further"
       - href: Designing your Nvivo project.qmd
         text: "Design your own project"
-    
+
     right:
       - href: primers.qmd
         text: "Analysis primers"
@@ -53,14 +56,14 @@ website:
         - project-file.qmd
         - section: "**Dynamic Sets and Queries**"
           contents:
-          - quickexample.qmd
+            - quickexample.qmd
         - section: "**Coding Workflows**"
           contents:
             - orgnodes.qmd
         - section: "**Framework Matrices**"
           contents:
             - buildingthemes.qmd
-            
+
     - title: "Project Setup"
       style: "docked"
       border: false
@@ -74,7 +77,7 @@ website:
         - Cases.qmd
         - Adding metadata.qmd
         - Saving and sharing.qmd
-        
+
     - title: "Start Coding"
       style: "docked"
       border: false
@@ -88,7 +91,6 @@ website:
         - Uncoding.qmd
         - Open coding.qmd
         - Organising codes.qmd
-        
 
   page-footer:
     center:
@@ -108,6 +110,3 @@ format:
       dark: [darkly, brand]
     css: styles.css
     toc: true
-
-
-
