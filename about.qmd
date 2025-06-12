@@ -26,7 +26,7 @@ This work is supported by the UKRI Economic and Social Research Council (ESRC).
 :::
 
 
-::: {.callout-important}
+::: {.callout-important .softbox}
 ## 'Living Documents'
 
 These pages are 'living documents', they will continually and iteratively be updated over time.

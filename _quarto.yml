@@ -14,7 +14,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated over coming months."
+    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated over the coming months."
     type: info
     position: below-navbar
   bread-crumbs: true
@@ -107,7 +107,9 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, brand]
+      light: [cosmo, brand, styles/callouts-softbox.scss]
       dark: [darkly, brand]
-    css: styles.css
+    css:
+      - styles.css
+      - styles/callouts-softbox.scss
     toc: true
