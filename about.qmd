@@ -1,11 +1,18 @@
 ---
 title: "About"
+about:
+  id: about-section
+  template: broadside
+  image: brand/solologo.png
+  image-width: 1em
 ---
+
+:::{#about-section}
 
 These online NVivo Guidance and Workshop pages for the Scottish Graduate School of Social Science are produced by:
 
 - [Dr Katherine Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/), University of St Andrews and SGSSS Deputy Director 
-- [Dr Alasdair B R Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/), University of Glasgow and SGSSS Training Network member 
+- [Alasdair B R Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/), University of Glasgow and SGSSS Training Network member 
 - [Dr Kathryn Fredricks](https://www.st-andrews.ac.uk/geography-sustainable-development/people/kjf4/), University of St Andrews 
 
 With additional material from:
@@ -16,8 +23,8 @@ This work is supported by the UKRI Economic and Social Research Council (ESRC).
 
 ![](images/ESRC logo.png)
 
+:::
 
-These pages are 'living documents' and will incrementally be updated over time. See the Callout below for more information.
 
 ::: {.callout-important}
 ## 'Living Documents'

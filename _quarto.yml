@@ -14,7 +14,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated following the session."
+    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated over coming months."
     type: info
     position: below-navbar
   bread-crumbs: true
@@ -38,10 +38,11 @@ website:
 
     right:
       - href: primers.qmd
-        text: "Analysis primers"
-      - Nvivo versions.qmd
+        text: "Analysis Primers"
+      - href: Nvivo versions.qmd
+        text: "NVivo Versions"
       - href: resources.qpm
-      - text: "Nvivo resources"
+      - text: "NVivo Resources"
       - about.qmd
     logo: brand/whitelogo.png
     background: "#073B59"
