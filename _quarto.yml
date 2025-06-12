@@ -41,8 +41,8 @@ website:
         text: "Analysis Primers"
       - href: Nvivo versions.qmd
         text: "NVivo Versions"
-      - href: resources.qpm
-      - text: "NVivo Resources"
+      - href: resources.qmd
+        text: "NVivo Resources"
       - about.qmd
     logo: brand/whitelogo.png
     background: "#073B59"
