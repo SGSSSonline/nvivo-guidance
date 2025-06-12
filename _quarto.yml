@@ -111,5 +111,5 @@ format:
       dark: [darkly, brand]
     css:
       - styles.css
-      - styles/callouts-softbox.scss
+      - styles/custom.scss
     toc: true
