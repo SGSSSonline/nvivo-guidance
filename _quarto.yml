@@ -86,11 +86,12 @@ website:
         - Start coding.qmd
         - Material to cases.qmd
         - Deductive coding.qmd
+        - Question coding autocoding.qmd
         - New codes.qmd
-        - Checking codes.qmd
-        - Uncoding.qmd
         - Open coding.qmd
         - Organising codes.qmd
+        - Checking codes.qmd
+        - Uncoding.qmd
 
   page-footer:
     center:

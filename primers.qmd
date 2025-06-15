@@ -12,6 +12,14 @@ Engage with one or all of the following:
 - [Introduction to qualitative research methods - Part 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10003579/) by Bhangu, Provost, and Caduff (2023) in *Perspectives in Clinical Research* 14(1) pp.39-42
 - [Qualitative research the basics](https://www.youtube.com/watch?v=N-NQws-_t_U) YouTube video by Degree Doctor (Dr Elizabeth Yardley)
 
+
+
+## What is coding?
+
+- [An Introduction to Codes and Coding](https://emotrab.ufba.br/wp-content/uploads/2020/09/Saldana-2013-TheCodingManualforQualitativeResearchers.pdf) which is Chapter 1 in Saldaña (2013) _The Coding Manual for Qualitative Researchers_. 2nd ed. London: Sage Publications Ltd.
+
+
+
 ## What is thematic analysis?
 
 Thematic analysis is a commonly used method within qualitative analysis, suitable for using with software like NVivo.
@@ -41,7 +49,3 @@ Thematic analysis is a commonly used method within qualitative analysis, suitabl
 {{< video https://www.youtube.com/embed/-VqcGKvcWm8?si=ybkTdewbrFRK-aiy >}}
 
 
-
-## What is coding?
-
-- [An Introduction to Codes and Coding](https://emotrab.ufba.br/wp-content/uploads/2020/09/Saldana-2013-TheCodingManualforQualitativeResearchers.pdf) which is Chapter 1 in Saldaña (2013) _The Coding Manual for Qualitative Researchers_. 2nd ed. London: Sage Publications Ltd.

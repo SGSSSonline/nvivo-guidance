@@ -5,56 +5,70 @@ format: html
 
 ### What is open coding? 
 
-'Open coding' refers to inductive forms of coding, where meaning emerges from the data through the researcher engaging with the content and deciding to create a code. They are not pre-defined; they emerge through the analysis. 
+'Open coding' refers to inductive forms of coding, where meaning emerges from the data through the researcher engaging with the content and deciding to create a code. 
 
-Before jumping into open coding, let’s consider as a group what themes we might expect to emerge from this dataset?  
+Codes are not pre-defined; they emerge through the analysis. 
 
-### Creating a structure for open coding 
+🤔 Before jumping into open coding, let’s consider: 
+
+
+  + what themes we might expect to emerge from this dataset?  
+  + what kinds of phenomena might be want to capture with open coding?
+
+### Coding based on attitudes/emotions 
 
 We know there are likely to be strong opinions expressed, so let’s set up some attitude codes that we can quickly apply while reading the interviews: 
 
-- Create an ‘attitude’ code: 
-
-![](images/attitude code.png)
+- Create a new parent code by either 1) selecting Create->code on the top ribbon or 2) right- clicking in the open space under the codes and selecting 'new code': 
 
 
-> N.B. Unlike other codes, do not ‘aggregate coding from children’ for the attitude parent code, as we would seldom search for something including everything coded at any type attitude. This can be toggled on later if needed, though. 
+![](images/New code.png)
 
-- Create subcodes for: 
+
+- Give this new code the title 'Attitude' (1), give it a rich description (remember your future self) (2), 
+
+- Do not ‘aggregate coding from children’ for the attitude parent code (3), as we would seldom search for something including everything coded at any type of attitude. This can be toggled on later if needed, though. 
+
+![](images/Create attitude code.png)
+
+
+
+- Create sub-codes within 'Attitude' for: 
 
   + Mixed
   + Negative 
   + Neutral 
   + Positive 
 
-- To create a sub-code right-click an existing code and select ‘new code’. 
+- To create a sub-code right-click an existing code and select ‘new code’:  
 
-![](images/new subcode.png)
+![](images/create sub folder.png)
 
-- You can also drag and drop existing codes into another code to make it a subcode.
 
-![](images/new subcode 2.png)
+- You can see you now have a basic set of attitude codes to code to as you read the transcripts:
+
+![](images/Attitude folder.png)
 
 
 ### Create new code based on ideas emerging in the data 
 
-As you read, you may start to notice a key theme/idea/concept popping up throughout that doesn't fit into an attitude that you have pre-defined. You may decide that this deserves its own new code. 
 
-For example, the theme of 'trust' emerges repeatedly: 
+As you read, you may start to notice a key theme/idea/concept popping up throughout that doesn't fit into an attitude that you have pre-defined. You may decide that this deserves its own new code. For example, the theme of 'immigration' emerges repeatedly
 
-****insert screenshot 
-
-- Create a new code for this in the same way as before. 
+- Create a new code for this in the same way as before... 
 
 
-### Continue open coding 
+### Practice open coding 
 
 
-- Spend some more time open coding by reading thorough the interviews in the 2016 interview folder. 
+- Spend some  time open coding by reading thorough the interviews in the 2016 interview folder. 
 
 - As you go along, code to existing codes or make new ones for recurring ideas. Don’t worry about going back and coding something that might not have occurred to you earlier in the interview or in previous interviews. 
 
 > Remember that coding is iterative! and the same piece of text can have MULTIPLE CODES. 
+
+
+### Reflexive coding 
 
 - After reading a few interviews, take a break to revisit your codes. 
 

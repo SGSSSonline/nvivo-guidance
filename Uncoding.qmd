@@ -10,13 +10,24 @@ If you’ve coded something incorrectly, you can **uncode text** in as many ways
 
 After highlighting the text, you can either: 
 
--	select ‘uncode’ in the document ribbon or the coding bar; 
+1. 	Right-click and choose uncode. 
 
--	use the keystroke (CTRL+SHIFT+F9); 
+![](images/uncode method 1.png)
 
--	rightclick and choose uncode. 
 
-***add arrows 
 
-![](images/uncode.png)
+2. Select ‘uncode’ in the document ribbon at the top: 
+
+
+![](images/uncode method 2.png)
+
+
+
+3. Use the bottom coding bar button /	keyboard shortcut (CTRL+SHIFT+F9); 
+
+
+![](images/uncode method 3.png)
+
+
+
 

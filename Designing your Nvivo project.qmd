@@ -3,14 +3,15 @@ title: "Design your own Nvivo project: first steps"
 format: html
 ---
 
-Before you start building your own Nvivo project,it's a good idea to think through the components and architecture in advance.  
+Before you start building your own Nvivo project,it's a good idea to think through the components and likely structure in advance: 
 
-🤔 Ask yourself the following questions: 
+
+🤔 Ask yourself about the following: 
+
+
+![](images/designing your project diagram-1 2.png)
 
 ### **What types of data and files do I have?**
-
-
-![](images/design 1.png)
 
 These need to be digitized, but could include text items like...
   
@@ -56,7 +57,7 @@ This might be files that are linked within a single case or individual, for exam
 
 ### **What are likely to be key topics or themes?**
 
-This may be unknown at this stage, but you might imagine some key/core themes based on yoru research question such as 'trust in institutions' , 'sense of loss', etc. 
+This may be unknown at this stage, but you might imagine some key/core themes based on your research question such as 'trust in institutions', 'sense of loss', etc. 
 
 These themes might become ['codes'](https://help-nv.qsrinternational.com/12/win/v12.1.115-d3ea61/Content/nodes/codes.htm)  within your Nvivo project. 
 

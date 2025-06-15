@@ -1,5 +1,5 @@
 ---
-title: "Checking codes"
+title: "Checking your work"
 format: html
 ---
 
@@ -10,9 +10,9 @@ format: html
 
 Here is an example of seeing all material with the 'economy' code: 
 
-****update screeenshot with this project 
 
-![](images/view codes.png)
+
+![](images/view coding.png)
 
 
 ### Coding stripes 
@@ -20,5 +20,14 @@ Here is an example of seeing all material with the 'economy' code:
 
 To see what you have (and haven’t) coded already, you can turn on **coding stripes**, which visualize the amount of text in the transcript coded against different codes.  You may find that you’ve coded some areas mistakenly or missed other codes 
 
-![](images/coding stripes.png)
+![](images/coding stripes 1.png)
+
+
+
+- The transcript now has vertical lines on the far right. These indicate the parts of the transcript which are coded to cases and codes. The colour codes are set automatically but you can manually adjust this by editing the code settings. 
+
+
+
+
+![](images/coding stripes 2.png)
 

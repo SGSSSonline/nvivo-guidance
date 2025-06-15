@@ -7,9 +7,9 @@ format: html
 
 > Codes are *tags or containers* for complex qualitative data; they are a *way to index, sort, link and interrogate* data. 
 
-> The process of coding data involves finding ways of summarizing key meanings within your data. 
+> The process of coding involves finding ways of summarizing key meanings within your data. 
 
-> Remember: the same piece of text can have MULTIPLE CODES. 
+> The same piece of text can have multiple meanings or codes. 
 
 ![](images/coding.png)
  

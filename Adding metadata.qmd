@@ -68,7 +68,7 @@ Select how you want blank attributes, dates, time and numbers to be represented.
 
 ![](images/check class classification.png)
 
-*****UPDATE THIS SETCION TO DEMONSTRATE LINKAGES 
+
 
 ### Manually add new cases 
 
@@ -89,7 +89,11 @@ Select OK.
 ![](images/new case 2.png)
 
 ![](images/new case 4.png)
+- Click OK. 
 
+- You can see a new case for 'roger' has been set up; it doesn't have any files or attributes attached yet. 
+
+![](images/roger case.png)
 
 ### Create new attributes for an existing case 
 
@@ -131,5 +135,43 @@ Now this column will appear as the last column in your case classifications shee
 
 ![](images/new attribute show 1.png)
 
+### Summarise metadata in charts 
+
+Now that you have some basic information attached to the transcripts, you can summarize this in a basic way using Nvivo's chart function. This depends very much on how the metadata in the classification sheet are formatted, but so long as this is consistent, it can be very useful for getting a quick glance at your sample composition. 
+
+For example, here we want to understand voting patterns within the sample. 
+
+- In the top ribbon, go to the 'Explore' tab, and choose 'chart'
+
+![](images/chart case 1.png)
+
+- On the chart wizard, choose 'cases', then 'next'. 
+
+![](images/chart case 2.png)
+
+- At the next stage, choose 'cases by attribute value for an attribute' - this will chart the values of one attribute/variable. You have the choice to chart two attributes at the same time, this will create a 3 way bar chart. But let's just do one at a time for this example. 
+
+![](images/chart case 3.png)
+
+- At the next stage, select the attribute you want to chart by clicking 'select' 
+
+- Then expand the list of attributes by clicking the plus symbol next to 'People' 
+
+- Choose '2016 vote', and click OK. 
 
 
+![](images/chart case 4.png)
+
+- Finally, you get the choice of how the values of the attribute are displayed on the x-axis. We leave it as the default, but you can choose alphabetical etc. Click finish. 
+
+![](images/chart case 5.png)
+
+- Now you will see a simple bar chart displayed. You can edit the title, labels etc and much more in the top ribbon. You can also export or print chart (1). 
+
+- You can just see a numerical summary (rather than the bar chart) by clicking 'summary' on the far right of the screen (2)
+
+- Note there is 1 case for whom this attribute is blank or 'unassigned'- this is roger, the case we just created. (3) 
+
+- There are many more complex charts you can create once you have more complex and appropriately formatted data; you can also make charts based on codes you have created. 
+
+![](images/chart case 6.png)

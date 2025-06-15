@@ -22,7 +22,7 @@ We chose this dataset because it contains a variety of file formats, including f
 
 The data we will be working with was collected in 2015 and 2016, and were timed to collect opinions prior to the [UK 2015 General Election](https://en.wikipedia.org/wiki/2015_United_Kingdom_general_election), and just after the [EU or 'Brexit' Referendum](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum). This period was one of great political unpredictability and voter volatility. Both of those votes had controversial and unexpected results: the 2015 Election was a surprise win for the Conservatives, and in Scotland, the Scottish National Party made huge gains over Labour. The 2016 EU referendum resulted in a 52% vote to leave the European Union, and this marked a change in the UK's relationship with Europe and the rest of the world. 
 
-![](Images/Data slide-1.png)
+![](images/Data slide-1.png)
 
 The data extract we are using allows longitudinal linkage because some of the people who took part in the 2015 focus groups later participated in a 1-2-1 telephone interview. 
 

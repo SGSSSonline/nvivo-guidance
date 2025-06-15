@@ -53,6 +53,10 @@ We will look at how to do this using our focus group discussions, and sort speak
 
 > IMPORTANT: format of transcripts is crucial here. To use this feature, you need to format your transcript with each speaker's name at the beginning of a line, without any preceding characters. The speaker name can be on the same line as the response or on a separate line above it, as long as it's at the start of the line. You can also use a table format with the speaker name in the left column and the response in the right. 
 
+For example, the transcripts should have the speakers's name at the start of the line- anything below that would be picked up as theor speech. 
+
+![](images/transcript name formatting.png)
+
 Our transcripts are correctly formatted so it should work :-) ! 
 
 
@@ -64,39 +68,53 @@ Our transcripts are correctly formatted so it should work :-) !
 
 - In the autocode wizard, input all the speaker names from the transcript. 
 
-You can either scroll through the text and insert the names one by one, or you can make a list of all speakers ahead of time and copy them in one by one. 
+- You can either scroll through the text and insert the names one by one, or you can make a list of all speakers ahead of time and copy them in one by one. 
 
-As you insert each name, the relevant text following their name will change color throughout the transcript. 
+- As you insert each name, the relevant text following their name will change color throughout the transcript. This is pretty helpful! It gives you a preview of what autocoding will do. 
+
+- But **BEWARE**: the autocode algorithm is accurate at picking up when a speaker's name is at the start of a line of text. But sometimes this happens for another reason, like when the focus group interviewer asks them a question: 
 
 ![](images/autocode 2.png)
 
->NOTE above, as per the formatting, if the person’s name is mentioned at the start of a line as someone speaks,  it gets picked up as well. 
 
 > This **isn't** what we want! 
 > This highlights the importance of pre-formatting the transcript in Word so that autocode works as intended. 
 
-- Press cancel to exit the autocode wizard. 
+- We need to take another approach. Press cancel to exit the autocode wizard. 
 
-## 
+## Autocoding using a properly formatted transcript 
 
-Let's start the process again using a properly formatted transcript. 
-
-- Open the Birmingham 2015 pre-election focus group discussion files and select 'autocode' from the ribbon. 
+Let's start the process again using the Birmingham FGD. 
 
 Notice that in the Birmingham transcript, every time a person speaks it is followed by a colon: 
 
 ![](images/Birmingham FGD.png)
 
 
-- In the autocode wizard, enter speaker names with a colon (e.g. ***Charles:***) and click next. 
+
+- Open the Birmingham 2015 pre-election focus group discussion files and select 'autocode' from the ribbon. 
+
+
+- In the autocode wizard, this time enter speaker names with a colon (e.g. ***Charles:***) and click next. 
+
+
+![](images/autocode 3.png)
 
 - Select Next. 
 
 - As we already have cases set up for the people we are interested in, select ‘add to existing classifications’, ‘people’ and select ‘finish’. 
 
-![](images/autocode 3.png)
+![](images/autocode 4.png)
 
-- Check results by clicking into ‘cases’ and you should see that for those cases you have just autocoded, they have a higher number of references.
+- Check results by clicking into ‘People’. 
 
-***screenshot 
+![](images/autocode 5.png)
+
+- If you click on a case e.g. 'charles' you can see there are now 2 files and 38 references linked to that person (1). 
+
+- In the detail view on the right, you can see all quotes coded to Charles' case. (2 and 3)
+
+- Finally, you can see a summary of the % of the transcript which is coded to Charles by clicking on the 'summary' tab on the far right (4). 
+
+> **The moral of the story**: autocoding can save you a lot of time in deductive category coding if you understand the algorithm and format data correctly.  
 
