@@ -14,7 +14,7 @@ website:
   announcement:
     icon: info-circle
     dismissable: true
-    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated following the session."
+    content: "**Work in Progress** - these online materials are work in progress and will continue to be updated over the coming months."
     type: info
     position: below-navbar
   bread-crumbs: true
@@ -38,10 +38,11 @@ website:
 
     right:
       - href: primers.qmd
-        text: "Analysis primers"
-      - Nvivo versions.qmd
-      - href: resources.qpm
-      - text: "Nvivo resources"
+        text: "Analysis Primers"
+      - href: Nvivo versions.qmd
+        text: "NVivo Versions"
+      - href: resources.qmd
+        text: "NVivo Resources"
       - about.qmd
     logo: brand/whitelogo.png
     background: "#073B59"
@@ -107,7 +108,17 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, brand]
-      dark: [darkly, brand]
-    css: styles.css
+      light: [cosmo, brand, styles/custom.scss]
+      dark: [darkly, brand, styles/custom.scss]
+    css:
+      - styles.css
     toc: true
+
+custom-callout:
+  zombie:
+    title: "QDAS Zombies"
+    icon-symbol: "fa-viruses"
+    color: "green"
+
+filters:
+  - custom-callout
