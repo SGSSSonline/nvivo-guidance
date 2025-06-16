@@ -111,13 +111,26 @@ format:
       dark: [darkly, brand, styles/custom.scss]
     css:
       - styles.css
+      - _extensions/quarto-ext/fontawesome/assets/css/all.min.css
+      - _extensions/quarto-ext/fontawesome/assets/css/latex-fontsize.css
     toc: true
 
 custom-callout:
   zombie:
-    title: "QDAS Zombies"
-    icon-symbol: "fa-viruses"
-    color: "green"
+    title: "🧟 Slaying QDAS Zombies"
+    icon: false
+    appearance: "minimal"
+    color: "#3fb618"
+  not-you:
+    title: "🤢 It's not you, it's NVivo"
+    icon: false
+    appearance: "minimal"
+    color: "#ff7518"
+  consider:
+    title: "🤔 Critical Considerations"
+    icon: false
+    appearance: "minimal"
+    color: "#e83e8c"
 
 filters:
   - custom-callout
