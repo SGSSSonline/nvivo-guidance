@@ -5,6 +5,8 @@ format: html
 
 ## Steps
 
+### New Project
+
 To create a new NVivo project file:
 
 ::: instructions
@@ -19,7 +21,13 @@ To create a new NVivo project file:
 5. You can choose a language here - English (US) is the default.
 6. Click **Next**.
 
+:::
+
+### Save and Recovery Settings
+
 Then, choose your preferred save and recovery settings:  
+
+::: instructions
 
 ![](images/new project save setting.png)
 
