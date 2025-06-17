@@ -1,9 +1,7 @@
 ---
-title: "The Dataset"
+title: "Qualitative Election Study of Britain"
 format: html
 ---
-
-## Qualitative Election Study of Britain
 
 We will use data from a longitudinal qualitative study called the [Qualitative Election Study of Britain](https://qesb.info/). 
 

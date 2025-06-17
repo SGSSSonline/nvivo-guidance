@@ -2,7 +2,8 @@
 title: "Nvivo Project Setup"
 ---
 
-This page will walk you through the steps of creating a new project. 
+::: {.callout-note appearance=minimal}
+This section will walk you through the steps of creating a new project. 
 
 We will cover: 
 
@@ -12,16 +13,12 @@ We will cover:
 
 Follow the steps by clicking through the arrows at the bottom right. 
 
-**Which Nvivo version are we using?** 
+:::
 
-This project setup guide uses screenshots from [NVivo Windows 14 and 15 ](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm). Things may look a little different if you’re working on other versions. Differences with windows R1, 14 and 15 are minimal (where they exist, we'll try to mention it)
+**Which NVivo version are we using?** 
+
+This project setup guide uses screenshots from [NVivo Windows 14 and 15 ](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm). Things may look a little different if you’re working on other versions. Differences with windows R1, 14 and 15 are minimal (where they exist, we'll try to mention it).
 
 See our [cheatsheet](Nvivo versions.qmd) for a quick guide to how things differ across versions.  
 
 For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources](resources.qmd) tab above. 
-
-
-
-
-
-

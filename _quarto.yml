@@ -78,14 +78,19 @@ website:
       border: false
       background: "#1B9D8E"
       contents:
-        - project-setup.qmd
-        - The dataset.qmd
-        - Downloading the data.qmd
-        - New project.qmd
-        - Importing files.qmd
-        - Cases.qmd
-        - Adding metadata.qmd
-        - Saving and sharing.qmd
+        - href: project-setup.qmd
+          text: "NVivo Project Setup"
+        - section: "**The Dataset**"
+          contents:
+            - The dataset.qmd
+            - Downloading the data.qmd
+        - section: "**Set up a new project**"
+          contents:
+            - New project.qmd
+            - Importing files.qmd
+            - Cases.qmd
+            - Adding metadata.qmd
+            - Saving and sharing.qmd
 
     - title: "Start Coding"
       style: "docked"
