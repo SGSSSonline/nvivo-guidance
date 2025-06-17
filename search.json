@@ -123,7 +123,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Session Brief\n\n\n\nThis one-day in-person workshop is aimed at those with no experience of Nvivo, or those who would like a refresher. We will move through three topics:\n\nThe morning is led by Dr Katy Keenan will work through some basic tasks:\n\nsetting up a new Nvivo project\norganising materials\ncreating cases and case classifications\nmanual coding\nsome autocoding features\n\nThe afternoon is led by Dr Alasdair Stewart and will move to more advanced features and the flexible ways these can be used for qualitative analysis.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
+    "text": "Session Brief\n\n\n\nThis one-day in-person workshop is aimed at those with no experience of Nvivo, or those who would like a refresher. We will move through three topics:\n\nThe morning is led by Dr Katy Keenan will work through some basic tasks:\n\nsetting up a new Nvivo project\norganising materials\ncreating cases and case classifications\nmanual coding\nsome autocoding features\n\nThe afternoon is led by Alasdair Stewart and will move to more advanced features and the flexible ways these can be used for qualitative analysis.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
     "crumbs": [
       "Intro",
       "Welcome!"
@@ -159,65 +159,190 @@
     "text": "TODO\n\n\n\n\nEmbed copy of slides\nAdd download link\n\n\n\nBelow is an embedded copy of the slides:\n[embed here]\nClick here[add link] to download a copy of the slides."
   },
   {
-    "objectID": "Designing your Nvivo project.html",
-    "href": "Designing your Nvivo project.html",
-    "title": "Design your own Nvivo project: first steps",
-    "section": "",
-    "text": "Before you start building your own Nvivo project,it’s a good idea to think through the components and likely structure in advance:\n🤔 Ask yourself about the following:\n\n\nWhat types of data and files do I have?\nThese need to be digitized, but could include text items like…\n- transcripts of interviews/focus groups \n- quantitative metadata\n- field notes \n- research tools\n- policy documents\n- literature \n- archive materials\nIt is also possible to include things like..\n- photographs or images\n- video/audio \n- maps \nCAUTION: adding large files to Nvivo slows the software down dramatically.\nFor that reason we advise against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things are best organised in a file hierarchy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on your research question such as ‘trust in institutions’, ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
-  },
-  {
-    "objectID": "Uncoding.html",
-    "href": "Uncoding.html",
-    "title": "Uncoding",
-    "section": "",
-    "text": "Uncode when necessary\nIf you’ve coded something incorrectly, you can uncode text in as many ways as you can code.\nAfter highlighting the text, you can either:\n\nRight-click and choose uncode.\n\n\n\nSelect ‘uncode’ in the document ribbon at the top:\n\n\n\nUse the bottom coding bar button / keyboard shortcut (CTRL+SHIFT+F9);",
+    "objectID": "orgnodes.html#adding-organisation-codes",
+    "href": "orgnodes.html#adding-organisation-codes",
+    "title": "Organisation Codes",
+    "section": "Adding Organisation Codes",
+    "text": "Adding Organisation Codes\n\n\nGo to the main ‘Codes’ folder.\nRight-click on any white space and select ‘New Code…’\n\n\n\nProvide it with a suitable name, such as ‘Organisation Codes’\nI have added “z - …” at the start as that ensure it’s placed at the end when alphabetically ordered.\n\n\n\nDrag and drop the existing ‘quotable quote’ code to become a child code of ‘z - Organisation Codes’.\n(Optional) rename it to ‘Gold’.\nCreate another two child codes ‘Unsure’ and ‘Example’.\n\n\n\n\n\n\n\nDifferent organisation codes\n\n\n\n\nThere are various different codes researchers make to to help with organising their coding. A few examples:\n\nExample - Use for coding sections that are serve as illustrative example of another code.\nGold - Use for coding sections that have high probability of later being used as a quote. (Though ensure to avoid cherry-picking!)\nImportant - Use for coding sections that are important for the analysis. (This can be distinct in many cases from ‘Gold’.)\nUnsure - Use for coding sections that are coded to another code, but you are unsure whether either it is right code for the section or this coded section is making you question the overall code.\n\nIMPORTANT - You do not need all of these! This is merely showing range of examples. Which and how many to have wil change based on personal preferences and analysis aims. For example, when working as part of a large team, ‘example’ can be useful for researchers to identify coded sections they think illustrate specific codes they are developing. This can then help inform discussion to agree a share coding schema for the project.\n\nAnother way to use codes for organising is having codes to store excerpts you intend to use / have used in specific articles or thesis chapters. This can be combined with queries as well to aid finding most relevant sections. For example, a Matrix Coding Query with your writing organisation codes with your main coding schema.\nDue to the much more niche use-case for these codes, they are definitely ones to chuck in their own folder to avoid cluttering the top-level folder.\n\n\n\nCode Matrix Query\nFirst:\n\nSelect two or three existing codes from the top-level Codes folder or ‘Autocoded (Theme)’ sub-folder.\nOpen tabs for to view the code results for each.\nQuickly go through coding sections from the code results to ‘Example’, ‘Gold’, and ‘Unsure’.\n\n\n\nGo to the Query Criteria folder\nRight-click and select New Query\nand, Matrix Coding Query\n\n\n\nRows = the regular codes you chose.\nColumns = Gold, Unsure, and Example.\nHit ‘Run Query’\nRemember to also ‘Save Criteria…’\n\nThis will then produce a coding matrix you can then use to find sections coded at both a regular and organisation code.",
     "crumbs": [
-      "Start Coding",
-      "Uncoding"
+      "Going Further",
+      "**Coding Workflows**",
+      "Organisation Codes"
     ]
   },
   {
-    "objectID": "Material to cases.html",
-    "href": "Material to cases.html",
-    "title": "Coding material to cases",
-    "section": "",
-    "text": "In this example project, we are most interested in people who have both a 2016 interview and took part in the 2015 pre-election FGDs.\nNow that we have established our cases, we will link the responses of the 14 people interviewed in 2016 with their data from the 2015 pre-election focus group.\nSo, we will link the interview transcript of Walt:\n\nwith Walt’s data from the focus group he took part in:\n\nTo do this, we need to go into each focus group transcript, search for responses from Walt, and manually code this to Walt’s case.\n\n\n\nOpen the 2015 Dundee pre-election focus group in your Detail View, and have Cases, People in your List View.\nIn the focus group data, use Ctrl+F (find) to search for responses from Walt.\n\n\n\nHighlight the text and drag it across to Walt’s case in the list view. NB. It may be useful to highlight the preceding moderator’s question/prompt that Walt is responding to.\nYou can double click on Walt’s case to check it’s been coded correctly.\n\n\n\nThen you would cycle through manually for all instances of Walt’s response in the focus group transcript, then repeat for other participants.",
+    "objectID": "orgnodes.html#memo-links",
+    "href": "orgnodes.html#memo-links",
+    "title": "Organisation Codes",
+    "section": "Memo Links",
+    "text": "Memo Links\n\nCreate a linked memo for one of your chosen regular codes:\n\nRight-click the code.\nSelect ‘Memo Link’.\nThen ‘Link to New Memo…’\n\n\nProvide an appropriate name. For memos linked to codes I tend to go with “m - Code Name” naming convention.\n\n\nAdd headers for ‘Example’, ‘Gold’,’ Unsure’.\n\nYou can then use the coding matrix results to read through content coded to both the code and the three organisation nodes. (Or, for time, add some lorem ipsum.)\n\nMemo See Also Links\nIt is possible to link text within a file to text within a memo.\n\n\nSelect the text you want to link to the memo text.\nRight-click and select ‘Copy’.\n\n\nBack in the memo:\n\nSelect the memo text you want to be linked.\nRight-click and select ‘Paste as See-Also Link’.\n\n\nSee also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.\n\nImportantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can ‘Open To Item’. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.\n\n\nAutocode Memos\nAs an example of how flexible some of NVivos tools are, as with files, it is possible to autocode memos.\n\n\nRight-click the memo you created.\nSelect ‘Autocode…’\n\n\n\n\n\n\nChange ‘Under’ to ‘New Folder’\nProvide it an appropriate Name\nHit ‘Finish’\n\n\nThis may not seem like much with just a single memo, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections.",
     "crumbs": [
-      "Start Coding",
-      "Coding material to cases"
+      "Going Further",
+      "**Coding Workflows**",
+      "Organisation Codes"
     ]
   },
   {
-    "objectID": "Material to cases.html#autocoding-using-a-properly-formatted-transcript",
-    "href": "Material to cases.html#autocoding-using-a-properly-formatted-transcript",
-    "title": "Coding material to cases",
-    "section": "Autocoding using a properly formatted transcript",
-    "text": "Autocoding using a properly formatted transcript\nLet’s start the process again using the Birmingham FGD.\nNotice that in the Birmingham transcript, every time a person speaks it is followed by a colon:\n\n\nOpen the Birmingham 2015 pre-election focus group discussion files and select ‘autocode’ from the ribbon.\nIn the autocode wizard, this time enter speaker names with a colon (e.g. Charles:) and click next.\n\n\n\nSelect Next.\nAs we already have cases set up for the people we are interested in, select ‘add to existing classifications’, ‘people’ and select ‘finish’.\n\n\n\nCheck results by clicking into ‘People’.\n\n\n\nIf you click on a case e.g. ‘charles’ you can see there are now 2 files and 38 references linked to that person (1).\nIn the detail view on the right, you can see all quotes coded to Charles’ case. (2 and 3)\nFinally, you can see a summary of the % of the transcript which is coded to Charles by clicking on the ‘summary’ tab on the far right (4).\n\n\nThe moral of the story: autocoding can save you a lot of time in deductive category coding if you understand the algorithm and format data correctly.",
+    "objectID": "orgnodes.html#static-sets",
+    "href": "orgnodes.html#static-sets",
+    "title": "Organisation Codes",
+    "section": "Static Sets",
+    "text": "Static Sets\nGoing through the ‘Unsure’ sections, for example, may help you identify new code to create or ones to replace.\nSay you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.\nThis is where static sets come in handy.\n\nAdd three existing Codes to the static set.\nWithin your ‘Codes’ top-level folder create three new codes of your choice, for simplicity I’m just going with ‘A’, ‘B’, ‘C’.\nAdd these to the ‘New Codes’ static set.\n\n\nCoded to Old Codes, but not New Codes\n\n\nCreate a new Matrix Coding Query.\nRows = ‘Old Codes’ static set.\nColumns = ‘New Codes’ static set.\nChange ‘Coding at rows … columns’ to Not.\n‘Run Query’\n\nThis will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the ‘Old Codes’ static set.\nYou can now work your way recoding to the New Codes. Importantly, during recoding you can hit ‘Run Query’ and get an update of how many sections are left to recode. This can be extremely useful you whilst recoding you realise you actually need a fourth new code ‘D’. You can create it, add it to ‘New Codes’ static set and ‘Run Query’ for your ‘Recoding Old with New’ Matrix Code Query.\n\nRemember you can change the ‘coding content’ to view more text surrounding the sections coded to your old codes. That won’t make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.\n\nSimilarly, you can turn on coding stripes and highlighting using the static set as a filter.\n\nThis can save a lot of headaches and frustration when if adopting a coding approach that have multiple stages in developing and refinding your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.\n\n\nOther uses for static sets\n\nGrouping conceptual related codes outside your main coding schema.\nCollating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.\nMaking a group of participants with similar experiences, but where it would not necessarily make sense to capture it using Attributes.",
     "crumbs": [
-      "Start Coding",
-      "Coding material to cases"
+      "Going Further",
+      "**Coding Workflows**",
+      "Organisation Codes"
     ]
   },
   {
-    "objectID": "New project.html",
-    "href": "New project.html",
-    "title": "Set up a new project",
+    "objectID": "going-further/project-file-bk.html",
+    "href": "going-further/project-file-bk.html",
+    "title": "Project File",
     "section": "",
-    "text": "Create a new project in Nvivo\nOpen NVivo and click the ‘New Project’ tile on the welcome page.\nIf you already have a project open in NVivo, go to ‘File’ on the ribbon and select ‘New’ (step 1).\n\n\nGive your project a suitable title (2)\nThe file name will be automatically generated (3).\nYou can enter a description of the project at this stage as well (4). While not required, it’s good practice to include something here.\nYou can choose a language here - English (US) is the default (5)\nClick next (6)\nChoose your preferred save and recovery settings:\n\n\n\nNB: default settings are to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled. It’s VERY IMPORTANT to save regularly as Nvivo has a habit of crashing.\n\n\n\nOptional tour\n\nYou will be prompted to take a quick tour, which will outline:\n\nImporting data\nCases\nNotes\nQueries\nVisualizations\nCentralizing workflow\n\nSkip for now – but may be worth coming back to in the future.",
+    "text": "An NVivo project file for this workshop is available to download from the ‘NVivo Training 2024/25’ group on Social."
+  },
+  {
+    "objectID": "going-further/project-file-bk.html#the-data-set",
+    "href": "going-further/project-file-bk.html#the-data-set",
+    "title": "Project File",
+    "section": "The Data Set",
+    "text": "The Data Set\nThe NVivo project file uses data from focus groups and interviews conducted in 2015 and 2016 as part of the Qualitative Election Study of Britain.\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nThe data is open access and available from the UK Data Service.\nFor more information on open research and data: - The FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets. - UK Data Service hub for archiving qualitative data and secondary analysis. - UK Data Service hub for data skills modules, covering research data management, data for reuse, and more.\nImportant to making data open access is storing it in ‘interoperable’, and ideally ‘open standard’, formats. Interoperable means that the files are not restricted to being opened by a specific single application. An open standard is one that is available for anyone to use, share, or access.\nFull ‘open research’ remains limited within qualitative research for various reasons. Importantly, whilst there is an open QDPX format for sharing qualitative data analysis projects, it is a ‘lossy’ format – where folder structures and more are lost when exporting to the open format.\nIn order then to avoid losing time creating an NVivo project file from scratch / tidying up an imported QDPX file, an NVivo project file has been set up for the workshop and available from Social. This project file is similar to what you would have had at the end of the Intro to NVivo workshop with a few minor tweaks."
+  },
+  {
+    "objectID": "going-further/project-file-bk.html#downloading-the-nvivo-project-file",
+    "href": "going-further/project-file-bk.html#downloading-the-nvivo-project-file",
+    "title": "Project File",
+    "section": "Downloading the NVivo Project File",
+    "text": "Downloading the NVivo Project File\nFrom the group page, to access the file:\n\nDownload linkZip file\n\n\n\nClick ‘Feed’ in the group navigation bar.\n\nScroll down the Feed to find my post with the OneDrive link and click it.\n ../ A new tab should open with a button to click to ‘Download’ the file.\n\n\n\n\n\n\nFail-safe\n\n\n\nIn case the download link is not working (my university seems to randomly stop share links from working), there is a zip file containing the NVivo project file on Social as well. Use the next tab for instructions to download and extract the zip file.\n\n\n\n\n\nClick ‘Documents’ in the group navigation bar.\n\nSelect the ‘Going Further (Feb 2025)’ folder.\n\n\nClick the three dots to open the pop-up menu.\nClick ‘Download’ and choose a suitable location to save the file on your device.\n\n\n\nFrom the folder you downloaded it to, right-click on the zip file.\nSelect ‘Extract All…’\n\n\n\nClick ‘Extract’ from the dialogue window and a new folder will be created containing the NVivo project file."
+  },
+  {
+    "objectID": "going-further/project-file-bk.html#convertingupgrading-the-project",
+    "href": "going-further/project-file-bk.html#convertingupgrading-the-project",
+    "title": "Project File",
+    "section": "Converting/Upgrading the Project",
+    "text": "Converting/Upgrading the Project\nNVivo project files are ‘forwards’ but not ‘backwards’ compatible. This means that newer versions of NVivo can open project files created in older versions, but not vice versa.\nDue to that, the project file provided was created in NVivo 12, which was the oldest version attendees said they were using in the sign-up survey.\nIf you are using NVivo 12, you can open the file and directly start working in it.\nIf you are using a newer version of NVivo or NVivo for MacOS, you will be greeted by a screen asking you to convert/upgrade the file:\n\nUpgrade\n\n\n\n\n(Optional) click ‘Browse…’ to choose location to save and rename the project file.\nClick ‘Next’.\n\n\n\nFrom the next screen, hit ‘Upgrade’ to confirm and start the upgrade. Once complete NVivo will open the file automatically.\n\n\n\n\n\n\n\n\n\n\nNVivo Version Differences\n\n\n\nOn Windows, there are not any overly significant changes in features from NVivo 12 onwards. The main changes are cosmetic, menu options, and naming conventions.\nNVivo for MacOS has always had a different look and menu options. It now has most of the same main features, though a few sub-features remain absent.\nWe’ll cover some of these differences as we go. The Resources page also has links to the NVivo User Help Pages for different versions."
+  },
+  {
+    "objectID": "going-further/project-file-bk.html#project-file-overview",
+    "href": "going-further/project-file-bk.html#project-file-overview",
+    "title": "Project File",
+    "section": "Project File Overview",
+    "text": "Project File Overview\nAs a (very) quick overview of the project file:\n\nFiles\n\nData &gt; Files\n\n\nFocus Groups (2015): Transcripts from three pre-general election focus groups from 2015.\nInterviews (2016): Fourteen telephone interviews on the EU Referendum in 2016.\nLiterature: Containing two articles by QESB team members, one on using grounded theory, the other on using focus groups.\nProject Files: With files that contain additional information about the project, the research phases, and participants who took part.\n\n\n\n\nCodes\n\nCoding &gt; Codes\n\n\nCodes: Top-level folder with some initial coding created during the Intro to NVivo workshop.\n\nAutocoded (Sections): Sub-folder with the broad-brush themes that were created auto-coding the Headings within the interview transcripts.\nAutocoded (Themes): Sub-folder with codes created by auto-coding ‘themes’.\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nWe have “autocoded themes” within this document merely to provide a broad range of example codes to work with in the exercises. However, in practice, do not rely on such autocoding instead of creating and coding with your own codes.\n\n\n\n\nCases\n\nCases &gt; Cases\n\n\nInterviewer: Cases created when ‘autocoding by speaker’ that code transcript sections where an interviewer / moderator from the research team is speaking.\nParticipants: Cases created when ‘autocoding by speaker’ that code transcript sections where participants are speaking.\nCase Classifications: Top-level folder contains the case classifications and their attributes. For this project, there is only one case classification - ‘People’.\n\nPeople: Sub-folder with all cases classified as ‘People’, where can see the attributes for specific participants. (Note - the interviewer cases are also classified as people, in many cases you would want to remove from the same classification as participants.)\n\n\n\n\n\nNotes\n\n\n\nMemos: NVivo’s built-in note-taking system. Contains a few existing memos with further project info and reflectives on initial analysis.\nFramework Matrices: Create summaries for cases by node. Currently, empty.\nAnnotations: Annotations added to files, with couple examples.\nSee-Also Links: Use to link content/files to other content/files. Currently, empty.\n\n\n\n\nSets\n\n\n\nStatic Sets: Manually created collections of project items, of any type. Think of this as a way to group and organise items for specific tasks without changing their primary structure. For example, a code can only exist within a single folder within the “Coding &gt; Codes” section. However, it can be included within an unlimited number of static sets.\nDynamic Sets: Collections of project items created based on search criteria. As they are criteria based they also auto-update based on any changes in your project. For example, if you had a dynamic set for all codes used to code focus group transcripts, each time you use a new code when coding the focus groups, it will automatically then be included in the dynamic set.\n\n\n\n\n\n\n\n\nNVivo 12 - ‘search folders’\n\n\n\nDynamic Sets are a new name given to what were called ‘search folders’ in NVivo 12. They operate exactly the same, all that is different is the name.\n\n\n\n\nQueries\n\n\n\nQuery Criteria: Location to store saved queries, saving you from having to manually put them together each time.\nQuery Results: Location to store query results. This can be useful for more complex queries that take a long-time to process to save having to re-run it every time – just remember it won’t reflect any changes to your project file. Query results can also be used to create new nodes and cases.\nCoding Matrices: Similar to the above but for the results of a coding matrix. By default manually created coding matrices saved results with be in Query Results, but they can manually moved across. Coding matrices automatically produced, such as when autocoding by theme, are stored here by default."
+  },
+  {
+    "objectID": "going-further/project-file.html",
+    "href": "going-further/project-file.html",
+    "title": "Project File",
+    "section": "",
+    "text": "An NVivo project file for this workshop is available to download from the ‘NVivo Training 2024/25’ group on Social."
+  },
+  {
+    "objectID": "going-further/project-file.html#the-data-set",
+    "href": "going-further/project-file.html#the-data-set",
+    "title": "Project File",
+    "section": "The Data Set",
+    "text": "The Data Set\nThe NVivo project file uses data from focus groups and interviews conducted in 2015 and 2016 as part of the Qualitative Election Study of Britain.\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nThe data is open access and available from the UK Data Service.\nFor more information on open research and data: - The FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets. - UK Data Service hub for archiving qualitative data and secondary analysis. - UK Data Service hub for data skills modules, covering research data management, data for reuse, and more.\nImportant to making data open access is storing it in ‘interoperable’, and ideally ‘open standard’, formats. Interoperable means that the files are not restricted to being opened by a specific single application. An open standard is one that is available for anyone to use, share, or access.\nFull ‘open research’ remains limited within qualitative research for various reasons. Importantly, whilst there is an open QDPX format for sharing qualitative data analysis projects, it is a ‘lossy’ format – where folder structures and more are lost when exporting to the open format.\nIn order then to avoid losing time creating an NVivo project file from scratch / tidying up an imported QDPX file, an NVivo project file has been set up for the workshop and available from Social. This project file is similar to what you would have had at the end of the Intro to NVivo workshop with a few minor tweaks."
+  },
+  {
+    "objectID": "going-further/project-file.html#downloading-the-nvivo-project-file",
+    "href": "going-further/project-file.html#downloading-the-nvivo-project-file",
+    "title": "Project File",
+    "section": "Downloading the NVivo Project File",
+    "text": "Downloading the NVivo Project File\nFrom the group page, to access the file:\n\nDownload linkZip file\n\n\n\nClick ‘Feed’ in the group navigation bar.\n\nScroll down the Feed to find my post with the OneDrive link and click it.\n ../ A new tab should open with a button to click to ‘Download’ the file.\n\n\n\n\n\n\nFail-safe\n\n\n\nIn case the download link is not working (my university seems to randomly stop share links from working), there is a zip file containing the NVivo project file on Social as well. Use the next tab for instructions to download and extract the zip file.\n\n\n\n\n\nClick ‘Documents’ in the group navigation bar.\n\nSelect the ‘Going Further (Feb 2025)’ folder.\n\n\nClick the three dots to open the pop-up menu.\nClick ‘Download’ and choose a suitable location to save the file on your device.\n\n\n\nFrom the folder you downloaded it to, right-click on the zip file.\nSelect ‘Extract All…’\n\n\n\nClick ‘Extract’ from the dialogue window and a new folder will be created containing the NVivo project file."
+  },
+  {
+    "objectID": "going-further/project-file.html#convertingupgrading-the-project",
+    "href": "going-further/project-file.html#convertingupgrading-the-project",
+    "title": "Project File",
+    "section": "Converting/Upgrading the Project",
+    "text": "Converting/Upgrading the Project\nNVivo project files are ‘forwards’ but not ‘backwards’ compatible. This means that newer versions of NVivo can open project files created in older versions, but not vice versa.\nDue to that, the project file provided was created in NVivo 12, which was the oldest version attendees said they were using in the sign-up survey.\nIf you are using NVivo 12, you can open the file and directly start working in it.\nIf you are using a newer version of NVivo or NVivo for MacOS, you will be greeted by a screen asking you to convert/upgrade the file:\n\nUpgrade\n\n\n\n\n(Optional) click ‘Browse…’ to choose location to save and rename the project file.\nClick ‘Next’.\n\n\n\nFrom the next screen, hit ‘Upgrade’ to confirm and start the upgrade. Once complete NVivo will open the file automatically.\n\n\n\n\n\n\n\n\n\n\nNVivo Version Differences\n\n\n\nOn Windows, there are not any overly significant changes in features from NVivo 12 onwards. The main changes are cosmetic, menu options, and naming conventions.\nNVivo for MacOS has always had a different look and menu options. It now has most of the same main features, though a few sub-features remain absent.\nWe’ll cover some of these differences as we go. The Resources page also has links to the NVivo User Help Pages for different versions."
+  },
+  {
+    "objectID": "Downloading the data.html",
+    "href": "Downloading the data.html",
+    "title": "Downloading the data",
+    "section": "",
+    "text": "You have all been added to a group on SGSSS Social where the data files are stored.\n\nTo access the files:\n\nLog into SGSSS Social\nGo to Groups &gt; My Groups\nGo to ‘NVivo Training 2024/25’\n\nYou can also access the group directly here (you may be prompted to log in).\n\n\nGo to ‘Documents’, then scroll down to folder ‘2. Data and Project files’\n\n\n\nDownload the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed.\nCheck the content. You should have 4 folders:\n\n\n2015 FGDs: 3 transcripts\n2016 interviews: 14 transcripts,\nLiterature: 3 articles\nResearch tools: 7 documents\n\n1 interview questions\n1 list of interview question codes\n1 interview schedule\n3 FGD info sheets\n1 excel of metadata",
     "crumbs": [
       "Project Setup",
-      "Set up a new project"
+      "Downloading the data"
     ]
   },
   {
-    "objectID": "Deductive coding.html",
-    "href": "Deductive coding.html",
-    "title": "Question coding: manual approach",
+    "objectID": "Downloading the data.html#the-sgsss-social-site",
+    "href": "Downloading the data.html#the-sgsss-social-site",
+    "title": "Downloading the data",
     "section": "",
-    "text": "Question codes\nAnother form of basic deductive coding is to code using the interview questions. It might be useful to know how everyone answered the same question across different transcripts.\n\nView the interview questions and their suggested codes by going into the ‘Research tools’ folder (1) and opening up ‘2016 Interview Questions’ (2):\n\n\n\nHere you can see that each section of the interview has a question and suggested short-form code.\n\n\n\nThe manual approach\n\nKeeping this file open in our Detail View, click on ‘codes’ in the Navigation View.\nCreate a new code by right-clicking in the List View section (currently empty)\nClick ‘new code’\n\n\n\nIn the pop up box, create codes from the terms in the right-hand column, one at a time. E.g. first make a code called ‘Intro’, then another one called ‘Referendum campaign’ and so on.\nFor the ’description section, it is helpful to copy/paste the full question from the quetsion codes document.\nFor this example, select ‘aggregate coding from children’ when creating codes. This means that sub-codes under this code will be included when expanding this code and returned in queries using the parent code. This can be changed at any time.\n\n\n\nRepeat the steps for all the question codes until your list view looks like this:\n\n\n\nNotice that, as we haven’t begun coding, both files and references will show as 0. Once we begin coding, the number under files will tell how many distinct files contain this code. References will tell the number of total times this code has been used (codes may be used several times in the same file).\n\n\n\nCode text manually to question headers\n\nOpen the first transcript in the folder 2016 interviews, ‘carter’.\nUsing Ctrl +F, find the question header ‘Voting decision’.\n\n\n\nHighlight the text response within this section and drag and drop it into the code listed on the left.\n\n\n\nAnother way to do this is to highlight to box and use the coding bar at the bottom ofo the screen.\n\n\n\nWhen you’ve done this you will see there is one reference coded to ‘Voting decision’; you can click on it to view the text in question.\n\n\n\nSome headings in the actual transcripts may not exactly correspond to the question codes, for example, ‘Referendum Campaign 2’ . You could choose to make another coding category for this, but as they represent the same topic, we decided to code them all together into ‘Referendum campaign’.",
+    "text": "You have all been added to a group on SGSSS Social where the data files are stored.\n\nTo access the files:\n\nLog into SGSSS Social\nGo to Groups &gt; My Groups\nGo to ‘NVivo Training 2024/25’\n\nYou can also access the group directly here (you may be prompted to log in).\n\n\nGo to ‘Documents’, then scroll down to folder ‘2. Data and Project files’\n\n\n\nDownload the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed.\nCheck the content. You should have 4 folders:\n\n\n2015 FGDs: 3 transcripts\n2016 interviews: 14 transcripts,\nLiterature: 3 articles\nResearch tools: 7 documents\n\n1 interview questions\n1 list of interview question codes\n1 interview schedule\n3 FGD info sheets\n1 excel of metadata",
+    "crumbs": [
+      "Project Setup",
+      "Downloading the data"
+    ]
+  },
+  {
+    "objectID": "going-further.html",
+    "href": "going-further.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Session Brief\n\n\n\nThis workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for ‘additive analysis’. They add to the ‘foundational’ elements of your project – your files, folders, nodes, cases, and notes – providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.\nIt is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.\nA Project File though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.",
+    "crumbs": [
+      "Going Further",
+      "Welcome!"
+    ]
+  },
+  {
+    "objectID": "New codes.html",
+    "href": "New codes.html",
+    "title": "Creating new codes",
+    "section": "",
+    "text": "As you progress with coding, some headings may not correspond to our initial question guide.\nThis is common- these may be questions that were added in later or discussion that came up unexpectedly in the conversation.\nAn example of this in the Dundee transcript is the question header ‘Subsequent Political Change’ :\n\n\nMethod 1 : coding bar\n\nHighlight the text\nAt the coding bar at the bottom of the screen, check you are coding to ‘Codes’ (1)\nIn the section, ‘Code to:’, type ‘Subsequent political change’ then press enter (2)\nClick the Open Circle to create the code and code highlighted text (3)\nYou will know this has worked if you see a green pop-up confirming its been coded (4)\n\n\n\nYou can also check out the new code and what it contains by double-clicking it:\n\n\n\nNB. You can use this coding bar to code to existing codes as well. Once you start typing in the bar, NVivo will offer you existing codes to select:\n\n\n\n\nMethod 2: right click\n\nWhile highlighting the text, right click and choose ‘code selection’:\n\n\n\nIn the pop up box, create a new code:\n\n\n\n\nMethod 3: drag and drop\n\nWhile highlighting the text, drag and drop it into the open space below the codes to open a prompt to create a new code:\n\n\n\nin the pop up box, name the code and click OK\n\n\n\n\nTop tips\nWhen creating a new code, think of your future self and any collaborators.\n\nWhen naming codes, use clear, direct, short codes\nAlways include a description of what you think this code means and what should be included here.",
     "crumbs": [
       "Start Coding",
-      "Question coding: manual approach"
+      "Creating new codes"
+    ]
+  },
+  {
+    "objectID": "project-setup.html",
+    "href": "project-setup.html",
+    "title": "Nvivo Project Setup",
+    "section": "",
+    "text": "This page will walk you through the steps of creating a new project.\nWe will cover:\n\nhow to import and organise files,\nhow to create cases and case classifications.\nHow to connect metadata (e.g. demographic information about interviewees)\n\nFollow the steps by clicking through the arrows at the bottom right.\nWhich Nvivo version are we using?\nThis project setup guide uses screenshots from NVivo Windows 14 and 15. Things may look a little different if you’re working on other versions. Differences with windows R1, 14 and 15 are minimal (where they exist, we’ll try to mention it)\nSee our cheatsheet for a quick guide to how things differ across versions.\nFor more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the Resources tab above.",
+    "crumbs": [
+      "Project Setup",
+      "Nvivo Project Setup"
+    ]
+  },
+  {
+    "objectID": "nvivo-about.html",
+    "href": "nvivo-about.html",
+    "title": "How can NVivo help me?",
+    "section": "",
+    "text": "Nvivo is a software package for managing qualitative and mixed methods analysis projects.\nYou can start an Nvivo project at any point in the research lifecycle: at the design phase, when you have already collected data, or even later.\nAs an analysis tool, Nvivo can help you:\nBut aside from helping to structure your analysis, Nvivo can be really helpful as a project management tool, organising your data and other useful information in one place.\nYou can also use Nvivo to collaborate - you can share projects or using cloud functionality to invite others in.",
+    "crumbs": [
+      "Intro",
+      "How can NVivo help me?"
+    ]
+  },
+  {
+    "objectID": "nvivo-about.html#and-what-cant-it-do",
+    "href": "nvivo-about.html#and-what-cant-it-do",
+    "title": "How can NVivo help me?",
+    "section": "And what can’t it do?",
+    "text": "And what can’t it do?\nImportant to note, using Nvivo will NOT:\n\nmake your analysis better\nmake meaning- you as the researcher do that\nautomatically provide objectivity and clarity, or ensure reproducibility\n\nEven though it allows linkage of qualitative and quantitative data, it can’t perform quantitative analysis.\nNvivo takes time to set up; and to make the most of the software, it requires some patience.\nIt is also more useful for some analysis approaches than others: for example very good for thematic content analysis (which we will cover today), but not so well adapted for others like interpretative phenomenological analysis (IPA).",
+    "crumbs": [
+      "Intro",
+      "How can NVivo help me?"
+    ]
+  },
+  {
+    "objectID": "nvivo-about.html#navigating-online-resources",
+    "href": "nvivo-about.html#navigating-online-resources",
+    "title": "How can NVivo help me?",
+    "section": "Navigating online resources",
+    "text": "Navigating online resources\nThere are a plethora of online resources for Nvivo (of varying quality…). This can be overwhelming!\nAfter you’ve done this workshop, you should feel more confident at searching and using these.\nWhere possible, we will sign post you to more advanced online tutorials.",
+    "crumbs": [
+      "Intro",
+      "How can NVivo help me?"
     ]
   },
   {
@@ -305,208 +430,91 @@
     ]
   },
   {
-    "objectID": "project-file.html",
-    "href": "project-file.html",
-    "title": "Project File",
+    "objectID": "Deductive coding.html",
+    "href": "Deductive coding.html",
+    "title": "Question coding: manual approach",
     "section": "",
-    "text": "An NVivo project file for this workshop is available to download from the ‘NVivo Training 2024/25’ group on Social.",
-    "crumbs": [
-      "Going Further",
-      "Project File"
-    ]
-  },
-  {
-    "objectID": "project-file.html#the-data-set",
-    "href": "project-file.html#the-data-set",
-    "title": "Project File",
-    "section": "The Data Set",
-    "text": "The Data Set\nThe NVivo project file uses data from focus groups and interviews conducted in 2015 and 2016 as part of the Qualitative Election Study of Britain.\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nThe data is open access and available from the UK Data Service.\nFor more information on open research and data: - The FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets. - UK Data Service hub for archiving qualitative data and secondary analysis. - UK Data Service hub for data skills modules, covering research data management, data for reuse, and more.\nImportant to making data open access is storing it in ‘interoperable’, and ideally ‘open standard’, formats. Interoperable means that the files are not restricted to being opened by a specific single application. An open standard is one that is available for anyone to use, share, or access.\nFull ‘open research’ remains limited within qualitative research for various reasons. Importantly, whilst there is an open QDPX format for sharing qualitative data analysis projects, it is a ‘lossy’ format – where folder structures and more are lost when exporting to the open format.\nIn order then to avoid losing time creating an NVivo project file from scratch / tidying up an imported QDPX file, an NVivo project file has been set up for the workshop and available from Social. This project file is similar to what you would have had at the end of the Intro to NVivo workshop with a few minor tweaks.",
-    "crumbs": [
-      "Going Further",
-      "Project File"
-    ]
-  },
-  {
-    "objectID": "project-file.html#downloading-the-nvivo-project-file",
-    "href": "project-file.html#downloading-the-nvivo-project-file",
-    "title": "Project File",
-    "section": "Downloading the NVivo Project File",
-    "text": "Downloading the NVivo Project File\nFrom the group page, to access the file:\n\nDownload linkZip file\n\n\n\nClick ‘Feed’ in the group navigation bar.\n\nScroll down the Feed to find my post with the OneDrive link and click it.\n\nA new tab should open with a button to click to ‘Download’ the file.\n\n\n\n\n\n\nFail-safe\n\n\n\nIn case the download link is not working (my university seems to randomly stop share links from working), there is a zip file containing the NVivo project file on Social as well. Use the next tab for instructions to download and extract the zip file.\n\n\n\n\n\nClick ‘Documents’ in the group navigation bar.\n\nSelect the ‘Going Further (Feb 2025)’ folder.\n\n\nClick the three dots to open the pop-up menu.\nClick ‘Download’ and choose a suitable location to save the file on your device.\n\n\n\nFrom the folder you downloaded it to, right-click on the zip file.\nSelect ‘Extract All…’\n\n\n\nClick ‘Extract’ from the dialogue window and a new folder will be created containing the NVivo project file.",
-    "crumbs": [
-      "Going Further",
-      "Project File"
-    ]
-  },
-  {
-    "objectID": "project-file.html#convertingupgrading-the-project",
-    "href": "project-file.html#convertingupgrading-the-project",
-    "title": "Project File",
-    "section": "Converting/Upgrading the Project",
-    "text": "Converting/Upgrading the Project\nNVivo project files are ‘forwards’ but not ‘backwards’ compatible. This means that newer versions of NVivo can open project files created in older versions, but not vice versa.\nDue to that, the project file provided was created in NVivo 12, which was the oldest version attendees said they were using in the sign-up survey.\nIf you are using NVivo 12, you can open the file and directly start working in it.\nIf you are using a newer version of NVivo or NVivo for MacOS, you will be greeted by a screen asking you to convert/upgrade the file:\n\nUpgrade\n\n\n\n\n(Optional) click ‘Browse…’ to choose location to save and rename the project file.\nClick ‘Next’.\n\n\n\nFrom the next screen, hit ‘Upgrade’ to confirm and start the upgrade. Once complete NVivo will open the file automatically.\n\n\n\n\n\n\n\n\n\n\nNVivo Version Differences\n\n\n\nOn Windows, there are not any overly significant changes in features from NVivo 12 onwards. The main changes are cosmetic, menu options, and naming conventions.\nNVivo for MacOS has always had a different look and menu options. It now has most of the same main features, though a few sub-features remain absent.\nWe’ll cover some of these differences as we go. The Resources page also has links to the NVivo User Help Pages for different versions.",
-    "crumbs": [
-      "Going Further",
-      "Project File"
-    ]
-  },
-  {
-    "objectID": "project-file.html#project-file-overview",
-    "href": "project-file.html#project-file-overview",
-    "title": "Project File",
-    "section": "Project File Overview",
-    "text": "Project File Overview\nAs a (very) quick overview of the project file:\n\nFilesCodesCasesNotesSetsQueries\n\n\nData &gt; Files\n\n\nFocus Groups (2015): Transcripts from three pre-general election focus groups from 2015.\nInterviews (2016): Fourteen telephone interviews on the EU Referendum in 2016.\nLiterature: Containing two articles by QESB team members, one on using grounded theory, the other on using focus groups.\nProject Files: With files that contain additional information about the project, the research phases, and participants who took part.\n\n\n\nCoding &gt; Codes\n\n\nCodes: Top-level folder with some initial coding created during the Intro to NVivo workshop.\n\nAutocoded (Sections): Sub-folder with the broad-brush themes that were created auto-coding the Headings within the interview transcripts.\nAutocoded (Themes): Sub-folder with codes created by auto-coding ‘themes’.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nWe have “autocoded themes” within this document merely to provide a broad range of example codes to work with in the exercises. However, in practice, do not rely on such autocoding instead of creating and coding with your own codes.\n\n\n\n\nCases &gt; Cases\n\n\nInterviewer: Cases created when ‘autocoding by speaker’ that code transcript sections where an interviewer / moderator from the research team is speaking.\nParticipants: Cases created when ‘autocoding by speaker’ that code transcript sections where participants are speaking.\nCase Classifications: Top-level folder contains the case classifications and their attributes. For this project, there is only one case classification - ‘People’.\n\nPeople: Sub-folder with all cases classified as ‘People’, where can see the attributes for specific participants. (Note - the interviewer cases are also classified as people, in many cases you would want to remove from the same classification as participants.)\n\n\n\n\n\n\nMemos: NVivo’s built-in note-taking system. Contains a few existing memos with further project info and reflectives on initial analysis.\nFramework Matrices: Create summaries for cases by node. Currently, empty.\nAnnotations: Annotations added to files, with couple examples.\nSee-Also Links: Use to link content/files to other content/files. Currently, empty.\n\n\n\n\n\nStatic Sets: Manually created collections of project items, of any type. Think of this as a way to group and organise items for specific tasks without changing their primary structure. For example, a code can only exist within a single folder within the “Coding &gt; Codes” section. However, it can be included within an unlimited number of static sets.\nDynamic Sets: Collections of project items created based on search criteria. As they are criteria based they also auto-update based on any changes in your project. For example, if you had a dynamic set for all codes used to code focus group transcripts, each time you use a new code when coding the focus groups, it will automatically then be included in the dynamic set.\n\n\n\n\n\n\n\nNVivo 12 - ‘search folders’\n\n\n\nDynamic Sets are a new name given to what were called ‘search folders’ in NVivo 12. They operate exactly the same, all that is different is the name.\n\n\n\n\n\n\nQuery Criteria: Location to store saved queries, saving you from having to manually put them together each time.\nQuery Results: Location to store query results. This can be useful for more complex queries that take a long-time to process to save having to re-run it every time – just remember it won’t reflect any changes to your project file. Query results can also be used to create new nodes and cases.\nCoding Matrices: Similar to the above but for the results of a coding matrix. By default manually created coding matrices saved results with be in Query Results, but they can manually moved across. Coding matrices automatically produced, such as when autocoding by theme, are stored here by default.",
-    "crumbs": [
-      "Going Further",
-      "Project File"
-    ]
-  },
-  {
-    "objectID": "nvivo-about.html",
-    "href": "nvivo-about.html",
-    "title": "How can NVivo help me?",
-    "section": "",
-    "text": "Nvivo is a software package for managing qualitative and mixed methods analysis projects.\nYou can start an Nvivo project at any point in the research lifecycle: at the design phase, when you have already collected data, or even later.\nAs an analysis tool, Nvivo can help you:\nBut aside from helping to structure your analysis, Nvivo can be really helpful as a project management tool, organising your data and other useful information in one place.\nYou can also use Nvivo to collaborate - you can share projects or using cloud functionality to invite others in.",
-    "crumbs": [
-      "Intro",
-      "How can NVivo help me?"
-    ]
-  },
-  {
-    "objectID": "nvivo-about.html#and-what-cant-it-do",
-    "href": "nvivo-about.html#and-what-cant-it-do",
-    "title": "How can NVivo help me?",
-    "section": "And what can’t it do?",
-    "text": "And what can’t it do?\nImportant to note, using Nvivo will NOT:\n\nmake your analysis better\nmake meaning- you as the researcher do that\nautomatically provide objectivity and clarity, or ensure reproducibility\n\nEven though it allows linkage of qualitative and quantitative data, it can’t perform quantitative analysis.\nNvivo takes time to set up; and to make the most of the software, it requires some patience.\nIt is also more useful for some analysis approaches than others: for example very good for thematic content analysis (which we will cover today), but not so well adapted for others like interpretative phenomenological analysis (IPA).",
-    "crumbs": [
-      "Intro",
-      "How can NVivo help me?"
-    ]
-  },
-  {
-    "objectID": "nvivo-about.html#navigating-online-resources",
-    "href": "nvivo-about.html#navigating-online-resources",
-    "title": "How can NVivo help me?",
-    "section": "Navigating online resources",
-    "text": "Navigating online resources\nThere are a plethora of online resources for Nvivo (of varying quality…). This can be overwhelming!\nAfter you’ve done this workshop, you should feel more confident at searching and using these.\nWhere possible, we will sign post you to more advanced online tutorials.",
-    "crumbs": [
-      "Intro",
-      "How can NVivo help me?"
-    ]
-  },
-  {
-    "objectID": "project-setup.html",
-    "href": "project-setup.html",
-    "title": "Nvivo Project Setup",
-    "section": "",
-    "text": "This page will walk you through the steps of creating a new project.\nWe will cover:\n\nhow to import and organise files,\nhow to create cases and case classifications.\nHow to connect metadata (e.g. demographic information about interviewees)\n\nFollow the steps by clicking through the arrows at the bottom right.\nWhich Nvivo version are we using?\nThis project setup guide uses screenshots from NVivo Windows 14 and 15. Things may look a little different if you’re working on other versions. Differences with windows R1, 14 and 15 are minimal (where they exist, we’ll try to mention it)\nSee our cheatsheet for a quick guide to how things differ across versions.\nFor more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the Resources tab above.",
-    "crumbs": [
-      "Project Setup",
-      "Nvivo Project Setup"
-    ]
-  },
-  {
-    "objectID": "New codes.html",
-    "href": "New codes.html",
-    "title": "Creating new codes",
-    "section": "",
-    "text": "As you progress with coding, some headings may not correspond to our initial question guide.\nThis is common- these may be questions that were added in later or discussion that came up unexpectedly in the conversation.\nAn example of this in the Dundee transcript is the question header ‘Subsequent Political Change’ :\n\n\nMethod 1 : coding bar\n\nHighlight the text\nAt the coding bar at the bottom of the screen, check you are coding to ‘Codes’ (1)\nIn the section, ‘Code to:’, type ‘Subsequent political change’ then press enter (2)\nClick the Open Circle to create the code and code highlighted text (3)\nYou will know this has worked if you see a green pop-up confirming its been coded (4)\n\n\n\nYou can also check out the new code and what it contains by double-clicking it:\n\n\n\nNB. You can use this coding bar to code to existing codes as well. Once you start typing in the bar, NVivo will offer you existing codes to select:\n\n\n\n\nMethod 2: right click\n\nWhile highlighting the text, right click and choose ‘code selection’:\n\n\n\nIn the pop up box, create a new code:\n\n\n\n\nMethod 3: drag and drop\n\nWhile highlighting the text, drag and drop it into the open space below the codes to open a prompt to create a new code:\n\n\n\nin the pop up box, name the code and click OK\n\n\n\n\nTop tips\nWhen creating a new code, think of your future self and any collaborators.\n\nWhen naming codes, use clear, direct, short codes\nAlways include a description of what you think this code means and what should be included here.",
+    "text": "Question codes\nAnother form of basic deductive coding is to code using the interview questions. It might be useful to know how everyone answered the same question across different transcripts.\n\nView the interview questions and their suggested codes by going into the ‘Research tools’ folder (1) and opening up ‘2016 Interview Questions’ (2):\n\n\n\nHere you can see that each section of the interview has a question and suggested short-form code.\n\n\n\nThe manual approach\n\nKeeping this file open in our Detail View, click on ‘codes’ in the Navigation View.\nCreate a new code by right-clicking in the List View section (currently empty)\nClick ‘new code’\n\n\n\nIn the pop up box, create codes from the terms in the right-hand column, one at a time. E.g. first make a code called ‘Intro’, then another one called ‘Referendum campaign’ and so on.\nFor the ’description section, it is helpful to copy/paste the full question from the quetsion codes document.\nFor this example, select ‘aggregate coding from children’ when creating codes. This means that sub-codes under this code will be included when expanding this code and returned in queries using the parent code. This can be changed at any time.\n\n\n\nRepeat the steps for all the question codes until your list view looks like this:\n\n\n\nNotice that, as we haven’t begun coding, both files and references will show as 0. Once we begin coding, the number under files will tell how many distinct files contain this code. References will tell the number of total times this code has been used (codes may be used several times in the same file).\n\n\n\nCode text manually to question headers\n\nOpen the first transcript in the folder 2016 interviews, ‘carter’.\nUsing Ctrl +F, find the question header ‘Voting decision’.\n\n\n\nHighlight the text response within this section and drag and drop it into the code listed on the left.\n\n\n\nAnother way to do this is to highlight to box and use the coding bar at the bottom ofo the screen.\n\n\n\nWhen you’ve done this you will see there is one reference coded to ‘Voting decision’; you can click on it to view the text in question.\n\n\n\nSome headings in the actual transcripts may not exactly correspond to the question codes, for example, ‘Referendum Campaign 2’ . You could choose to make another coding category for this, but as they represent the same topic, we decided to code them all together into ‘Referendum campaign’.",
     "crumbs": [
       "Start Coding",
-      "Creating new codes"
+      "Question coding: manual approach"
     ]
   },
   {
-    "objectID": "going-further.html",
-    "href": "going-further.html",
-    "title": "Welcome!",
+    "objectID": "New project.html",
+    "href": "New project.html",
+    "title": "Set up a new project",
     "section": "",
-    "text": "Session Brief\n\n\n\nThis workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for ‘additive analysis’. They add to the ‘foundational’ elements of your project – your files, folders, nodes, cases, and notes – providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.\nIt is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.\nA Project File though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.",
-    "crumbs": [
-      "Going Further",
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "going-further.html#session-aims",
-    "href": "going-further.html#session-aims",
-    "title": "Welcome!",
-    "section": "Session Aims",
-    "text": "Session Aims\n\n🤔 Problem-based approach\n\n\n\n\n\n\n🤔 Critical Considerations\n\n\n\nThe sections and tasks for this workshop session are based around problems and considerations to make that you might encounter as your analysis progresses.\nWith each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.\nThe purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.\nImportantly, after the follow along demonstrations, we will have time for experimentation and discussion. I have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the ‘experiment and discuss’ sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.\n\n\n\n\n🧟 Slaying QDAS zombies\n\n\n\n\n\n\n🧟 Slaying QDAS Zombies\n\n\n\nTo say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.\nThere was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.\nThe big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.\nHowever, the critiques unfortunately still persist as QDAS Zombies by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen – or copying chunks of text into Word/Excel files – it’s no wonder these critiques feel more alive than dead.\nWhat we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I’d go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.\n\n\n\n\n🤢 It’s not you, it’s NVivo!\n\n\n\n\n\n\n🤢 It’s not you, it’s NVivo\n\n\n\nNVivo is powerful and without a doubt better than analogue paper and pen analysis – or worse, copying and pasting chunks of text into multiple Word/Excel files – but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.\nThe unintuitive design and labyrinthine steps required for some tasks – never mind the joys of trying to recall them each time when first starting – gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.\nTo Lumivero’s credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often ‘NVivo-error’ not ‘user-error’ – there was not anything wrong in how you set up your project or actions you were doing, it’s just NVivo being NVivo.",
-    "crumbs": [
-      "Going Further",
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "Downloading the data.html",
-    "href": "Downloading the data.html",
-    "title": "Downloading the data",
-    "section": "",
-    "text": "You have all been added to a group on SGSSS Social where the data files are stored.\nTo access,\n\nLog into SGSSS Social,\nGo to groups -&gt;my groups\nGo to ‘NVivo Training 2024/25’\n\nYou can also access the group directly here (you may be prompted to log in)\n\n\nGo to ‘Documents’, then scroll down to folder ‘2.Data and Project files’\n\n\n\nDownload the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed.\nCheck the content. You should have 4 folders:\n\n\n2015 FGDs: 3 transcripts\n2016 interviews: 14 transcripts,\nLiterature: 3 articles\nResearch tools: 7 documents: 1 interview questions, 1 list of interview question codes, 1 interview schedule, 3 FGD info sheets, 1 excel of metadata.",
+    "text": "Create a new project in Nvivo\nOpen NVivo and click the ‘New Project’ tile on the welcome page.\nIf you already have a project open in NVivo, go to ‘File’ on the ribbon and select ‘New’ (step 1).\n\n\nGive your project a suitable title (2)\nThe file name will be automatically generated (3).\nYou can enter a description of the project at this stage as well (4). While not required, it’s good practice to include something here.\nYou can choose a language here - English (US) is the default (5)\nClick next (6)\nChoose your preferred save and recovery settings:\n\n\n\nNB: default settings are to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled. It’s VERY IMPORTANT to save regularly as Nvivo has a habit of crashing.\n\n\n\nOptional tour\n\nYou will be prompted to take a quick tour, which will outline:\n\nImporting data\nCases\nNotes\nQueries\nVisualizations\nCentralizing workflow\n\nSkip for now – but may be worth coming back to in the future.",
     "crumbs": [
       "Project Setup",
-      "Downloading the data"
+      "Set up a new project"
     ]
   },
   {
-    "objectID": "Downloading the data.html#the-sgsss-social-site",
-    "href": "Downloading the data.html#the-sgsss-social-site",
-    "title": "Downloading the data",
+    "objectID": "Material to cases.html",
+    "href": "Material to cases.html",
+    "title": "Coding material to cases",
     "section": "",
-    "text": "You have all been added to a group on SGSSS Social where the data files are stored.\nTo access,\n\nLog into SGSSS Social,\nGo to groups -&gt;my groups\nGo to ‘NVivo Training 2024/25’\n\nYou can also access the group directly here (you may be prompted to log in)\n\n\nGo to ‘Documents’, then scroll down to folder ‘2.Data and Project files’\n\n\n\nDownload the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed.\nCheck the content. You should have 4 folders:\n\n\n2015 FGDs: 3 transcripts\n2016 interviews: 14 transcripts,\nLiterature: 3 articles\nResearch tools: 7 documents: 1 interview questions, 1 list of interview question codes, 1 interview schedule, 3 FGD info sheets, 1 excel of metadata.",
+    "text": "In this example project, we are most interested in people who have both a 2016 interview and took part in the 2015 pre-election FGDs.\nNow that we have established our cases, we will link the responses of the 14 people interviewed in 2016 with their data from the 2015 pre-election focus group.\nSo, we will link the interview transcript of Walt:\n\nwith Walt’s data from the focus group he took part in:\n\nTo do this, we need to go into each focus group transcript, search for responses from Walt, and manually code this to Walt’s case.\n\n\n\nOpen the 2015 Dundee pre-election focus group in your Detail View, and have Cases, People in your List View.\nIn the focus group data, use Ctrl+F (find) to search for responses from Walt.\n\n\n\nHighlight the text and drag it across to Walt’s case in the list view. NB. It may be useful to highlight the preceding moderator’s question/prompt that Walt is responding to.\nYou can double click on Walt’s case to check it’s been coded correctly.\n\n\n\nThen you would cycle through manually for all instances of Walt’s response in the focus group transcript, then repeat for other participants.",
     "crumbs": [
-      "Project Setup",
-      "Downloading the data"
+      "Start Coding",
+      "Coding material to cases"
     ]
   },
   {
-    "objectID": "orgnodes.html#adding-organisation-codes",
-    "href": "orgnodes.html#adding-organisation-codes",
-    "title": "Organisation Codes",
-    "section": "Adding Organisation Codes",
-    "text": "Adding Organisation Codes\n\n\nGo to the main ‘Codes’ folder.\nRight-click on any white space and select ‘New Code…’\n\n\n\nProvide it with a suitable name, such as ‘Organisation Codes’\nI have added “z - …” at the start as that ensure it’s placed at the end when alphabetically ordered.\n\n\n\nDrag and drop the existing ‘quotable quote’ code to become a child code of ‘z - Organisation Codes’.\n(Optional) rename it to ‘Gold’.\nCreate another two child codes ‘Unsure’ and ‘Example’.\n\n\n\n\n\n\n\nDifferent organisation codes\n\n\n\n\nThere are various different codes researchers make to to help with organising their coding. A few examples:\n\nExample - Use for coding sections that are serve as illustrative example of another code.\nGold - Use for coding sections that have high probability of later being used as a quote. (Though ensure to avoid cherry-picking!)\nImportant - Use for coding sections that are important for the analysis. (This can be distinct in many cases from ‘Gold’.)\nUnsure - Use for coding sections that are coded to another code, but you are unsure whether either it is right code for the section or this coded section is making you question the overall code.\n\nIMPORTANT - You do not need all of these! This is merely showing range of examples. Which and how many to have wil change based on personal preferences and analysis aims. For example, when working as part of a large team, ‘example’ can be useful for researchers to identify coded sections they think illustrate specific codes they are developing. This can then help inform discussion to agree a share coding schema for the project.\n\nAnother way to use codes for organising is having codes to store excerpts you intend to use / have used in specific articles or thesis chapters. This can be combined with queries as well to aid finding most relevant sections. For example, a Matrix Coding Query with your writing organisation codes with your main coding schema.\nDue to the much more niche use-case for these codes, they are definitely ones to chuck in their own folder to avoid cluttering the top-level folder.\n\n\n\nCode Matrix Query\nFirst:\n\nSelect two or three existing codes from the top-level Codes folder or ‘Autocoded (Theme)’ sub-folder.\nOpen tabs for to view the code results for each.\nQuickly go through coding sections from the code results to ‘Example’, ‘Gold’, and ‘Unsure’.\n\n\n\nGo to the Query Criteria folder\nRight-click and select New Query\nand, Matrix Coding Query\n\n\n\nRows = the regular codes you chose.\nColumns = Gold, Unsure, and Example.\nHit ‘Run Query’\nRemember to also ‘Save Criteria…’\n\nThis will then produce a coding matrix you can then use to find sections coded at both a regular and organisation code.",
+    "objectID": "Material to cases.html#autocoding-using-a-properly-formatted-transcript",
+    "href": "Material to cases.html#autocoding-using-a-properly-formatted-transcript",
+    "title": "Coding material to cases",
+    "section": "Autocoding using a properly formatted transcript",
+    "text": "Autocoding using a properly formatted transcript\nLet’s start the process again using the Birmingham FGD.\nNotice that in the Birmingham transcript, every time a person speaks it is followed by a colon:\n\n\nOpen the Birmingham 2015 pre-election focus group discussion files and select ‘autocode’ from the ribbon.\nIn the autocode wizard, this time enter speaker names with a colon (e.g. Charles:) and click next.\n\n\n\nSelect Next.\nAs we already have cases set up for the people we are interested in, select ‘add to existing classifications’, ‘people’ and select ‘finish’.\n\n\n\nCheck results by clicking into ‘People’.\n\n\n\nIf you click on a case e.g. ‘charles’ you can see there are now 2 files and 38 references linked to that person (1).\nIn the detail view on the right, you can see all quotes coded to Charles’ case. (2 and 3)\nFinally, you can see a summary of the % of the transcript which is coded to Charles by clicking on the ‘summary’ tab on the far right (4).\n\n\nThe moral of the story: autocoding can save you a lot of time in deductive category coding if you understand the algorithm and format data correctly.",
     "crumbs": [
-      "Going Further",
-      "**Coding Workflows**",
-      "Organisation Codes"
+      "Start Coding",
+      "Coding material to cases"
     ]
   },
   {
-    "objectID": "orgnodes.html#memo-links",
-    "href": "orgnodes.html#memo-links",
-    "title": "Organisation Codes",
-    "section": "Memo Links",
-    "text": "Memo Links\n\nCreate a linked memo for one of your chosen regular codes:\n\nRight-click the code.\nSelect ‘Memo Link’.\nThen ‘Link to New Memo…’\n\n\nProvide an appropriate name. For memos linked to codes I tend to go with “m - Code Name” naming convention.\n\n\nAdd headers for ‘Example’, ‘Gold’,’ Unsure’.\n\nYou can then use the coding matrix results to read through content coded to both the code and the three organisation nodes. (Or, for time, add some lorem ipsum.)\n\nMemo See Also Links\nIt is possible to link text within a file to text within a memo.\n\n\nSelect the text you want to link to the memo text.\nRight-click and select ‘Copy’.\n\n\nBack in the memo:\n\nSelect the memo text you want to be linked.\nRight-click and select ‘Paste as See-Also Link’.\n\n\nSee also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.\n\nImportantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can ‘Open To Item’. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.\n\n\nAutocode Memos\nAs an example of how flexible some of NVivos tools are, as with files, it is possible to autocode memos.\n\n\nRight-click the memo you created.\nSelect ‘Autocode…’\n\n\n\n\n\n\nChange ‘Under’ to ‘New Folder’\nProvide it an appropriate Name\nHit ‘Finish’\n\n\nThis may not seem like much with just a single memo, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections.",
+    "objectID": "Uncoding.html",
+    "href": "Uncoding.html",
+    "title": "Uncoding",
+    "section": "",
+    "text": "Uncode when necessary\nIf you’ve coded something incorrectly, you can uncode text in as many ways as you can code.\nAfter highlighting the text, you can either:\n\nRight-click and choose uncode.\n\n\n\nSelect ‘uncode’ in the document ribbon at the top:\n\n\n\nUse the bottom coding bar button / keyboard shortcut (CTRL+SHIFT+F9);",
     "crumbs": [
-      "Going Further",
-      "**Coding Workflows**",
-      "Organisation Codes"
+      "Start Coding",
+      "Uncoding"
     ]
   },
   {
-    "objectID": "orgnodes.html#static-sets",
-    "href": "orgnodes.html#static-sets",
-    "title": "Organisation Codes",
-    "section": "Static Sets",
-    "text": "Static Sets\nGoing through the ‘Unsure’ sections, for example, may help you identify new code to create or ones to replace.\nSay you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.\nThis is where static sets come in handy.\n\nAdd three existing Codes to the static set.\nWithin your ‘Codes’ top-level folder create three new codes of your choice, for simplicity I’m just going with ‘A’, ‘B’, ‘C’.\nAdd these to the ‘New Codes’ static set.\n\n\nCoded to Old Codes, but not New Codes\n\n\nCreate a new Matrix Coding Query.\nRows = ‘Old Codes’ static set.\nColumns = ‘New Codes’ static set.\nChange ‘Coding at rows … columns’ to Not.\n‘Run Query’\n\nThis will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the ‘Old Codes’ static set.\nYou can now work your way recoding to the New Codes. Importantly, during recoding you can hit ‘Run Query’ and get an update of how many sections are left to recode. This can be extremely useful you whilst recoding you realise you actually need a fourth new code ‘D’. You can create it, add it to ‘New Codes’ static set and ‘Run Query’ for your ‘Recoding Old with New’ Matrix Code Query.\n\nRemember you can change the ‘coding content’ to view more text surrounding the sections coded to your old codes. That won’t make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.\n\nSimilarly, you can turn on coding stripes and highlighting using the static set as a filter.\n\nThis can save a lot of headaches and frustration when if adopting a coding approach that have multiple stages in developing and refinding your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.\n\n\nOther uses for static sets\n\nGrouping conceptual related codes outside your main coding schema.\nCollating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.\nMaking a group of participants with similar experiences, but where it would not necessarily make sense to capture it using Attributes.",
+    "objectID": "going-further/project-overview.html",
+    "href": "going-further/project-overview.html",
+    "title": "Project File Overview",
+    "section": "",
+    "text": "As a (very) quick overview of the project file:\n\nFiles\n\nData &gt; Files\n\n\nFocus Groups (2015): Transcripts from three pre-general election focus groups from 2015.\nInterviews (2016): Fourteen telephone interviews on the EU Referendum in 2016.\nLiterature: Containing two articles by QESB team members, one on using grounded theory, the other on using focus groups.\nProject Files: With files that contain additional information about the project, the research phases, and participants who took part.\n\n\n\n\nCodes\n\nCoding &gt; Codes\n\n\nCodes: Top-level folder with some initial coding created during the Intro to NVivo workshop.\n\nAutocoded (Sections): Sub-folder with the broad-brush themes that were created auto-coding the Headings within the interview transcripts.\nAutocoded (Themes): Sub-folder with codes created by auto-coding ‘themes’.\n\n\n\n\n\n\n\n\n\nWarning\n\n\n\nWe have “autocoded themes” within this document merely to provide a broad range of example codes to work with in the exercises. However, in practice, do not rely on such autocoding instead of creating and coding with your own codes.\n\n\n\n\nCases\n\nCases &gt; Cases\n\n\nInterviewer: Cases created when ‘autocoding by speaker’ that code transcript sections where an interviewer / moderator from the research team is speaking.\nParticipants: Cases created when ‘autocoding by speaker’ that code transcript sections where participants are speaking.\nCase Classifications: Top-level folder contains the case classifications and their attributes. For this project, there is only one case classification - ‘People’.\n\nPeople: Sub-folder with all cases classified as ‘People’, where can see the attributes for specific participants. (Note - the interviewer cases are also classified as people, in many cases you would want to remove from the same classification as participants.)\n\n\n\n\n\nNotes\n\n\n\nMemos: NVivo’s built-in note-taking system. Contains a few existing memos with further project info and reflectives on initial analysis.\nFramework Matrices: Create summaries for cases by node. Currently, empty.\nAnnotations: Annotations added to files, with couple examples.\nSee-Also Links: Use to link content/files to other content/files. Currently, empty.\n\n\n\n\nSets\n\n\n\nStatic Sets: Manually created collections of project items, of any type. Think of this as a way to group and organise items for specific tasks without changing their primary structure. For example, a code can only exist within a single folder within the “Coding &gt; Codes” section. However, it can be included within an unlimited number of static sets.\nDynamic Sets: Collections of project items created based on search criteria. As they are criteria based they also auto-update based on any changes in your project. For example, if you had a dynamic set for all codes used to code focus group transcripts, each time you use a new code when coding the focus groups, it will automatically then be included in the dynamic set.\n\n\n\n\n\n\n\n\nNVivo 12 - ‘search folders’\n\n\n\nDynamic Sets are a new name given to what were called ‘search folders’ in NVivo 12. They operate exactly the same, all that is different is the name.\n\n\n\n\nQueries\n\n\n\nQuery Criteria: Location to store saved queries, saving you from having to manually put them together each time.\nQuery Results: Location to store query results. This can be useful for more complex queries that take a long-time to process to save having to re-run it every time – just remember it won’t reflect any changes to your project file. Query results can also be used to create new nodes and cases.\nCoding Matrices: Similar to the above but for the results of a coding matrix. By default manually created coding matrices saved results with be in Query Results, but they can manually moved across. Coding matrices automatically produced, such as when autocoding by theme, are stored here by default.",
     "crumbs": [
       "Going Further",
-      "**Coding Workflows**",
-      "Organisation Codes"
+      "Project File Overview"
     ]
   },
   {
-    "objectID": "going-further-bk.html",
-    "href": "going-further-bk.html",
+    "objectID": "going-further/going-further-bk.html",
+    "href": "going-further/going-further-bk.html",
     "title": "Welcome!",
     "section": "",
     "text": "Session Brief\n\n\n\nThis one-day in-person workshop is designed for those with a basic working knowledge of NVivo for qualitative research projects. It is designed to introduce you to more advanced features and the flexible ways these can be used for qualitative analysis. It is designed as a follow-on from the “Introduction to Qualitative Analysis Projects in NVivo”, but is open to everyone regardless of whether they attended that session.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\nusing static and dynamic sets\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project."
   },
   {
-    "objectID": "going-further-bk.html#session-aims",
-    "href": "going-further-bk.html#session-aims",
+    "objectID": "going-further/going-further-bk.html#session-aims",
+    "href": "going-further/going-further-bk.html#session-aims",
     "title": "Welcome!",
     "section": "Session Aims",
     "text": "Session Aims\n\n🧑‍🎓 NVivo 201 - Additive Analysis\nThis workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for ‘additive analysis’. They add to the ‘foundational’ elements of your project – your files, folders, nodes, cases, and notes – providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.\nIt is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.\nA Project File though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.\n\n\n🤔 Problem-based approach\nThe sections and tasks for this workshop session are based around problems and considerations to make that you might encounter as your analysis progresses.\nWith each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.\nThe purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.\nImportantly, after the follow along demonstrations, we will have time for experimentation and discussion. I have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the ‘experiment and discuss’ sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.\n\n\n\n\n\n\n‘Living Documents’\n\n\n\nThese pages are ‘living documents’, they will continually and iteratively be updated over time. Please see the Callout on the About page\n\n\n\n\n🧟 Slaying QDAS zombies\nTo say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.\nThere was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.\nThe big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.\nHowever, the critiques unfortunately still persist as QDAS Zombies by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen – or copying chunks of text into Word/Excel files – it’s no wonder these critiques feel more alive than dead.\nWhat we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I’d go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.\n\n\n🤢 It’s not you, it’s NVivo!\nNVivo is powerful and without a doubt better than analogue paper and pen analysis – or worse, copying and pasting chunks of text into multiple Word/Excel files – but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.\nThe unintuitive design and labyrinthine steps required for some tasks – never mind the joys of trying to recall them each time when first starting – gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.\nTo Lumivero’s credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often ‘NVivo-error’ not ‘user-error’ – there was not anything wrong in how you set up your project or actions you were doing, it’s just NVivo being NVivo."
+  },
+  {
+    "objectID": "Designing your Nvivo project.html",
+    "href": "Designing your Nvivo project.html",
+    "title": "Design your own Nvivo project: first steps",
+    "section": "",
+    "text": "Before you start building your own Nvivo project,it’s a good idea to think through the components and likely structure in advance:\n🤔 Ask yourself about the following:\n\n\nWhat types of data and files do I have?\nThese need to be digitized, but could include text items like…\n- transcripts of interviews/focus groups \n- quantitative metadata\n- field notes \n- research tools\n- policy documents\n- literature \n- archive materials\nIt is also possible to include things like..\n- photographs or images\n- video/audio \n- maps \nCAUTION: adding large files to Nvivo slows the software down dramatically.\nFor that reason we advise against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things are best organised in a file hierarchy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on your research question such as ‘trust in institutions’, ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
   },
   {
     "objectID": "Nvivo versions.html",
@@ -614,45 +622,45 @@
   {
     "objectID": "The dataset.html",
     "href": "The dataset.html",
-    "title": "The dataset",
+    "title": "The Dataset",
     "section": "",
     "text": "We will use data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\nHere’s an explanation of the study by it’s leads:\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nHear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee: \nThe data is open access and available from the UK Data Service.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017.",
     "crumbs": [
       "Project Setup",
-      "The dataset"
+      "The Dataset"
     ]
   },
   {
     "objectID": "The dataset.html#qualitative-election-study-of-britain",
     "href": "The dataset.html#qualitative-election-study-of-britain",
-    "title": "The dataset",
+    "title": "The Dataset",
     "section": "",
     "text": "We will use data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\nHere’s an explanation of the study by it’s leads:\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nHear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee: \nThe data is open access and available from the UK Data Service.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017.",
     "crumbs": [
       "Project Setup",
-      "The dataset"
+      "The Dataset"
     ]
   },
   {
     "objectID": "The dataset.html#the-data-subset-we-are-using",
     "href": "The dataset.html#the-data-subset-we-are-using",
-    "title": "The dataset",
+    "title": "The Dataset",
     "section": "The data subset we are using",
     "text": "The data subset we are using\nThe data we will be working with was collected in 2015 and 2016, and were timed to collect opinions prior to the UK 2015 General Election, and just after the EU or ‘Brexit’ Referendum. This period was one of great political unpredictability and voter volatility. Both of those votes had controversial and unexpected results: the 2015 Election was a surprise win for the Conservatives, and in Scotland, the Scottish National Party made huge gains over Labour. The 2016 EU referendum resulted in a 52% vote to leave the European Union, and this marked a change in the UK’s relationship with Europe and the rest of the world.\n\nThe data extract we are using allows longitudinal linkage because some of the people who took part in the 2015 focus groups later participated in a 1-2-1 telephone interview.\nThe data citations:\nCarvalho, E., Winters, K. (2019). Qualitative Election Study of Britain, 2015. [data collection]. UK Data Service. SN: 8117, DOI\nCarvalho, E., Winters, K., Oliver, T. (2023). The Qualitative Election Study of Britain: The EU Referendum Interviews Dataset, 2016. [data collection]. UK Data Service. SN: 856170, DOI\nSome more information:\nCarvalho, Edzia and Winters, Kristi and Oliver, Thom (2023). The Qualitative Election Study of Britain: The EU Referendum Interviews Dataset, 2016. [Data Collection]. Colchester, Essex: UK Data Service. 10.5255/UKDA-SN-856170",
     "crumbs": [
       "Project Setup",
-      "The dataset"
+      "The Dataset"
     ]
   },
   {
     "objectID": "The dataset.html#open-research",
     "href": "The dataset.html#open-research",
-    "title": "The dataset",
+    "title": "The Dataset",
     "section": "Open research",
-    "text": "Open research\nThis dataset is a brilliant example of Open Science: the data are open access but also organised to promote reusability. This is good practice, and there a lot of resources to help guide you on the use and reuse of secondary data, and how you can play your part.\nFor more information on open research and data:\n\nThe FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets.\nUK Data Service hub for archiving qualitative data and secondary analysis.\nTake one of these free data skills modules from the UK Data Service which covers topics like research data management, finding secondary data, data resuse and many more topics.",
+    "text": "Open research\nThis dataset is a brilliant example of Open Science: the data are open access but also organised to promote reusability. This is good practice, and there a lot of resources to help guide you on the use and reuse of secondary data, and how you can play your part.\nFor more information on open research and data:\n\nThe FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets.\nUK Data Service hub for archiving qualitative data and secondary analysis.\nTake one of these free data skills modules from the UK Data Service which covers topics like research data management, finding secondary data, data resuse and many more topics.\n\n\n\nOpen Qualitative Research\n\n\n\n\n\n\n🤢 It’s not you, it’s NVivo\n\n\n\nImportant to making data and analysis open is storing it in an ‘interoperable’ and ‘open’ format. Interoperable means that the files are not restricted to being opened by a specific single application, such as NVivo. An open standard is one that is available for anyone to use, share, or access - where it could be opened on NVivo, Atlas.ti, and so on.\nFully ‘open research’ remains limited within qualitative research for various reasons. One important limitation is whilst there is an interoperable open QDPX format for sharing qualitative data analysis projects, it is a ‘lossy’ format – where folder structures and more are lost when exporting to the open format.\nSo, although it is possible to export to QDPX and import it to a different application - such as exporting from NVivo and importing in Atlas.ti - any folder structure and other aspects would be lost in the process.",
     "crumbs": [
       "Project Setup",
-      "The dataset"
+      "The Dataset"
     ]
   },
   {
