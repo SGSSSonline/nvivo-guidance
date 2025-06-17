@@ -1,0 +1,27 @@
+---
+title: "Autocode Memos"
+---
+
+As an example of how flexible some of NVivos tools are, as with files, it is possible to autocode memos.
+
+![](../images/acm-1.png)
+
+- Right-click the memo you created.
+- Select 'Autocode...'
+
+![](../images/acm-2.png)
+
+![](../images/acm-3.png)
+
+![](../images/acm-4.png)
+
+![](../images/acm-5.png)
+
+1. Change 'Under' to 'New Folder'
+2. Provide it an appropriate Name
+3. Hit 'Finish'
+
+![](../images/acm-6.png)
+
+This may not seem like much with just a single memo, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections.
+

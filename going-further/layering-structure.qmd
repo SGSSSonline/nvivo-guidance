@@ -1,0 +1,24 @@
+---
+title: "Layering Structure"
+---
+
+## Project Structure
+
+::: consider
+
+Within NVivo guidance and training you'll often see emphasis being placed on considering your project structure, such as:
+
+- Use of folders to organise data, nodes, cases, and memos.
+- Which case classifications to create.
+- Auto-coding by speaker, style, and/or structure.
+
+When first starting with NVivo, it may not always be clear why such importance is placed on these considerations.
+
+Let's say you have the following series of questions during your analysis:
+
+- How do I find the cases for all the interview participants?
+- How do I find the cases for interview participants who supported Remain?
+- How do I find what views interview participants who supported Remain had on the Leave campaign?
+- How can I do an initial broad comparison of the views of Remain and Leave campaign supports?
+
+:::

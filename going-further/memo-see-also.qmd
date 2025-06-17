@@ -1,0 +1,26 @@
+---
+title: "Memo See Also Links"
+---
+
+It is possible to link text within a file to text within a memo.
+
+![](../images/mem-4.png)
+
+- Select the text you want to link to the memo text.
+- Right-click and select 'Copy'.
+
+![](../images/mem-5.png)
+
+Back in the memo:
+
+- Select the memo text you want to be linked.
+- Right-click and select 'Paste as See-Also Link'.
+
+![](../images/mem-6.png)
+
+See also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.
+
+![](../images/mem-7.png)
+
+Importantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can 'Open To Item'. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.
+

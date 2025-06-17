@@ -1,0 +1,209 @@
+---
+title: "Find By Case"
+---
+
+## Interview Participants
+
+Within the project file, all our participant cases are in the **Cases > Participants** folder. This though includes interview and focus group participant cases.
+
+This is a perfect scenario for creating a dynamic set.
+
+### Basics of creating a dynamic set
+
+::: {.instructions}
+**New Dynamic Set**
+
+![](../images/dynamic-set-new.png)
+
+1. In the left-hand Navigation View, **right-click** 'Dynamic Sets'.
+2. From the context menu, click 'New Dynamic Set...'
+
+:::
+
+### General Details
+
+::: instructions
+
+![](../images/dynamic-set-details.png)
+
+Provide an apt 'Name' and 'Description'.
+
+:::
+
+### Search Criteria Tab
+
+::: instructions
+
+![](../images/dynamic-set-search-tab.png)
+
+Click the 'Search Criteria' tab, and ...
+
+:::
+
+### Advanced Tab
+
+::: instructions
+
+![](../images/dynamic-set-advanced.png)
+
+Within the Search Criteria view, click the 'Advanced' tab!
+:::
+
+::: not-you
+
+In my opinion, the default, supposedly, 'Intermediate' tab is an overwhelming mess. It shows you upfront all the various options that are available, making it difficult to visually parse.
+
+You can see it has a series of lines with check boxes of what you want to search for. Consider the 'Advanced' tab we are switching to as adding as many of these lines as needed one by one.
+
+:::
+
+## Look for interview participant cases
+
+Then for our search criteria, we know two things that distinguishes our interview participants cases:
+
+1. The cases code parts of the interview transcripts.
+2. The cases are classified within the 'People' case classification.
+
+### Look for
+
+First, let's set the dynamic set to look for cases.
+
+Within the 'Advanced' view:
+
+::: instructions 
+
+![](../images/dynamic-sets-looking-for.png)
+
+1. Select the drop-down to choose what to 'Look for'.
+2. As we want to find interview participant cases, select 'Codes & Cases'
+
+:::
+
+### 1st Criteria
+
+As our first criteria, let's add a criteria to return any 'codes & cases' that code any of our interview transcripts.
+
+::: instructions 
+
+![](../images/dynamic-set-1-code.png)
+
+3. Within the 'Define more criteria' section, click the box under 'Interaction'.
+4. From the drop-down list select 'Code'.
+
+:::
+
+::: instructions
+
+![](../images/dynamic-set-1-option.png)
+
+5. Click the box under 'Option'.
+6. From the drop-down list select 'That Codes'.
+
+:::
+
+::: instructions
+
+![](../images/dynamic-set-1-value.png)
+
+7. Click the box under 'Value'.
+8. From the drop-down list select 'Selected Items'.
+
+:::
+
+A 'Select Project Items' dialogue will pop open.
+
+::: instructions
+
+![](../images/dynamic-set-1-interviews.png)
+
+9. Expand the 'Files' folder to see the sub-folders.
+10. Check the tick-box for the 'Interviews (2016)' sub-folder. This will select all the interview transcripts in the sub-folder.
+11. Hit 'OK' to confirm the selection.
+
+:::
+
+A wee example of odd minor frustrations NVivo presents. After selecting our interaction, option, value, and files of interest, the 'Add to List' option remains greyed out -- but, why?
+
+... there's a sneaky additional 'by' field that can't be left blank.
+
+::: instructions
+
+![](../images/dynamic-set-1-by.png)
+
+
+12. Click the box to the right of 'by' (and under the box for 'Select Items')
+13. From the drop-down list, select 'Any User'
+
+:::
+
+::: instructions
+
+![](../images/dynamic-set-1-add.png)
+
+14. Click 'Add to List'.
+
+:::
+
+Our 1st criteria now appears in the giant box for 'Find items that match all these criteria'.
+
+![](../images/dynamic-set-1st.png)
+
+### 2nd Criteria
+
+Next, we now 
+
+::: instructions
+
+![](../images/dynamic-set-2-code.png)
+
+15. Click the box under Interaction.
+16. Select 'Code' again.
+
+:::
+
+::: instructions
+
+![](../images/dynamic-set-2-option.png) 
+
+17. Click the box under Option.
+18. Select 'Assigned to Classification'.
+
+
+:::
+
+::: instructions
+
+![](../images/dynamic-set-2-value.png)
+
+19. Click the box under Value.
+20. Select 'Selected Classifications'.
+
+:::
+
+::: instructions
+
+![](../images/dynamic-set-2-select-people.png)
+
+21. Within the Select Project Items dialogue that pops up, tick the checkbox for 'People' case classification.
+22. Hit 'OK' to confirm.
+
+:::
+
+::: instructions
+![](../images/dynamic-set-2-done.png)
+
+23.  Click 'Add to List'.
+24.  Hit 'OK' to save your dynamic list.
+:::
+
+
+### Done
+
+![](../images/dynamic-set-results.png)
+
+And there we have it. Our dynamic set (in red) appears in the Navigation Folder similar to a folder and the items meeting our search criteria (in green) are listed in the Display panel.
+
+### Quick?
+
+OK, so maybe that did not feel like a 'quick' example. However, that is more to do with the number of steps required, it being something new, and weird quirks in NVivo. Once you gain a sense for how to create criteria for dynamic sets they can be created in a minute or less. Importantly, remember these are dynamically updated, you only need to create each once.
+

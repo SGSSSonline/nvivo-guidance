@@ -1,0 +1,36 @@
+---
+title: "Re-Casing"
+---
+
+One limitation with Framework Matrices is that Rows must be cases and Columns codes. However, this is another situation where dynamic sets and queries can come to the rescue.
+
+First:
+
+1. Create a new Coding Query
+2. For criteria, 'Coded to', 'Any Selected Code or Case', in the 'Remain Interview Participants' dynamic set.
+3. 'Save Criteria...' as Sections Coded at Remain Interview Participants.
+4. Click wee triangle next to 'Run Query' and select 'Run and Save Results'
+5. In the Store Query Results dialogue on the Location row, click 'Select...'
+6. Select the 'Cases' folder as the location and hit 'OK'
+7. Give it a suitable name, such as "Remain Supporters"
+8. Hit 'OK'.
+
+Then:
+
+1. Create a new dynamic folder 'Leave Interview Participants' with criteria 'Code', 'That Codes', any items in the 'Interviews (2016)' folder.
+2. Create (and save) a new Coding Query, 'Coded to', 'Any Selected Code or Case', in the 'Leave Interview Participants' dynamic set.
+3. 'Run and Save Results' to a new case in the 'Cases' folder, "Leave Supporters"
+
+Finally:
+
+1. Create a new Framework Matrix
+2. Rows = "Remain Supporters" and "Leave Supporters"
+3. Columns = "Autocoded (Sections)"
+
+Another example:
+1. Create a new Framework Matrix
+2. Rows, first add all individual cases from the 'Remain Interview Participants' dynamic set.
+3. Rows, second add the 'Remain Supporters' case.
+4. Columns = "Autocoded (Sections)"
+
+This then provides a Framework Matrix with a row for each Remain supporting participant, and a row for summarising across all Remain supporters.

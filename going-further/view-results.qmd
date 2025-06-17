@@ -1,0 +1,35 @@
+---
+title: "View Results"
+---
+
+## View Results
+
+
+### Node Views
+
+![](../images/coding-query10.png)
+
+After hitting 'Run Query' you'll be able to see all coded sections that match our Code Query criteria. Just as when viewing regular Codes, there are three tabs on the right-hand side.
+
+![](../images/summary.png)
+
+**Summary** - provides a list of the interview transcript files with details for how many 'References' there are - in other words, how many coded sections within this transcript met our criteria - and 'Coverage' - what percentage of the total transcript is captured by the coded sections meeting our criteria.
+
+![](../images/reference.png)
+
+**Reference** - is the default view when viewing Code results. It provides a view with all the coded sections, ordered by file they appear in. At the top, in the blue box, you can see it noting that the coded sections that follow are from the Cathy interview transcript, alongside the total references found and coverage. Then it lists each coded section in turn with info for coverage for that individual coded section, in green box.
+
+![](../images/text.png)
+
+**Text** - is similar to the 'Reference' view, but is like it's 'tab view' equivalent. Rather than showing all the coded sections in a single view, it adds a row along the top for all the files, where clicking to select any listed file (in blue box) will change the main view below to show only the coded sections from it.
+
+### Open Referenced File
+
+![](../images/open-referenced-file.png)
+
+And, finally, remember when viewing coded sections, you can right-click on any reference (in blue) and select 'Open Referenced File' to open the file the coded section is from.
+
+![](../images/opened-referenced-file.png)
+
+NVivo will open a new tab for the file, jumping to the specific coded section you had right-click on, and with a Coding Query will also highlight other coded sections from it in the file.
+

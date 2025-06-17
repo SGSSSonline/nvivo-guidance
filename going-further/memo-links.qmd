@@ -1,0 +1,23 @@
+---
+title: "Memo Links"
+---
+
+
+![](../images/mem-1.png)
+
+Create a linked memo for one of your chosen regular codes:
+
+- Right-click the code.
+- Select 'Memo Link'.
+- Then 'Link to New Memo...'
+
+![](../images/mem-2.png)
+
+Provide an appropriate name. For memos linked to codes I tend to go with "m - Code Name" naming convention.
+
+![](../images/mem-3.png)
+
+- Add headers for 'Example', 'Gold',' Unsure'.
+
+You can then use the coding matrix results to read through content coded to both the code and the three organisation nodes. (Or, for time, add some lorem ipsum.)
+

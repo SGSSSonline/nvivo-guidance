@@ -1,0 +1,12 @@
+---
+title: "Summary Links"
+---
+
+![](../images/framework-newsummarylink.png)
+
+To create a summary link:
+
+- Select text within a Framework Matrix cell (highlighted in blue).
+- Select text within the Associated View (highlighted in black).
+- Click the 'New Summary Link' button in the Ribbon bar.
+
