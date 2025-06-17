@@ -25,6 +25,8 @@ website:
   navbar:
     pinned: true
     left:
+      - href: index.qmd
+        text: "Intro"
       - href: project-setup.qmd
         text: "Project Setup"
       - href: Start coding.qmd
@@ -46,6 +48,14 @@ website:
     background: "#073B59"
 
   sidebar:
+    - title: "Intro"
+      style: "docked"
+      border: false
+      background: "#1B9D8E"
+      contents:
+        - index.qmd
+        - nvivo-about.qmd
+
     - title: "Going Further"
       style: "docked"
       border: false

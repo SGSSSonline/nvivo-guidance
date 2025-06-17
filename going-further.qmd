@@ -4,30 +4,20 @@ subtitle: "**Qualitative Analysis Projects with NVivo: Going Further**"
 ---
 
 ::: {.callout-note title="Session Brief"}
-This one-day in-person workshop is designed for those with a basic working knowledge of NVivo for qualitative research projects. It is designed to introduce you to more advanced features and the flexible ways these can be used for qualitative analysis. It is designed as a follow-on from the "Introduction to Qualitative Analysis Projects in NVivo", but is open to everyone regardless of whether they attended that session.
-
-Students will learn how to use some more advanced features of NVivo:
-
-- coding workflows, tip and tricks
-- using static and dynamic sets
-- different types of queries
-- framework matrices
-
-We will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.
-:::
-
-## Session Aims
-
-### 🧑‍🎓 NVivo 201 - Additive Analysis
-
 This workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for 'additive analysis'. They add to the 'foundational' elements of your project -- your files, folders, nodes, cases, and notes -- providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.
 
 It is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.
 
 A [Project File](project-file.qmd) though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.
+:::
+
+## Session Aims
+
+
 
 ### 🤔 Problem-based approach
 
+::: consider
 The sections and tasks for this workshop session are based around problems and considerations to make that you might encounter as your analysis progresses.
 
 With each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.
@@ -35,16 +25,11 @@ With each we will cover some conceptual points and a follow along demonstration 
 The purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.
 
 Importantly, after the follow along demonstrations, we will have time for experimentation and discussion. I have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the 'experiment and discuss' sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.
-
-::: {.callout-important}
-## 'Living Documents'
-
-These pages are 'living documents', they will continually and iteratively be updated over time. Please see the Callout on the [About page](about.qmd#living-documents) 
-
 :::
 
 ### 🧟 Slaying QDAS zombies
 
+::: zombie
 To say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.
 
 There was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.
@@ -54,11 +39,14 @@ The big four critiques - that software distances researchers from data by placin
 However, the critiques unfortunately still persist as [QDAS Zombies](https://core.ac.uk/reader/215349760) by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen -- or copying chunks of text into Word/Excel files -- it's no wonder these critiques feel more alive than dead.
 
 What we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I'd go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.
+:::
 
 ### 🤢 It's not you, it's NVivo!
 
+::: not-you
 NVivo is powerful and without a doubt better than analogue paper and pen analysis -- or worse, copying and pasting chunks of text into multiple Word/Excel files -- but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.
 
 The unintuitive design and labyrinthine steps required for some tasks -- never mind the joys of trying to recall them each time when first starting -- gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.
 
 To Lumivero's credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often 'NVivo-error' not 'user-error' -- there was not anything wrong in how you set up your project or actions you were doing, it's just NVivo being NVivo.
+:::
