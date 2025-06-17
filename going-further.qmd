@@ -1,13 +1,14 @@
 ---
-title: "Welcome!"
-subtitle: "**Qualitative Analysis Projects with NVivo: Going Further**"
+title: "Going Further"
 ---
 
-::: {.callout-note title="Session Brief"}
-This workshop covers intermediate-advanced topics in using NVivo for qualitative data analysis. Key to how the more advanced features are introduced is through considering them as flexible tools for 'additive analysis'. They add to the 'foundational' elements of your project -- your files, folders, nodes, cases, and notes -- providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.
+::: {.callout-note title="Section Overview"}
+This section covers intermediate-advanced topics in using NVivo for qualitative data analysis.
 
-It is assumed, therefore, that you have pre-requisite knowledge in how to create and set up an NVivo project file, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.
+Key to how the more advanced features will be covered is through considering them as flexible tools for 'additive analysis'. They add to the 'foundational' elements of your project -- your files, folders, nodes, cases, and notes -- providing ways to retrieve, review, and recontextualise data based on the aims of your analysis. They are part of the extended toolset for crafting various ways to organise, navigate, layer, and weave your analysis and data.
 
-A [Project File](project-file.qmd) though is provided with these already set up, and the follow along demonstrations will give a partial refresher on some of these. We can also use the experiment and discussion sections to do a short review of any of them.
+It is assumed, therefore, that you have followed the steps in the first two sections, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.
+
+A project file though is provided on Social with these already setup.
 :::
 

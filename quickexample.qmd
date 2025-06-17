@@ -2,7 +2,9 @@
 title: "Layering Structure"
 ---
 
-## 🤔 Project Structure
+## Project Structure
+
+::: consider
 
 Within NVivo guidance and training you'll often see emphasis being placed on considering your project structure, such as:
 
@@ -18,6 +20,8 @@ Let's say you have the following series of questions during your analysis:
 - How do I find the cases for interview participants who supported Remain?
 - How do I find what views interview participants who supported Remain had on the Leave campaign?
 - How can I do an initial broad comparison of the views of Remain and Leave campaign supports?
+
+:::
 
 ## Interview Participants
 
@@ -37,25 +41,36 @@ This is a perfect scenario for creating a dynamic set.
 
 :::
 
-::: {.panel-tabset}
-
 ### General Details
+
+::: instructions
 
 ![](images/dynamic-set-details.png)
 
 Provide an apt 'Name' and 'Description'.
 
+:::
+
 ### Search Criteria Tab
+
+::: instructions
 
 ![](images/dynamic-set-search-tab.png)
 
 Click the 'Search Criteria' tab, and ...
 
+:::
+
 ### Advanced Tab
+
+::: instructions
 
 ![](images/dynamic-set-advanced.png)
 
 Within the Search Criteria view, click the 'Advanced' tab!
+:::
+
+::: not-you
 
 In my opinion, the default, supposedly, 'Intermediate' tab is an overwhelming mess. It shows you upfront all the various options that are available, making it difficult to visually parse.
 
@@ -63,46 +78,62 @@ You can see it has a series of lines with check boxes of what you want to search
 
 :::
 
-### Look for interview participant cases
+## Look for interview participant cases
 
 Then for our search criteria, we know two things that distinguishes our interview participants cases:
 
 1. The cases code parts of the interview transcripts.
 2. The cases are classified within the 'People' case classification.
 
-::: {.panel-tabset}
-
 ### Look for
 
 First, let's set the dynamic set to look for cases.
 
-![](images/dynamic-sets-looking-for.png)
-
 Within the 'Advanced' view:
+
+::: instructions 
+
+![](images/dynamic-sets-looking-for.png)
 
 1. Select the drop-down to choose what to 'Look for'.
 2. As we want to find interview participant cases, select 'Codes & Cases'
 
+:::
+
 ### 1st Criteria
 
 As our first criteria, let's add a criteria to return any 'codes & cases' that code any of our interview transcripts.
+
+::: instructions 
 
 ![](images/dynamic-set-1-code.png)
 
 3. Within the 'Define more criteria' section, click the box under 'Interaction'.
 4. From the drop-down list select 'Code'.
 
+:::
+
+::: instructions
+
 ![](images/dynamic-set-1-option.png)
 
 5. Click the box under 'Option'.
 6. From the drop-down list select 'That Codes'.
+
+:::
+
+::: instructions
 
 ![](images/dynamic-set-1-value.png)
 
 7. Click the box under 'Value'.
 8. From the drop-down list select 'Selected Items'.
 
+:::
+
 A 'Select Project Items' dialogue will pop open.
+
+::: instructions
 
 ![](images/dynamic-set-1-interviews.png)
 
@@ -110,59 +141,88 @@ A 'Select Project Items' dialogue will pop open.
 10. Check the tick-box for the 'Interviews (2016)' sub-folder. This will select all the interview transcripts in the sub-folder.
 11. Hit 'OK' to confirm the selection.
 
+:::
+
 A wee example of odd minor frustrations NVivo presents. After selecting our interaction, option, value, and files of interest, the 'Add to List' option remains greyed out -- but, why?
+
+... there's a sneaky additional 'by' field that can't be left blank.
+
+::: instructions
 
 ![](images/dynamic-set-1-by.png)
 
-There's a sneaky additional 'by' field that can't be left blank.
 
 12. Click the box to the right of 'by' (and under the box for 'Select Items')
 13. From the drop-down list, select 'Any User'
+
+:::
+
+::: instructions
 
 ![](images/dynamic-set-1-add.png)
 
 14. Click 'Add to List'.
 
-![](images/dynamic-set-1st.png)
+:::
 
 Our 1st criteria now appears in the giant box for 'Find items that match all these criteria'.
+
+![](images/dynamic-set-1st.png)
 
 ### 2nd Criteria
 
 Next, we now 
+
+::: instructions
 
 ![](images/dynamic-set-2-code.png)
 
 15. Click the box under Interaction.
 16. Select 'Code' again.
 
+:::
+
+::: instructions
+
 ![](images/dynamic-set-2-option.png) 
 
 17. Click the box under Option.
 18. Select 'Assigned to Classification'.
+
+
+:::
+
+::: instructions
 
 ![](images/dynamic-set-2-value.png)
 
 19. Click the box under Value.
 20. Select 'Selected Classifications'.
 
+:::
+
+::: instructions
+
 ![](images/dynamic-set-2-select-people.png)
 
 21. Within the Select Project Items dialogue that pops up, tick the checkbox for 'People' case classification.
 22. Hit 'OK' to confirm.
 
+:::
+
+::: instructions
 ![](images/dynamic-set-2-done.png)
 
 23.  Click 'Add to List'.
 24.  Hit 'OK' to save your dynamic list.
+:::
+
 
 ### Done
 
 ![](images/dynamic-set-results.png)
 
 And there we have it. Our dynamic set (in red) appears in the Navigation Folder similar to a folder and the items meeting our search criteria (in green) are listed in the Display panel.
-
-:::
 
 ### Quick?
 
@@ -172,16 +232,21 @@ OK, so maybe that did not feel like a 'quick' example. However, that is more to 
 
 So, our next question was finding all our interview participants who support Remain the EU Referendum. As it is similar steps to follow, a shortened version of the instructions are included below.
 
-::: {.panel-tabset}
 ### New Dynamic Set
+
+::: instructions
 
 ![](images/dynamic-b-info.png)
 
 Create a new dynamic set (right-click on 'Dynamic Sets' and select 'New Dynamic Set...') and provide it relevant Name and Description.
 
-![](images/dnyamic-set-b-c1.png)
+:::
 
 Then in 'Search Criteria' tab and 'Advanced' sub-tab:
+
+::: instructions
+
+![](images/dnyamic-set-b-c1.png)
 
 1. Look for: 'Codes % Cases'
 2. Interaction: "Code"
@@ -190,23 +255,35 @@ Then in 'Search Criteria' tab and 'Advanced' sub-tab:
 5. By: "Any User"
 6. Hit "Add to List"
 
+:::
+
 ### 2nd Criteria
+
+::: instructions
 
 ![](images/dynamic-set-b-interaction.png)
 
 This time for the 2nd criteria, select 'Attribute' for the interaction.
 
-![](images/dynamic-set-b-attrib.png)
+:::
 
 Within the Select Project Item dialogue that opens:
+
+::: instructions
+
+![](images/dynamic-set-b-attrib.png)
 
 1. Expand the People case classification.
 2. Select '2016 vote' (the attribute to Remain/Leave in the EU Referendum)
 3. Hit 'OK'
 
-![](images/dynamic-set-b-remain.png)
+::: 
 
 All that's left to do:
+
+::: instructions
+
+![](images/dynamic-set-b-remain.png)
 
 1. Change the 'Value' we are selecting for to 'Remain'.
 2. Click 'Add to List'.
@@ -214,9 +291,9 @@ All that's left to do:
 
 :::
 
-![](images/dynamic-set-b-done.png)
-
 And again our Dynamic Set is shown in red and the results in green.
+
+![](images/dynamic-set-b-done.png)
 
 As you can see, once you start getting a sense for how to create search criteria, it becomes relatively quick for creating them -- most of the time spent is figuring out how to do it in the first place.
 
@@ -228,17 +305,25 @@ Here we can combine our "Remain Interview Participants" Dynamic Set and the "LEA
 
 (If you missed the Intro workshop, this code and others were created by auto-coding the interview transcripts. This was possible as the transcripts have Headings for each of the main topics covered in the interviews.)
 
-::: {.panel-tabset}
 
 ### Create Coding Query
+
+::: instructions
 
 ![](images/coding-query1.png)
 
 First, click 'Query Criteria' in the left Navigation View.
 
+:::
+
+::: instructions
+
 ![](images/coding-query2.png)
 
 Within the Details list you may see a message explaining what Query criteria are, if so hit 'Close'.
+:::
+
+::: instructions
 
 ![](images/coding-query3.png)
 
@@ -247,9 +332,14 @@ Right-click anywhere within the white space of the Details list, and:
 1. Select 'New Query'
 2. 'Coding'
 
+:::
+
+::: instructions
 ![](images/coding-query4.png)
 
 This will open a new tab for creating a Coding Query. Similar to when creating Dynamic Sets in the Advanced view, we have 'Search in' options to limit our query to specific files, items, or folders (in blue). We also have rows for our search criteria (in green).
+:::
+
 
 ### Coding Query Criteria
 
@@ -258,50 +348,65 @@ We what are our two main criteria?
 - Interview participants who supported Remain.
 - Transcript sections where they speak about the Leave Campaign.
 
+To begin then:
+
+::: instructions
+
 ![](images/coding-query5.png)
 
-To begin then:
 
 1. Change 'All Selected Codes or Cases' to 'Any Selected Code or Case'. (We want to find any text in the transcripts coded to any of our remain participants case)
 2. Click the '...' to open a 'Select Project Items' dialogue to select our cases.
 
-![](images/coding-query6.png)
+:::
+
+
+::: instructions
 
 Within the 'Select Project Items':
+
+![](images/coding-query6.png)
+
 
 3. Tick the checkbox for the 'Remain Interview Participants' dynamic set.
 4. Hit 'OK'
 
+:::
+
 And that is it -- our first criteria done!
 
-![](images/coding-query7.png)
-
 By default a new Coding Query is set to return 'All' (in light blue) coded sections that meet the listed criteria. So, all we need to do now is add another criteria for our 'LEAVE CAMPAIGN' code.
+
+::: instructions
+
+![](images/coding-query7.png)
 
 1. Click the '+' at the end of our first criteria to add another criteria below.
 2. Change the middle box again to 'Any Selected Code or Case'
 3. Click the '...' once more for a 'Select Project Items' dialogue.
 
+:::
+
 ### 2nd Criteria
 
-![](images/coding-query8.png)
-
 Within the 'Select Project Items' dialogue:
+
+::: instructions
+![](images/coding-query8.png)
 
 1. Expand the 'Codes' folder.
 2. Select the 'Autocoded (Sections)' subfolder.
 3. Check the tickbox for the 'LEAVE CAMPAIGN' node.
 4. Hit 'OK' to confirm.
 
-![](images/coding-query9.png)
+:::
 
 Now you can hit Run Query (in pink) to check the query results match what we were expecting and Save Criteria... (in blue) so we can quickly access it again in future. As it is a fairly simple query and fast to run, there is no need to save a separate copy of the results.
 
-:::
+![](images/coding-query9.png)
 
-### View Results
+## View Results
 
-::: {.panel-tabset}
 
 ### Node Views
 
@@ -331,57 +436,75 @@ And, finally, remember when viewing coded sections, you can right-click on any r
 
 NVivo will open a new tab for the file, jumping to the specific coded section you had right-click on, and with a Coding Query will also highlight other coded sections from it in the file.
 
-:::
-
-
 ## Comparing Leave and Remain Supporters
 
 Our final intial question was making an inital broad comparison between the views of Leave and Remain supporters.
 
 We can achieve this with a Matrix Coding Query combining our interview transcript autocoding with are People case classification attribute values.
 
-::: {.panel-tabset}
-
 ### Matrix Coding Query
 
-![](images/matrix-coding1.png)
-
 Within the Query Criteria, right-click in the white space and -
+
+::: instructions
+
+![](images/matrix-coding1.png)
 
 1. Select 'New Query'
 2. Then 'Matrix Coding Query'
 
-![](images/matrix-coding2.png)
+:::
 
 This will open a new tab for creating a Matrix Coding Query. We can see some of the familar elements again. In yellow we have the optiosn for searching across all Files & Externals or specific Items and Folders. In blue, we have the default 'And' for handling criteria - other options include Or, Not, and Near. What is different though is rather than adding 1+ criteria, we have a box for selecting Rows and another for Columns, in red.
+
+::: instructions
+
+![](images/matrix-coding2.png)
+
+:::
 
 ### Adding Rows
 
 It is possible to drag and drop items into the boxes for Rows and Columns, but it is often far quicker and more convenient to use the 'Select Project Items' dialogue.
+
+::: instructions
 
 ![](images/matrix-coding3.png)
 
 1. Click the '+' underneath the Rows box on the left.
 2. From the two options click 'Select Items...'
 
-![](images/matrix-coding4.png)
+:::
 
 Then within the Select Project Items dialogue:
+
+::: instructions
+
+![](images/matrix-coding4.png)
+
 
 1. Expand the Codes folder.
 2. Check the tickbox for the 'Autocoded (Sections)' sub-folder.
 3. Hit 'OK'.
 
+:::
+
 ### Adding Columns
 
 We can follow the same process to select our columns.
+
+::: instructions
 
 ![](images/matrix-coding5.png)
 
 1. Click the '+' underneath the Columns box.
 2. From the two options click 'Select Items...'
 
+:::
+
 Whilst 'Select Attribute Values..' is an option, that is for selecting individual values with criteria (equals, does not equal) one by one. For our purposes, 'Select Items...' remains more convenient.
+
+::: instructions
 
 ![](images/matrix-coding6.png)
 
@@ -389,23 +512,32 @@ Whilst 'Select Attribute Values..' is an option, that is for selecting individua
 2. Expand the 'People' case classification.
 3. Expand the '2016 vote' attribute.
 
-![](images/matrix-coding7.png)
+:::
 
 After scrolling down a bit:
+
+::: instructions
+
+![](images/matrix-coding7.png)
+
 
 1. Check the box for 'Leave' attribute value.
 2. Check the box for 'Remain' attribute value.
 3. Hit 'OK'.
 
-### Viewing Results
+:::
 
-![](images/matrix-coding8.png)
+### Viewing Results
 
 After selecting our Rows and Columns, we can hit 'Run Query' (in pink) to create our Coding Matrix. Remember if you want to be able to quickly re-run and update the Coding Matrix to also hit 'Save Criteria...' (in green) and give it a suitable name.
 
 The Coding Matrix itself (in blue) for each cell in the table shows how many coded sections intersect the two. So, the cell highlight (in yellow) is telling us that 15 sections coded 'VOTING DECISION' were also coded to cases, where the participant the case is for supported Leave (both in red). 
 
-![](images/matrix-coding9.png)
+::: instructions
+![](images/matrix-coding8.png)
+:::
+
+### Viewing Cell Coding
 
 That may not seem all that impressive at first. The real power of Coding Matrices though come from double-clicking any of the cells.
 
@@ -413,6 +545,8 @@ That will open a new tab showing all the coded sections being counted in that ce
 
 This makes a Coding Matrix the equivalent of a table of shortcuts to more specific queries. Since you can create them with classification attributes, it also makes them ideal for creating queries to aid comparison.
 
+::: instructions
+![](images/matrix-coding9.png)
 :::
 
 ## Summary

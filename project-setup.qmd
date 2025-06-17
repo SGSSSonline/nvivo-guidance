@@ -1,8 +1,8 @@
 ---
-title: "Nvivo Project Setup"
+title: "NVivo Project Setup"
 ---
 
-::: {.callout-note appearance=minimal}
+::: {.callout-note title="Section Overview"}
 This section will walk you through the steps of creating a new project. 
 
 We will cover: 
