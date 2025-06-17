@@ -62,7 +62,7 @@ website:
       background: "#1B9D8E"
       contents:
         - going-further.qmd
-        - project-file.qmd
+        - going-further/project-overview.qmd
         - section: "**Dynamic Sets and Queries**"
           contents:
             - quickexample.qmd

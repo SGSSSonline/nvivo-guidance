@@ -19,7 +19,7 @@ The morning is led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-su
 - manual coding 
 - some autocoding features 
 
-The afternoon is led by [Dr Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
+The afternoon is led by [Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
 
 Students will learn how to use some more advanced features of NVivo:
 

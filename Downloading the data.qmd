@@ -7,19 +7,21 @@ format: html
 
 You have all been added to a group on SGSSS Social where the data files are stored. 
 
-To access, 
+::: instructions
 
-1. Log into [SGSSS Social](https://social.sgsss.ac.uk/), 
-2. Go to groups ->my groups
-3. Go to 'NVivo Training 2024/25'
+To access the files:
 
-You can also access the group directly [here](https://social.sgsss.ac.uk/groups/nvivo-training-2024-25/) (you may be prompted to log in)
+1. Log into [SGSSS Social](https://social.sgsss.ac.uk/)
+2. Go to **Groups > My Groups**
+3. Go to '**NVivo Training 2024/25**'
 
-![](Images/Social Nvivo page.png)
+You can also access the group directly [here](https://social.sgsss.ac.uk/groups/nvivo-training-2024-25/) (you may be prompted to log in).
 
-4. Go to 'Documents', then scroll down to folder '2.Data and Project files'
+![](images/Social Nvivo page.png)
 
-![](Images/Documents.png)
+4. Go to '**Documents**', then scroll down to folder '**2. Data and Project files**'
+
+![](images/Documents.png)
 
 5. Download the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed. 
 
@@ -28,5 +30,11 @@ You can also access the group directly [here](https://social.sgsss.ac.uk/groups/
   + 2015 FGDs: 3 transcripts 
   + 2016 interviews: 14 transcripts, 
   + Literature: 3 articles 
-  + Research tools: 7 documents: 1 interview questions, 1 list of interview question codes, 1 interview schedule, 3 FGD info sheets, 1 excel of metadata. 
+  + Research tools: 7 documents
+    - 1 interview questions
+    - 1 list of interview question codes
+    - 1 interview schedule
+    - 3 FGD info sheets
+    - 1 excel of metadata
 
+:::
