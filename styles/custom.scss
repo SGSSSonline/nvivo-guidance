@@ -1,7 +1,7 @@
 /*-- scss:functions --*/
 
-@function softbox-bg($colour) {
-  @return tint-color($colour, 97%);
+@function softbox-bg($colour, $alpha: 0.08) {
+  @return rgba(red($colour), green($colour), blue($colour), $alpha);
 }
 
 /*-- scss:rules --*/
@@ -12,7 +12,7 @@
   padding: 1rem;
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
-  background-color: #f7f8ff;
+  background-color: softbox-bg(#35353b, 0.065);
 }
 
 .instructions > :last-child {

@@ -28,19 +28,3 @@ Similarly, following any of the sessions -- or if you were unable to attend the 
 Note - we take absolutely no offense if your question is due to any of the materials being unclear! In all our time teaching, the most useful feedback we have received has been from students pointing out something that was unclear to them or raised further questions.
 
 :::
-
-::: zombie
-Test 1
-:::
-
-::: not-you
-Test 2
-:::
-
-::: consider
-Test 3
-:::
-
-::: instructions
-Test 4 (instructions box)
-:::

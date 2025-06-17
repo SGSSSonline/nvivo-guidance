@@ -25,13 +25,11 @@ website:
   navbar:
     pinned: true
     left:
-      - href: Getting started.qmd
-        text: "Intro"
       - href: project-setup.qmd
         text: "Project Setup"
       - href: Start coding.qmd
         text: "Start Coding"
-      - href: index.qmd
+      - href: going-further.qmd
         text: "Going Further"
       - href: Designing your Nvivo project.qmd
         text: "Design your own project"
@@ -53,7 +51,7 @@ website:
       border: false
       background: "#1B9D8E"
       contents:
-        - index.qmd
+        - going-further.qmd
         - project-file.qmd
         - section: "**Dynamic Sets and Queries**"
           contents:
