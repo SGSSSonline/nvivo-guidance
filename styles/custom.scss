@@ -1,13 +1,26 @@
 /*-- scss:functions --*/
 
-@function softbox-bg($colour) {
-  @return tint-color($colour, 97%);
+@function softbox-bg($colour, $alpha: 0.08) {
+  @return rgba(red($colour), green($colour), blue($colour), $alpha);
 }
 
 /*-- scss:rules --*/
 
+.instructions {
+  border-width: 0px;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  background-color: softbox-bg(#35353b, 0.065);
+}
+
+.instructions > :last-child {
+  margin-bottom: 0;
+}
+
 .callout.callout-style-simple {
-  border-width: 1px;
+  border-width: 2px;
   border-radius: 0.5rem;
   padding: 1rem 1.25rem;
   --callout-header-bg: transparent;
@@ -41,5 +54,13 @@
 }
 .callout-zombie.callout-style-simple {
   background-color: softbox-bg($green);
-  border-color: $green;
+  border-color: #3fb618;
+}
+.callout-not-you.callout-style-simple {
+  background-color: softbox-bg($yellow);
+  border-color: $yellow;
+}
+.callout-consider.callout-style-simple {
+  background-color: softbox-bg($pink);
+  border-color: $pink;
 }
