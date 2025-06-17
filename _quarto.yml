@@ -63,15 +63,32 @@ website:
       contents:
         - going-further.qmd
         - going-further/project-overview.qmd
-        - section: "**Dynamic Sets and Queries**"
-          contents:
-            - quickexample.qmd
         - section: "**Coding Workflows**"
           contents:
-            - orgnodes.qmd
+            - going-further/develop-coding.qmd
+            - going-further/organisation-codes.qmd
+            - going-further/code-matrix-query.qmd
+            - going-further/memo-links.qmd
+            - going-further/memo-see-also.qmd
+            - going-further/memo-autocode.qmd
+            - going-further/using-static-sets.qmd
         - section: "**Framework Matrices**"
           contents:
-            - buildingthemes.qmd
+            - going-further/synthesis-interpretation-themes.qmd
+            - going-further/creating-framework-matrix.qmd
+            - going-further/viewing-framework-matrix.qmd
+            - going-further/summary-links.qmd
+            - going-further/reusable-cells.qmd
+            - going-further/re-casing.qmd
+        - section: "**Dynamic Sets and Queries**"
+          contents:
+            - going-further/layering-structure.qmd
+            - going-further/find-by-case.qmd
+            - going-further/find-by-attribute.qmd
+            - going-further/combine-set-and-query.qmd
+            - going-further/view-results.qmd
+            - going-further/compare-groups.qmd
+            - going-further/set-query-summary.qmd
 
     - title: "Project Setup"
       style: "docked"
