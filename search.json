@@ -46,6 +46,7 @@
     "text": "Right now, when we look at our cases, they don’t have attributes or metadata:\n\nNow we will create ‘case classifications’, bringing in the metadata related to each file or individual.\nThis could be any number of things, for example socio-demographics like age or gender, or that person’s response to a survey.\n\nMetadata file\nIn the project files you downloaded, in the folder ‘research tools’, open and check the excel sheet entitled ‘metadata’:\n\nThis file contains information on our participants from the 2016 interviews. We are trying to match this with our existing case classification of ‘People’, so we need to make sure it’s formatted the same way to enable it to match.\nSo check that:\n\nThe first column - ‘People’- indicate the cases. Check this is typed the same way in your Nvivo project setup.\nThe names in this first column should match the formatting of the cases and the interview file names in Nvivo - and this is case sensitive (i.e. if it’s vince it must also be ‘vince’ and not ‘Vince’)\n\n\n\n\nImport classification sheet\n\nFrom the Import ribbon tab, select ‘classifications’ and then ‘Import classification sheets’.\n\n\n\nSelect the ‘metadata.xls’ file from the ‘Research tools’ folder.\nClick Open to select file.\nThen click Next on the import Wizard:\n\n\n\nSet classification type as ‘case classification’.\n\nYou can select or deselect if you want to create new attributes, update existing classifications, or replace existing attribute values.\n\nClick Next.\n\nN.B. to set up ‘file classifications’, follow the same process but select ‘file classifications’ here (might include similar demographic info as well as things like location of interview, who interviewer was, time, date, etc.)\n\nChoose to represent files ‘as hierarchical names’; click next.\n\n\nSelect how you want blank attributes, dates, time and numbers to be represented.\n\n\nClick finish.\nNow, check that case info has been imported to existing ‘People’ classification. You can see that the first row of the excel sheet linked with the cases that already existed, and now you have columns indicating exactly the columns that were in the spreadsheet.\n\n\n\n\nManually add new cases\nClick on the ‘cases’ on left hand menu, then right click on the open space in the ‘List View’ under your cases and select ‘New Case’, or use shortcut or Ctrl+Shift+N.\n\n\nInput any name / description for the case under ‘General’\nSelect relevant attributes under ‘Attribute values’\nSelect case classification as ‘People’\nYou can assign values from the drop down box for each attribute\n\nSelect OK.\n\n - Click OK.\n\nYou can see a new case for ‘roger’ has been set up; it doesn’t have any files or attributes attached yet.\n\n\n\n\nCreate new attributes for an existing case\nYou might want to create a new attribute i.e. a new column in the metadata for some feature which varies between your cases.\nWe are going to create a new attribute ‘2015 pre-election’ that indicates whether they also took part in the 2016 pre-election focus group.\n\nClick on Case Classifications-&gt; People\nIn the home ribbon, go to Case classification -&gt; new attribute\n\n\n\nIn the ‘General’ tab, enter the name (‘2015 pre-election’) and a description, then move to the ‘Values’ tab.\n\n\n\nAnother way to do this is, within a case, scroll to the bottom of the list of attributes and click new attribute (step 1 below)\nThen follow the same steps as above\n\n\n\nClick the values tab to assign possible options for the attribute\nWe are going to make this yes/ no, so click ‘Add’ -&gt; enter ‘Yes’, ‘Add’ -&gt; enter ‘no’\nSelect ‘OK’ /done:\n\n\nN.B. default is set to ‘unassigned’ – you can change this depending on your preference\nNow this column will appear as the last column in your case classifications sheet, but it is empty with no values (i.e. ‘unassigned’)\n\nYou can set values for this new attribute by clicking on the drop-down arrow.\n\n\n\n\nSummarise metadata in charts\nNow that you have some basic information attached to the transcripts, you can summarize this in a basic way using Nvivo’s chart function. This depends very much on how the metadata in the classification sheet are formatted, but so long as this is consistent, it can be very useful for getting a quick glance at your sample composition.\nFor example, here we want to understand voting patterns within the sample.\n\nIn the top ribbon, go to the ‘Explore’ tab, and choose ‘chart’\n\n\n\nOn the chart wizard, choose ‘cases’, then ‘next’.\n\n\n\nAt the next stage, choose ‘cases by attribute value for an attribute’ - this will chart the values of one attribute/variable. You have the choice to chart two attributes at the same time, this will create a 3 way bar chart. But let’s just do one at a time for this example.\n\n\n\nAt the next stage, select the attribute you want to chart by clicking ‘select’\nThen expand the list of attributes by clicking the plus symbol next to ‘People’\nChoose ‘2016 vote’, and click OK.\n\n\n\nFinally, you get the choice of how the values of the attribute are displayed on the x-axis. We leave it as the default, but you can choose alphabetical etc. Click finish.\n\n\n\nNow you will see a simple bar chart displayed. You can edit the title, labels etc and much more in the top ribbon. You can also export or print chart (1).\nYou can just see a numerical summary (rather than the bar chart) by clicking ‘summary’ on the far right of the screen (2)\nNote there is 1 case for whom this attribute is blank or ‘unassigned’- this is roger, the case we just created. (3)\nThere are many more complex charts you can create once you have more complex and appropriately formatted data; you can also make charts based on codes you have created.",
     "crumbs": [
       "Project Setup",
+      "**Set up a new project**",
       "Adding metadata"
     ]
   },
@@ -93,6 +94,7 @@
     "text": "Saving the project\nIf you followed the default settings, we will have seen pop-ups every 15 minutes to ask us to save.\n\nTo remind yourself where the file is saved you can go to:\nFile &gt; Project Properties &gt; General\nand look at the location under File Name:\n\nIf you click on the ‘save and recovery’ tab you can alter the frequency of saving.\nYou also get the chance to set up a recovery option. This can be helpful if you are experiencing issues with Nvivo crashing.\n\n\n\n\nSharing with others\nYou can easily email or share the project (.nvp file) with others.\nREMEMBER: There is forwards compatibility only.\nIf you created a project in Nvivo 14, you can only share with those using Nvivo 14 and 15, but not earlier versions.\nIf you want to share with a mac user, you also need to convert it before you share it.\n\nTo do this, open the file tab -&gt; Copy project\n\n\n\nCopy to, Nvivo (Mac), and choose a save location.\n\n\nThe conversion to mac and vice versa may take some time.\nAfter the conversion is complete, you should have created a duplicate mac version fo the file in .nvpx format.\nMore information here.",
     "crumbs": [
       "Project Setup",
+      "**Set up a new project**",
       "Saving and sharing"
     ]
   },
@@ -265,6 +267,7 @@
     "text": "You have all been added to a group on SGSSS Social where the data files are stored.\n\nTo access the files:\n\nLog into SGSSS Social\nGo to Groups &gt; My Groups\nGo to ‘NVivo Training 2024/25’\n\nYou can also access the group directly here (you may be prompted to log in).\n\n\nGo to ‘Documents’, then scroll down to folder ‘2. Data and Project files’\n\n\n\nDownload the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed.\nCheck the content. You should have 4 folders:\n\n\n2015 FGDs: 3 transcripts\n2016 interviews: 14 transcripts,\nLiterature: 3 articles\nResearch tools: 7 documents\n\n1 interview questions\n1 list of interview question codes\n1 interview schedule\n3 FGD info sheets\n1 excel of metadata",
     "crumbs": [
       "Project Setup",
+      "**The Dataset**",
       "Downloading the data"
     ]
   },
@@ -276,6 +279,7 @@
     "text": "You have all been added to a group on SGSSS Social where the data files are stored.\n\nTo access the files:\n\nLog into SGSSS Social\nGo to Groups &gt; My Groups\nGo to ‘NVivo Training 2024/25’\n\nYou can also access the group directly here (you may be prompted to log in).\n\n\nGo to ‘Documents’, then scroll down to folder ‘2. Data and Project files’\n\n\n\nDownload the whole folder and save it somewhere sensible e.g your documents folder. You might need to unzip it if it came zipped/compressed.\nCheck the content. You should have 4 folders:\n\n\n2015 FGDs: 3 transcripts\n2016 interviews: 14 transcripts,\nLiterature: 3 articles\nResearch tools: 7 documents\n\n1 interview questions\n1 list of interview question codes\n1 interview schedule\n3 FGD info sheets\n1 excel of metadata",
     "crumbs": [
       "Project Setup",
+      "**The Dataset**",
       "Downloading the data"
     ]
   },
@@ -306,10 +310,10 @@
     "href": "project-setup.html",
     "title": "Nvivo Project Setup",
     "section": "",
-    "text": "This page will walk you through the steps of creating a new project.\nWe will cover:\n\nhow to import and organise files,\nhow to create cases and case classifications.\nHow to connect metadata (e.g. demographic information about interviewees)\n\nFollow the steps by clicking through the arrows at the bottom right.\nWhich Nvivo version are we using?\nThis project setup guide uses screenshots from NVivo Windows 14 and 15. Things may look a little different if you’re working on other versions. Differences with windows R1, 14 and 15 are minimal (where they exist, we’ll try to mention it)\nSee our cheatsheet for a quick guide to how things differ across versions.\nFor more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the Resources tab above.",
+    "text": "This section will walk you through the steps of creating a new project.\nWe will cover:\n\nhow to import and organise files,\nhow to create cases and case classifications.\nHow to connect metadata (e.g. demographic information about interviewees)\n\nFollow the steps by clicking through the arrows at the bottom right.\n\n\n\nWhich NVivo version are we using?\nThis project setup guide uses screenshots from NVivo Windows 14 and 15. Things may look a little different if you’re working on other versions. Differences with windows R1, 14 and 15 are minimal (where they exist, we’ll try to mention it).\nSee our cheatsheet for a quick guide to how things differ across versions.\nFor more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the Resources tab above.",
     "crumbs": [
       "Project Setup",
-      "Nvivo Project Setup"
+      "NVivo Project Setup"
     ]
   },
   {
@@ -443,12 +447,37 @@
   {
     "objectID": "New project.html",
     "href": "New project.html",
-    "title": "Set up a new project",
+    "title": "Create a new project file",
     "section": "",
-    "text": "Create a new project in Nvivo\nOpen NVivo and click the ‘New Project’ tile on the welcome page.\nIf you already have a project open in NVivo, go to ‘File’ on the ribbon and select ‘New’ (step 1).\n\n\nGive your project a suitable title (2)\nThe file name will be automatically generated (3).\nYou can enter a description of the project at this stage as well (4). While not required, it’s good practice to include something here.\nYou can choose a language here - English (US) is the default (5)\nClick next (6)\nChoose your preferred save and recovery settings:\n\n\n\nNB: default settings are to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled. It’s VERY IMPORTANT to save regularly as Nvivo has a habit of crashing.\n\n\n\nOptional tour\n\nYou will be prompted to take a quick tour, which will outline:\n\nImporting data\nCases\nNotes\nQueries\nVisualizations\nCentralizing workflow\n\nSkip for now – but may be worth coming back to in the future.",
+    "text": "To create a new NVivo project file:\n\n\nOpen NVivo and click the ‘New Project’ tile on the welcome page. (If you already have an NVivo project open, click ‘File’ on top-left of the ribbon and select ‘New’.\n\n\n\nGive your project a suitable title.\nThe file name will be automatically generated.\nYou can enter a description of the project at this stage as well. While not required, it’s good practice to include something here.\nYou can choose a language here - English (US) is the default.\nClick Next.\n\nThen, choose your preferred save and recovery settings:\n\n\nNB: The default setting is to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled.\n\n\n\n\n\n\n\n\n🤢 It’s not you, it’s NVivo\n\n\n\nIt’s VERY IMPORTANT to save regularly as NVivo has a notorious habit of crashing. Whilst the autosave reminders can be annoying they are a minor annoyance compared to spending a day working on your analysis without saving for NVivo to unexpectedly crash!",
     "crumbs": [
       "Project Setup",
-      "Set up a new project"
+      "**Set up a new project**",
+      "Create a new project file"
+    ]
+  },
+  {
+    "objectID": "New project.html#steps",
+    "href": "New project.html#steps",
+    "title": "Create a new project file",
+    "section": "",
+    "text": "To create a new NVivo project file:\n\n\nOpen NVivo and click the ‘New Project’ tile on the welcome page. (If you already have an NVivo project open, click ‘File’ on top-left of the ribbon and select ‘New’.\n\n\n\nGive your project a suitable title.\nThe file name will be automatically generated.\nYou can enter a description of the project at this stage as well. While not required, it’s good practice to include something here.\nYou can choose a language here - English (US) is the default.\nClick Next.\n\nThen, choose your preferred save and recovery settings:\n\n\nNB: The default setting is to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled.\n\n\n\n\n\n\n\n\n🤢 It’s not you, it’s NVivo\n\n\n\nIt’s VERY IMPORTANT to save regularly as NVivo has a notorious habit of crashing. Whilst the autosave reminders can be annoying they are a minor annoyance compared to spending a day working on your analysis without saving for NVivo to unexpectedly crash!",
+    "crumbs": [
+      "Project Setup",
+      "**Set up a new project**",
+      "Create a new project file"
+    ]
+  },
+  {
+    "objectID": "New project.html#optional-tour",
+    "href": "New project.html#optional-tour",
+    "title": "Create a new project file",
+    "section": "Optional tour",
+    "text": "Optional tour\n\nYou will be prompted to take a quick tour, which will outline:\n\nImporting data\nCases\nNotes\nQueries\nVisualizations\nCentralizing workflow\n\nSkip for now – but may be worth coming back to in the future.",
+    "crumbs": [
+      "Project Setup",
+      "**Set up a new project**",
+      "Create a new project file"
     ]
   },
   {
@@ -566,6 +595,7 @@
     "text": "Import 2016 interview files\nFrom the Import Ribbon, select ‘Files’. Navigate to your saved folders and open “2016 Interviews”.\nSelect the 14 transcript files (saved by first name), and click ‘open’:\n\n\n\nAutomatically create cases as you import\nNext, a box will pop up:\n\n\nTick the box in the import window to ‘Create a case for each imported file’ (1).\nAs this is a new project, select “create new classification” and label it ‘people’ then click ‘import’ (2).\nClick import (3)\n\n\nIf your Nvivo hangs or says ‘not responding’ when you import files, don’t panic. This is normal Nvivo behaviour and usually resolves. It is a fussy program and if you have an older machine it can sometimes take a while to perform some actions. It does crash from time to time, which is why its important to save your work as you go.\n\n\n\n\n\n\n\n\nWhat is a ‘case’ in Nvivo?\n\n\n\nA case represents a unit of analysis, and this is most commonly people you’ve interviewed, organisations you worked with, communities, families, etc. In this example, cases are people that have been interviewed. But it could be any kind of unit: people, places, organizations, events or other entities that you want to analyze and compare. Cases allow you to link information together related to that person, place or organisation. It makes it easy for you to see everything related to a single unit in one place. See the page on cases and case classifications for more info. Not all projects require cases, but if you make comparisons across people or any other units, it’s a good idea as opens up many other functionalities.\n\n\nYou will see your uploaded files appear in ‘Files’:\n\nYou can see that cases have been created for these 14 people by scrolling down the left-hand menu to ‘cases’:\n\nFor each person, they now have a ‘case’ icon (1) and 1 file associated (the transcript) (2); they have been created under the classification ‘People’.\n\nWe’ll come back to cases in a moment.\n\n\nOrganise interview transcripts into a folder\nCreate a new folder under files by right clicking on files, select ‘new folder’,name it ‘2016 Interviews’, add a brief description of you like, click OK to finish.\n\n\nMove files to the 2016 Interviews folder, by selecting all (ctrl+A) and dragging and dropping to the new folder.\n\n\n\nCreate a folder structure\nRight click on ‘Files’ in the Navigation View and create new folders for:\n\n2015 pre-election FGDs\nLiterature\nResearch tools\n\n\n\n\nImport 2015 focus group data\nRight click on the ‘2015 pre-election FGDs’ folder in the Navigation view and select ‘Import Files’\nIn the pop-up window, navigate to your saved folder for 2015 FGDs Import the three transcripts.\n\nImportant: As you have already created cases when you imported the transcripts, DO NOT create cases again.\n \n\n\nImport research tools but not metadata\nWe can also import files to by directly dragging and dropping them from your file explorer into NVivo.\nTo populate our ‘research tools’ folder, open the ‘other documents’ folder on your computer. Select all of the MS word documents (i.e. do not select ‘metadata’ excel file) and drag-and-drop them into list view space.\n\n\n\nImport literature\nImport ‘Lit’ files to ‘Lit’ folder.\nUsing the method of your choice, import the 3 files from the ‘Lit’ folder from your downloads into the ‘Lit’ folder in NVivo\nRemember, DO NOT create new cases.",
     "crumbs": [
       "Project Setup",
+      "**Set up a new project**",
       "Importing files"
     ]
   },
@@ -616,51 +646,44 @@
     "text": "Recap: what is an Nvivo case?\n\nIn Nvivo, a case represents a unit of analysis.\n\nThis could be:\n\npeople you’ve interviewed,\nevents,\norganisations you worked with,\ncommunities,\nfamilies, etc.\n\nBasically anything you want to organise and compare.\nBefore you build a new project, you should decide what are your cases/units of analysis.\nIn this QESB project, we have created cases for every person with a 1-2-1 interview; heer you can see Claire’s case highlighted:\n\nand you can see that each person has 1 file associated with them (the interview transcript).\n\n\nand why do I need cases?\nCases allow you to link information together related to unit. They help you to connect and draw material across your files. They are also very useful if you want to add metadata (e.g. sociodemographic info)\nSome examples:\n\nConnect text from focus groups to cases of individuals;\nConnect photos, maps, audio, to cases of events;\n\nConnect parliamentary debates to cases of policy /laws.\n\nHere’s an example taken from an Nvivo explainer on cases:\n\nYou don’t have to use cases, but doing us unlocks a lot of extra functionality, and it makes a lot of sense if you have anything more than just a few transcripts.",
     "crumbs": [
       "Project Setup",
+      "**Set up a new project**",
       "Cases"
     ]
   },
   {
     "objectID": "The dataset.html",
     "href": "The dataset.html",
-    "title": "The Dataset",
+    "title": "Qualitative Election Study of Britain",
     "section": "",
-    "text": "We will use data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\nHere’s an explanation of the study by it’s leads:\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nHear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee: \nThe data is open access and available from the UK Data Service.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017.",
+    "text": "We will use data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\nHere’s an explanation of the study by it’s leads:\nHear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee:\nThe data is open access and available from the UK Data Service.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017.",
     "crumbs": [
       "Project Setup",
-      "The Dataset"
-    ]
-  },
-  {
-    "objectID": "The dataset.html#qualitative-election-study-of-britain",
-    "href": "The dataset.html#qualitative-election-study-of-britain",
-    "title": "The Dataset",
-    "section": "",
-    "text": "We will use data from a longitudinal qualitative study called the Qualitative Election Study of Britain.\nHere’s an explanation of the study by it’s leads:\n\nThe QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.\n\nHear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee: \nThe data is open access and available from the UK Data Service.\nWe chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017.",
-    "crumbs": [
-      "Project Setup",
-      "The Dataset"
+      "**The Dataset**",
+      "Qualitative Election Study of Britain"
     ]
   },
   {
     "objectID": "The dataset.html#the-data-subset-we-are-using",
     "href": "The dataset.html#the-data-subset-we-are-using",
-    "title": "The Dataset",
+    "title": "Qualitative Election Study of Britain",
     "section": "The data subset we are using",
     "text": "The data subset we are using\nThe data we will be working with was collected in 2015 and 2016, and were timed to collect opinions prior to the UK 2015 General Election, and just after the EU or ‘Brexit’ Referendum. This period was one of great political unpredictability and voter volatility. Both of those votes had controversial and unexpected results: the 2015 Election was a surprise win for the Conservatives, and in Scotland, the Scottish National Party made huge gains over Labour. The 2016 EU referendum resulted in a 52% vote to leave the European Union, and this marked a change in the UK’s relationship with Europe and the rest of the world.\n\nThe data extract we are using allows longitudinal linkage because some of the people who took part in the 2015 focus groups later participated in a 1-2-1 telephone interview.\nThe data citations:\nCarvalho, E., Winters, K. (2019). Qualitative Election Study of Britain, 2015. [data collection]. UK Data Service. SN: 8117, DOI\nCarvalho, E., Winters, K., Oliver, T. (2023). The Qualitative Election Study of Britain: The EU Referendum Interviews Dataset, 2016. [data collection]. UK Data Service. SN: 856170, DOI\nSome more information:\nCarvalho, Edzia and Winters, Kristi and Oliver, Thom (2023). The Qualitative Election Study of Britain: The EU Referendum Interviews Dataset, 2016. [Data Collection]. Colchester, Essex: UK Data Service. 10.5255/UKDA-SN-856170",
     "crumbs": [
       "Project Setup",
-      "The Dataset"
+      "**The Dataset**",
+      "Qualitative Election Study of Britain"
     ]
   },
   {
     "objectID": "The dataset.html#open-research",
     "href": "The dataset.html#open-research",
-    "title": "The Dataset",
+    "title": "Qualitative Election Study of Britain",
     "section": "Open research",
     "text": "Open research\nThis dataset is a brilliant example of Open Science: the data are open access but also organised to promote reusability. This is good practice, and there a lot of resources to help guide you on the use and reuse of secondary data, and how you can play your part.\nFor more information on open research and data:\n\nThe FAIR principles to improve the findability, accessibility, interoperability, and reuse of digital assets.\nUK Data Service hub for archiving qualitative data and secondary analysis.\nTake one of these free data skills modules from the UK Data Service which covers topics like research data management, finding secondary data, data resuse and many more topics.\n\n\n\nOpen Qualitative Research\n\n\n\n\n\n\n🤢 It’s not you, it’s NVivo\n\n\n\nImportant to making data and analysis open is storing it in an ‘interoperable’ and ‘open’ format. Interoperable means that the files are not restricted to being opened by a specific single application, such as NVivo. An open standard is one that is available for anyone to use, share, or access - where it could be opened on NVivo, Atlas.ti, and so on.\nFully ‘open research’ remains limited within qualitative research for various reasons. One important limitation is whilst there is an interoperable open QDPX format for sharing qualitative data analysis projects, it is a ‘lossy’ format – where folder structures and more are lost when exporting to the open format.\nSo, although it is possible to export to QDPX and import it to a different application - such as exporting from NVivo and importing in Atlas.ti - any folder structure and other aspects would be lost in the process.",
     "crumbs": [
       "Project Setup",
-      "The Dataset"
+      "**The Dataset**",
+      "Qualitative Election Study of Britain"
     ]
   },
   {
