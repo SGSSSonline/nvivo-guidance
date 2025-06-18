@@ -10,27 +10,125 @@ For example, say you wanted to recode text coded at three existing codes to thre
 
 ### Let's Create a Static Set
 
+First, create a new static set:
+
 ::: instructions
 
-- Add three existing Codes to a static set called 'Old Codes'.
-- Within your 'Codes' top-level folder create three new codes of your choice, for simplicity I'm just going with 'A', 'B', 'C'.
-- Add these to the 'New Codes' static set.
+1. Navigate to **Sets > Static Sets**
+2. Right-click in any available white space.
+3. Left-click to select 'New Static Set...'
+
+![](../images/create-new-static.png)
+
+:::
+
+Then within the 'New Static Set' dialogue:
+
+::: instructions
+
+- Provide a suitable 'Name', for this exercise go with 'Old Codes'
+- Hit 'OK' to confirm
+
+![](../images/set-old-codes.png)
+
+:::
+
+Next, let's add some of our existing coding to the set. Navigate to 'Autocoded (Themes)' and:
+
+::: instructions
+
+1. Select three existing codes (preferable ones with higher number of coded sections)
+2. Drag and drop them onto the 'Old Codes' Static Set we created.
+
+:::
+
+Now, let's create another set and our new nodes:
+
+::: instructions
+
+1. Repeat the instructions for creating a new static set and name it 'New Codes'.
+2. Within your **Coding > Codes** top-level folder create three new codes of your choice, for simplicity I'm just going with 'A', 'B', 'C'.
+3. Add these three codes to the 'New Codes' static set.
 
 :::
 
 ### Coded to Old Codes, but not New Codes
 
-Our familiar friend 'Matrix Coding Query' can now be combined with these sets to help us with the recoding process. We can create a  matrix coding query that has row for our 'Old Codes' static set and column for our 'New Codes' static set, showing a cell with all text that is not yet coded to our new codes.
+Our familiar friend 'Matrix Coding Query' can now be combined with these sets to help us with the recoding process. We can create a matrix coding query that has row for our 'Old Codes' static set and column for our 'New Codes' static set, showing a cell with all text that is not yet coded to our new codes.
+
+So, let's create a new matrix coding query:
 
 ::: instructions
 
-- Create a new Matrix Coding Query.
-- Rows = 'Old Codes' static set.
-- Columns = 'New Codes' static set.
-- Change 'Coding at rows ... columns' to **Not**.
-- 'Run Query'
+1. Navigate to **Queries > Query Criteria**
+2. Right-click on 'Query Criteria' or any available white space and select 'New Query'.
+3. Click on 'Matrix Coding Query'
+
+![](../images/new_matrix.png)
+
+:::
+
+Then within the Matrix Coding Query:
+
+:::instructions
+
+1. Hit the '+' button.
+2. Click 'Select Items...'
+
+![](../images/matrix-select-items.png)
+
+:::
+
+Then, within the 'Select Project Items' dialogue:
+
+::: instructions
+
+1. Select 'Static Sets'
+2. Tick the box for 'Old Codes'
+3. Hit 'OK'.
+
+![](../images/select-old-codes.png)
+
+:::
+
+Repeat steps for the Columns and our New Codes set:
+
+::: instructions
+
+1. Hit the '+' button.
+2. Click 'Select Items...'
+
+![](../images/matrix-columns-new.png)
+
+:::
+
+Then:
+
+::: instructions
+
+1. Select 'Static Sets'.
+2. Tick the box for 'New Codes'.
+3. Hit the 'OK' button.
+
+![](../images/select-new-codes.png)
+
+:::
+
+We want this matrix to aid us in recoding text from our 'old' to 'new' codes, so in comparison to the last time we created one where wanted to find text coded at both the row **and** column, this time we want to find text coded at our 'old' codes, but **not** our 'new' codes. So:
+
+::: instructions
+
+- For the 'Coding at rows ... columns' drop-down, change it to 'Not'
 
 ![](../images/not.png)
+:::
+
+Remember to also:
+
+::: instructions
+
+1. Click 'Save Criteria...'
+2. Give the query a name such as 'From Old to New'.
 
 :::
 
