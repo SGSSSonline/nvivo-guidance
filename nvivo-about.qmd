@@ -1,39 +1,8 @@
 ---
-title: "Welcome!"
-subtitle: "**Summer school 2025 Nvivo workshop**"
-format: html
+title: "How can NVivo help me?"
 ---
 
 ![](images/nvivo logo.png)
-
-### Session brief
-
-This one-day in-person workshop is aimed at those with no experience of Nvivo, or those who would like a refresher. We will move through three topics:
-
-
-![](images/Session brief-1.png)
-
-The morning is led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/) will work through some basic tasks: 
-
-- setting up a new Nvivo project 
-- organising materials
-- creating [cases](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html) and [case classifications](https://help-nv.qsrinternational.com/20/win/Content/classifications/about-classifications.html)
-- manual coding 
-- some autocoding features 
-
-The afternoon is led by [Dr Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
-
-Students will learn how to use some more advanced features of NVivo:
-
-- coding workflows, tip and tricks
-- different types of queries
-- framework matrices
-
-We will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.
-
-
-### How can Nvivo help me? 
-
 
 Nvivo is a software package for managing qualitative and mixed methods analysis projects. 
 
@@ -51,7 +20,7 @@ But aside from helping to structure your  *analysis*, Nvivo can be really helpfu
 
 You can also use Nvivo to **collaborate** - you can share projects or using cloud functionality to invite others in. 
 
-### And what can't it do? 
+## And what can't it do? 
 
 Important to note, using Nvivo will [NOT:]{.mark} 
 
@@ -65,14 +34,11 @@ Nvivo takes time to set up; and to make the most of the software, it requires so
 
 It is also more useful for some analysis approaches than others: for example very good for thematic content analysis (which we will cover today), but not so well adapted for others like interpretative phenomenological analysis (IPA). 
 
-### The logic of Nvivo 
-
-****Maybe insert the thing about nvivo zombies....
-
-### Navigating online resources 
+## Navigating online resources 
 
 There are a plethora of online resources for Nvivo (of varying quality...). This can be overwhelming! 
 
 After you've done this workshop, you should feel more confident at searching and using these. 
 
 Where possible, we will sign post you to more advanced online tutorials.  
+

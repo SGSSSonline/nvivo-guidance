@@ -1,0 +1,25 @@
+---
+title: "Coding Matrix Query"
+---
+
+First:
+
+- Select two or three existing codes from the top-level Codes folder or 'Autocoded (Theme)' sub-folder.
+- Open tabs for to view the code results for each.
+- Quickly go through coding sections from the code results to 'Example', 'Gold', and 'Unsure'.
+
+![](../images/cm-1.png)
+
+- Go to the Query Criteria folder
+- Right-click and select New Query
+- and, Matrix Coding Query
+
+![](../images/cm-2.png)
+
+- Rows = the regular codes you chose.
+- Columns = Gold, Unsure, and Example.
+- Hit 'Run Query'
+- Remember to also 'Save Criteria...'
+
+This will then produce a coding matrix you can then use to find sections coded at both a regular and organisation code.
+

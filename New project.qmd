@@ -1,37 +1,49 @@
 ---
-title: "Set up a new project"
+title: "Create a new project file"
 format: html
 ---
 
-### Create a new project in Nvivo 
+## Steps
 
-Open NVivo and click the ‘New Project’ tile on the welcome page. 
+### New Project
 
-If you already have a project open in NVivo, go to ‘File’ on the ribbon and select ‘New’ (step 1). 
+To create a new NVivo project file:
+
+::: instructions
+
+1. Open NVivo and click the ‘**New Project**’ tile on the welcome page. (If you already have an NVivo project open, click '**File**' on top-left of the ribbon and select '**New**'.
 
 ![](images/newproject.png)
 
-- Give your project a suitable title (2)
+2. Give your project a suitable title.
+3. The file name will be automatically generated. 
+4. You can enter a description of the project at this stage as well. While not required, it’s good practice to include something here.
+5. You can choose a language here - English (US) is the default.
+6. Click **Next**.
 
-- The file name will be automatically generated (3). 
+:::
 
-- You can enter a description of the project at this stage as well (4). While not required, it’s good practice to include something here.
+### Save and Recovery Settings
 
-- You can choose a language here - English (US) is the default (5)
+Then, choose your preferred save and recovery settings:  
 
-- Click next (6)
-
-- Choose your preferred save and recovery settings:  
+::: instructions
 
 ![](images/new project save setting.png)
 
-> NB: default settings are to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled. 
-It's VERY IMPORTANT to save regularly as Nvivo has a habit of crashing. 
+> NB: The default setting is to have autosave disabled with save prompts every 15 minutes. If you turn on autosave, undo functions are disabled.
 
+:::
 
-### Optional tour 
+::: not-you
 
-![](images/optional tour.png)
+It's **VERY IMPORTANT** to save regularly as NVivo has a notorious habit of crashing. Whilst the autosave reminders can be annoying they are a minor annoyance compared to spending a day working on your analysis without saving for NVivo to unexpectedly crash!
+
+:::
+
+## Optional tour 
+
+![](images/Optional tour.png)
 
 You will be prompted to take a quick tour, which will outline:  
 

@@ -1,0 +1,73 @@
+---
+title: "Find by Attribute"
+---
+
+## Remain Interview Participants
+
+So, our next question was finding all our interview participants who support Remain the EU Referendum. As it is similar steps to follow, a shortened version of the instructions are included below.
+
+### New Dynamic Set
+
+::: instructions
+
+![](../images/dynamic-b-info.png)
+
+Create a new dynamic set (right-click on 'Dynamic Sets' and select 'New Dynamic Set...') and provide it relevant Name and Description.
+
+:::
+
+Then in 'Search Criteria' tab and 'Advanced' sub-tab:
+
+::: instructions
+
+![](../images/dnyamic-set-b-c1.png)
+
+1. Look for: 'Codes % Cases'
+2. Interaction: "Code"
+3. Option: "That Codes"
+4. Value: "Select Items" & tick the checkbox next to 'Interviews (2016)' in the pop up dialogue.
+5. By: "Any User"
+6. Hit "Add to List"
+
+:::
+
+### 2nd Criteria
+
+::: instructions
+
+![](../images/dynamic-set-b-interaction.png)
+
+This time for the 2nd criteria, select 'Attribute' for the interaction.
+
+:::
+
+Within the Select Project Item dialogue that opens:
+
+::: instructions
+
+![](../images/dynamic-set-b-attrib.png)
+
+1. Expand the People case classification.
+2. Select '2016 vote' (the attribute to Remain/Leave in the EU Referendum)
+3. Hit 'OK'
+
+::: 
+
+All that's left to do:
+
+::: instructions
+
+![](../images/dynamic-set-b-remain.png)
+
+1. Change the 'Value' we are selecting for to 'Remain'.
+2. Click 'Add to List'.
+3. Hit 'OK' to create the Dynamic Set.
+
+:::
+
+And again our Dynamic Set is shown in red and the results in green.
+
+![](../images/dynamic-set-b-done.png)
+
+As you can see, once you start getting a sense for how to create search criteria, it becomes relatively quick for creating them -- most of the time spent is figuring out how to do it in the first place.
+

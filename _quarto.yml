@@ -25,13 +25,13 @@ website:
   navbar:
     pinned: true
     left:
-      - href: Getting started.qmd
+      - href: index.qmd
         text: "Intro"
       - href: project-setup.qmd
         text: "Project Setup"
       - href: Start coding.qmd
         text: "Start Coding"
-      - href: index.qmd
+      - href: going-further.qmd
         text: "Going Further"
       - href: Designing your Nvivo project.qmd
         text: "Design your own project"
@@ -48,36 +48,66 @@ website:
     background: "#073B59"
 
   sidebar:
-    - title: "Going Further"
+    - title: "Intro"
       style: "docked"
       border: false
       background: "#1B9D8E"
       contents:
         - index.qmd
-        - project-file.qmd
-        - section: "**Dynamic Sets and Queries**"
-          contents:
-            - quickexample.qmd
+        - nvivo-about.qmd
+
+    - title: "Going Further"
+      style: "docked"
+      border: false
+      background: "#1B9D8E"
+      contents:
+        - going-further.qmd
+        - going-further/project-overview.qmd
         - section: "**Coding Workflows**"
           contents:
-            - orgnodes.qmd
+            - going-further/develop-coding.qmd
+            - going-further/organisation-codes.qmd
+            - going-further/code-matrix-query.qmd
+            - going-further/memo-links.qmd
+            - going-further/memo-see-also.qmd
+            - going-further/memo-autocode.qmd
+            - going-further/using-static-sets.qmd
         - section: "**Framework Matrices**"
           contents:
-            - buildingthemes.qmd
+            - going-further/synthesis-interpretation-themes.qmd
+            - going-further/creating-framework-matrix.qmd
+            - going-further/viewing-framework-matrix.qmd
+            - going-further/summary-links.qmd
+            - going-further/reusable-cells.qmd
+            - going-further/re-casing.qmd
+        - section: "**Dynamic Sets and Queries**"
+          contents:
+            - going-further/layering-structure.qmd
+            - going-further/find-by-case.qmd
+            - going-further/find-by-attribute.qmd
+            - going-further/combine-set-and-query.qmd
+            - going-further/view-results.qmd
+            - going-further/compare-groups.qmd
+            - going-further/set-query-summary.qmd
 
     - title: "Project Setup"
       style: "docked"
       border: false
       background: "#1B9D8E"
       contents:
-        - project-setup.qmd
-        - The dataset.qmd
-        - Downloading the data.qmd
-        - New project.qmd
-        - Importing files.qmd
-        - Cases.qmd
-        - Adding metadata.qmd
-        - Saving and sharing.qmd
+        - href: project-setup.qmd
+          text: "NVivo Project Setup"
+        - section: "**The Dataset**"
+          contents:
+            - The dataset.qmd
+            - Downloading the data.qmd
+        - section: "**Set up a new project**"
+          contents:
+            - New project.qmd
+            - Importing files.qmd
+            - Cases.qmd
+            - Adding metadata.qmd
+            - Saving and sharing.qmd
 
     - title: "Start Coding"
       style: "docked"
@@ -112,13 +142,26 @@ format:
       dark: [darkly, brand, styles/custom.scss]
     css:
       - styles.css
+      - _extensions/quarto-ext/fontawesome/assets/css/all.min.css
+      - _extensions/quarto-ext/fontawesome/assets/css/latex-fontsize.css
     toc: true
 
 custom-callout:
   zombie:
-    title: "QDAS Zombies"
-    icon-symbol: "fa-viruses"
-    color: "green"
+    title: "🧟 Slaying QDAS Zombies"
+    icon: false
+    appearance: "minimal"
+    color: "#3fb618"
+  not-you:
+    title: "🤢 It's not you, it's NVivo"
+    icon: false
+    appearance: "minimal"
+    color: "#ff7518"
+  consider:
+    title: "🤔 Critical Considerations"
+    icon: false
+    appearance: "minimal"
+    color: "#e83e8c"
 
 filters:
   - custom-callout

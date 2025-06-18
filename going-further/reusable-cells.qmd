@@ -1,0 +1,14 @@
+---
+title: "Reusable Cells"
+---
+
+Something not immediately clear when using Framework Matrices is that the cells actually exist independently of any given matrix. Behind the scenes each cells is stored by on its intersection, the case and code combination it relates to. A cell then will appear in **all** framework matrices which has that case and code.
+
+After adding some text to cells in the 'ANY OTHER COMMENTS' and 'INTRODUCTION' columns - even if just gibberish:
+
+1. Create a new Framework Matrix.
+2. For rows use the cases in the 'Remain Interview Participants' dynamic set.
+3. For columns select only the 'ANY OTHER COMMENTS' and 'INTRODUCTION'codes.
+
+This makes cells within Framework Matrices 'composable', you can make various larger and smaller matrices based on particular analysis aims without risking losing text or accidentally duplicating work.
+

@@ -1,0 +1,25 @@
+---
+title: "Viewing a Framework Matrix"
+---
+
+When viewing a framework matrix, the matrix itself appears in the middle and, by default, an 'associated view' appears on the right. This view, as the name suggestions, shows content associated with the framework matrix.
+
+![](../images/framework-associatedview.png)
+
+You can change what precise content is displayed by clicking the 'Associated View' button on the Ribbon Bar. (If it is not visible, click inside a framework matrix cell first.)
+
+- **Row Coding** - show all content coded by the case the row is for.
+- **Cell Coding** - show all content coded by the row case AND the column code.
+- **Summary Links** - show only content whether a summary link has been made between text in the cell and the associated view.
+
+![](../images/framework-highlight.png)
+
+Similarly, what gets highlighted in the Associated View can be changed by clicking the 'Highlight' button on the Ribbon bar.
+
+- **None** - turn off highlighting.
+- **Column Coding** - highlight everything in the Associated View coded at the code for the currently selected column.
+- **Summary Links** - highlight text in the Associated View that has a summary link with text in the currently selected cell.
+- **Summary Links from Position** - highlight text in the Associated View that has a summary link with text for where the tex cursor is currently within the selected cell.
+
+- **Auto Scroll** - a useful option to turn on, when on if you click text in the cell that has a summary link, the Associated View will immediately scroll to where the linked text is within the Associated View.
+

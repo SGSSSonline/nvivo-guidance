@@ -1,9 +1,7 @@
 ---
-title: "The dataset"
+title: "Qualitative Election Study of Britain"
 format: html
 ---
-
-## Qualitative Election Study of Britain
 
 We will use data from a longitudinal qualitative study called the [Qualitative Election Study of Britain](https://qesb.info/). 
 
@@ -19,6 +17,7 @@ The data is open access and available from the [UK Data Service](https://beta.uk
 We chose this dataset because it contains a variety of file formats, including focus group discussions and in-depth interviews conducted around elections and referenda which are related over time in 2010, 2014, 2015, 2016, and 2017.
 
 ### Sign the agreement to use the data for teaching 
+
 ## The data subset we are using 
 
 The data we will be working with was collected in 2015 and 2016, and were timed to collect opinions prior to the [UK 2015 General Election](https://en.wikipedia.org/wiki/2015_United_Kingdom_general_election), and just after the [EU or 'Brexit' Referendum](https://en.wikipedia.org/wiki/2016_United_Kingdom_European_Union_membership_referendum). This period was one of great political unpredictability and voter volatility. Both of those votes had controversial and unexpected results: the 2015 Election was a surprise win for the Conservatives, and in Scotland, the Scottish National Party made huge gains over Labour. The 2016 EU referendum resulted in a 52% vote to leave the European Union, and this marked a change in the UK's relationship with Europe and the rest of the world. 
@@ -50,6 +49,17 @@ For more information on open research and data:
 
   + Take one of these **free** [data skills modules](https://ukdataservice.ac.uk/learning-hub/data-skills-modules/) from the UK Data Service which covers topics like research data management, finding secondary data, data resuse and many more topics. 
   
-![](Images/UK data service.png)
+![](images/UK data service.png)
 
+### Open Qualitative Research
+
+::: not-you
+
+Important to making data *and* analysis open is storing it in an 'interoperable' and 'open' format. Interoperable means that the files are not restricted to being opened by a specific single application, such as NVivo. An open standard is one that is available for anyone to use, share, or access - where it could be opened on NVivo, Atlas.ti, and so on.
+
+Fully 'open research' remains limited within qualitative research for various reasons. One important limitation is whilst there is an interoperable open QDPX format for sharing qualitative data analysis projects, it is a 'lossy' format -- where folder structures and more are lost when exporting to the open format.
+
+So, although it is possible to export to QDPX and import it to a different application - such as exporting from NVivo and importing in Atlas.ti - any folder structure and other aspects would be lost in the process.
+
+:::
 

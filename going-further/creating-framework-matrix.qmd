@@ -1,0 +1,32 @@
+---
+title: "Creating a Framework Matrix"
+---
+
+![](../images/framework-1.png)
+
+**Notes > Framework Matrices**
+
+![](../images/framework-2.png)
+
+- Right-click in white space.
+- Select 'New Framework Matrix...'
+
+![](../images/framework-3.png)
+
+- Provide it with a suitable name.
+
+![](../images/framework-4.png)
+
+- Select the Rows tab.
+- Use the left-hand 'Select' button to open a dialogue and select the Participant case folder.
+- Use the right-hand 'Select' button to open a dialogue and select 1-4 attributes from the People classification that will be used to sort how the rows for participant cases will be ordered.
+- (Optional) if you pick more than one attribute, you can use the up/down arrows on the right, in blue, to change their order.
+
+![](../images/framework-5.png)
+
+- Select the Colums tab.
+- Use the 'Select' button to pick codes to use as columns, in this case select the 'Auto-Code (Sections)' folder.
+- (Optional) use the arrows on the right to change the order of the codes.
+
+Hit 'OK' and after a few seconds the Framework Matrix will have been created and will automatically open.
+

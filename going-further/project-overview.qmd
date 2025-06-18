@@ -1,0 +1,101 @@
+---
+title: "Project File Overview"
+---
+
+As a (very) quick overview of the project file:
+
+### Files
+
+::: instructions
+
+**Data > Files**
+
+![](../images/project-files.png)
+
+- **Focus Groups (2015)**: Transcripts from three pre-general election focus groups from 2015.
+- **Interviews (2016)**: Fourteen telephone interviews on the EU Referendum in 2016.
+- **Literature**: Containing two articles by QESB team members, one on using grounded theory, the other on using focus groups.
+- **Project Files**: With files that contain additional information about the project, the research phases, and participants who took part.
+
+:::
+
+### Codes
+
+::: instructions
+
+**Coding > Codes**
+
+![](../images/project-codes.png)
+
+- **Codes**: Top-level folder with some initial coding created during the Intro to NVivo workshop.
+  - **Autocoded (Sections)**: Sub-folder with the broad-brush themes that were created auto-coding the Headings within the interview transcripts.
+  - **Autocoded (Themes)**: Sub-folder with codes created by auto-coding 'themes'.
+
+:::
+
+::: {.callout-caution}
+## Warning
+
+We have "autocoded themes" within this document merely to provide a broad range of example codes to work with in the exercises. However, in practice, do not rely on such autocoding instead of creating and coding with your own codes.
+:::
+
+
+### Cases
+
+::: instructions
+
+**Cases > Cases**
+
+![](../images/project-cases.png)
+
+- **Interviewer**: Cases created when 'autocoding by speaker' that code transcript sections where an interviewer / moderator from the research team is speaking.
+- **Participants**: Cases created when 'autocoding by speaker' that code transcript sections where participants are speaking.
+
+- **Case Classifications**: Top-level folder contains the case classifications and their attributes. For this project, there is only one case classification - 'People'.
+  - **People**: Sub-folder with all cases classified as 'People', where can see the attributes for specific participants. (Note - the interviewer cases are also classified as people, in many cases you would want to remove from the same classification as participants.)
+
+:::
+
+### Notes
+
+::: instructions
+
+![](../images/project-notes.png)
+
+- **Memos**: NVivo's built-in note-taking system. Contains a few existing memos with further project info and reflectives on initial analysis.
+- **Framework Matrices**: Create summaries for cases by node. Currently, empty.
+- **Annotations**: Annotations added to files, with couple examples.
+- **See-Also Links**: Use to link content/files to other content/files. Currently, empty.
+
+:::
+
+### Sets
+
+::: instructions
+
+![](../images/project-sets.png)
+
+- **Static Sets**: Manually created collections of project items, of any type. Think of this as a way to group and organise items for specific tasks without changing their primary structure. For example, a code can only exist within a single folder within the "Coding > Codes" section. However, it can be included within an unlimited number of static sets.
+- **Dynamic Sets**: Collections of project items created based on search criteria. As they are criteria based they also auto-update based on any changes in your project. For example, if you had a dynamic set for all codes used to code focus group transcripts, each time you use a new code when coding the focus groups, it will automatically then be included in the dynamic set.
+
+:::
+
+::: {.callout-note}
+## NVivo 12 - 'search folders'
+
+Dynamic Sets are a new name given to what were called 'search folders' in NVivo 12. They operate exactly the same, all that is different is the name.
+
+:::
+
+
+### Queries
+
+::: instructions
+
+![](../images/project-queries.png)
+
+- **Query Criteria**: Location to store saved queries, saving you from having to manually put them together each time.
+- **Query Results**: Location to store query results. This can be useful for more complex queries that take a long-time to process to save having to re-run it every time -- just remember it won't reflect any changes to your project file. Query results can also be used to create new nodes and cases.
+- **Coding Matrices**: Similar to the above but for the results of a coding matrix. By default manually created coding matrices saved results with be in **Query Results**, but they can manually moved across. Coding matrices automatically produced, such as when autocoding by theme, are stored here by default.
+
+:::
