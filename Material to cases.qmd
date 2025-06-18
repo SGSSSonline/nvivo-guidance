@@ -35,7 +35,7 @@ To do this, we need to go into  each focus group transcript, search for response
 
 - You can double click on Walt's case to check it's been coded correctly. 
 
-![](images/Code to case 2.png)
+![](images/code to case 2.png)
 
 - Then you would cycle through manually for all instances of Walt's response in the focus group transcript, then repeat for other participants. 
 

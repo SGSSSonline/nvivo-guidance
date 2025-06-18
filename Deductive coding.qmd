@@ -33,7 +33,7 @@ Another  form of basic *deductive* coding is to code using the interview questio
 
 - For this example, select ‘aggregate coding from children’ when creating codes. This means that sub-codes under this code will be included when expanding this code and returned in queries using the parent code. This can be changed at any time.
 
-![](images/New code 2.png)
+![](images/new code 2.png)
 
 - Repeat the steps for all the question codes until your list view looks like this: 
 
