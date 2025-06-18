@@ -2,24 +2,44 @@
 title: "Coding Matrix Query"
 ---
 
-First:
+### What is a Coding Matrix Query?
+
+A Coding Matrix Query finds all text that is meets conditions between two codes - such as text coded at Code A and Code B *or* text coded at Code X but not Code Y. You provide a list of codes to use for the rows, and another for the columns, alongside speciftying whether to use and/or/not condition between the two.
+
+### Creating a Coding Matrix Query
+
+First, ensure to have done some initial coding to the organisation codes:
+
+::: instructions
 
 - Select two or three existing codes from the top-level Codes folder or 'Autocoded (Theme)' sub-folder.
 - Open tabs for to view the code results for each.
 - Quickly go through coding sections from the code results to 'Example', 'Gold', and 'Unsure'.
 
-![](../images/cm-1.png)
+:::
+
+Then, to create a coding matrix:
+
+::: instructions
 
 - Go to the Query Criteria folder
 - Right-click and select New Query
 - and, Matrix Coding Query
 
-![](../images/cm-2.png)
+![](../images/cm-1.png)
+
+:::
+
+::: instructions
 
 - Rows = the regular codes you chose.
 - Columns = Gold, Unsure, and Example.
 - Hit 'Run Query'
 - Remember to also 'Save Criteria...'
+
+![](../images/cm-2.png)
+
+:::
 
 This will then produce a coding matrix you can then use to find sections coded at both a regular and organisation code.
 

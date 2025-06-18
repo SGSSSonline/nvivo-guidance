@@ -2,19 +2,27 @@
 title: "Using Static Sets"
 ---
 
-Going through the 'Unsure' sections, for example, may help you identify new code to create or ones to replace. 
+### What are Static Sets?
 
-Say you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.
+Static Sets provide a means for collating and organising objects - whether transcripts, cases, codes, queries, etc - from across your project file. In contrast to the main workspace views within NVivo (Files, Coding, ...), where for example a code can only exist in a single specific folder within the Coding section, a code can be added to an unlimited number of static sets. This makes them ideal for making collections of codes for specific purposes outwith your main coding hierarchy.
 
-This is where static sets come in handy.
+For example, say you wanted to recode text coded at three existing codes to three new codes you have created.
 
-- Add three existing Codes to the static set.
+### Let's Create a Static Set
+
+::: instructions
+
+- Add three existing Codes to a static set called 'Old Codes'.
 - Within your 'Codes' top-level folder create three new codes of your choice, for simplicity I'm just going with 'A', 'B', 'C'.
 - Add these to the 'New Codes' static set.
 
+:::
+
 ### Coded to Old Codes, but not New Codes
 
-![](../images/not.png)
+Our familiar friend 'Matrix Coding Query' can now be combined with these sets to help us with the recoding process. We can create a  matrix coding query that has row for our 'Old Codes' static set and column for our 'New Codes' static set, showing a cell with all text that is not yet coded to our new codes.
+
+::: instructions
 
 - Create a new Matrix Coding Query.
 - Rows = 'Old Codes' static set.
@@ -22,23 +30,33 @@ This is where static sets come in handy.
 - Change 'Coding at rows ... columns' to **Not**.
 - 'Run Query'
 
-This will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the 'Old Codes' static set.
+![](../images/not.png)
 
-You can now work your way recoding to the New Codes. **Importantly**, during recoding you can hit 'Run Query' and get an update of how many sections are left to recode. This can be extremely useful you whilst recoding you realise you actually need a fourth new code 'D'. You can create it, add it to 'New Codes' static set and 'Run Query' for your 'Recoding Old with New' Matrix Code Query.
+:::
 
-![](../images/codingcontext.png)
+### The Query Results
+
+Whilst this will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the 'Old Codes' static set.
+
+You can now work your way recoding to the New Codes. **Importantly**, during recoding you can hit 'Run Query' and get an update of how many sections are left to recode. This can be extremely useful if whilst recoding you realise you actually need a fourth new code 'D'. You can create it, add it to 'New Codes' static set and 'Run Query' for your 'Recoding Old with New' Matrix Code Query.
 
 Remember you can change the 'coding content' to view more text surrounding the sections coded to your old codes. That won't make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.
 
-![](../images/staticstripe.png)
+![](../images/codingcontext.png)
 
 Similarly, you can turn on coding stripes and highlighting using the static set as a filter.
 
 ![](../images/staticfix.png)
 
-This can save a lot of headaches and frustration when if adopting a coding approach that have multiple stages in developing and refinding your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.
+![](../images/staticstripe.png)
+
+
 
 ### Other uses for static sets
+
+Static Sets can save a lot of headaches and frustration when adopting a coding approach that has multiple stages in developing and refining your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.
+
+Similarly, they can also be used for:
 
 - Grouping conceptual related codes outside your main coding schema.
 - Collating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.

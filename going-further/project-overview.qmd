@@ -2,7 +2,7 @@
 title: "Project File Overview"
 ---
 
-As a (very) quick overview of the project file:
+As a (very) quick overview and reminder of the main workspace areas within NVivo and how we have the project file for this afternoon setup:
 
 ### Files
 

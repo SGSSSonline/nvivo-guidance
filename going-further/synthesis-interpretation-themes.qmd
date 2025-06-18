@@ -2,4 +2,10 @@
 title: "Synthesis, Intrepretation, and Themes"
 ---
 
+::: consider
+
+
+
+:::
+
 

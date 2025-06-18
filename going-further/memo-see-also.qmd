@@ -2,25 +2,41 @@
 title: "Memo See Also Links"
 ---
 
-It is possible to link text within a file to text within a memo.
+### What Are 'See Also Links'?
 
-![](../images/mem-4.png)
+'See Also Links' are a means to add a link between text across two different objects, such as text in a memo and text in a transcript. This makes it possible to write reflections on your coding and link directly to any text within the transcript you are directly speaking about.
+
+### Creating a See Also Link
+
+To link text within a memo to text in a transcript:
+
+::: instructions
 
 - Select the text you want to link to the memo text.
 - Right-click and select 'Copy'.
 
-![](../images/mem-5.png)
+![](../images/mem-4.png)
 
-Back in the memo:
+:::
+
+Then, back in the memo:
+
+::: instructions
 
 - Select the memo text you want to be linked.
 - Right-click and select 'Paste as See-Also Link'.
 
-![](../images/mem-6.png)
+![](../images/mem-5.png)
+
+:::
+
+### Viewing See Also Links
 
 See also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.
 
-![](../images/mem-7.png)
+![](../images/mem-6.png)
 
 Importantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can 'Open To Item'. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.
+
+![](../images/mem-7.png)
 
