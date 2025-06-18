@@ -554,6 +554,7 @@ div.callout-consider.callout-style-default .callout-icon::before, div.callout-co
 
 <p>One limitation with Framework Matrices is that Rows must be cases and Columns codes. However, this is another situation where dynamic sets and queries can come to the rescue.</p>
 <p>First:</p>
+<div class="instructions">
 <ol type="1">
 <li>Create a new Coding Query</li>
 <li>For criteria, ‘Coded to’, ‘Any Selected Code or Case’, in the ‘Remain Interview Participants’ dynamic set.</li>
@@ -564,19 +565,32 @@ div.callout-consider.callout-style-default .callout-icon::before, div.callout-co
 <li>Give it a suitable name, such as “Remain Supporters”</li>
 <li>Hit ‘OK’.</li>
 </ol>
+</div>
 <p>Then:</p>
+<div class="instructions">
 <ol type="1">
 <li>Create a new dynamic folder ‘Leave Interview Participants’ with criteria ‘Code’, ‘That Codes’, any items in the ‘Interviews (2016)’ folder.</li>
 <li>Create (and save) a new Coding Query, ‘Coded to’, ‘Any Selected Code or Case’, in the ‘Leave Interview Participants’ dynamic set.</li>
 <li>‘Run and Save Results’ to a new case in the ‘Cases’ folder, “Leave Supporters”</li>
 </ol>
+</div>
 <p>Finally:</p>
+<div class="instructions">
 <ol type="1">
 <li>Create a new Framework Matrix</li>
 <li>Rows = “Remain Supporters” and “Leave Supporters”</li>
 <li>Columns = “Autocoded (Sections)”</li>
 </ol>
-<p>Another example: 1. Create a new Framework Matrix 2. Rows, first add all individual cases from the ‘Remain Interview Participants’ dynamic set. 3. Rows, second add the ‘Remain Supporters’ case. 4. Columns = “Autocoded (Sections)”</p>
+</div>
+<p>Another example:</p>
+<div class="instructions">
+<ol type="1">
+<li>Create a new Framework Matrix</li>
+<li>Rows, first add all individual cases from the ‘Remain Interview Participants’ dynamic set.</li>
+<li>Rows, second add the ‘Remain Supporters’ case.</li>
+<li>Columns = “Autocoded (Sections)”</li>
+</ol>
+</div>
 <p>This then provides a Framework Matrix with a row for each Remain supporting participant, and a row for summarising across all Remain supporters.</p>
 
 

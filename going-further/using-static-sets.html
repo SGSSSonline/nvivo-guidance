@@ -73,6 +73,16 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-zombie.callout {
+  border-left-color: #3fb618;
+}
+div.callout-zombie.callout-style-default > .callout-header {
+  background-color: rgba(63, 182, 24, 0.13);
+}
+div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%233fb618" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+}
 div.callout-consider.callout {
   border-left-color: #e83e8c;
 }
@@ -92,16 +102,6 @@ div.callout-not-you.callout-style-default > .callout-header {
 div.callout-not-you .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not-you.callout-titled .callout-icon::before {
   background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff7518" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
-}
-div.callout-zombie.callout {
-  border-left-color: #3fb618;
-}
-div.callout-zombie.callout-style-default > .callout-header {
-  background-color: rgba(63, 182, 24, 0.13);
-}
-div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%233fb618" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
 </style>
 
@@ -569,26 +569,98 @@ div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zomb
 </section>
 <section id="lets-create-a-static-set" class="level3">
 <h3 class="anchored" data-anchor-id="lets-create-a-static-set">Let’s Create a Static Set</h3>
+<p>First, create a new static set:</p>
+<div class="instructions">
+<ol type="1">
+<li>Navigate to <strong>Sets &gt; Static Sets</strong></li>
+<li>Right-click in any available white space.</li>
+<li>Left-click to select ‘New Static Set…’</li>
+</ol>
+<p><img src="../images/create-new-static.png" class="img-fluid"></p>
+</div>
+<p>Then within the ‘New Static Set’ dialogue:</p>
 <div class="instructions">
 <ul>
-<li>Add three existing Codes to a static set called ‘Old Codes’.</li>
-<li>Within your ‘Codes’ top-level folder create three new codes of your choice, for simplicity I’m just going with ‘A’, ‘B’, ‘C’.</li>
-<li>Add these to the ‘New Codes’ static set.</li>
+<li>Provide a suitable ‘Name’, for this exercise go with ‘Old Codes’</li>
+<li>Hit ‘OK’ to confirm</li>
 </ul>
+<p><img src="../images/set-old-codes.png" class="img-fluid"></p>
+</div>
+<p>Next, let’s add some of our existing coding to the set. Navigate to ‘Autocoded (Themes)’ and:</p>
+<div class="instructions">
+<ol type="1">
+<li>Select three existing codes (preferable ones with higher number of coded sections)</li>
+<li>Drag and drop them onto the ‘Old Codes’ Static Set we created.</li>
+</ol>
+</div>
+<p>Now, let’s create another set and our new nodes:</p>
+<div class="instructions">
+<ol type="1">
+<li>Repeat the instructions for creating a new static set and name it ‘New Codes’.</li>
+<li>Within your <strong>Coding &gt; Codes</strong> top-level folder create three new codes of your choice, for simplicity I’m just going with ‘A’, ‘B’, ‘C’.</li>
+<li>Add these three codes to the ‘New Codes’ static set.</li>
+</ol>
 </div>
 </section>
 <section id="coded-to-old-codes-but-not-new-codes" class="level3">
 <h3 class="anchored" data-anchor-id="coded-to-old-codes-but-not-new-codes">Coded to Old Codes, but not New Codes</h3>
 <p>Our familiar friend ‘Matrix Coding Query’ can now be combined with these sets to help us with the recoding process. We can create a matrix coding query that has row for our ‘Old Codes’ static set and column for our ‘New Codes’ static set, showing a cell with all text that is not yet coded to our new codes.</p>
+<p>So, let’s create a new matrix coding query:</p>
+<div class="instructions">
+<ol type="1">
+<li>Navigate to <strong>Queries &gt; Query Criteria</strong></li>
+<li>Right-click on ‘Query Criteria’ or any available white space and select ‘New Query’.</li>
+<li>Click on ‘Matrix Coding Query’</li>
+</ol>
+<p><img src="../images/new_matrix.png" class="img-fluid"></p>
+</div>
+<p>Then within the Matrix Coding Query:</p>
+<div class="instructions">
+<ol type="1">
+<li>Hit the ‘+’ button.</li>
+<li>Click ‘Select Items…’</li>
+</ol>
+<p><img src="../images/matrix-select-items.png" class="img-fluid"></p>
+</div>
+<p>Then, within the ‘Select Project Items’ dialogue:</p>
+<div class="instructions">
+<ol type="1">
+<li>Select ‘Static Sets’</li>
+<li>Tick the box for ‘Old Codes’</li>
+<li>Hit ‘OK’.</li>
+</ol>
+<p><img src="../images/select-old-codes.png" class="img-fluid"></p>
+</div>
+<p>Repeat steps for the Columns and our New Codes set:</p>
+<div class="instructions">
+<ol type="1">
+<li>Hit the ‘+’ button.</li>
+<li>Click ‘Select Items…’</li>
+</ol>
+<p><img src="../images/matrix-columns-new.png" class="img-fluid"></p>
+</div>
+<p>Then:</p>
+<div class="instructions">
+<ol type="1">
+<li>Select ‘Static Sets’.</li>
+<li>Tick the box for ‘New Codes’.</li>
+<li>Hit the ‘OK’ button.</li>
+</ol>
+<p><img src="../images/select-new-codes.png" class="img-fluid"></p>
+</div>
+<p>We want this matrix to aid us in recoding text from our ‘old’ to ‘new’ codes, so in comparison to the last time we created one where wanted to find text coded at both the row <strong>and</strong> column, this time we want to find text coded at our ‘old’ codes, but <strong>not</strong> our ‘new’ codes. So:</p>
 <div class="instructions">
 <ul>
-<li>Create a new Matrix Coding Query.</li>
-<li>Rows = ‘Old Codes’ static set.</li>
-<li>Columns = ‘New Codes’ static set.</li>
-<li>Change ‘Coding at rows … columns’ to <strong>Not</strong>.</li>
-<li>‘Run Query’</li>
+<li>For the ‘Coding at rows … columns’ drop-down, change it to ‘Not’</li>
 </ul>
 <p><img src="../images/not.png" class="img-fluid"></p>
+</div>
+<p>Remember to also:</p>
+<div class="instructions">
+<ol type="1">
+<li>Click ‘Save Criteria…’</li>
+<li>Give the query a name such as ‘From Old to New’.</li>
+</ol>
 </div>
 </section>
 <section id="the-query-results" class="level3">
