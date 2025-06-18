@@ -73,16 +73,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-not-you.callout {
-  border-left-color: #ff7518;
-}
-div.callout-not-you.callout-style-default > .callout-header {
-  background-color: rgba(255, 117, 24, 0.13);
-}
-div.callout-not-you .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not-you.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff7518" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
-}
 div.callout-consider.callout {
   border-left-color: #e83e8c;
 }
@@ -102,6 +92,16 @@ div.callout-zombie.callout-style-default > .callout-header {
 div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
   background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%233fb618" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+}
+div.callout-not-you.callout {
+  border-left-color: #ff7518;
+}
+div.callout-not-you.callout-style-default > .callout-header {
+  background-color: rgba(255, 117, 24, 0.13);
+}
+div.callout-not-you .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not-you.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff7518" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
 </style>
 
@@ -566,21 +566,21 @@ div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zomb
 <h2 class="anchored" data-anchor-id="view-results">View Results</h2>
 <section id="node-views" class="level3">
 <h3 class="anchored" data-anchor-id="node-views">Node Views</h3>
-<p><img src="../images/coding-query10.png" class="img-fluid"></p>
 <p>After hitting ‘Run Query’ you’ll be able to see all coded sections that match our Code Query criteria. Just as when viewing regular Codes, there are three tabs on the right-hand side.</p>
-<p><img src="../images/summary.png" class="img-fluid"></p>
+<p><img src="../images/coding-query10.png" class="img-fluid"></p>
 <p><strong>Summary</strong> - provides a list of the interview transcript files with details for how many ‘References’ there are - in other words, how many coded sections within this transcript met our criteria - and ‘Coverage’ - what percentage of the total transcript is captured by the coded sections meeting our criteria.</p>
-<p><img src="../images/reference.png" class="img-fluid"></p>
+<p><img src="../images/summary.png" class="img-fluid"></p>
 <p><strong>Reference</strong> - is the default view when viewing Code results. It provides a view with all the coded sections, ordered by file they appear in. At the top, in the blue box, you can see it noting that the coded sections that follow are from the Cathy interview transcript, alongside the total references found and coverage. Then it lists each coded section in turn with info for coverage for that individual coded section, in green box.</p>
-<p><img src="../images/text.png" class="img-fluid"></p>
+<p><img src="../images/reference.png" class="img-fluid"></p>
 <p><strong>Text</strong> - is similar to the ‘Reference’ view, but is like it’s ‘tab view’ equivalent. Rather than showing all the coded sections in a single view, it adds a row along the top for all the files, where clicking to select any listed file (in blue box) will change the main view below to show only the coded sections from it.</p>
+<p><img src="../images/text.png" class="img-fluid"></p>
 </section>
 <section id="open-referenced-file" class="level3">
 <h3 class="anchored" data-anchor-id="open-referenced-file">Open Referenced File</h3>
-<p><img src="../images/open-referenced-file.png" class="img-fluid"></p>
 <p>And, finally, remember when viewing coded sections, you can right-click on any reference (in blue) and select ‘Open Referenced File’ to open the file the coded section is from.</p>
-<p><img src="../images/opened-referenced-file.png" class="img-fluid"></p>
+<p><img src="../images/open-referenced-file.png" class="img-fluid"></p>
 <p>NVivo will open a new tab for the file, jumping to the specific coded section you had right-click on, and with a Coding Query will also highlight other coded sections from it in the file.</p>
+<p><img src="../images/opened-referenced-file.png" class="img-fluid"></p>
 
 
 </section>

@@ -73,16 +73,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-zombie.callout {
-  border-left-color: #3fb618;
-}
-div.callout-zombie.callout-style-default > .callout-header {
-  background-color: rgba(63, 182, 24, 0.13);
-}
-div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%233fb618" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
-}
 div.callout-consider.callout {
   border-left-color: #e83e8c;
 }
@@ -92,6 +82,16 @@ div.callout-consider.callout-style-default > .callout-header {
 div.callout-consider .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-consider.callout-style-default .callout-icon::before, div.callout-consider.callout-titled .callout-icon::before {
   background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23e83e8c" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+}
+div.callout-zombie.callout {
+  border-left-color: #3fb618;
+}
+div.callout-zombie.callout-style-default > .callout-header {
+  background-color: rgba(63, 182, 24, 0.13);
+}
+div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%233fb618" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
 div.callout-not-you.callout {
   border-left-color: #ff7518;
@@ -580,32 +580,32 @@ div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not
 <h3 class="anchored" data-anchor-id="basics-of-creating-a-dynamic-set">Basics of creating a dynamic set</h3>
 <div class="instructions">
 <p><strong>New Dynamic Set</strong></p>
-<p><img src="../images/dynamic-set-new.png" class="img-fluid"></p>
 <ol type="1">
 <li>In the left-hand Navigation View, <strong>right-click</strong> ‘Dynamic Sets’.</li>
 <li>From the context menu, click ‘New Dynamic Set…’</li>
 </ol>
+<p><img src="../images/dynamic-set-new.png" class="img-fluid"></p>
 </div>
 </section>
 <section id="general-details" class="level3">
 <h3 class="anchored" data-anchor-id="general-details">General Details</h3>
 <div class="instructions">
-<p><img src="../images/dynamic-set-details.png" class="img-fluid"></p>
 <p>Provide an apt ‘Name’ and ‘Description’.</p>
+<p><img src="../images/dynamic-set-details.png" class="img-fluid"></p>
 </div>
 </section>
 <section id="search-criteria-tab" class="level3">
 <h3 class="anchored" data-anchor-id="search-criteria-tab">Search Criteria Tab</h3>
 <div class="instructions">
-<p><img src="../images/dynamic-set-search-tab.png" class="img-fluid"></p>
 <p>Click the ‘Search Criteria’ tab, and …</p>
+<p><img src="../images/dynamic-set-search-tab.png" class="img-fluid"></p>
 </div>
 </section>
 <section id="advanced-tab" class="level3">
 <h3 class="anchored" data-anchor-id="advanced-tab">Advanced Tab</h3>
 <div class="instructions">
-<p><img src="../images/dynamic-set-advanced.png" class="img-fluid"></p>
 <p>Within the Search Criteria view, click the ‘Advanced’ tab!</p>
+<p><img src="../images/dynamic-set-advanced.png" class="img-fluid"></p>
 </div>
 <div class="callout callout-style-simple callout-not-you no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -635,60 +635,60 @@ div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not
 <p>First, let’s set the dynamic set to look for cases.</p>
 <p>Within the ‘Advanced’ view:</p>
 <div class="instructions">
-<p><img src="../images/dynamic-sets-looking-for.png" class="img-fluid"></p>
 <ol type="1">
 <li>Select the drop-down to choose what to ‘Look for’.</li>
 <li>As we want to find interview participant cases, select ‘Codes &amp; Cases’</li>
 </ol>
+<p><img src="../images/dynamic-sets-looking-for.png" class="img-fluid"></p>
 </div>
 </section>
 <section id="st-criteria" class="level3">
 <h3 class="anchored" data-anchor-id="st-criteria">1st Criteria</h3>
 <p>As our first criteria, let’s add a criteria to return any ‘codes &amp; cases’ that code any of our interview transcripts.</p>
 <div class="instructions">
-<p><img src="../images/dynamic-set-1-code.png" class="img-fluid"></p>
 <ol start="3" type="1">
 <li>Within the ‘Define more criteria’ section, click the box under ‘Interaction’.</li>
 <li>From the drop-down list select ‘Code’.</li>
 </ol>
+<p><img src="../images/dynamic-set-1-code.png" class="img-fluid"></p>
 </div>
 <div class="instructions">
-<p><img src="../images/dynamic-set-1-option.png" class="img-fluid"></p>
 <ol start="5" type="1">
 <li>Click the box under ‘Option’.</li>
 <li>From the drop-down list select ‘That Codes’.</li>
 </ol>
+<p><img src="../images/dynamic-set-1-option.png" class="img-fluid"></p>
 </div>
 <div class="instructions">
-<p><img src="../images/dynamic-set-1-value.png" class="img-fluid"></p>
 <ol start="7" type="1">
 <li>Click the box under ‘Value’.</li>
 <li>From the drop-down list select ‘Selected Items’.</li>
 </ol>
+<p><img src="../images/dynamic-set-1-value.png" class="img-fluid"></p>
 </div>
 <p>A ‘Select Project Items’ dialogue will pop open.</p>
 <div class="instructions">
-<p><img src="../images/dynamic-set-1-interviews.png" class="img-fluid"></p>
 <ol start="9" type="1">
 <li>Expand the ‘Files’ folder to see the sub-folders.</li>
 <li>Check the tick-box for the ‘Interviews (2016)’ sub-folder. This will select all the interview transcripts in the sub-folder.</li>
 <li>Hit ‘OK’ to confirm the selection.</li>
 </ol>
+<p><img src="../images/dynamic-set-1-interviews.png" class="img-fluid"></p>
 </div>
 <p>A wee example of odd minor frustrations NVivo presents. After selecting our interaction, option, value, and files of interest, the ‘Add to List’ option remains greyed out – but, why?</p>
 <p>… there’s a sneaky additional ‘by’ field that can’t be left blank.</p>
 <div class="instructions">
-<p><img src="../images/dynamic-set-1-by.png" class="img-fluid"></p>
 <ol start="12" type="1">
 <li>Click the box to the right of ‘by’ (and under the box for ‘Select Items’)</li>
 <li>From the drop-down list, select ‘Any User’</li>
 </ol>
+<p><img src="../images/dynamic-set-1-by.png" class="img-fluid"></p>
 </div>
 <div class="instructions">
-<p><img src="../images/dynamic-set-1-add.png" class="img-fluid"></p>
 <ol start="14" type="1">
 <li>Click ‘Add to List’.</li>
 </ol>
+<p><img src="../images/dynamic-set-1-add.png" class="img-fluid"></p>
 </div>
 <p>Our 1st criteria now appears in the giant box for ‘Find items that match all these criteria’.</p>
 <p><img src="../images/dynamic-set-1st.png" class="img-fluid"></p>
@@ -697,45 +697,45 @@ div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not
 <h3 class="anchored" data-anchor-id="nd-criteria">2nd Criteria</h3>
 <p>Next, we now</p>
 <div class="instructions">
-<p><img src="../images/dynamic-set-2-code.png" class="img-fluid"></p>
 <ol start="15" type="1">
 <li>Click the box under Interaction.</li>
 <li>Select ‘Code’ again.</li>
 </ol>
+<p><img src="../images/dynamic-set-2-code.png" class="img-fluid"></p>
 </div>
 <div class="instructions">
-<p><img src="../images/dynamic-set-2-option.png" class="img-fluid"></p>
 <ol start="17" type="1">
 <li>Click the box under Option.</li>
 <li>Select ‘Assigned to Classification’.</li>
 </ol>
+<p><img src="../images/dynamic-set-2-option.png" class="img-fluid"></p>
 </div>
 <div class="instructions">
-<p><img src="../images/dynamic-set-2-value.png" class="img-fluid"></p>
 <ol start="19" type="1">
 <li>Click the box under Value.</li>
 <li>Select ‘Selected Classifications’.</li>
 </ol>
+<p><img src="../images/dynamic-set-2-value.png" class="img-fluid"></p>
 </div>
 <div class="instructions">
-<p><img src="../images/dynamic-set-2-select-people.png" class="img-fluid"></p>
 <ol start="21" type="1">
 <li>Within the Select Project Items dialogue that pops up, tick the checkbox for ‘People’ case classification.</li>
 <li>Hit ‘OK’ to confirm.</li>
 </ol>
+<p><img src="../images/dynamic-set-2-select-people.png" class="img-fluid"></p>
 </div>
 <div class="instructions">
-<p><img src="../images/dynamic-set-2-done.png" class="img-fluid"></p>
 <ol start="23" type="1">
 <li>Click ‘Add to List’.</li>
 <li>Hit ‘OK’ to save your dynamic list.</li>
 </ol>
+<p><img src="../images/dynamic-set-2-done.png" class="img-fluid"></p>
 </div>
 </section>
 <section id="done" class="level3">
 <h3 class="anchored" data-anchor-id="done">Done</h3>
-<p><img src="../images/dynamic-set-results.png" class="img-fluid"></p>
 <p>And there we have it. Our dynamic set (in red) appears in the Navigation Folder similar to a folder and the items meeting our search criteria (in green) are listed in the Display panel.</p>
+<p><img src="../images/dynamic-set-results.png" class="img-fluid"></p>
 </section>
 <section id="quick" class="level3">
 <h3 class="anchored" data-anchor-id="quick">Quick?</h3>
