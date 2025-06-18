@@ -21,8 +21,8 @@ A few examples:
 
 ::: instructions
 
-- Go to the main 'Codes' folder.
-- Right-click on any white space and select 'New Code...'
+1. Go to the main 'Codes' folder.
+2. Right-click on any white space and select 'New Code...'
 
 ![](../images/codes-1.png)
 

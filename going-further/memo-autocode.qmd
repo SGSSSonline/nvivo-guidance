@@ -26,7 +26,7 @@ Within the Autocode Wizard dialogue:
 
 For Step 2:
 
-:: instructions
+::: instructions
 
 Select 'Paragraph' styles and hit 'Next'
 

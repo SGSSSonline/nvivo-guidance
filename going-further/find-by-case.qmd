@@ -13,10 +13,11 @@ This is a perfect scenario for creating a dynamic set.
 ::: {.instructions}
 **New Dynamic Set**
 
-![](../images/dynamic-set-new.png)
-
 1. In the left-hand Navigation View, **right-click** 'Dynamic Sets'.
 2. From the context menu, click 'New Dynamic Set...'
+
+![](../images/dynamic-set-new.png)
+
 
 :::
 
@@ -24,9 +25,9 @@ This is a perfect scenario for creating a dynamic set.
 
 ::: instructions
 
-![](../images/dynamic-set-details.png)
-
 Provide an apt 'Name' and 'Description'.
+
+![](../images/dynamic-set-details.png)
 
 :::
 
@@ -34,9 +35,9 @@ Provide an apt 'Name' and 'Description'.
 
 ::: instructions
 
-![](../images/dynamic-set-search-tab.png)
-
 Click the 'Search Criteria' tab, and ...
+
+![](../images/dynamic-set-search-tab.png)
 
 :::
 
@@ -44,9 +45,10 @@ Click the 'Search Criteria' tab, and ...
 
 ::: instructions
 
+Within the Search Criteria view, click the 'Advanced' tab!
+
 ![](../images/dynamic-set-advanced.png)
 
-Within the Search Criteria view, click the 'Advanced' tab!
 :::
 
 ::: not-you
@@ -72,10 +74,10 @@ Within the 'Advanced' view:
 
 ::: instructions 
 
-![](../images/dynamic-sets-looking-for.png)
-
 1. Select the drop-down to choose what to 'Look for'.
 2. As we want to find interview participant cases, select 'Codes & Cases'
+
+![](../images/dynamic-sets-looking-for.png)
 
 :::
 
@@ -85,28 +87,28 @@ As our first criteria, let's add a criteria to return any 'codes & cases' that c
 
 ::: instructions 
 
-![](../images/dynamic-set-1-code.png)
-
 3. Within the 'Define more criteria' section, click the box under 'Interaction'.
 4. From the drop-down list select 'Code'.
+
+![](../images/dynamic-set-1-code.png)
 
 :::
 
 ::: instructions
-
-![](../images/dynamic-set-1-option.png)
 
 5. Click the box under 'Option'.
 6. From the drop-down list select 'That Codes'.
 
+![](../images/dynamic-set-1-option.png)
+
 :::
 
 ::: instructions
 
-![](../images/dynamic-set-1-value.png)
-
 7. Click the box under 'Value'.
 8. From the drop-down list select 'Selected Items'.
+
+![](../images/dynamic-set-1-value.png)
 
 :::
 
@@ -114,11 +116,11 @@ A 'Select Project Items' dialogue will pop open.
 
 ::: instructions
 
-![](../images/dynamic-set-1-interviews.png)
-
 9. Expand the 'Files' folder to see the sub-folders.
 10. Check the tick-box for the 'Interviews (2016)' sub-folder. This will select all the interview transcripts in the sub-folder.
 11. Hit 'OK' to confirm the selection.
+
+![](../images/dynamic-set-1-interviews.png)
 
 :::
 
@@ -128,19 +130,18 @@ A wee example of odd minor frustrations NVivo presents. After selecting our inte
 
 ::: instructions
 
-![](../images/dynamic-set-1-by.png)
-
-
 12. Click the box to the right of 'by' (and under the box for 'Select Items')
 13. From the drop-down list, select 'Any User'
+
+![](../images/dynamic-set-1-by.png)
 
 :::
 
 ::: instructions
 
-![](../images/dynamic-set-1-add.png)
-
 14. Click 'Add to List'.
+
+![](../images/dynamic-set-1-add.png)
 
 :::
 
@@ -154,54 +155,55 @@ Next, we now
 
 ::: instructions
 
-![](../images/dynamic-set-2-code.png)
-
 15. Click the box under Interaction.
 16. Select 'Code' again.
+
+![](../images/dynamic-set-2-code.png)
 
 :::
 
 ::: instructions
-
-![](../images/dynamic-set-2-option.png) 
 
 17. Click the box under Option.
 18. Select 'Assigned to Classification'.
 
+![](../images/dynamic-set-2-option.png) 
 
 :::
 
 ::: instructions
-
-![](../images/dynamic-set-2-value.png)
 
 19. Click the box under Value.
 20. Select 'Selected Classifications'.
 
+![](../images/dynamic-set-2-value.png)
+
 :::
 
 ::: instructions
-
-![](../images/dynamic-set-2-select-people.png)
 
 21. Within the Select Project Items dialogue that pops up, tick the checkbox for 'People' case classification.
 22. Hit 'OK' to confirm.
 
+![](../images/dynamic-set-2-select-people.png)
+
 :::
 
 ::: instructions
-![](../images/dynamic-set-2-done.png)
 
 23.  Click 'Add to List'.
 24.  Hit 'OK' to save your dynamic list.
+
+![](../images/dynamic-set-2-done.png)
+
 :::
 
 
 ### Done
 
-![](../images/dynamic-set-results.png)
-
 And there we have it. Our dynamic set (in red) appears in the Navigation Folder similar to a folder and the items meeting our search criteria (in green) are listed in the Display panel.
+
+![](../images/dynamic-set-results.png)
 
 ### Quick?
 
