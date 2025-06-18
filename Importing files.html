@@ -42,9 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-cf107a2acf0b13bd085a535bf957168f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-1ce52352858b35a5c4611df7c60e8d4d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-cf107a2acf0b13bd085a535bf957168f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1f67be1e95835114bcf35cd9f3556aac.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-e0f1b0f1d566330378deefd3ff2c3c5d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-1f67be1e95835114bcf35cd9f3556aac.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -73,15 +73,15 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
-div.callout-zombie.callout {
-  border-left-color: #3fb618;
+div.callout-not-you.callout {
+  border-left-color: #ff7518;
 }
-div.callout-zombie.callout-style-default > .callout-header {
-  background-color: rgba(63, 182, 24, 0.13);
+div.callout-not-you.callout-style-default > .callout-header {
+  background-color: rgba(255, 117, 24, 0.13);
 }
-div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%233fb618" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+div.callout-not-you .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not-you.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff7518" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
 div.callout-consider.callout {
   border-left-color: #e83e8c;
@@ -93,22 +93,20 @@ div.callout-consider .callout-toggle::before {  background-image: url('data:imag
 div.callout-consider.callout-style-default .callout-icon::before, div.callout-consider.callout-titled .callout-icon::before {
   background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23e83e8c" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
-div.callout-not-you.callout {
-  border-left-color: #ff7518;
+div.callout-zombie.callout {
+  border-left-color: #3fb618;
 }
-div.callout-not-you.callout-style-default > .callout-header {
-  background-color: rgba(255, 117, 24, 0.13);
+div.callout-zombie.callout-style-default > .callout-header {
+  background-color: rgba(63, 182, 24, 0.13);
 }
-div.callout-not-you .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not-you.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff7518" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%233fb618" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
 </style>
 
 
 <link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="site_libs/quarto-contrib/quarto-project/quarto-ext/fontawesome/assets/css/all.min.css">
-<link rel="stylesheet" href="site_libs/quarto-contrib/quarto-project/quarto-ext/fontawesome/assets/css/latex-fontsize.css">
 </head>
 
 <body class="nav-sidebar docked nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
@@ -440,6 +438,7 @@ div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not
   <ul>
   <li><a href="#import-2016-interview-files" id="toc-import-2016-interview-files" class="nav-link active" data-scroll-target="#import-2016-interview-files">Import 2016 interview files</a></li>
   <li><a href="#automatically-create-cases-as-you-import" id="toc-automatically-create-cases-as-you-import" class="nav-link" data-scroll-target="#automatically-create-cases-as-you-import">Automatically create cases as you import</a></li>
+  <li><a href="#after-import" id="toc-after-import" class="nav-link" data-scroll-target="#after-import">After Import</a></li>
   <li><a href="#organise-interview-transcripts-into-a-folder" id="toc-organise-interview-transcripts-into-a-folder" class="nav-link" data-scroll-target="#organise-interview-transcripts-into-a-folder">Organise interview transcripts into a folder</a></li>
   <li><a href="#create-a-folder-structure" id="toc-create-a-folder-structure" class="nav-link" data-scroll-target="#create-a-folder-structure">Create a folder structure</a></li>
   <li><a href="#import-2015-focus-group-data" id="toc-import-2015-focus-group-data" class="nav-link" data-scroll-target="#import-2015-focus-group-data">Import 2015 focus group data</a></li>
@@ -473,23 +472,38 @@ div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not
 
 <section id="import-2016-interview-files" class="level3">
 <h3 class="anchored" data-anchor-id="import-2016-interview-files">Import 2016 interview files</h3>
-<p>From the Import Ribbon, select ‘Files’. Navigate to your saved folders and open “2016 Interviews”.</p>
+<div class="instructions">
+<p>From the Import Ribbon, select ‘Files’.</p>
+<p>Navigate to your saved folders and open “2016 Interviews”.</p>
 <p>Select the 14 transcript files (saved by first name), and click ‘open’:</p>
 <p><img src="images/import interviews new.png" class="img-fluid"></p>
+</div>
 </section>
 <section id="automatically-create-cases-as-you-import" class="level3">
 <h3 class="anchored" data-anchor-id="automatically-create-cases-as-you-import">Automatically create cases as you import</h3>
 <p>Next, a box will pop up:</p>
-<p><img src="images/import files pop up.png" class="img-fluid"></p>
+<div class="instructions">
+<p><img src="images/Import files pop up.png" class="img-fluid"></p>
 <ul>
 <li><p>Tick the box in the import window to ‘Create a case for each imported file’ (1).</p></li>
 <li><p>As this is a new project, select “create new classification” and label it ‘people’ then click ‘import’ (2).</p></li>
 <li><p>Click import (3)</p></li>
 </ul>
-<blockquote class="blockquote">
+</div>
+<div class="callout callout-style-simple callout-not-you no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+🤢 It’s not you, it’s NVivo
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>If your Nvivo hangs or says ‘not responding’ when you import files, don’t panic. This is normal Nvivo behaviour and usually resolves. It is a fussy program and if you have an older machine it can sometimes take a while to perform some actions. It does crash from time to time, which is why its important to save your work as you go.</p>
-</blockquote>
 <p><img src="images/Import nvivo hang.png" class="img-fluid"></p>
+</div>
+</div>
 <div class="callout callout-style-simple callout-note callout-titled" title="What is a 'case' in Nvivo?">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -503,24 +517,38 @@ What is a ‘case’ in Nvivo?
 <p>A <a href="https://help-nv.qsrinternational.com/20/win/Content/cases/cases.htm">case</a> represents a unit of analysis, and this is most commonly people you’ve interviewed, organisations you worked with, communities, families, etc. In this example, cases are people that have been interviewed. But it could be any kind of unit: people, places, organizations, events or other entities that you want to analyze and compare. Cases allow you to link information together related to that person, place or organisation. It makes it easy for you to see everything related to a single unit in one place. See <a href="./Cases.html">the page on cases and case classifications</a> for more info. Not all projects require cases, but if you make comparisons across people or any other units, it’s a good idea as opens up many other functionalities.</p>
 </div>
 </div>
+</section>
+<section id="after-import" class="level3">
+<h3 class="anchored" data-anchor-id="after-import">After Import</h3>
 <p>You will see your uploaded files appear in ‘Files’:</p>
+<div class="instructions">
 <p><img src="images/interviews in files.png" class="img-fluid"></p>
+</div>
 <p>You can see that cases have been created for these 14 people by scrolling down the left-hand menu to ‘cases’:</p>
+<div class="instructions">
 <p><img src="images/cases created.png" class="img-fluid"></p>
+</div>
 <p>For each person, they now have a ‘case’ icon (1) and 1 file associated (the transcript) (2); they have been created under the classification ‘People’.</p>
+<div class="instructions">
 <p><img src="images/case zoom.png" class="img-fluid"></p>
+</div>
 <p>We’ll come back to cases in a moment.</p>
 </section>
 <section id="organise-interview-transcripts-into-a-folder" class="level3">
 <h3 class="anchored" data-anchor-id="organise-interview-transcripts-into-a-folder">Organise interview transcripts into a folder</h3>
+<div class="instructions">
 <p>Create a new folder under files by right clicking on files, select ‘new folder’,name it ‘2016 Interviews’, add a brief description of you like, click OK to finish.</p>
 <p><img src="images/Files create folder.png" class="img-fluid"></p>
 <p><img src="images/new folder pop up.png" class="img-fluid"></p>
+</div>
+<div class="instructions">
 <p>Move files to the 2016 Interviews folder, by selecting all (ctrl+A) and dragging and dropping to the new folder.</p>
 <p><img src="images/interviews into folder.png" class="img-fluid"></p>
+</div>
 </section>
 <section id="create-a-folder-structure" class="level3">
 <h3 class="anchored" data-anchor-id="create-a-folder-structure">Create a folder structure</h3>
+<div class="instructions">
 <p>Right click on ‘Files’ in the Navigation View and create new folders for:</p>
 <ul>
 <li>2015 pre-election FGDs</li>
@@ -528,20 +556,39 @@ What is a ‘case’ in Nvivo?
 <li>Research tools</li>
 </ul>
 <p><img src="images/create folders.png" class="img-fluid"></p>
+</div>
 </section>
 <section id="import-2015-focus-group-data" class="level3">
 <h3 class="anchored" data-anchor-id="import-2015-focus-group-data">Import 2015 focus group data</h3>
+<div class="instructions">
 <p>Right click on the ‘2015 pre-election FGDs’ folder in the Navigation view and select ‘Import Files’</p>
 <p>In the pop-up window, navigate to your saved folder for 2015 FGDs Import the three transcripts.</p>
 <p><img src="images/import FGDs.png" class="img-fluid"></p>
-<p><strong>Important</strong>: As you have already created cases when you imported the transcripts, <strong>DO NOT</strong> create cases again.</p>
-<p><img src="images/FGD don't create cases 1.png" class="img-fluid"> <img src="images/FGDs don't create cases 2.png" class="img-fluid"></p>
+</div>
+<div class="callout callout-style-simple callout-warning callout-titled" title="Important">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>As you have already created cases when you imported the transcripts, <strong>DO NOT</strong> create cases again.</p>
+<p><img src="images/FGD don't create cases 1.png" class="img-fluid"></p>
+<p>Instead, ensure that the box for ‘Create a case for each imported file’ is unticked.</p>
+<p><img src="images/FGDs don't create cases 2.png" class="img-fluid"></p>
+</div>
+</div>
 </section>
 <section id="import-research-tools-but-not-metadata" class="level3">
 <h3 class="anchored" data-anchor-id="import-research-tools-but-not-metadata">Import research tools but not metadata</h3>
 <p>We can also import files to by directly dragging and dropping them from your file explorer into NVivo.</p>
+<div class="instructions">
 <p>To populate our ‘research tools’ folder, open the ‘other documents’ folder on your computer. Select all of the MS word documents (i.e.&nbsp;<strong>do not</strong> select ‘metadata’ excel file) and drag-and-drop them into list view space.</p>
 <p><img src="images/import research tools.png" class="img-fluid"></p>
+</div>
 </section>
 <section id="import-literature" class="level3">
 <h3 class="anchored" data-anchor-id="import-literature">Import literature</h3>
