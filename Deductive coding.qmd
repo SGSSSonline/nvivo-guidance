@@ -7,70 +7,87 @@ format: html
 
 Another  form of basic *deductive* coding is to code using the interview questions. It might be useful to know how everyone answered the same question across different transcripts. 
 
+::: instructions
+
 - View the interview questions and their suggested codes by going into the 'Research tools' folder (1) and opening up '2016 Interview Questions' (2):
 
 ![](images/Interview codes.png)
 
+:::
 
-- Here you can see that each section of the interview has a question and suggested short-form code. 
+Here you can see that each section of the interview has a question and suggested short-form code. 
 
 ### The manual approach 
 
-
+::: instructions
 
 - Keeping this file open in our Detail View, click on ‘codes’ in the Navigation View.
-
 - Create a new code by right-clicking in the List View section (currently empty) 
-
 - Click ‘new code’ 
 
 ![](images/New code 1.png)
 
+:::
+
+::: instructions
 
 - In the pop up box, create codes from the terms in the right-hand column, one at a time. E.g. first make a code called 'Intro', then another one called 'Referendum campaign' and so on. 
-
 - For the 'description section, it is helpful to copy/paste the full question from the quetsion codes document. 
-
 - For this example, select ‘aggregate coding from children’ when creating codes. This means that sub-codes under this code will be included when expanding this code and returned in queries using the parent code. This can be changed at any time.
 
 ![](images/new code 2.png)
 
-- Repeat the steps for all the question codes until your list view looks like this: 
+:::
+
+::: instructions
+
+Repeat the steps for all the question codes until your list view looks like this: 
 
 ![](images/new code final.png)
 
+:::
 
-- Notice that, as we haven’t begun coding, both files and references will show as 0. Once we begin coding, the number under files will tell how many distinct files contain this code. References will tell the number of total times this code has been used (codes may be used several times in the same file).
+Notice that, as we haven’t begun coding, both files and references will show as 0. Once we begin coding, the number under files will tell how many distinct files contain this code. References will tell the number of total times this code has been used (codes may be used several times in the same file).
 
 ### Code text manually to question headers 
 
-- Open the first transcript in the folder 2016 interviews,  'carter'. 
+::: instructions
 
+- Open the first transcript in the folder 2016 interviews,  'carter'. 
 - Using Ctrl +F, find the question header 'Voting decision'. 
 
 ![](images/voting decision 1.png)
 
+:::
+
+::: instructions
+
 - Highlight the text response within this section and drag and drop it into the code listed on the left.
 
+![](images/Voting decision 2.png)
 
-![](images/voting decision 2.png)
+:::
+
+::: instructions
 
 - Another way to do this is to highlight to box and use the coding bar at the bottom ofo the screen. 
 
 ![](images/voting decision 3.png)
 
+:::
 
+::: instructions
 - When you've done this you will see there is one reference coded to 'Voting decision'; you can click on it to view the text in question. 
-
 
 ![](images/voting decision 4.png)
 
+:::
+
+::: instructions
 
 - Some headings in the actual transcripts may not exactly correspond to the question codes, for example, 'Referendum Campaign 2' . You *could* choose to make another coding category for this, but as they represent the same topic, we decided to code them all together into ‘Referendum campaign’. 
 
-
-
 ![](images/Referendum campaign 2.png)
 
-
+:::
 

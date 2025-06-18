@@ -79,7 +79,6 @@ website:
             - going-further/viewing-framework-matrix.qmd
             - going-further/summary-links.qmd
             - going-further/reusable-cells.qmd
-            - going-further/re-casing.qmd
         - section: "**Dynamic Sets and Queries**"
           contents:
             - going-further/layering-structure.qmd
@@ -88,6 +87,7 @@ website:
             - going-further/combine-set-and-query.qmd
             - going-further/view-results.qmd
             - going-further/compare-groups.qmd
+            - going-further/re-casing.qmd
             - going-further/set-query-summary.qmd
 
     - title: "Project Setup"
@@ -115,14 +115,16 @@ website:
       background: "#1B9D8E"
       contents:
         - Start coding.qmd
-        - Material to cases.qmd
-        - Deductive coding.qmd
-        - Question coding autocoding.qmd
-        - New codes.qmd
-        - Open coding.qmd
-        - Organising codes.qmd
-        - Checking codes.qmd
-        - Uncoding.qmd
+        - section: "**Coding in NVivo**"
+          contents:
+            - Material to cases.qmd
+            - Deductive coding.qmd
+            - Question coding autocoding.qmd
+            - New codes.qmd
+            - Open coding.qmd
+            - Organising codes.qmd
+            - Checking codes.qmd
+            - Uncoding.qmd
 
   page-footer:
     center:
@@ -142,8 +144,6 @@ format:
       dark: [darkly, brand, styles/custom.scss]
     css:
       - styles.css
-      - _extensions/quarto-ext/fontawesome/assets/css/all.min.css
-      - _extensions/quarto-ext/fontawesome/assets/css/latex-fontsize.css
     toc: true
 
 custom-callout:

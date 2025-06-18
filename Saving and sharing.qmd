@@ -7,44 +7,56 @@ format: html
 
 If you followed the default settings, we will have seen pop-ups every 15 minutes to ask us to save. 
 
+::: instructions
+
 - To remind yourself where the file is saved you can go to: 
 
   File > Project Properties > General 
   
 - and look at the location under File Name:  
   
-  ![](images/project properties.png)
+  ![](images/Project properties.png)
 
+:::
+
+::: instructions
 
 - If you click on the 'save and recovery' tab you can alter the frequency of saving.
-
 - You also get the chance to set up a recovery option. This can be helpful if you are experiencing issues with Nvivo crashing. 
-
 
 ![](images/save settings.png)
 
-
+:::
 
 ### Sharing with others 
 
-You can easily email or share the project (.nvp file) with others. 
+::: not-you
 
-**REMEMBER:** There is forwards compatibility only. 
+**Remember**: NVivo only has 'forwards compatability' between different versions.
 
-If you created a project in Nvivo 14, you can only share with those using Nvivo 14 and 15, but not earlier versions. 
+If a project was created in NVivo 14 and someone was to open it in NVivo 15, they will be prompted to convert it to an NVivo 15 project file. However, once converted to an NVivo 15 compatable project file, it will no longer be possible to open it in NVivo 14. It is essential then that when collaborating with others that you are all using the same version of NVivo.
+
+:::
+
+You can easily email or share the project (.nvp file) with others using the same version of NVivo. 
 
 If you want to share with a mac user, you also need to convert it before you share it. 
+
+::: instructions
 
 - To do this, open the file tab -> Copy project
 
 ![](images/File copy project.png)
 
+:::
+
+::: instructions
 
 - Copy to, Nvivo (Mac), and choose a save location.  
 
-![](images/copy project 2.png)
+![](images/Copy project 2.png)
 
-
+:::
 
 The conversion to mac and vice versa may take some time. 
 

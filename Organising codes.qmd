@@ -3,11 +3,11 @@ title: "Organising codes"
 format: html
 ---
 
-
-
 ### Connections between codes 
 
 After a few rounds of open coding, and some reflection as you along, some hierarchical structures might emerge. 
+
+::: consider
 
 Look at your open codes and ask yourself: 
 
@@ -16,31 +16,20 @@ Look at your open codes and ask yourself:
   + Are there any common categories that would be useful to think with across many codes and examples? 
   + Do some of your codes exist within a common theme that could become a parent code? 
   + Does it make sense to nest down, or create a new top code?
+
+:::
   
-  
-> Nvivo jargon: top level codes are called **'parent codes'**; sub-codes are called **'child codes'**. 
+> NVivo jargon: top level codes are called **'parent codes'**; sub-codes are called **'child codes'**. 
   
 ### Hierachical tree coding
 
 - As we've already shown you, you can create a new parent code and drag in existing codes as sub-codes
-
 - You can also create new 'child nodes' i.e. subcodes of existing codes. 
-
 - You can collapse codes by right clicking->copy- Merge into selected code 
-
 
 ![](images/Hierarchiacl tree coding-1.png)
 
 ### Recommendations 
 
 - For beginners, and at the very start of coding, 2 levels are probably enough
-
 - More than 3-4 levels becomes unwieldy 
-
-
-
-
-
-
-
-

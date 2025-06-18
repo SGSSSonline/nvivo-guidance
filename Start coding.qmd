@@ -3,13 +3,17 @@ title: "What is coding?"
 format: html
 ---
 
-### What are codes? 
+:::{.callout-note title="Section Overview"}
 
-> Codes are *tags or containers* for complex qualitative data; they are a *way to index, sort, link and interrogate* data. 
+Within this section we will cover the conceptual grounding for qualitative coding and set through the basic processes for creating codes and coding within NVivo.
 
-> The process of coding involves finding ways of summarizing key meanings within your data. 
+:::
 
-> The same piece of text can have multiple meanings or codes. 
+### What are codes?
+
+- Codes are *tags or containers* for complex qualitative data; they are a *way to index, sort, link and interrogate* data. 
+- The process of coding involves finding ways of summarizing key meanings within your data.
+- The same piece of text can have multiple meanings or codes. 
 
 ![](images/coding.png)
  
@@ -38,18 +42,11 @@ Nvivo can help us organise and interrogate codes but coding is led by the resear
 Remember, when coding in Nvivo: 
 
 - Codes can overlap 
-
 - Codes will sort themselves to be alphabetical list – so clear, direct, short codes are helpful. 
-
 - Consider your future self (and any collaborators), and try to annotate your coding by always including a code description: what you think this code means and what should be included here
-
 - Codes should change as your project changes. They can be combined and rearranged. 
-
 - Don’t be afraid to make a code because you’re uncertain if it will be relevant or important enough. They’re a tool to think with and can always be adjusted later.  
-
 - Be careful: try not to code when tired, bored, or distracted – you must always be actively thinking (the ‘organic computer’ [your brain] is the primary tool of analysis). 
-
-
 
 ### Autocoding? 
 

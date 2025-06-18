@@ -32,6 +32,8 @@ So check that:
 
 ### Import classification sheet
 
+::: instructions
+
 - From the Import ribbon tab, select ‘classifications’ and then ‘Import classification sheets’. 
 
 ![](images/Import classification sheet.png)
@@ -51,12 +53,19 @@ You can select or deselect if you want to create new attributes, update existing
 
 - Click Next. 
 
+:::
+
 N.B. to set up ‘file classifications’, follow the same process but select ‘file classifications’ here (might include similar demographic info as well as things like location of interview, who interviewer was, time, date, etc.)
+
+::: instructions
 
 - Choose to represent files ‘as hierarchical names’; click next.
 
 ![](images/class wizard step 3.png)
 
+:::
+
+::: instructions
 
 Select how you want blank attributes, dates, time and numbers to be represented. 
 
@@ -64,34 +73,43 @@ Select how you want blank attributes, dates, time and numbers to be represented.
 
 - Click finish.
 
-- Now, check that case info has been imported to existing ‘People’ classification. You can see that the first row of the excel sheet linked with the cases that already existed, and now you have columns indicating exactly the columns that were in the spreadsheet. 
+:::
+
+Now, check that case info has been imported to existing ‘People’ classification. You can see that the first row of the excel sheet linked with the cases that already existed, and now you have columns indicating exactly the columns that were in the spreadsheet. 
 
 ![](images/check class classification.png)
 
-
-
 ### Manually add new cases 
+
+::: instructions
 
 Click on the 'cases' on left hand menu, then right click on the open space in the ‘List View’ under your cases and select ‘New Case', or use shortcut or Ctrl+Shift+N. 
 
 ![](images/new case.png)
 
+:::
+
+::: instructions
+
 - Input any name / description for the case under ‘General’ 
 
+![](images/New case 2.png)
+
+:::
+
+::: instructions
+
 - Select relevant attributes under ‘Attribute values’
-
 - Select case classification as ‘People’ 
-
 -	You can assign values from the drop down box for each attribute
 
 Select OK. 
 
-![](images/new case 2.png)
-
 ![](images/new case 4.png)
-- Click OK. 
 
-- You can see a new case for 'roger' has been set up; it doesn't have any files or attributes attached yet. 
+:::
+
+You can see a new case for 'roger' has been set up; it doesn't have any files or attributes attached yet. 
 
 ![](images/roger case.png)
 
@@ -101,16 +119,25 @@ You might want to create a new attribute i.e. a new column in the metadata for s
 
 We are going to create a new attribute ‘2015 pre-election’ that indicates whether they also took part in the 2016 pre-election focus group. 
 
+::: instructions
+
 - Click on Case Classifications-> People 
 
 - In the home ribbon, go to Case classification -> new attribute
 
 ![](images/new attribute 1.png)
 
+:::
+
+::: instructions
+
 - In the ‘General’ tab, enter the name ('2015 pre-election’) and a description, then move to the ‘Values’ tab. 
 
-
 ![](images/new attribute pop up.png)
+
+:::
+
+::: instructions 
 
 - Another way to do this is, within a case, scroll to the bottom of the list of attributes and click new attribute (step 1 below)
 
@@ -118,6 +145,9 @@ We are going to create a new attribute ‘2015 pre-election’ that indicates wh
 
 ![](images/new attribute 2.png)
 
+:::
+
+::: instructions
 
 - Click the values tab to assign possible options for the attribute 
 
@@ -127,13 +157,19 @@ We are going to create a new attribute ‘2015 pre-election’ that indicates wh
 
 ![](images/new attribute pop up 2.png)
 
+:::
+
 N.B. default is set to ‘unassigned’ – you can change this depending on your preference
 
 Now this column will appear as the last column in your case classifications sheet, but it is empty with no values (i.e. 'unassigned')
 
+::: instructions
+
 - You can set values for this new attribute by clicking on the drop-down arrow. 
 
 ![](images/new attribute show 1.png)
+
+::::
 
 ### Summarise metadata in charts 
 
@@ -141,37 +177,51 @@ Now that you have some basic information attached to the transcripts, you can su
 
 For example, here we want to understand voting patterns within the sample. 
 
+::: instructions
+
 - In the top ribbon, go to the 'Explore' tab, and choose 'chart'
 
 ![](images/chart case 1.png)
+
+:::
+
+::: instructions
 
 - On the chart wizard, choose 'cases', then 'next'. 
 
 ![](images/chart case 2.png)
 
+:::
+
+::: instructions
+
 - At the next stage, choose 'cases by attribute value for an attribute' - this will chart the values of one attribute/variable. You have the choice to chart two attributes at the same time, this will create a 3 way bar chart. But let's just do one at a time for this example. 
 
 ![](images/chart case 3.png)
 
+:::
+
+::: instructions
+
 - At the next stage, select the attribute you want to chart by clicking 'select' 
-
 - Then expand the list of attributes by clicking the plus symbol next to 'People' 
-
 - Choose '2016 vote', and click OK. 
 
-
 ![](images/chart case 4.png)
+
+:::
+
+::: instructions
 
 - Finally, you get the choice of how the values of the attribute are displayed on the x-axis. We leave it as the default, but you can choose alphabetical etc. Click finish. 
 
 ![](images/chart case 5.png)
 
+:::
+
 - Now you will see a simple bar chart displayed. You can edit the title, labels etc and much more in the top ribbon. You can also export or print chart (1). 
-
 - You can just see a numerical summary (rather than the bar chart) by clicking 'summary' on the far right of the screen (2)
-
 - Note there is 1 case for whom this attribute is blank or 'unassigned'- this is roger, the case we just created. (3) 
-
 - There are many more complex charts you can create once you have more complex and appropriately formatted data; you can also make charts based on codes you have created. 
 
 ![](images/chart case 6.png)

@@ -3,31 +3,32 @@ title: "Uncoding"
 format: html
 ---
 
-
 ### Uncode when necessary 
 
 If you’ve coded something incorrectly, you can **uncode text** in as many ways as you can code. 
 
 After highlighting the text, you can either: 
 
+::: instructions
+
 1. 	Right-click and choose uncode. 
 
 ![](images/uncode method 1.png)
 
+:::
 
+::: instructions
 
 2. Select ‘uncode’ in the document ribbon at the top: 
 
-
 ![](images/uncode method 2.png)
 
+:::
 
+::: instructions
 
 3. Use the bottom coding bar button /	keyboard shortcut (CTRL+SHIFT+F9); 
 
-
 ![](images/uncode method 3.png)
 
-
-
-
+:::

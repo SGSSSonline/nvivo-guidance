@@ -3,88 +3,86 @@ title: "Creating new codes"
 format: html
 ---
 
-
 As you progress with coding, some headings may not correspond to our initial question guide. 
 
 This is common- these may be questions that were added in later or discussion that came up unexpectedly in the conversation. 
 
 An example of this in the Dundee transcript is the question header 'Subsequent Political Change' : 
 
-
-
-![](images/subsequent political change.png)
+![](images/Subsequent political change.png)
 
 
 ### Method 1 : coding bar 
 
+::: instructions
 
 - Highlight the text
-
 - At the coding bar at the bottom of the screen, check you are coding to 'Codes' (1) 
-
 - In the section, ‘Code to:’, type 'Subsequent political change' then press enter (2)
-
 - Click the Open Circle to create the code and code highlighted text (3)
-
 - You will know this has worked if you see a green pop-up confirming its been coded (4) 
 
 ![](images/method 1 step 1.png)
 
+:::
 
+::: instructions
 
 - You can also check out the new code and what it contains by double-clicking it: 
 
 ![](images/results new code.png)
 
+:::
 
-
+::: instructions
 
 > NB. You can use this coding bar to code to existing codes as well. 
 Once you start typing in the bar, NVivo will offer you existing codes to select:
 
 ![](images/coding bar.png)
 
-
+:::
 
 ### Method 2: right click 
 
+::: instructions
 
 - While highlighting the text, right click and choose ‘code selection’:
 
-
 ![](images/method 2 step 1.png)
 
+:::
+
+
+::: instructions
 
 - In the pop up box, create a new code: 
 
 ![](images/method 2 pop up.png)
 
+:::
 
 ### Method 3: drag and drop 
 
+::: instructions
 
 - While highlighting the text, drag and drop it into the open space below the codes to open a prompt to create a new code: 
 
-
 ![](images/new code drag step 1.png)
 
+:::
+
+::: instructions
 
 - in the pop up box, name the code and click OK 
 
-
 ![](images/new code drag final.png)
 
-
+:::
 
 ### Top tips
 
-
 When creating a new code, think of your future self and any collaborators. 
 
-
   + When naming codes, use clear, direct, short codes  
-
   + **Always** include a description of what you think this code means and what should be included here. 
-
-
-
