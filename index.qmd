@@ -1,17 +1,19 @@
 ---
 title: "Welcome!"
-subtitle: "**Summer school 2025 Nvivo workshop**"
+subtitle: "**SGSSS Nvivo training materials 2025/2026**"
 format: html
 ---
 
-:::{.callout-note title="Session Brief"}
+:::{.callout-note title="How to use these materials"}
 
-This one-day in-person workshop is aimed at those with no experience of Nvivo, or those who would like a refresher. We will move through three topics:
+These materials are designed to accompany SGSSS live training sessions in the academic year 2025/26, and they can also be used for self-study. 
+
+The guides are aimed at those with no experience of using Nvivo. The logic of the materials corresponds to the tabs at the top: 
 
 
 ![](images/Session brief-1.png)
 
-The morning is led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/) will work through some basic tasks: 
+The introductory sessions are led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/); we will work through some basic tasks: 
 
 - setting up a new Nvivo project 
 - organising materials
@@ -19,7 +21,7 @@ The morning is led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-su
 - manual coding 
 - some autocoding features 
 
-The afternoon is led by [Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
+The 'Going further' sessions are led by [Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
 
 Students will learn how to use some more advanced features of NVivo:
 
@@ -31,16 +33,16 @@ We will use some curated open access qualitative data (the Qualitative Election 
 
 :::
 
-## Session Aims
+## Live sessions aims
 
 ::: consider
-The sections and tasks for this workshop session are based around problems and considerations to make that you might encounter as your analysis progresses.
+The sections are based around problems that you might encounter as your analysis progresses.
 
 With each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.
 
 The purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.
 
-Importantly, after the follow along demonstrations, we will have time for experimentation and discussion. I have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the 'experiment and discuss' sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.
+In the live sessions, after the follow along demonstrations, we will have time for experimentation and discussion. We have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the 'experiment and discuss' sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.
 :::
 
 ::: zombie
