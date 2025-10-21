@@ -3,13 +3,15 @@ title: "What is coding?"
 format: html
 ---
 
-### What are codes? 
+:::{.callout-note title="What is coding?"}
+Codes are **tags or containers** for complex qualitative data; they are a way to index, sort, link and interrogate data. 
 
-> Codes are *tags or containers* for complex qualitative data; they are a *way to index, sort, link and interrogate* data. 
+The process of coding involves finding ways of **summarizing key meanings** within your data. 
 
-> The process of coding involves finding ways of summarizing key meanings within your data. 
+The same piece of text can have multiple meanings or codes. 
 
-> The same piece of text can have multiple meanings or codes. 
+
+:::
 
 ![](images/coding.png)
  
@@ -17,9 +19,9 @@ format: html
 ### Deductive vs inductive coding 
 
 
-In **deductive** coding, you approach your dataset with a pre-established list of codes, often based off existing theoretical frameworks or even the research tools themselves (e.g. the questions that were asked). This is a more top-down, etic approach that is most useful for confirming or testing existing theories, or imposing organizational and structure into your file (e.g. coding by interview guide or research questions). 
+In **deductive coding**, you approach your dataset with a pre-established list of codes, often based off existing theoretical frameworks or even the research tools themselves (e.g. the questions that were asked). This is a more top-down, etic approach that is most useful for confirming or testing existing theories, or imposing organizational and structure into your file (e.g. coding by interview guide or research questions). 
 
-Conversely, **inductive** coding occurs when you allow codes to emerge from your engagement with the dataset itself, with no preconceived categories. This is a bottom up, emic approach to coding. 
+Conversely, **inductive coding** is when you allow codes to emerge from your engagement with the dataset itself, with no preconceived categories. This is a bottom up, emic approach to coding. 
 
 Your own approach may be heavily influenced by your discipline, research aims, and research questions. 
 
