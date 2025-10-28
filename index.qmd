@@ -8,7 +8,11 @@ format: html
 
 These materials are designed to accompany SGSSS live training sessions in the academic year 2025/26, and they can also be used for self-study. 
 
-The guides are aimed at those with no experience of using Nvivo. The logic of the materials corresponds to the tabs at the top: 
+The guides are aimed at those with no experience of using Nvivo. 
+
+They primarily use examples from Nvivo windows versions 14 and 15 (which don't differ greatly); we also show instructions for Mac equivalents to enable Mac users to follow along. 
+
+The logic of the materials corresponds to the tabs at the top: 
 
 
 ![](images/Session brief-1.png)
@@ -44,6 +48,8 @@ The purpose of this is to explain features in context, the how and why you would
 
 In the live sessions, after the follow along demonstrations, we will have time for experimentation and discussion. We have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the 'experiment and discuss' sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.
 :::
+
+
 
 ::: zombie
 To say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.
