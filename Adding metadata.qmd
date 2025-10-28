@@ -38,9 +38,7 @@ NB: {{< fa brands apple >}} **NVivo for macOS**: Nvivo specifies that you use a 
 
 ![](images/Import classification sheet.png)
 
-- Select the ‘metadata.xls’ file from the ‘Research tools’ folder. 
-
-- {{< fa brands apple >}} **NVivo for macOS**: import csv file instead.
+- Select the ‘metadata.xls’ file from the ‘Research tools’ folder. ({{< fa brands apple >}} **NVivo for macOS**: import the csv file instead.)
 
 - Click Open to select file. 
 
@@ -48,7 +46,11 @@ NB: {{< fa brands apple >}} **NVivo for macOS**: Nvivo specifies that you use a 
 
 ![](images/Import classification wizard.png)
 
-{{< fa brands apple >}} **NVivo for macOS**: this import wizard looks a bit different: 
+:::
+
+::: instructions
+
+{{< fa brands apple >}} **NVivo for macOS**: this import wizard looks a bit different.
 
 ![](images/case class mac.png)
 
@@ -66,8 +68,9 @@ N.B. to set up ‘file classifications’, follow the same process but select �
 
 ::: instructions
 
-- Choose to represent files ‘as hierarchical names’; click next.
-- NB. {{< fa brands apple >}} **NVivo for macOS**: This option is not available on macOS - just click through. 
+Choose to represent files ‘as hierarchical names’; click next.
+
+NB. {{< fa brands apple >}} **NVivo for macOS**: This option is not available on macOS - just click through. 
 
 ![](images/class wizard step 3.png)
 
