@@ -19,7 +19,7 @@ Basically anything you want to organise and compare.
 
 Before you build a new project, you should decide what are your cases/units of analysis. 
 
-In this QESB project, we have created cases for every person with a 1-2-1 interview; heer you can see Claire's case highlighted:  
+In this QESB project, we have created cases for every person with a 1-2-1 interview; here you can see Claire's case highlighted:  
 
 ![](images/cases created.png)
 

@@ -11,7 +11,7 @@ Now we will create ‘case classifications’, bringing in the metadata related 
 
 This could be any number of things, for example socio-demographics like age or gender, or that person's response to a survey. 
 
-### Metadata file 
+### Metadata file
 
 In the project files you downloaded, in the folder 'research tools', open and check the excel sheet entitled ‘metadata’: 
 
@@ -28,7 +28,7 @@ So check that:
 
 ![](images/check metadata format.png)
 
-
+NB: **mac users** - Nvivo specifies that you use a csv file rather than an excel file, which you will find in the folder too. However the same situation applies - you need to ensure that the cases you have created are in a similar format to the csv file. That is, if they are all in lower case, the csv file must also be all in lower case. If the cases are capitalised (e.g. 'Vince' the csv file must also 'Vince'). 
 
 ### Import classification sheet
 
@@ -40,14 +40,21 @@ So check that:
 
 - Select the ‘metadata.xls’ file from the ‘Research tools’ folder. 
 
+- **Mac users** - import csv file instead. 
+
 - Click Open to select file. 
 
 - Then click Next on the import Wizard:  
 
 ![](images/Import classification wizard.png)
 
+**mac users**- this import wizard looks a bit different: 
+
+![](images/case class mac.png)
 
 - Set classification type as ‘case classification’.
+
+**Mac users** - here create new case classification 'People' (Windows users have done this step earlier).
 
 You can select or deselect if you want to create new attributes, update existing classifications, or replace existing attribute values. 
 
@@ -60,6 +67,7 @@ N.B. to set up ‘file classifications’, follow the same process but select �
 ::: instructions
 
 - Choose to represent files ‘as hierarchical names’; click next.
+NB. option not available on mac- just click through. 
 
 ![](images/class wizard step 3.png)
 
@@ -67,7 +75,8 @@ N.B. to set up ‘file classifications’, follow the same process but select �
 
 ::: instructions
 
-Select how you want blank attributes, dates, time and numbers to be represented. 
+Select how you want blank attributes, dates, time and numbers to be represented.
+NB. Step 4 not available on mac, just click through. 
 
 ![](images/class wizard 4.png)
 
@@ -112,6 +121,8 @@ Select OK.
 You can see a new case for 'roger' has been set up; it doesn't have any files or attributes attached yet. 
 
 ![](images/roger case.png)
+
+**Mac users** - the stages of setting up a new case are similar, but the menus might look a bit different. 
 
 ### Create new attributes for an existing case 
 
@@ -171,7 +182,10 @@ Now this column will appear as the last column in your case classifications shee
 
 ::::
 
-### Summarise metadata in charts 
+### Summarise metadata in charts (Windows only)
+
+NB. These instructions below are for Windows users. 
+Mac users do have chart functions, but they are more limited. 
 
 Now that you have some basic information attached to the transcripts, you can summarize this in a basic way using Nvivo's chart function. This depends very much on how the metadata in the classification sheet are formatted, but so long as this is consistent, it can be very useful for getting a quick glance at your sample composition. 
 

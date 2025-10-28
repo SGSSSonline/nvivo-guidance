@@ -3,7 +3,7 @@ title: "Importing files"
 format: html
 ---
 
-### Import 2016 interview files 
+### Import 2016 interview files
 
 ::: instructions
 
@@ -18,8 +18,9 @@ Select the 14 transcript files (saved by first name), and click ‘open’:
 
 :::
 
+### Automatically create cases as you import (Windows only)
 
-### Automatically create cases as you import
+NB. The option to create cases automatically on import is available for Windows users only. Mac users, we will tell you how to create cases later. 
 
 Next, a box will pop up: 
 
@@ -51,7 +52,7 @@ A [case](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.htm) re
 
 :::
 
-### After Import
+### After import
 
 You will see your uploaded files appear in ‘Files': 
 
@@ -62,7 +63,7 @@ You will see your uploaded files appear in ‘Files':
 :::
 
 
-You can see that cases have been created for these 14 people by scrolling down the left-hand menu to 'cases':
+**Windows users**, you can see that cases have been created for these 14 people by scrolling down the left-hand menu to 'cases':
 
 ::: instructions
 
@@ -75,6 +76,21 @@ For each person, they now have a 'case' icon (1) and 1 file associated (the tran
 ::: instructions
 
 ![](images/case zoom.png)
+
+:::
+
+**Mac users**- let's now create cases manually so that we are at the same stage as windows users. This is very simple. 
+
+::: instructions
+
+Within the folder of 2016 interviews, select all (Command+A), then right click, select create as-> cases. 
+
+![](images/create case mac.png)
+
+
+If you look at the menu on the left hand side, you will see you now have a case for every interview file: 
+
+![](images/case creation mac.png)
 
 :::
 
@@ -120,13 +136,18 @@ Right click on ‘Files’ in the Navigation View and create new folders for:
 
 Right click on the ‘2015 pre-election FGDs’ folder in the Navigation view and select ‘Import Files’
 
-In the pop-up window, navigate to your saved folder for 2015 FGDs Import the three transcripts. 
+In the pop-up window, navigate to your saved folder for 2015 FGDs, and import the three transcripts. 
 
 ![](images/import FGDs.png)
+
+
+**NB: Mac users**, you need to use the ribbon menu at the top to import files directly into the folders. 
 
 :::
 
 :::{.callout-warning title=Important}
+
+**Windows users only**: 
 As you have already created cases when you imported the transcripts, **DO NOT** create cases again. 
 
 ![](images/FGD don't create cases 1.png)

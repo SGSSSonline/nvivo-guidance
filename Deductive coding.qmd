@@ -70,7 +70,7 @@ Notice that, as we haven’t begun coding, both files and references will show a
 
 ::: instructions
 
-- Another way to do this is to highlight to box and use the coding bar at the bottom ofo the screen. 
+- Another way to do this is to highlight to box and use the coding bar at the bottom of the screen. 
 
 ![](images/voting decision 3.png)
 

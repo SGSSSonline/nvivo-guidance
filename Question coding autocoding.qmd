@@ -1,9 +1,9 @@
 ---
-title: "Question coding: autocoding approach"
+title: "Question coding: autocoding approach (Windows only)"
 format: html
 ---
 
-### Autocoding approach 
+### Autocoding approach (Windows versions only) 
 
 
 Question coding manually is incredibly repetitive and therefore well suited to automation. 

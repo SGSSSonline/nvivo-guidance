@@ -30,11 +30,11 @@ You can also access the group directly [here](https://social.sgsss.ac.uk/groups/
   + 2015 FGDs: 3 transcripts 
   + 2016 interviews: 14 transcripts, 
   + Literature: 3 articles 
-  + Research tools: 7 documents
+  + Research tools: 8 documents
     - 1 interview questions
     - 1 list of interview question codes
     - 1 interview schedule
     - 3 FGD info sheets
-    - 1 excel of metadata
+    - 1 excel of metadata (note, there is a csv file alternative for mac users)
 
 :::
