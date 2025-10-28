@@ -161,6 +161,11 @@ custom-callout:
     icon: false
     appearance: "minimal"
     color: "#e83e8c"
+  macos:
+    title: "{{< fa brands apple >}} NVivo for macOS"
+    icon: false
+    appearance: "minimal"
+    color: "#f0ad4e"
 
 filters:
   - custom-callout

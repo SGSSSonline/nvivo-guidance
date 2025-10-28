@@ -56,6 +56,11 @@
   background-color: softbox-bg($green);
   border-color: #3fb618;
 }
+
+.callout-macos.callout-style-simple {
+  background-color: softbox-bg($orange);
+  border-color: $orange;
+}
 .callout-not-you.callout-style-simple {
   background-color: softbox-bg($yellow);
   border-color: $yellow;

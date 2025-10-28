@@ -28,7 +28,7 @@ So check that:
 
 ![](images/check metadata format.png)
 
-NB: **mac users** - Nvivo specifies that you use a csv file rather than an excel file, which you will find in the folder too. However the same situation applies - you need to ensure that the cases you have created are in a similar format to the csv file. That is, if they are all in lower case, the csv file must also be all in lower case. If the cases are capitalised (e.g. 'Vince' the csv file must also 'Vince'). 
+NB: {{< fa brands apple >}} **NVivo for macOS**: Nvivo specifies that you use a csv file rather than an excel file, which you will find in the folder too. However the same situation applies - you need to ensure that the cases you have created are in a similar format to the csv file. That is, if they are all in lower case, the csv file must also be all in lower case. If the cases are capitalised (e.g. 'Vince' the csv file must also 'Vince'). 
 
 ### Import classification sheet
 
@@ -40,7 +40,7 @@ NB: **mac users** - Nvivo specifies that you use a csv file rather than an excel
 
 - Select the ‘metadata.xls’ file from the ‘Research tools’ folder. 
 
-- **Mac users** - import csv file instead. 
+- ({{< fa brands apple >}} **NVivo for macOS**: import csv file instead.)
 
 - Click Open to select file. 
 
@@ -48,13 +48,13 @@ NB: **mac users** - Nvivo specifies that you use a csv file rather than an excel
 
 ![](images/Import classification wizard.png)
 
-**mac users**- this import wizard looks a bit different: 
+{{< fa brands apple >}} **NVivo for macOS**: this import wizard looks a bit different: 
 
 ![](images/case class mac.png)
 
 - Set classification type as ‘case classification’.
 
-**Mac users** - here create new case classification 'People' (Windows users have done this step earlier).
+ {{< fa brands apple >}} **NVivo for macOS**: here create new case classification 'People' (Windows users have done this step earlier).
 
 You can select or deselect if you want to create new attributes, update existing classifications, or replace existing attribute values. 
 
@@ -67,7 +67,7 @@ N.B. to set up ‘file classifications’, follow the same process but select �
 ::: instructions
 
 - Choose to represent files ‘as hierarchical names’; click next.
-NB. option not available on mac- just click through. 
+- NB. {{< fa brands apple >}} **NVivo for macOS**: This option is not available on macOS - just click through. 
 
 ![](images/class wizard step 3.png)
 

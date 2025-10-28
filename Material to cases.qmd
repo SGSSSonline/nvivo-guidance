@@ -69,7 +69,7 @@ Our transcripts are correctly formatted so it should work :-) !
 
 ![](images/autocode 1.png)
 
-NB. For mac users, this is just a one-step menu. 
+NB. {{< fa brands apple >}} **NVivo for macOS**: On macOS, this is just a one-step menu. 
 
 :::
 
