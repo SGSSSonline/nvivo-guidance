@@ -20,7 +20,11 @@ Select the 14 transcript files (saved by first name), and click ‘open’:
 
 ### Automatically create cases as you import (Windows only)
 
-NB. The option to create cases automatically on import is available for Windows users only. Mac users, we will tell you how to create cases later. 
+::: macos
+
+The option to create cases automatically on import is available for Windows users only. Mac users, we will tell you how to create cases later. 
+
+:::
 
 Next, a box will pop up: 
 
@@ -79,7 +83,10 @@ For each person, they now have a 'case' icon (1) and 1 file associated (the tran
 
 :::
 
-**Mac users**- let's now create cases manually so that we are at the same stage as windows users. This is very simple. 
+
+::: macos
+
+Let's now create cases manually so that we are at the same stage as windows users. This is very simple. 
 
 ::: instructions
 
@@ -95,6 +102,8 @@ If you look at the menu on the left hand side, you will see you now have a case 
 :::
 
 We'll come back to cases in a moment. 
+
+:::
 
 ### Organise interview transcripts into a folder
 
@@ -140,8 +149,7 @@ In the pop-up window, navigate to your saved folder for 2015 FGDs, and import th
 
 ![](images/import FGDs.png)
 
-
-**NB: Mac users**, you need to use the ribbon menu at the top to import files directly into the folders. 
+{{< fa brands apple >}} **NVivo for macOS**: You need to use the ribbon menu at the top to import files directly into the folders. 
 
 :::
 

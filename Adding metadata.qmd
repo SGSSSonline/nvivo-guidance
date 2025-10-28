@@ -76,7 +76,8 @@ N.B. to set up ‘file classifications’, follow the same process but select �
 ::: instructions
 
 Select how you want blank attributes, dates, time and numbers to be represented.
-NB. Step 4 not available on mac, just click through. 
+
+NB. {{< fa brands apple >}} **NVivo for macOS**: Step 4 is not available on mac, just click through. 
 
 ![](images/class wizard 4.png)
 
