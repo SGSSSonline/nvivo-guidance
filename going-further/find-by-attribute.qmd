@@ -10,17 +10,15 @@ So, our next question was finding all our interview participants who support Rem
 
 ::: instructions
 
-![](../images/dynamic-b-info.png)
-
 Create a new dynamic set (right-click on 'Dynamic Sets' and select 'New Dynamic Set...') and provide it relevant Name and Description.
+
+![](../images/dynamic-b-info.png)
 
 :::
 
 Then in 'Search Criteria' tab and 'Advanced' sub-tab:
 
 ::: instructions
-
-![](../images/dnyamic-set-b-c1.png)
 
 1. Look for: 'Codes % Cases'
 2. Interaction: "Code"
@@ -29,15 +27,17 @@ Then in 'Search Criteria' tab and 'Advanced' sub-tab:
 5. By: "Any User"
 6. Hit "Add to List"
 
+![](../images/dnyamic-set-b-c1.png)
+
 :::
 
 ### 2nd Criteria
 
 ::: instructions
 
-![](../images/dynamic-set-b-interaction.png)
-
 This time for the 2nd criteria, select 'Attribute' for the interaction.
+
+![](../images/dynamic-set-b-interaction.png)
 
 :::
 
@@ -45,11 +45,11 @@ Within the Select Project Item dialogue that opens:
 
 ::: instructions
 
-![](../images/dynamic-set-b-attrib.png)
-
 1. Expand the People case classification.
 2. Select '2016 vote' (the attribute to Remain/Leave in the EU Referendum)
 3. Hit 'OK'
+
+![](../images/dynamic-set-b-attrib.png)
 
 ::: 
 
@@ -57,11 +57,11 @@ All that's left to do:
 
 ::: instructions
 
-![](../images/dynamic-set-b-remain.png)
-
 1. Change the 'Value' we are selecting for to 'Remain'.
 2. Click 'Add to List'.
 3. Hit 'OK' to create the Dynamic Set.
+
+![](../images/dynamic-set-b-remain.png)
 
 :::
 

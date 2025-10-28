@@ -3,31 +3,29 @@ title: "Checking your work"
 format: html
 ---
 
-
 ### View material within each code 
+
+::: instructions
 
 - Double click on a code to view the material that has been coded. This aggregates information across multiple files and transcripts. 
 
+:::
+
 Here is an example of seeing all material with the 'economy' code: 
-
-
 
 ![](images/view coding.png)
 
-
 ### Coding stripes 
 
+::: instructions
 
 To see what you have (and haven’t) coded already, you can turn on **coding stripes**, which visualize the amount of text in the transcript coded against different codes.  You may find that you’ve coded some areas mistakenly or missed other codes 
 
 ![](images/coding stripes 1.png)
 
+:::
 
-
-- The transcript now has vertical lines on the far right. These indicate the parts of the transcript which are coded to cases and codes. The colour codes are set automatically but you can manually adjust this by editing the code settings. 
-
-
-
+The transcript now has vertical lines on the far right. These indicate the parts of the transcript which are coded to cases and codes. The colour codes are set automatically but you can manually adjust this by editing the code settings. 
 
 ![](images/coding stripes 2.png)
 

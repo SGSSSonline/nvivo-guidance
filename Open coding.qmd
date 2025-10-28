@@ -9,43 +9,52 @@ format: html
 
 Codes are not pre-defined; they emerge through the analysis. 
 
-🤔 Before jumping into open coding, let’s consider: 
+::: consider
 
+Before jumping into open coding, let’s consider: 
 
   + what themes we might expect to emerge from this dataset?  
   + what kinds of phenomena might be want to capture with open coding?
+
+:::
 
 ### Coding based on attitudes/emotions 
 
 We know there are likely to be strong opinions expressed, so let’s set up some attitude codes that we can quickly apply while reading the interviews: 
 
-- Create a new parent code by either 1) selecting Create->code on the top ribbon or 2) right- clicking in the open space under the codes and selecting 'new code': 
+::: instructions
 
+- Create a new parent code by either 1) selecting Create->code on the top ribbon or 2) right- clicking in the open space under the codes and selecting 'new code': 
 
 ![](images/New code.png)
 
+:::
+
+::: instructions
 
 - Give this new code the title 'Attitude' (1), give it a rich description (remember your future self) (2), 
-
 - Do not ‘aggregate coding from children’ for the attitude parent code (3), as we would seldom search for something including everything coded at any type of attitude. This can be toggled on later if needed, though. 
 
 ![](images/Create attitude code.png)
 
+:::
 
-
-- Create sub-codes within 'Attitude' for: 
+Next, we want to create sub-codes within 'Attitude' for: 
 
   + Mixed
   + Negative 
   + Neutral 
   + Positive 
 
+::: instructions
+
 - To create a sub-code right-click an existing code and select ‘new code’:  
 
 ![](images/create sub folder.png)
 
+:::
 
-- You can see you now have a basic set of attitude codes to code to as you read the transcripts:
+You can see you now have a basic set of attitude codes to code to as you read the transcripts:
 
 ![](images/Attitude folder.png)
 
@@ -55,27 +64,36 @@ We know there are likely to be strong opinions expressed, so let’s set up some
 
 As you read, you may start to notice a key theme/idea/concept popping up throughout that doesn't fit into an attitude that you have pre-defined. You may decide that this deserves its own new code. For example, the theme of 'immigration' emerges repeatedly
 
+::: instructions
+
 - Create a new code for this in the same way as before... 
 
+:::
 
 ### Practice open coding 
 
+::: instructions
 
 - Spend some  time open coding by reading thorough the interviews in the 2016 interview folder. 
-
 - As you go along, code to existing codes or make new ones for recurring ideas. Don’t worry about going back and coding something that might not have occurred to you earlier in the interview or in previous interviews. 
+
+:::
 
 > Remember that coding is iterative! and the same piece of text can have MULTIPLE CODES. 
 
 
 ### Reflexive coding 
 
-- After reading a few interviews, take a break to revisit your codes. 
+::: consider
+
+After reading a few interviews, take a break to revisit your codes. 
 
   + Are there any common themes that might make a good ‘parent code’? 
   + is there something that stands out in your mind from reading that you don’t see in your coding? 
+
+:::
   
 > Don’t be afraid to re-code the same section with more than one thing (e.g. you might code one comment as ‘trust’, ‘Labour Party’, and ‘positive’).
-
+>
 > Don’t be afraid to make mistakes – you can always un-code!
 

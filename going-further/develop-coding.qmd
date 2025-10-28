@@ -1,3 +1,24 @@
 ---
 title: "Developing your initial coding"
 ---
+
+::: consider
+
+At the end of the Start Coding section we covered two key ways in which to develop your coding:
+
+1. Creating a code hierarchy, so have broader 'parent' codes containing more specific 'child' codes.
+2. Uncoding sections that you had previously coded, whether to undo mistakes or as part of the process of refining what text is coded at each code.
+
+As you continue coding you may start to consider whether more substantial changes are needed.
+
+Firstly, **don't panic** - this is a perfectly normal aspect of the coding process. It is rare to end coding with all the codes exactly the same as they were after only coding a couple of transcripts. Instead, codes may be renamed, merged together, recoded to new codes, and so on.
+
+Secondly, whilst it may not be initially obvious, NVivo does provide tools to help manage developing your coding. As examples, we will cover:
+
+- Using 'organisation codes' as an additional layer of reflexive coding.
+- Creating a 'code matrix query' to view text coded to both thematic *and* organisation codes.
+- Linking memos to codes and using memo 'see also links' as means of jotting down reflections as you code.
+- Auto-coding memos to find all relevant sections from your memos.
+- Organising codes with 'static sets' to aid in recoding.
+
+:::

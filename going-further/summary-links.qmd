@@ -2,11 +2,37 @@
 title: "Summary Links"
 ---
 
-![](../images/framework-newsummarylink.png)
+### What are 'Summary Links?'
+
+Summary links are a framework matrix equivalent to memo see-also links. A summary link links text within a framework matrix cell to text within the transcript it is summarises from.
+
+### Creating a Summary Link
+
+Fortunately, the process for creating a summary link is more straight-forward and easier to remember than creating memo see-also links.
 
 To create a summary link:
+
+::: instructions
 
 - Select text within a Framework Matrix cell (highlighted in blue).
 - Select text within the Associated View (highlighted in black).
 - Click the 'New Summary Link' button in the Ribbon bar.
+
+![](../images/framework-newsummarylink.png)
+
+::::
+
+### Navigating with Summary Links
+
+Now try:
+
+::: instructions
+
+1. Change the 'Associated View' to 'Cell Coding'.
+2. For one of the participants, write some quick summary text in two of the cells and create summary links between the text in the cell and the transcript.
+3. Change the 'Associated View' to 'Row Coding'.
+4. Within the cells click any of the text highlighted red (meaning it has a summary link) and the transcript will auto-scroll to the relevant section.
+
+:::
+
 

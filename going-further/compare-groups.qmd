@@ -14,10 +14,10 @@ Within the Query Criteria, right-click in the white space and -
 
 ::: instructions
 
-![](../images/matrix-coding1.png)
-
 1. Select 'New Query'
 2. Then 'Matrix Coding Query'
+
+![](../images/matrix-coding1.png)
 
 :::
 
@@ -35,10 +35,10 @@ It is possible to drag and drop items into the boxes for Rows and Columns, but i
 
 ::: instructions
 
-![](../images/matrix-coding3.png)
-
 1. Click the '+' underneath the Rows box on the left.
 2. From the two options click 'Select Items...'
+
+![](../images/matrix-coding3.png)
 
 :::
 
@@ -46,12 +46,11 @@ Then within the Select Project Items dialogue:
 
 ::: instructions
 
-![](../images/matrix-coding4.png)
-
-
 1. Expand the Codes folder.
 2. Check the tickbox for the 'Autocoded (Sections)' sub-folder.
 3. Hit 'OK'.
+
+![](../images/matrix-coding4.png)
 
 :::
 
@@ -61,10 +60,10 @@ We can follow the same process to select our columns.
 
 ::: instructions
 
-![](../images/matrix-coding5.png)
-
 1. Click the '+' underneath the Columns box.
 2. From the two options click 'Select Items...'
+
+![](../images/matrix-coding5.png)
 
 :::
 
@@ -72,11 +71,11 @@ Whilst 'Select Attribute Values..' is an option, that is for selecting individua
 
 ::: instructions
 
-![](../images/matrix-coding6.png)
-
 1. Select the 'Case Classifications' folder.
 2. Expand the 'People' case classification.
 3. Expand the '2016 vote' attribute.
+
+![](../images/matrix-coding6.png)
 
 :::
 
@@ -84,12 +83,11 @@ After scrolling down a bit:
 
 ::: instructions
 
-![](../images/matrix-coding7.png)
-
-
 1. Check the box for 'Leave' attribute value.
 2. Check the box for 'Remain' attribute value.
 3. Hit 'OK'.
+
+![](../images/matrix-coding7.png)
 
 :::
 

@@ -2,43 +2,159 @@
 title: "Using Static Sets"
 ---
 
-Going through the 'Unsure' sections, for example, may help you identify new code to create or ones to replace. 
+### What are Static Sets?
 
-Say you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.
+Static Sets provide a means for collating and organising objects - whether transcripts, cases, codes, queries, etc - from across your project file. In contrast to the main workspace views within NVivo (Files, Coding, ...), where for example a code can only exist in a single specific folder within the Coding section, a code can be added to an unlimited number of static sets. This makes them ideal for making collections of codes for specific purposes outwith your main coding hierarchy.
 
-This is where static sets come in handy.
+For example, say you wanted to recode text coded at three existing codes to three new codes you have created.
 
-- Add three existing Codes to the static set.
-- Within your 'Codes' top-level folder create three new codes of your choice, for simplicity I'm just going with 'A', 'B', 'C'.
-- Add these to the 'New Codes' static set.
+### Let's Create a Static Set
+
+First, create a new static set:
+
+::: instructions
+
+1. Navigate to **Sets > Static Sets**
+2. Right-click in any available white space.
+3. Left-click to select 'New Static Set...'
+
+![](../images/create-new-static.png)
+
+:::
+
+Then within the 'New Static Set' dialogue:
+
+::: instructions
+
+- Provide a suitable 'Name', for this exercise go with 'Old Codes'
+- Hit 'OK' to confirm
+
+![](../images/set-old-codes.png)
+
+:::
+
+Next, let's add some of our existing coding to the set. Navigate to 'Autocoded (Themes)' and:
+
+::: instructions
+
+1. Select three existing codes (preferable ones with higher number of coded sections)
+2. Drag and drop them onto the 'Old Codes' Static Set we created.
+
+:::
+
+Now, let's create another set and our new nodes:
+
+::: instructions
+
+1. Repeat the instructions for creating a new static set and name it 'New Codes'.
+2. Within your **Coding > Codes** top-level folder create three new codes of your choice, for simplicity I'm just going with 'A', 'B', 'C'.
+3. Add these three codes to the 'New Codes' static set.
+
+:::
 
 ### Coded to Old Codes, but not New Codes
 
+Our familiar friend 'Matrix Coding Query' can now be combined with these sets to help us with the recoding process. We can create a matrix coding query that has row for our 'Old Codes' static set and column for our 'New Codes' static set, showing a cell with all text that is not yet coded to our new codes.
+
+So, let's create a new matrix coding query:
+
+::: instructions
+
+1. Navigate to **Queries > Query Criteria**
+2. Right-click on 'Query Criteria' or any available white space and select 'New Query'.
+3. Click on 'Matrix Coding Query'
+
+![](../images/new_matrix.png)
+
+:::
+
+Then within the Matrix Coding Query:
+
+:::instructions
+
+1. Hit the '+' button.
+2. Click 'Select Items...'
+
+![](../images/matrix-select-items.png)
+
+:::
+
+Then, within the 'Select Project Items' dialogue:
+
+::: instructions
+
+1. Select 'Static Sets'
+2. Tick the box for 'Old Codes'
+3. Hit 'OK'.
+
+![](../images/select-old-codes.png)
+
+:::
+
+Repeat steps for the Columns and our New Codes set:
+
+::: instructions
+
+1. Hit the '+' button.
+2. Click 'Select Items...'
+
+![](../images/matrix-columns-new.png)
+
+:::
+
+Then:
+
+::: instructions
+
+1. Select 'Static Sets'.
+2. Tick the box for 'New Codes'.
+3. Hit the 'OK' button.
+
+![](../images/select-new-codes.png)
+
+:::
+
+We want this matrix to aid us in recoding text from our 'old' to 'new' codes, so in comparison to the last time we created one where wanted to find text coded at both the row **and** column, this time we want to find text coded at our 'old' codes, but **not** our 'new' codes. So:
+
+::: instructions
+
+- For the 'Coding at rows ... columns' drop-down, change it to 'Not'
+
 ![](../images/not.png)
+:::
 
-- Create a new Matrix Coding Query.
-- Rows = 'Old Codes' static set.
-- Columns = 'New Codes' static set.
-- Change 'Coding at rows ... columns' to **Not**.
-- 'Run Query'
+Remember to also:
 
-This will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the 'Old Codes' static set.
+::: instructions
 
-You can now work your way recoding to the New Codes. **Importantly**, during recoding you can hit 'Run Query' and get an update of how many sections are left to recode. This can be extremely useful you whilst recoding you realise you actually need a fourth new code 'D'. You can create it, add it to 'New Codes' static set and 'Run Query' for your 'Recoding Old with New' Matrix Code Query.
+1. Click 'Save Criteria...'
+2. Give the query a name such as 'From Old to New'.
 
-![](../images/codingcontext.png)
+:::
+
+### The Query Results
+
+Whilst this will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the 'Old Codes' static set.
+
+You can now work your way recoding to the New Codes. **Importantly**, during recoding you can hit 'Run Query' and get an update of how many sections are left to recode. This can be extremely useful if whilst recoding you realise you actually need a fourth new code 'D'. You can create it, add it to 'New Codes' static set and 'Run Query' for your 'Recoding Old with New' Matrix Code Query.
 
 Remember you can change the 'coding content' to view more text surrounding the sections coded to your old codes. That won't make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.
 
-![](../images/staticstripe.png)
+![](../images/codingcontext.png)
 
 Similarly, you can turn on coding stripes and highlighting using the static set as a filter.
 
 ![](../images/staticfix.png)
 
-This can save a lot of headaches and frustration when if adopting a coding approach that have multiple stages in developing and refinding your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.
+![](../images/staticstripe.png)
+
+
 
 ### Other uses for static sets
+
+Static Sets can save a lot of headaches and frustration when adopting a coding approach that has multiple stages in developing and refining your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.
+
+Similarly, they can also be used for:
 
 - Grouping conceptual related codes outside your main coding schema.
 - Collating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.

@@ -3,6 +3,7 @@ title: "What is coding?"
 format: html
 ---
 
+
 :::{.callout-note title="What is coding?"}
 Codes are **tags or containers** for complex qualitative data; they are a way to index, sort, link and interrogate data. 
 
@@ -12,6 +13,19 @@ The same piece of text can have multiple meanings or codes.
 
 
 :::
+
+:::{.callout-note title="Section Overview"}
+
+Within this section we will cover the conceptual grounding for qualitative coding and set through the basic processes for creating codes and coding within NVivo.
+
+:::
+
+### What are codes?
+
+- Codes are *tags or containers* for complex qualitative data; they are a *way to index, sort, link and interrogate* data. 
+- The process of coding involves finding ways of summarizing key meanings within your data.
+- The same piece of text can have multiple meanings or codes. 
+
 
 ![](images/coding.png)
  
@@ -40,26 +54,24 @@ Nvivo can help us organise and interrogate codes but coding is led by the resear
 Remember, when coding in Nvivo: 
 
 - Codes can overlap 
-
 - Codes will sort themselves to be alphabetical list – so clear, direct, short codes are helpful. 
-
 - Consider your future self (and any collaborators), and try to annotate your coding by always including a code description: what you think this code means and what should be included here
-
 - Codes should change as your project changes. They can be combined and rearranged. 
-
 - Don’t be afraid to make a code because you’re uncertain if it will be relevant or important enough. They’re a tool to think with and can always be adjusted later.  
-
 - Be careful: try not to code when tired, bored, or distracted – you must always be actively thinking (the ‘organic computer’ [your brain] is the primary tool of analysis). 
 
+### Autocoding or using AI for coding? 
 
+You might have heard about autocoding and potential use of AI in Nvivo 15. 
 
-### Autocoding? 
-
-You might have heard about autocoding in Nvivo. Don't worry- it is not advanced enough to replace the essential work of a researcher. 
-
-This is currently a basic - but often useful- functionality in Nvivo. It can help you organise the text into cases or themes based on pre-defined criteria (we'll show you these below!) 
+Autociding is currently a basic - but often useful-  functionality in Nvivo. It can help you organise the text into cases or themes based on pre-defined criteria using a deductive apporach (we'll show you these below!) 
 
 However it is the researcher's job to interpret and make meaning from data. 
+
+In Nvivo version 15 there is an AI helper, which can detect common words or patterns of text in documents, and can be used as a sort of data-driven inductive coding assistant. Again, this is currently quite basic and shouldn't replace the essential work of the researcher making sense of the data themselves. 
+
+But to find out more here at the AI features in Nvivo 15, see these [videos from Lumivero:](https://help-nv.qsrinternational.com/15/win/Content/ai/ai-assistant.htm), and [an online youtube video](https://www.youtube.com/watch?v=b89rBXblQ0U).
+
 
 
 ### Different approaches to coding - learn more 

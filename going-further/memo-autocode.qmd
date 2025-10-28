@@ -2,26 +2,74 @@
 title: "Autocode Memos"
 ---
 
-As an example of how flexible some of NVivos tools are, as with files, it is possible to autocode memos.
+As another example of how flexible some of NVivos features are, as with files, it is possible to autocode memos - in exactly same way as autocoded the transcripts.
 
-![](../images/acm-1.png)
+::: instructions
 
 - Right-click the memo you created.
 - Select 'Autocode...'
 
+![](../images/acm-1.png)
+
+:::
+
+Within the Autocode Wizard dialogue:
+
+::: instructions
+
+1. Select 'Use the style or structure'
+2. Click 'Hit'
+
 ![](../images/acm-2.png)
+
+:::
+
+For Step 2:
+
+::: instructions
+
+Select 'Paragraph' styles and hit 'Next'
 
 ![](../images/acm-3.png)
 
+:::
+
+For Step 3:
+
+::: instructions
+
+1. Select 'Heading 1'
+2. Click the '>>' button to add it to 'Selected paragraph styles'
+3. Hit 'Next'
+
 ![](../images/acm-4.png)
+
+:::
+
+Finally, for Step 4:
+
+::: instructions
+
+1. Change 'Under' to 'New Folder'
+2. Provide it an appropriate Name, such as 'Autocoding (Memo Sections)'
+3. Hit 'Finish'
 
 ![](../images/acm-5.png)
 
-1. Change 'Under' to 'New Folder'
-2. Provide it an appropriate Name
-3. Hit 'Finish'
+:::
+
+Then, to view the autocoding:
+
+::: instructions
+
+-  Navigate to 'Autocoding (Memo Sections)' (or whatever name you provided)
 
 ![](../images/acm-6.png)
 
-This may not seem like much with just a single memo, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections.
+:::
 
+This may not seem like much with just a single or couple memos, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections. Going through the ‘Unsure’ sections, for example, may help you identify new code to create or ones to replace.
+
+Say you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.
+
+This is where static sets come in handy...
