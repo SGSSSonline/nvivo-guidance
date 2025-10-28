@@ -5,7 +5,7 @@ format: html
 
 ::: macos
 
-Please note, which the autocoding approach covered here is not available on NVivo for mac - if you have access to NVivo on a Windows PC/laptop, you can convert your NVivo for Windows project file and do the autocoding on Windows, then convert it back to NVivo for mac project file on your macOS PC/laptop. We cover aspects of this on the [Saving and sharing](Saving and sharing.qmd) page and further info can be found in the official [NVivo for mac help pages](https://help-nv.qsrinternational.com/15/mac/Content/projects-teamwork/work-with-projects-windows-mac.htm).
+Please note, whilst the autocoding approach covered here is not available on NVivo for mac - if you have access to NVivo on a Windows PC/laptop, you can convert your NVivo project file and do the autocoding on Windows, then after finished autocoding convert it back to an "NVivo for mac" project file on your macOS PC/laptop. We cover aspects of this on the [Saving and sharing](Saving and sharing.qmd) page and further info can be found in the official [NVivo for mac help pages](https://help-nv.qsrinternational.com/15/mac/Content/projects-teamwork/work-with-projects-windows-mac.htm).
 
 :::
 
