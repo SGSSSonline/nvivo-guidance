@@ -56,7 +56,7 @@ A [case](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.htm) re
 
 :::
 
-### After import
+#### After import
 
 You will see your uploaded files appear in ‘Files': 
 
@@ -83,8 +83,7 @@ For each person, they now have a 'case' icon (1) and 1 file associated (the tran
 
 :::
 
-
-::: macos
+### Manually create cases (macOS only)
 
 Let's now create cases manually so that we are at the same stage as windows users. This is very simple. 
 
@@ -102,8 +101,6 @@ If you look at the menu on the left hand side, you will see you now have a case 
 :::
 
 We'll come back to cases in a moment. 
-
-:::
 
 ### Organise interview transcripts into a folder
 

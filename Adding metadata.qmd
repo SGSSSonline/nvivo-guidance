@@ -40,7 +40,7 @@ NB: {{< fa brands apple >}} **NVivo for macOS**: Nvivo specifies that you use a 
 
 - Select the ‘metadata.xls’ file from the ‘Research tools’ folder. 
 
-- ({{< fa brands apple >}} **NVivo for macOS**: import csv file instead.)
+- {{< fa brands apple >}} **NVivo for macOS**: import csv file instead.
 
 - Click Open to select file. 
 
@@ -123,7 +123,7 @@ You can see a new case for 'roger' has been set up; it doesn't have any files or
 
 ![](images/roger case.png)
 
-*{{< fa brands apple >}} **NVivo for macOS**: the stages of setting up a new case are similar, but the menus might look a bit different. 
+{{< fa brands apple >}} **NVivo for macOS**: the stages of setting up a new case are similar, but the menus might look a bit different. 
 
 ### Create new attributes for an existing case 
 
