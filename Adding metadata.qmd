@@ -122,7 +122,7 @@ You can see a new case for 'roger' has been set up; it doesn't have any files or
 
 ![](images/roger case.png)
 
-**Mac users** - the stages of setting up a new case are similar, but the menus might look a bit different. 
+*{{< fa brands apple >}} **NVivo for macOS**: the stages of setting up a new case are similar, but the menus might look a bit different. 
 
 ### Create new attributes for an existing case 
 
@@ -184,8 +184,11 @@ Now this column will appear as the last column in your case classifications shee
 
 ### Summarise metadata in charts (Windows only)
 
-NB. These instructions below are for Windows users. 
-Mac users do have chart functions, but they are more limited. 
+::: macos
+
+These instructions below are for Windows users. Mac users do have chart functions, but they are more limited.
+
+:::
 
 Now that you have some basic information attached to the transcripts, you can summarize this in a basic way using Nvivo's chart function. This depends very much on how the metadata in the classification sheet are formatted, but so long as this is consistent, it can be very useful for getting a quick glance at your sample composition. 
 
