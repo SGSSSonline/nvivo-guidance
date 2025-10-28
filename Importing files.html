@@ -76,6 +76,16 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-macos.callout {
+  border-left-color: #f0ad4e;
+}
+div.callout-macos.callout-style-default > .callout-header {
+  background-color: rgba(240, 173, 78, 0.13);
+}
+div.callout-macos .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-macos.callout-style-default .callout-icon::before, div.callout-macos.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23f0ad4e" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+}
 div.callout-consider.callout {
   border-left-color: #e83e8c;
 }
@@ -95,16 +105,6 @@ div.callout-not-you.callout-style-default > .callout-header {
 div.callout-not-you .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-not-you.callout-style-default .callout-icon::before, div.callout-not-you.callout-titled .callout-icon::before {
   background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff7518" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
-}
-div.callout-macos.callout {
-  border-left-color: #f0ad4e;
-}
-div.callout-macos.callout-style-default > .callout-header {
-  background-color: rgba(240, 173, 78, 0.13);
-}
-div.callout-macos .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-macos.callout-style-default .callout-icon::before, div.callout-macos.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23f0ad4e" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
 div.callout-zombie.callout {
   border-left-color: #3fb618;
@@ -450,7 +450,7 @@ div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zomb
   <ul>
   <li><a href="#import-2016-interview-files" id="toc-import-2016-interview-files" class="nav-link active" data-scroll-target="#import-2016-interview-files">Import 2016 interview files</a></li>
   <li><a href="#automatically-create-cases-as-you-import-windows-only" id="toc-automatically-create-cases-as-you-import-windows-only" class="nav-link" data-scroll-target="#automatically-create-cases-as-you-import-windows-only">Automatically create cases as you import (Windows only)</a></li>
-  <li><a href="#after-import" id="toc-after-import" class="nav-link" data-scroll-target="#after-import">After import</a></li>
+  <li><a href="#manually-create-cases-macos-only" id="toc-manually-create-cases-macos-only" class="nav-link" data-scroll-target="#manually-create-cases-macos-only">Manually create cases (macOS only)</a></li>
   <li><a href="#organise-interview-transcripts-into-a-folder" id="toc-organise-interview-transcripts-into-a-folder" class="nav-link" data-scroll-target="#organise-interview-transcripts-into-a-folder">Organise interview transcripts into a folder</a></li>
   <li><a href="#create-a-folder-structure" id="toc-create-a-folder-structure" class="nav-link" data-scroll-target="#create-a-folder-structure">Create a folder structure</a></li>
   <li><a href="#import-2015-focus-group-data" id="toc-import-2015-focus-group-data" class="nav-link" data-scroll-target="#import-2015-focus-group-data">Import 2015 focus group data</a></li>
@@ -542,9 +542,8 @@ div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zomb
 <p>A <a href="https://help-nv.qsrinternational.com/20/win/Content/cases/cases.htm">case</a> represents a unit of analysis, and this is most commonly people you’ve interviewed, organisations you worked with, communities, families, etc. In this example, cases are people that have been interviewed. But it could be any kind of unit: people, places, organizations, events or other entities that you want to analyze and compare. Cases allow you to link information together related to that person, place or organisation. It makes it easy for you to see everything related to a single unit in one place. See <a href="./Cases.html">the page on cases and case classifications</a> for more info. Not all projects require cases, but if you make comparisons across people or any other units, it’s a good idea as opens up many other functionalities.</p>
 </div>
 </div>
-</section>
-<section id="after-import" class="level3">
-<h3 class="anchored" data-anchor-id="after-import">After import</h3>
+<section id="after-import" class="level4">
+<h4 class="anchored" data-anchor-id="after-import">After import</h4>
 <p>You will see your uploaded files appear in ‘Files’:</p>
 <div class="instructions">
 <p><img src="images/interviews in files.png" class="img-fluid"></p>
@@ -557,16 +556,10 @@ div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zomb
 <div class="instructions">
 <p><img src="images/case zoom.png" class="img-fluid"></p>
 </div>
-<div class="callout callout-style-simple callout-macos no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Macos</span><i class="fa-brands fa-apple" aria-label="apple"></i> NVivo for macOS
-</div>
-</div>
-<div class="callout-body-container callout-body">
+</section>
+</section>
+<section id="manually-create-cases-macos-only" class="level3">
+<h3 class="anchored" data-anchor-id="manually-create-cases-macos-only">Manually create cases (macOS only)</h3>
 <p>Let’s now create cases manually so that we are at the same stage as windows users. This is very simple.</p>
 <div class="instructions">
 <p>Within the folder of 2016 interviews, select all (Command+A), then right click, select create as-&gt; cases.</p>
@@ -575,8 +568,6 @@ div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zomb
 <p><img src="images/case creation mac.png" class="img-fluid"></p>
 </div>
 <p>We’ll come back to cases in a moment.</p>
-</div>
-</div>
 </section>
 <section id="organise-interview-transcripts-into-a-folder" class="level3">
 <h3 class="anchored" data-anchor-id="organise-interview-transcripts-into-a-folder">Organise interview transcripts into a folder</h3>
