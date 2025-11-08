@@ -3,3 +3,6 @@
 nvivo-guidance.Rproj
 .Rhistory
 /docs/
+
+**/*.quarto_ipynb
+*.otter.*

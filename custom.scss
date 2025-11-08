@@ -1,0 +1,66 @@
+/*-- scss:defaults --*/
+
+/*-- scss:functions --*/
+
+/*-- scss:rules --*/
+
+$bg: $brand-white !default;
+$fg: $brand-sgsss-solid-blue !default;
+$ac: $brand-purple !default;
+
+$btn-code-copy-color-active: $ac !default;
+
+.sidebar.sidebar-navigation > * {
+  padding-top: 0em;
+}
+
+.pt-lg-2 {
+  padding-top: 0rem !important;
+}
+.d-lg-inline {
+  display: none !important;
+}
+
+.blockquote {
+  color: $fg;
+}
+
+#quarto-header > nav.navbar.navbar-expand-lg {
+  background-color: $bg;
+  color: $fg;
+}
+.navbar {
+  color: $fg;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: $ac;
+}
+
+.navbar,
+.navbar .quarto-navbar-tools .quarto-navigation-tool,
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+  color: $fg;
+}
+/* Need to redraw the icons */
+.navbar .quarto-color-scheme-toggle:not(.alternate) .bi::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(7, 59, 89, 1)" class="bi bi-toggle-off" viewBox="0 0 16 16"><path d="M11 4a4 4 0 0 1 0 8H8a4.992 4.992 0 0 0 2-4 4.992 4.992 0 0 0-2-4h3zm-6 8a4 4 0 1 1 0-8 4 4 0 0 1 0 8zM0 8a5 5 0 0 0 5 5h6a5 5 0 0 0 0-10H5a5 5 0 0 0-5 5z"/></svg>');
+}
+
+.navbar .quarto-color-scheme-toggle.alternate .bi::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(240, 242, 245, 1)" class="bi bi-toggle-on" viewBox="0 0 16 16"><path d="M5 3a5 5 0 0 0 0 10h6a5 5 0 0 0 0-10H5zm6 9a4 4 0 1 1 0-8 4 4 0 0 1 0 8z"/></svg>');
+}
+
+.navbar-dark,
+.navbar[data-bs-theme="dark"] {
+  --bs-navbar-color: $fg;
+  --bs-navbar-brand-color: $fg;
+  --bs-navbar-toggler-icon-bg: $fg;
+  --bs-navbar-toggler-broder-color: $fg;
+}
+
+.navbar-title {
+  color: $fg;
+  font-weight: bold;
+}

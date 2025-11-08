@@ -2,8 +2,6 @@ project:
   type: website
   output-dir: docs
 
-brand: brand/_brand.yml
-
 execute:
   freeze: auto
 
@@ -23,7 +21,6 @@ website:
     location: navbar
     type: overlay
   navbar:
-    pinned: true
     left:
       - href: index.qmd
         text: "Intro"
@@ -44,22 +41,16 @@ website:
       - href: resources.qmd
         text: "NVivo Resources"
       - about.qmd
-    logo: brand/whitelogo.png
-    background: "#073B59"
 
   sidebar:
     - title: "Intro"
       style: "docked"
-      border: false
-      background: "#1B9D8E"
       contents:
         - index.qmd
         - nvivo-about.qmd
 
     - title: "Going Further"
       style: "docked"
-      border: false
-      background: "#1B9D8E"
       contents:
         - going-further.qmd
         - going-further/project-overview.qmd
@@ -92,8 +83,6 @@ website:
 
     - title: "Project Setup"
       style: "docked"
-      border: false
-      background: "#1B9D8E"
       contents:
         - href: project-setup.qmd
           text: "NVivo Project Setup"
@@ -110,8 +99,6 @@ website:
 
     - title: "Start Coding"
       style: "docked"
-      border: false
-      background: "#1B9D8E"
       contents:
         - Start coding.qmd
         - section: "**Coding in NVivo**"
@@ -139,10 +126,12 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, brand, styles/custom.scss]
-      dark: [darkly, brand, styles/custom.scss]
-    css:
-      - styles.css
+      light: [cosmo, brand, custom.scss]
+      dark: [cosmo, brand, dark.scss, custom.scss]
+    grid:
+      sidebar-width: 350px
+      body-width: 800px
+      margin-width: 350px
     toc: true
 
 custom-callout:
@@ -150,22 +139,22 @@ custom-callout:
     title: "🧟 Slaying QDAS Zombies"
     icon: false
     appearance: "minimal"
-    color: "#3fb618"
+    color: "#62bd74"
   not-you:
     title: "🤢 It's not you, it's NVivo"
     icon: false
     appearance: "minimal"
-    color: "#ff7518"
+    color: "#ffa76d"
   consider:
     title: "🤔 Critical Considerations"
     icon: false
     appearance: "minimal"
-    color: "#e83e8c"
+    color: "#ff8483"
   macos:
     title: "{{< fa brands apple >}} NVivo for macOS"
     icon: false
     appearance: "minimal"
-    color: "#f0ad4e"
+    color: "#ffcf62"
 
 filters:
   - custom-callout

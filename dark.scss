@@ -1,0 +1,56 @@
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+$bg: $brand-sgsss-dark-blue;
+$fg: $gray-200;
+$ac: $brand-alt-purple;
+
+$navbar-bg: $bg;
+$navbar-fg: $fg;
+.navbar-nav {
+  --bs-navbar-hover-color: var(--brand-purple);
+}
+
+.callout.callout-style-simple {
+  border-right: 1px solid $gray-700;
+  border-top: 1px solid $gray-700;
+  border-bottom: 1px solid $gray-700;
+}
+
+h2,
+.h2 {
+  border-bottom: 1px solid $gray-700;
+}
+
+.sidebar.sidebar-navigation:not(.rollup) {
+  border-right: 1px solid $gray-700 !important;
+}
+
+body .nav-footer {
+  border-top: 1px solid $gray-700;
+}
+
+.blockquote {
+  color: $gray-200;
+}
+
+.nav-page a {
+  color: $gray-400;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  float: left;
+  padding-right: var(--bs-breadcrumb-item-padding-x);
+  color: $gray-500;
+  content: var(--bs-breadcrumb-divider, ">")
+    /* rtl: var(--bs-breadcrumb-divider, ">") */;
+}
+
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a {
+  color: $gray-500;
+}
+
+.instructions {
+  background-color: #384955;
+}

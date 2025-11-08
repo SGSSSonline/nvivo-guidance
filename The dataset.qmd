@@ -5,9 +5,10 @@ format: html
 
 We will use data from a longitudinal qualitative study called the [Qualitative Election Study of Britain](https://qesb.info/). 
 
-Here's an explanation of the study by it's leads:  
+Here's an explanation of the study by it's leads:
 
 > The QESB is a collaborative effort between researchers from the UWE Bristol, the University of Dundee, and GESIS in Germany. Since our launch in 2010, our aim has been to learn about the thoughts, feelings, and opinions of every day voters, before and after the UK general election. To this end, we hold focus groups and interviews, online and in-person. During this general election period, we want to hear your thoughts on political life in the UK. Whether it’s about the election, political leaders, parties, economic concerns, the NHS, or climate change, we want to hear it all.
+
 
 Hear a little bit about the study from one of its PIs, Ediza Carvalho, based at the University of Dundee: 
 {{< video https://www.youtube.com/embed/k_nc4-uXZLA?si=sXkU6xovXw-_13FG >}}

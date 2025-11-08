@@ -2,6 +2,7 @@
 title: "NVivo Project Setup"
 ---
 
+
 ::: {.callout-note title="Section Overview"}
 This section will walk you through the steps of creating a new project. 
 
@@ -21,4 +22,4 @@ This project setup guide uses screenshots from [NVivo Windows 14 and 15 ](https:
 
 See our [cheatsheet](Nvivo versions.qmd) for a quick guide to how things differ across versions.  
 
-For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources](resources.qmd) tab above. 
+For more complex tasks, we recommend you consult manuals which are relevant to the version you are working in, which can be found in the [Resources](resources.qmd) tab above.

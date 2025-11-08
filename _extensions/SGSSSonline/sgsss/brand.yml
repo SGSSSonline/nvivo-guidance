@@ -1,0 +1,163 @@
+meta:
+  name:
+    full: Scottish Graduate School of Social Science
+    short: SGSSS
+  link:
+    home: https://www.sgsss.ac.uk/
+    github: https://github.com/SGSSSonline
+    bluesky: https://bsky.app/profile/sgsss.bsky.social
+    sgsss-portal: https://portal.sgsss.ac.uk/
+  description: |
+    The Scottish Graduate School of Social Science is the UK's largest facilitator of funding, training and support for doctoral students in social science. By combining the expertise of sixteen universities across Scotland, the school facilitates world-class PhD research. The school is funded jointly by the Economic and Social Research Council and the Scottish Funding Council.
+
+logo:
+  images:
+    solo:
+      path: logos/solologo.png
+      alt: "SGSSS Thistle logo"
+    solo-white:
+      path: logos/solologo-white.png
+      alt: "SGSSS Thistle logo in white"
+    stacked:
+      path: logos/stackedlogo.png
+      alt: "SGSSS logo and name in English and Gaelic"
+  small:
+    light: solo
+    dark: solo-white
+  medium:
+    light: solo
+    dark: solo-white
+  large: stacked
+
+color:
+  palette:
+    # SGSSS core colour palette
+    sgsss-white: "#fcfdff"
+    sgsss-pale-green: "#b4dbdc"
+    sgsss-pale-grey: "#edf2f6"
+    sgsss-solid-blue: "#073b59"
+    sgsss-deep-blue: "#2b404f"
+    sgsss-dark-blue: "#1f2e39"
+    sgsss-solid-purple: "#bd62ab"
+    sgsss-solid-slate: "#4d5c6d"
+    sgsss-solid-teal: "#1b9d8e"
+
+    # Bootstrap colour aliases
+    white: sgsss-white
+    black: "#020101" # wordpress
+    blue: "#197ec7"
+    indigo: "#8272c5"
+    purple: sgsss-solid-purple
+    pink: "#ee6c9a"
+    red: "#ff8483"
+    orange: "#ffa76d"
+    yellow: "#ffcf62"
+    green: "#62bd74"
+    teal: sgsss-solid-teal
+    cyan: "#00c0cd"
+
+    # Bootstrap grays
+    gray-100: "#f8f9fa"
+    gray-200: "#e9ecef"
+    gray-300: "#dee2e6"
+    gray-800: "#343a40"
+
+    # SGSSS event pages colours
+    light-blue: "#B3D7F5"
+    light-red: "#F7B2AD"
+    light-green: "#B2E2B2"
+    light-yellow: "#FFF3B0"
+    light-purple: "#D5B3E5"
+    light-gray: "#E0E0E0"
+
+    # code chunks and instruction boxes
+    gray: "#F0F2F5"
+    # need gray-dark
+
+    # Alt colours for dark theme
+    alt-purple: "#dea7d0"
+
+  background:
+    light: white
+    dark: sgsss-dark-blue
+  foreground:
+    light: black
+    dark: white
+  primary:
+    light: purple
+    dark: alt-purple
+  secondary: sgsss-solid-blue
+  tertiary:
+    light: gray
+    dark: gray-800
+  success: green
+  info: blue
+  warning: orange
+  danger: red
+  light: white
+  dark: black
+
+typography:
+  headings:
+    color:
+      light: sgsss-solid-blue
+      # Need a "pale-blue"
+      dark: light-blue
+
+defaults:
+  bootstrap:
+    functions:
+    defaults:
+      navbar-bg: $white
+      code-block-bg: $tertiary
+    rules: |
+      .instructions {
+        border-width: 0px;
+        border-radius: 0.2rem;
+        padding: 1rem;
+        margin-top: 1.25rem;
+        margin-bottom: 1.25rem;
+        background-color: $tertiary
+      }
+
+      .instructions > :last-child {
+        margin-bottom: 0;
+      }
+
+      /* Custom Callout Extension sets font to italics */
+      .callout-icon {
+        font-style: unset;
+      }
+
+      h1,
+      .h1,
+      h2,
+      .h2,
+      h3,
+      .h3,
+      h4,
+      .h4,
+      h5,
+      .h5,
+      h6,
+      .h6 {
+        margin-bottom: 1rem;
+      }
+
+      .navbar-title {
+        font-weight: bold;
+      }
+
+      .callout.callout-style-simple .callout-body {
+        margin-top: 0em;
+      }
+
+      .sidebar-menu-container .menu-text {
+        font-weight: 500;
+      }
+
+      /* Bold the left nav items */
+      .navbar-nav.me-auto .nav-link,
+      .navbar-nav.me-auto .menu-text {
+        font-weight: bold;
+      }
