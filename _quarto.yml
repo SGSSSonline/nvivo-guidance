@@ -22,34 +22,56 @@ website:
     type: overlay
   navbar:
     left:
-      - text: "Intro"
-        href: index.qmd
       - text: "Project Setup"
         href: project-setup.qmd
       - text: "Start Coding"
         href: Start coding.qmd
       - text: "Going Further"
         href: going-further/index.qmd
-      - text: "Design your own project"
-        href: Designing your Nvivo project.qmd
 
     right:
-      - text: "Analysis Primers"
+      - text: "Additional Resources"
         href: primers.qmd
-      - text: "NVivo Versions"
-        href: Nvivo versions.qmd
-      - text: "NVivo Resources"
-        href: resources.qmd
       - about.qmd
 
   sidebar:
-    - id: intro
-      title: "Intro"
-      style: "docked"
-      logo-href: "#"
+    - id: project-setup
+      style: docked
+      title: "Project Setup"
       contents:
-        - index.qmd
-        - nvivo-about.qmd
+        - href: intro.qmd
+          text: "Intro"
+        - href: nvivo-about.qmd
+          text: "About NVivo"
+        - href: project-setup.qmd
+          text: "NVivo Project Setup"
+        - section: "**The Dataset**"
+          contents:
+            - The dataset.qmd
+        - section: "**Set up a new project**"
+          contents:
+            - New project.qmd
+            - Importing files.qmd
+            - Cases.qmd
+            - Adding metadata.qmd
+            - Saving and sharing.qmd
+        - text: "Design your own project"
+          href: Designing your Nvivo project.qmd
+
+    - id: start-coding
+      title: "Start Coding"
+      contents:
+        - Start coding.qmd
+        - section: "**Coding in NVivo**"
+          contents:
+            - Material to cases.qmd
+            - Deductive coding.qmd
+            - Question coding autocoding.qmd
+            - New codes.qmd
+            - Open coding.qmd
+            - Organising codes.qmd
+            - Checking codes.qmd
+            - Uncoding.qmd
 
     - id: going-further
       title: "Going Further"
@@ -83,36 +105,15 @@ website:
             - going-further/re-casing.qmd
             - going-further/set-query-summary.qmd
 
-    - id: project-setup
-      title: "Project Setup"
+    - id: additional-resource
+      title: "Additional Resources"
       contents:
-        - href: project-setup.qmd
-          text: "NVivo Project Setup"
-        - section: "**The Dataset**"
-          contents:
-            - The dataset.qmd
-        - section: "**Set up a new project**"
-          contents:
-            - New project.qmd
-            - Importing files.qmd
-            - Cases.qmd
-            - Adding metadata.qmd
-            - Saving and sharing.qmd
-
-    - id: start-coding
-      title: "Start Coding"
-      contents:
-        - Start coding.qmd
-        - section: "**Coding in NVivo**"
-          contents:
-            - Material to cases.qmd
-            - Deductive coding.qmd
-            - Question coding autocoding.qmd
-            - New codes.qmd
-            - Open coding.qmd
-            - Organising codes.qmd
-            - Checking codes.qmd
-            - Uncoding.qmd
+        - text: "Analysis Primers"
+          href: primers.qmd
+        - text: "NVivo Versions"
+          href: Nvivo versions.qmd
+        - text: "NVivo Resources"
+          href: resources.qmd
 
   page-footer:
     center:

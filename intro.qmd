@@ -1,0 +1,32 @@
+---
+title: "Welcome!"
+subtitle: "**SGSSS Nvivo training materials 2025/2026**"
+format: html
+---
+
+:::{.callout-note title="How to use these materials"}
+
+The logic of the materials corresponds to the tabs at the top: 
+
+![](images/Session brief-1.png)
+
+The introductory sessions are led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/); we will work through some basic tasks: 
+
+- setting up a new Nvivo project 
+- organising materials
+- creating [cases](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html) and [case classifications](https://help-nv.qsrinternational.com/20/win/Content/classifications/about-classifications.html)
+- manual coding 
+- some autocoding features 
+
+The 'Going further' sessions are led by [Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
+
+Students will learn how to use some more advanced features of NVivo:
+
+- coding workflows, tip and tricks
+- different types of queries
+- framework matrices
+
+We will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.
+
+:::
+

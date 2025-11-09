@@ -1,81 +1,123 @@
 ---
-title: "Welcome!"
-subtitle: "**SGSSS Nvivo training materials 2025/2026**"
-format: html
+pagetitle: "Quarto"
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
 ---
 
-:::{.callout-note title="How to use these materials"}
+::: {.hero-banner}
+::: {.content-block .py-4}
+::: {.hero-text}
+# Welcome to SGSSS NVivo Guidance {.mt-1}
 
-These materials are designed to accompany SGSSS live training sessions in the academic year 2025/26, and they can also be used for self-study. 
+### SGSSS Training Materials 2025/26 
 
-The guides are aimed at those with no experience of using Nvivo. 
+These materials are designed to accompany SGSSS live training sessions in the academic year 2025/26, and they can also be used for self-study.
 
-They primarily use examples from Nvivo windows versions 14 and 15 (which don't differ greatly); we also show instructions for Mac equivalents to enable Mac users to follow along. 
+The pages are aimed at those with no prior experience of using NVivo, though will guide you towards 'intermediate' and 'advanced' NVivo features and how you can flexibly and creatively use them in your analysis.
 
-The logic of the materials corresponds to the tabs at the top: 
+They primarily use examples from NVivo windows versions 14 and 15 (which don’t differ greatly); we also show instructions for macOS equivalents and workarounds where possible to enable macOS users to follow along. 
 
+### We have divided the pages into three main sections, based on key analysis stages.
 
-![](images/Session brief-1.png)
-
-The introductory sessions are led by [Dr Katy Keenan](https://www.st-andrews.ac.uk/geography-sustainable-development/people/klk4/); we will work through some basic tasks: 
-
-- setting up a new Nvivo project 
-- organising materials
-- creating [cases](https://help-nv.qsrinternational.com/20/win/Content/cases/cases.html) and [case classifications](https://help-nv.qsrinternational.com/20/win/Content/classifications/about-classifications.html)
-- manual coding 
-- some autocoding features 
-
-The 'Going further' sessions are led by [Alasdair Stewart](https://www.gla.ac.uk/schools/socialpolitical/staff/alasdairstewart/) and will move to more advanced features and the flexible ways these can be used for qualitative analysis.  
-
-Students will learn how to use some more advanced features of NVivo:
-
-- coding workflows, tip and tricks
-- different types of queries
-- framework matrices
-
-We will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.
-
+::: {.grid .gap-3 .pb-3 .pt-4}
+::: {.g-col-12 .g-col-sm-4}
+[Project Setup](intro.qmd){#btn-guide .btn-action .btn-secondary .btn .btn-lg .w-100 role="button"}
+:::
+::: {.g-col-12 .g-col-sm-4}
+[Start Coding](Start coding.qmd){#btn-guide .btn-action .btn-secondary .btn .btn-lg .w-100 role="button"}
+:::
+::: {.g-col-12 .g-col-sm-4 .mb-2}
+[Going Further](/going-further/){#btn-guide .btn-action .btn-secondary .btn .btn-lg .w-100 role="button"}
+::: 
+::: 
 :::
 
-## Live sessions aims
+::: {.hero-animation}
+{{< brand logo medium >}}
 
-::: consider
+:::
+:::
+:::
+
+
+::: {.hello-quarto .alt-background}
+
+::: {.content-block .mt-2 .pt-4 .pb-2}
+::: {.hello-quarto-banner}
+::: {.grid .gap-1}
+::: {.g-col-lg-4 .g-col-12}
+::: 
+::: {.g-col-lg-8 .g-col-12}
+<ul class="nav nav-pills d-flex flex-wrap" id="nvivo-callout-tab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="critical-tab" data-bs-toggle="tab" data-bs-target="#critical" type="button" role="tab" aria-controls="critical" aria-selected="true">🤔 Critical Considerations</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="slay-tab" data-bs-toggle="tab" data-bs-target="#slay" type="button" role="tab" aria-controls="slay" aria-selected="false">🧟 Slaying QDAS Zombies</button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="not-you-tab" data-bs-toggle="tab" data-bs-target="#not-you" type="button" role="tab" aria-controls="not-you" aria-selected="false">🤢 It’s not you, it’s NVivo</button>
+  </li>
+</ul>
+:::
+:::
+:::
+
+<div class="tab-content mt-2" id="nvivo-callout-tabcontent">
+
+<div class="tab-pane fade  show active" id="critical" role="tabpanel" aria-labelledby="critical-tab">
+::: {.grid .gap-3}
+::: {.g-col-md-11 .g-col-12 .mb-0}
+
 The sections are based around problems that you might encounter as your analysis progresses.
 
 With each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.
 
 The purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.
 
-In the live sessions, after the follow along demonstrations, we will have time for experimentation and discussion. We have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the 'experiment and discuss' sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.
+In the live sessions, after the follow along demonstrations, we will have time for experimentation and discussion. We have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the ‘experiment and discuss’ sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.
+:::
 :::
 
+</div>
 
+<div class="tab-pane fade" id="slay" role="tabpanel" aria-labelledby="slay-tab">
+::: {.grid}
+::: {.g-col-md-11 .g-col-12}
+To say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. The big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.
 
-::: zombie
-To say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.
+However, the critiques unfortunately still persist as [QDAS Zombies](https://core.ac.uk/reader/215349760) by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen – or copying chunks of text into Word/Excel files – it’s no wonder these critiques feel more alive than dead.
 
-There was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.
+What we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I’d go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.
+:::
+:::
+</div>
 
-The big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.
+<div class="tab-pane fade" id="not-you" role="tabpanel" aria-labelledby="not-you-tab">
+::: {.grid}
+::: {.g-col-md-11 .g-col-12}
+NVivo is powerful and without a doubt better than analogue paper and pen analysis – or worse, copying and pasting chunks of text into multiple Word/Excel files – but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.
 
-However, the critiques unfortunately still persist as [QDAS Zombies](https://core.ac.uk/reader/215349760) by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen -- or copying chunks of text into Word/Excel files -- it's no wonder these critiques feel more alive than dead.
+The unintuitive design and labyrinthine steps required for some tasks – never mind the joys of trying to recall them each time when first starting – gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.
 
-What we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I'd go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.
+To Lumivero’s credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often ‘NVivo-error’ not ‘user-error’ – there was not anything wrong in how you set up your project or actions you were doing, it’s just NVivo being NVivo.
+:::
 :::
 
-::: not-you
-NVivo is powerful and without a doubt better than analogue paper and pen analysis -- or worse, copying and pasting chunks of text into multiple Word/Excel files -- but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.
+</div>
 
-The unintuitive design and labyrinthine steps required for some tasks -- never mind the joys of trying to recall them each time when first starting -- gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.
+</div>
 
-To Lumivero's credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often 'NVivo-error' not 'user-error' -- there was not anything wrong in how you set up your project or actions you were doing, it's just NVivo being NVivo.
+:::
 :::
 
-## Note
+::: {.content-block .py-4}
+::: {.living-docs}
+:::{.callout-important title="‘Living Documents’"}
+These pages are ‘living documents’, they will continually and iteratively be updated over time. Please see the Callout on the [About](about.qmd) page for further details.
 
-::: {.callout-important}
-## 'Living Documents'
-
-These pages are 'living documents', they will continually and iteratively be updated over time. Please see the Callout on the [About page](about.qmd#living-documents) for further details.
-
+:::
+:::
 :::
