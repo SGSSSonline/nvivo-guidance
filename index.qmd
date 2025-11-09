@@ -6,6 +6,8 @@ toc: false
 css: index.css
 ---
 
+<!-- Page layout based on Quarto's own documentation index page. Will need to do further refactoring and tidy-up around sections actually using and add further customisation. TODO - add attribution of index.qmd and index.css as basis for the NVivo index in a 'Software Used' or equivalent section on About page. -->
+
 ::: {.hero-banner}
 ::: {.content-block .py-4}
 ::: {.hero-text}
