@@ -2,9 +2,12 @@
 
 /*-- scss:rules --*/
 
-$bg: $brand-sgsss-dark-blue;
+$bg: $brand-portal-dark;
 $fg: $gray-200;
 $ac: $brand-alt-purple;
+$line: $gray-700;
+$mid: $gray-300;
+$high: $gray-200;
 
 $primary: $brand-alt-purple;
 
@@ -36,6 +39,10 @@ h2,
   border-bottom: 1px solid $gray-700;
 }
 
+#quarto-header > nav.navbar.navbar-expand-lg {
+  border-bottom: 1px solid $gray-700;
+}
+
 .sidebar.sidebar-navigation:not(.rollup) {
   border-right: 1px solid $gray-700 !important;
 }
@@ -49,7 +56,7 @@ body .nav-footer {
 }
 
 .nav-page a {
-  color: $gray-400;
+  color: $gray-500;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
@@ -62,8 +69,4 @@ body .nav-footer {
 
 .quarto-title-breadcrumbs .breadcrumb li:last-of-type a {
   color: $gray-500;
-}
-
-.instructions {
-  background-color: #384955;
 }

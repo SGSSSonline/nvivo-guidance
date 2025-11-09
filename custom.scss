@@ -7,8 +7,29 @@
 $bg: $brand-white !default;
 $fg: $brand-sgsss-solid-blue !default;
 $ac: $brand-purple !default;
+$line: $gray-300 !default;
+$mid: $gray-700 !default;
+$high: $gray-800 !default;
 
 $btn-code-copy-color-active: $ac !default;
+
+#quarto-header > nav.navbar.navbar-expand-lg {
+  border-bottom: 1px solid $line;
+}
+
+nav[role="doc-toc"] {
+  color: $high;
+}
+
+div.sidebar-item-container {
+  color: $mid;
+}
+
+div.sidebar-item-container .active,
+div.sidebar-item-container .show > .nav-link,
+div.sidebar-item-container .sidebar-link > code {
+  color: $ac;
+}
 
 .sidebar.sidebar-navigation > * {
   padding-top: 0em;
@@ -20,6 +41,22 @@ $btn-code-copy-color-active: $ac !default;
 
 .d-lg-inline {
   display: none !important;
+}
+
+.callout .callout-title-container {
+  color: $fg;
+}
+
+.callout.callout-style-simple > div.callout-header {
+  opacity: 100%;
+}
+
+div.callout-not-you.callout p,
+div.callout-zombie.callout p,
+div.callout-consider.callout p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-left: 1.6em;
 }
 
 .blockquote {

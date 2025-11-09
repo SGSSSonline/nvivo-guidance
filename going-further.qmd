@@ -11,5 +11,6 @@ Key to how the more advanced features will be covered is through considering the
 It is assumed, therefore, that you have followed the steps in the first two sections, including importing data, auto-coding by speaker / structure, creating nodes and cases, and doing basic coding.
 
 A project file though is provided on Social with these already setup.
+
 :::
 
