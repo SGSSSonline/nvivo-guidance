@@ -128,8 +128,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, custom.scss, brand]
-      dark: [cosmo, dark.scss, custom.scss, brand]
+      light: [cosmo, brand, custom.scss]
+      dark: [cosmo, brand, dark.scss, custom.scss]
     grid:
       sidebar-width: 350px
       body-width: 800px

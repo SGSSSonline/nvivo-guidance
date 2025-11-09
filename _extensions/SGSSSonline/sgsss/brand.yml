@@ -148,10 +148,6 @@ defaults:
         font-weight: bold;
       }
 
-      .callout.callout-style-simple .callout-body {
-        margin-top: 0em;
-      }
-
       .sidebar-menu-container .menu-text {
         font-weight: 500;
       }
