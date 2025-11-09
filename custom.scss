@@ -17,6 +17,7 @@ $btn-code-copy-color-active: $ac !default;
 .pt-lg-2 {
   padding-top: 0rem !important;
 }
+
 .d-lg-inline {
   display: none !important;
 }
@@ -29,12 +30,17 @@ $btn-code-copy-color-active: $ac !default;
   background-color: $bg;
   color: $fg;
 }
+
 .navbar {
   color: $fg;
 }
 
-.navbar-nav .nav-link.active,
-.navbar-nav .nav-link.show {
+.navbar-title {
+  font-weight: bold;
+}
+
+/* TO-FIX - if nav item has sidebar-navigation then 'active' is first nav item instead. */
+.navbar-nav .nav-link.active {
   color: $ac;
 }
 
@@ -58,9 +64,4 @@ $btn-code-copy-color-active: $ac !default;
   --bs-navbar-brand-color: $fg;
   --bs-navbar-toggler-icon-bg: $fg;
   --bs-navbar-toggler-broder-color: $fg;
-}
-
-.navbar-title {
-  color: $fg;
-  font-weight: bold;
 }

@@ -22,37 +22,39 @@ website:
     type: overlay
   navbar:
     left:
-      - href: index.qmd
-        text: "Intro"
-      - href: project-setup.qmd
-        text: "Project Setup"
-      - href: Start coding.qmd
-        text: "Start Coding"
-      - href: going-further.qmd
-        text: "Going Further"
-      - href: Designing your Nvivo project.qmd
-        text: "Design your own project"
+      - text: "Intro"
+        href: index.qmd
+      - text: "Project Setup"
+        href: project-setup.qmd
+      - text: "Start Coding"
+        href: Start coding.qmd
+      - text: "Going Further"
+        href: going-further/index.qmd
+      - text: "Design your own project"
+        href: Designing your Nvivo project.qmd
 
     right:
-      - href: primers.qmd
-        text: "Analysis Primers"
-      - href: Nvivo versions.qmd
-        text: "NVivo Versions"
-      - href: resources.qmd
-        text: "NVivo Resources"
+      - text: "Analysis Primers"
+        href: primers.qmd
+      - text: "NVivo Versions"
+        href: Nvivo versions.qmd
+      - text: "NVivo Resources"
+        href: resources.qmd
       - about.qmd
 
   sidebar:
-    - title: "Intro"
+    - id: intro
+      title: "Intro"
       style: "docked"
+      logo-href: "#"
       contents:
         - index.qmd
         - nvivo-about.qmd
 
-    - title: "Going Further"
-      style: "docked"
+    - id: going-further
+      title: "Going Further"
       contents:
-        - going-further.qmd
+        - going-further/index.qmd
         - going-further/project-overview.qmd
         - section: "**Coding Workflows**"
           contents:
@@ -81,8 +83,8 @@ website:
             - going-further/re-casing.qmd
             - going-further/set-query-summary.qmd
 
-    - title: "Project Setup"
-      style: "docked"
+    - id: project-setup
+      title: "Project Setup"
       contents:
         - href: project-setup.qmd
           text: "NVivo Project Setup"
@@ -97,8 +99,8 @@ website:
             - Adding metadata.qmd
             - Saving and sharing.qmd
 
-    - title: "Start Coding"
-      style: "docked"
+    - id: start-coding
+      title: "Start Coding"
       contents:
         - Start coding.qmd
         - section: "**Coding in NVivo**"
@@ -126,8 +128,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, brand, custom.scss]
-      dark: [cosmo, brand, dark.scss, custom.scss]
+      light: [cosmo, custom.scss, brand]
+      dark: [cosmo, dark.scss, custom.scss, brand]
     grid:
       sidebar-width: 350px
       body-width: 800px

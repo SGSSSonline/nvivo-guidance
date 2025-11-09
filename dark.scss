@@ -6,16 +6,29 @@ $bg: $brand-sgsss-dark-blue;
 $fg: $gray-200;
 $ac: $brand-alt-purple;
 
+$primary: $brand-alt-purple;
+
 $navbar-bg: $bg;
 $navbar-fg: $fg;
+
 .navbar-nav {
   --bs-navbar-hover-color: var(--brand-purple);
+  --bs-navbar-brand-hover-color: var(--brand-purple);
+}
+
+.navbar-dark,
+.navbar[data-bs-theme="dark"] {
+  --bs-navbar-brand-hover-color: var(--brand-purple);
 }
 
 .callout.callout-style-simple {
   border-right: 1px solid $gray-700;
   border-top: 1px solid $gray-700;
   border-bottom: 1px solid $gray-700;
+}
+
+:root {
+  --bs-blue: $ac;
 }
 
 h2,
