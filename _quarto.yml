@@ -116,12 +116,14 @@ website:
           href: resources.qmd
 
   page-footer:
+    left: "Made with [Quarto](https://quarto.org)"
+    right: "Licensed under {{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}} {{< fa brands creative-commons-sa >}} [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
     center:
       - text: "SGSSS"
         href: "https://www.sgsss.ac.uk/"
       - text: " | "
-      - text: "Social"
-        href: "https://social.sgsss.ac.uk/"
+      - text: "Portal"
+        href: "https://portal.sgsss.ac.uk/"
       - text: " | "
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}} Bluesky"
         href: "https://bsky.app/profile/sgsss.bsky.social"
