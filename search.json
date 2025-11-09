@@ -4,21 +4,33 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "If you are new to qualitative enquiry, please see the Primers page for recommended introduction materials."
+    "text": "If you are new to qualitative enquiry, please see the Primers page for recommended introduction materials.",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Resources"
+    ]
   },
   {
     "objectID": "resources.html#lumiveros-nvivo-resources",
     "href": "resources.html#lumiveros-nvivo-resources",
     "title": "Resources",
     "section": "Lumivero’s NVivo Resources",
-    "text": "Lumivero’s NVivo Resources\n\nUser Help Pages\nBelow are links to Lumivero’s NVivo User Help pages for the more recent Windows and MacOS versions of NVivo.\nWindows:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\nNvivo 15\n\nMacOS:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\nNvivo 15\n\n\n\nOther online Lumivero resources\n\nNVivo YouTube Channel\nNVivo Podcast series\nLumivero Webinars and Events (for payment, some webinars are free)\nNVivo Knowledge Base\nNVivo Customer Hub (requires Lumivero username and password to log in)"
+    "text": "Lumivero’s NVivo Resources\n\nUser Help Pages\nBelow are links to Lumivero’s NVivo User Help pages for the more recent Windows and MacOS versions of NVivo.\nWindows:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\nNvivo 15\n\nMacOS:\n\nNVivo 12\nNVivo Release 1\nNVivo 14\nNvivo 15\n\n\n\nOther online Lumivero resources\n\nNVivo YouTube Channel\nNVivo Podcast series\nLumivero Webinars and Events (for payment, some webinars are free)\nNVivo Knowledge Base\nNVivo Customer Hub (requires Lumivero username and password to log in)",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Resources"
+    ]
   },
   {
     "objectID": "resources.html#recommended-reading",
     "href": "resources.html#recommended-reading",
     "title": "Resources",
     "section": "Recommended Reading",
-    "text": "Recommended Reading\n\nQualitative Analysis Software\nThe best texts on using software for qualitative analysis:\n\nJackson, Kristi, and Pat Bazeley. (2019) Qualitative Data Analysis with NVivo. 3rd ed. Thousand Oaks, CA: SAGE Publications Ltd.\n\nPDF for Chapter 1 - ‘Where to begin?’\nClick by click instructions accompanying the book.\n\nBazeley, Pat. (2017) ‘Using Qualitative Data Analysis Software (QDAS) to Assist Data Analyses’. Pp. 1–18 in Handbook of Research Methods in Health Social Sciences, edited by P. Liamputtong. Singapore: Springer.\n\nOpen access copy.\n\n\n\n\nQualitative Analysis - how to resources\nAlso useful as a basis for understanding qualitative analysis, coding, and writing up more generally:\n\nBazeley, Pat. 2020. Qualitative Data Analysis: Practical Strategies. 2nd ed. London: SAGE Pubications.\n\nHard-copies available in most university libraries.\n\nSaldaña, Johnny. (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd.\n\nAn Introduction to Codes and Coding PDF of Chapter 1.\n\n\n\n\nExamples of applied use of NVivo\n\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nHutchison, Andrew John, Lynne Halley Johnston, and Jeff David Breckon. (2010) ‘Using QSR‐NVivo to Facilitate the Development of a Grounded Theory Project: An Account of a Worked Example’. International Journal of Social Research Methodology 13(4):283–302. doi: 10.1080/13645570902996301.\n\n\n\nOther qualitative analysis software\nNvivo is the market leader but some other popular ones are listed below:\nSubscription/licenced software:\n\nATLAS.ti,\nMAXQDA,\nDedoose.\n\nFree /open source:\n\nTaguette."
+    "text": "Recommended Reading\n\nQualitative Analysis Software\nThe best texts on using software for qualitative analysis:\n\nJackson, Kristi, and Pat Bazeley. (2019) Qualitative Data Analysis with NVivo. 3rd ed. Thousand Oaks, CA: SAGE Publications Ltd.\n\nPDF for Chapter 1 - ‘Where to begin?’\nClick by click instructions accompanying the book.\n\nBazeley, Pat. (2017) ‘Using Qualitative Data Analysis Software (QDAS) to Assist Data Analyses’. Pp. 1–18 in Handbook of Research Methods in Health Social Sciences, edited by P. Liamputtong. Singapore: Springer.\n\nOpen access copy.\n\n\n\n\nQualitative Analysis - how to resources\nAlso useful as a basis for understanding qualitative analysis, coding, and writing up more generally:\n\nBazeley, Pat. 2020. Qualitative Data Analysis: Practical Strategies. 2nd ed. London: SAGE Pubications.\n\nHard-copies available in most university libraries.\n\nSaldaña, Johnny. (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd.\n\nAn Introduction to Codes and Coding PDF of Chapter 1.\n\n\n\n\nExamples of applied use of NVivo\n\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nHutchison, Andrew John, Lynne Halley Johnston, and Jeff David Breckon. (2010) ‘Using QSR‐NVivo to Facilitate the Development of a Grounded Theory Project: An Account of a Worked Example’. International Journal of Social Research Methodology 13(4):283–302. doi: 10.1080/13645570902996301.\n\n\n\nOther qualitative analysis software\nNvivo is the market leader but some other popular ones are listed below:\nSubscription/licenced software:\n\nATLAS.ti,\nMAXQDA,\nDedoose.\n\nFree /open source:\n\nTaguette.",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Resources"
+    ]
   },
   {
     "objectID": "buildingthemes.html#framework-matrices",
@@ -371,8 +383,8 @@
     "section": "",
     "text": "Nvivo is a software package for managing qualitative and mixed methods analysis projects.\nYou can start an Nvivo project at any point in the research lifecycle: at the design phase, when you have already collected data, or even later.\nAs an analysis tool, Nvivo can help you:\nBut aside from helping to structure your analysis, Nvivo can be really helpful as a project management tool, organising your data and other useful information in one place.\nYou can also use Nvivo to collaborate - you can share projects or using cloud functionality to invite others in.",
     "crumbs": [
-      "Intro",
-      "How can NVivo help me?"
+      "Project Setup",
+      "About NVivo"
     ]
   },
   {
@@ -382,8 +394,8 @@
     "section": "And what can’t it do?",
     "text": "And what can’t it do?\nImportant to note, using Nvivo will NOT:\n\nmake your analysis better\nmake meaning- you as the researcher do that\nautomatically provide objectivity and clarity, or ensure reproducibility\n\nEven though it allows linkage of qualitative and quantitative data, it can’t perform quantitative analysis.\nNvivo takes time to set up; and to make the most of the software, it requires some patience.\nIt is also more useful for some analysis approaches than others: for example very good for thematic content analysis (which we will cover today), but not so well adapted for others like interpretative phenomenological analysis (IPA).",
     "crumbs": [
-      "Intro",
-      "How can NVivo help me?"
+      "Project Setup",
+      "About NVivo"
     ]
   },
   {
@@ -393,8 +405,8 @@
     "section": "Navigating online resources",
     "text": "Navigating online resources\nThere are a plethora of online resources for Nvivo (of varying quality…). This can be overwhelming!\nAfter you’ve done this workshop, you should feel more confident at searching and using these.\nWhere possible, we will sign post you to more advanced online tutorials.",
     "crumbs": [
-      "Intro",
-      "How can NVivo help me?"
+      "Project Setup",
+      "About NVivo"
     ]
   },
   {
@@ -429,100 +441,15 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "intro.html",
+    "href": "intro.html",
     "title": "Welcome!",
     "section": "",
-    "text": "NoteHow to use these materials\n\n\n\nThese materials are designed to accompany SGSSS live training sessions in the academic year 2025/26, and they can also be used for self-study.\nThe guides are aimed at those with no experience of using Nvivo.\nThey primarily use examples from Nvivo windows versions 14 and 15 (which don’t differ greatly); we also show instructions for Mac equivalents to enable Mac users to follow along.\nThe logic of the materials corresponds to the tabs at the top:\n\nThe introductory sessions are led by Dr Katy Keenan; we will work through some basic tasks:\n\nsetting up a new Nvivo project\norganising materials\ncreating cases and case classifications\nmanual coding\nsome autocoding features\n\nThe ‘Going further’ sessions are led by Alasdair Stewart and will move to more advanced features and the flexible ways these can be used for qualitative analysis.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
+    "text": "NoteHow to use these materials\n\n\n\nThe logic of the materials corresponds to the tabs at the top:\n\nThe introductory sessions are led by Dr Katy Keenan; we will work through some basic tasks:\n\nsetting up a new Nvivo project\norganising materials\ncreating cases and case classifications\nmanual coding\nsome autocoding features\n\nThe ‘Going further’ sessions are led by Alasdair Stewart and will move to more advanced features and the flexible ways these can be used for qualitative analysis.\nStudents will learn how to use some more advanced features of NVivo:\n\ncoding workflows, tip and tricks\ndifferent types of queries\nframework matrices\n\nWe will use some curated open access qualitative data (the Qualitative Election Study of Britain). However, there is an opportunity to discuss how to use NVivo to manage your own project.",
     "crumbs": [
-      "Intro",
-      "Welcome!"
+      "Project Setup",
+      "Intro"
     ]
-  },
-  {
-    "objectID": "index.html#live-sessions-aims",
-    "href": "index.html#live-sessions-aims",
-    "title": "Welcome!",
-    "section": "Live sessions aims",
-    "text": "Live sessions aims\n\n\n\n\n\n\nConsider🤔 Critical Considerations\n\n\n\nThe sections are based around problems that you might encounter as your analysis progresses.\nWith each we will cover some conceptual points and a follow along demonstration that combines various NVivo features together to achieve an analysis aim.\nThe purpose of this is to explain features in context, the how and why you would want to use them, rather than just providing an abstract technical explanation of what they do.\nIn the live sessions, after the follow along demonstrations, we will have time for experimentation and discussion. We have tried to identify common enough problems and considerations that will be encountered across different types of project. However, all the steps and features covered can be combined and deployed in a multitude of ways. Please use the ‘experiment and discuss’ sections to raise any questions about how what we are covering could be applied to your project or recombined for other analysis aims.\n\n\n\n\n\n\n\n\nZombie🧟 Slaying QDAS Zombies\n\n\n\nTo say some qualitative researchers were initially resistant to qualitative data analysis software is an understatement. Early literature on the value of computing to qualitative analysis was filled with acerbic critiques, seeing software as undermining the rich in-depth analysis that qualitative analysis offers.\nThere was a partial truth to these criticisms as the nascent software was minimal in features and capabilities. What some critiques got wrong - or, at least, gave the impression of - though, was taking the limitations of the software as it was and treating these as inherent and inescapable.\nThe big four critiques - that software distances researchers from data by placing a barrier between them, strips qualitative methods of its diversity by homogenising coding and analysis, replaces the creativity of qualitative analysis with mechnical steps, and dehumanises participants by decontextualising their experiences - are not unavoidable dangers with modern software.\nHowever, the critiques unfortunately still persist as QDAS Zombies by being recounted again and again in the literature reviews of journal articles and books. That QDAS software is not overly friendly to new users - see below - unfortunately also keeps the zombie critiques going. When users struggle so much with the software that they find themselves turning to paper and pen – or copying chunks of text into Word/Excel files – it’s no wonder these critiques feel more alive than dead.\nWhat we will cover in this workshop should go towards dispelling that feeling by demystifying the features that help solve common problems and analysis aims beyond the basics. I’d go as far as arguing that once you gain a greater understanding and confidence in using contemporary qualitative analysis software, the zombie critiques are a greater risk when using paper and pen.\n\n\n\n\n\n\n\n\nNot-you🤢 It’s not you, it’s NVivo\n\n\n\nNVivo is powerful and without a doubt better than analogue paper and pen analysis – or worse, copying and pasting chunks of text into multiple Word/Excel files – but it remains far from perfect. It is needlessly bloated and clunky, and historically had a reputation for regularly crashing.\nThe unintuitive design and labyrinthine steps required for some tasks – never mind the joys of trying to recall them each time when first starting – gives the false impression that it is all overly-complex. It might not seem it now, but with perseverance the pieces start fitting together, and the initial overwhelm will dissipate into mild frustrations.\nTo Lumivero’s credit, the rate at which NVivo crashes has vastly reduced and is no longer a daily occurrence. However, it can still throw up the occasional unexpected error, freeze and lock-up, or decide to crash and die completely. This is most often ‘NVivo-error’ not ‘user-error’ – there was not anything wrong in how you set up your project or actions you were doing, it’s just NVivo being NVivo.",
-    "crumbs": [
-      "Intro",
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "index.html#note",
-    "href": "index.html#note",
-    "title": "Welcome!",
-    "section": "Note",
-    "text": "Note\n\n\n\n\n\n\nImportant‘Living Documents’\n\n\n\nThese pages are ‘living documents’, they will continually and iteratively be updated over time. Please see the Callout on the About page for further details.",
-    "crumbs": [
-      "Intro",
-      "Welcome!"
-    ]
-  },
-  {
-    "objectID": "orgnodes.html#adding-organisation-codes",
-    "href": "orgnodes.html#adding-organisation-codes",
-    "title": "Organisation Codes",
-    "section": "Adding Organisation Codes",
-    "text": "Adding Organisation Codes\n\n\nGo to the main ‘Codes’ folder.\nRight-click on any white space and select ‘New Code…’\n\n\n\nProvide it with a suitable name, such as ‘Organisation Codes’\nI have added “z - …” at the start as that ensure it’s placed at the end when alphabetically ordered.\n\n\n\nDrag and drop the existing ‘quotable quote’ code to become a child code of ‘z - Organisation Codes’.\n(Optional) rename it to ‘Gold’.\nCreate another two child codes ‘Unsure’ and ‘Example’.\n\n\n\n\n\n\n\nTipDifferent organisation codes\n\n\n\n\nThere are various different codes researchers make to to help with organising their coding. A few examples:\n\nExample - Use for coding sections that are serve as illustrative example of another code.\nGold - Use for coding sections that have high probability of later being used as a quote. (Though ensure to avoid cherry-picking!)\nImportant - Use for coding sections that are important for the analysis. (This can be distinct in many cases from ‘Gold’.)\nUnsure - Use for coding sections that are coded to another code, but you are unsure whether either it is right code for the section or this coded section is making you question the overall code.\n\nIMPORTANT - You do not need all of these! This is merely showing range of examples. Which and how many to have wil change based on personal preferences and analysis aims. For example, when working as part of a large team, ‘example’ can be useful for researchers to identify coded sections they think illustrate specific codes they are developing. This can then help inform discussion to agree a share coding schema for the project.\n\nAnother way to use codes for organising is having codes to store excerpts you intend to use / have used in specific articles or thesis chapters. This can be combined with queries as well to aid finding most relevant sections. For example, a Matrix Coding Query with your writing organisation codes with your main coding schema.\nDue to the much more niche use-case for these codes, they are definitely ones to chuck in their own folder to avoid cluttering the top-level folder.\n\n\n\nCode Matrix Query\nFirst:\n\nSelect two or three existing codes from the top-level Codes folder or ‘Autocoded (Theme)’ sub-folder.\nOpen tabs for to view the code results for each.\nQuickly go through coding sections from the code results to ‘Example’, ‘Gold’, and ‘Unsure’.\n\n\n\nGo to the Query Criteria folder\nRight-click and select New Query\nand, Matrix Coding Query\n\n\n\nRows = the regular codes you chose.\nColumns = Gold, Unsure, and Example.\nHit ‘Run Query’\nRemember to also ‘Save Criteria…’\n\nThis will then produce a coding matrix you can then use to find sections coded at both a regular and organisation code."
-  },
-  {
-    "objectID": "orgnodes.html#memo-links",
-    "href": "orgnodes.html#memo-links",
-    "title": "Organisation Codes",
-    "section": "Memo Links",
-    "text": "Memo Links\n\nCreate a linked memo for one of your chosen regular codes:\n\nRight-click the code.\nSelect ‘Memo Link’.\nThen ‘Link to New Memo…’\n\n\nProvide an appropriate name. For memos linked to codes I tend to go with “m - Code Name” naming convention.\n\n\nAdd headers for ‘Example’, ‘Gold’,’ Unsure’.\n\nYou can then use the coding matrix results to read through content coded to both the code and the three organisation nodes. (Or, for time, add some lorem ipsum.)\n\nMemo See Also Links\nIt is possible to link text within a file to text within a memo.\n\n\nSelect the text you want to link to the memo text.\nRight-click and select ‘Copy’.\n\n\nBack in the memo:\n\nSelect the memo text you want to be linked.\nRight-click and select ‘Paste as See-Also Link’.\n\n\nSee also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.\n\nImportantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can ‘Open To Item’. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.\n\n\nAutocode Memos\nAs an example of how flexible some of NVivos tools are, as with files, it is possible to autocode memos.\n\n\nRight-click the memo you created.\nSelect ‘Autocode…’\n\n\n\n\n\n\nChange ‘Under’ to ‘New Folder’\nProvide it an appropriate Name\nHit ‘Finish’\n\n\nThis may not seem like much with just a single memo, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections."
-  },
-  {
-    "objectID": "orgnodes.html#static-sets",
-    "href": "orgnodes.html#static-sets",
-    "title": "Organisation Codes",
-    "section": "Static Sets",
-    "text": "Static Sets\nGoing through the ‘Unsure’ sections, for example, may help you identify new code to create or ones to replace.\nSay you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.\nThis is where static sets come in handy.\n\nAdd three existing Codes to the static set.\nWithin your ‘Codes’ top-level folder create three new codes of your choice, for simplicity I’m just going with ‘A’, ‘B’, ‘C’.\nAdd these to the ‘New Codes’ static set.\n\n\nCoded to Old Codes, but not New Codes\n\n\nCreate a new Matrix Coding Query.\nRows = ‘Old Codes’ static set.\nColumns = ‘New Codes’ static set.\nChange ‘Coding at rows … columns’ to Not.\n‘Run Query’\n\nThis will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the ‘Old Codes’ static set.\nYou can now work your way recoding to the New Codes. Importantly, during recoding you can hit ‘Run Query’ and get an update of how many sections are left to recode. This can be extremely useful you whilst recoding you realise you actually need a fourth new code ‘D’. You can create it, add it to ‘New Codes’ static set and ‘Run Query’ for your ‘Recoding Old with New’ Matrix Code Query.\n\nRemember you can change the ‘coding content’ to view more text surrounding the sections coded to your old codes. That won’t make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.\n\nSimilarly, you can turn on coding stripes and highlighting using the static set as a filter.\n\nThis can save a lot of headaches and frustration when if adopting a coding approach that have multiple stages in developing and refinding your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.\n\n\nOther uses for static sets\n\nGrouping conceptual related codes outside your main coding schema.\nCollating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.\nMaking a group of participants with similar experiences, but where it would not necessarily make sense to capture it using Attributes."
-  },
-  {
-    "objectID": "Start coding.html",
-    "href": "Start coding.html",
-    "title": "What is coding?",
-    "section": "",
-    "text": "NoteWhat is coding?\n\n\n\nCodes are tags or containers for complex qualitative data; they are a way to index, sort, link and interrogate data.\nThe process of coding involves finding ways of summarizing key meanings within your data.\nThe same piece of text can have multiple meanings or codes.\n\n\n\n\n\n\n\n\nNoteSection Overview\n\n\n\nWithin this section we will cover the conceptual grounding for qualitative coding and set through the basic processes for creating codes and coding within NVivo.\n\n\n\nWhat are codes?\n\nCodes are tags or containers for complex qualitative data; they are a way to index, sort, link and interrogate data.\nThe process of coding involves finding ways of summarizing key meanings within your data.\nThe same piece of text can have multiple meanings or codes.\n\n\n\n\nDeductive vs inductive coding\nIn deductive coding, you approach your dataset with a pre-established list of codes, often based off existing theoretical frameworks or even the research tools themselves (e.g. the questions that were asked). This is a more top-down, etic approach that is most useful for confirming or testing existing theories, or imposing organizational and structure into your file (e.g. coding by interview guide or research questions).\nConversely, inductive coding is when you allow codes to emerge from your engagement with the dataset itself, with no preconceived categories. This is a bottom up, emic approach to coding.\nYour own approach may be heavily influenced by your discipline, research aims, and research questions.\nHowever, most work will be situated in a hybrid space between the two.\n\n\nCoding as iterative\nSorry folks, qualitative coding is far from one-and-done. Coding is a cyclical, ongoing process. Interviews cannot be read and coded just once. As we re-read our datasets, we continue to develop new codes and subcodes, and refine our understanding of the data. Each time we read our material, we gain a deeper level of understanding each time we read our transcripts. With each pass, we will notice new things, which may prompt us to read new academic articles or ask different questions. This work will in turn shape what we see and understand in our next reading of the dataset. Nvivo can help us organise and interrogate codes but coding is led by the researcher.\n\n\nThe practice of coding\nRemember, when coding in Nvivo:\n\nCodes can overlap\nCodes will sort themselves to be alphabetical list – so clear, direct, short codes are helpful.\nConsider your future self (and any collaborators), and try to annotate your coding by always including a code description: what you think this code means and what should be included here\nCodes should change as your project changes. They can be combined and rearranged.\nDon’t be afraid to make a code because you’re uncertain if it will be relevant or important enough. They’re a tool to think with and can always be adjusted later.\n\nBe careful: try not to code when tired, bored, or distracted – you must always be actively thinking (the ‘organic computer’ [your brain] is the primary tool of analysis).\n\n\n\nAutocoding or using AI for coding?\nYou might have heard about autocoding and potential use of AI in Nvivo 15.\nAutociding is currently a basic - but often useful- functionality in Nvivo. It can help you organise the text into cases or themes based on pre-defined criteria using a deductive apporach (we’ll show you these below!)\nHowever it is the researcher’s job to interpret and make meaning from data.\nIn Nvivo version 15 there is an AI helper, which can detect common words or patterns of text in documents, and can be used as a sort of data-driven inductive coding assistant. Again, this is currently quite basic and shouldn’t replace the essential work of the researcher making sense of the data themselves.\nBut to find out more here at the AI features in Nvivo 15, see these videos from Lumivero:, and an online youtube video.\n\n\nDifferent approaches to coding - learn more\nSee resources tab for more information about various approaches to coding.",
-    "crumbs": [
-      "Start Coding",
-      "What is coding?"
-    ]
-  },
-  {
-    "objectID": "Organising codes.html",
-    "href": "Organising codes.html",
-    "title": "Organising codes",
-    "section": "",
-    "text": "Connections between codes\nAfter a few rounds of open coding, and some reflection as you along, some hierarchical structures might emerge.\n\n\n\n\n\n\nConsider🤔 Critical Considerations\n\n\n\nLook at your open codes and ask yourself:\n\nAre there any common themes that might make a good ‘parent code’?\nDo any codes refer to a theme or idea that may be experienced in a number of different ways (different sources, targets, circumstances, etc.)?\nAre there any common categories that would be useful to think with across many codes and examples?\nDo some of your codes exist within a common theme that could become a parent code?\nDoes it make sense to nest down, or create a new top code?\n\n\n\n\nNVivo jargon: top level codes are called ‘parent codes’; sub-codes are called ‘child codes’.\n\n\n\nHierachical tree coding\n\nAs we’ve already shown you, you can create a new parent code and drag in existing codes as sub-codes\nYou can also create new ‘child nodes’ i.e. subcodes of existing codes.\nYou can collapse codes by right clicking-&gt;copy- Merge into selected code\n\n\n\n\nRecommendations\n\nFor beginners, and at the very start of coding, 2 levels are probably enough\nMore than 3-4 levels becomes unwieldy",
-    "crumbs": [
-      "Start Coding",
-      "**Coding in NVivo**",
-      "Organising codes"
-    ]
-  },
-  {
-    "objectID": "Open coding.html",
-    "href": "Open coding.html",
-    "title": "Open coding",
-    "section": "",
-    "text": "What is open coding?\n‘Open coding’ refers to inductive forms of coding, where meaning emerges from the data through the researcher engaging with the content and deciding to create a code.\nCodes are not pre-defined; they emerge through the analysis.\n\n\n\n\n\n\nConsider🤔 Critical Considerations\n\n\n\nBefore jumping into open coding, let’s consider:\n\nwhat themes we might expect to emerge from this dataset?\n\nwhat kinds of phenomena might be want to capture with open coding?\n\n\n\n\n\nCoding based on attitudes/emotions\nWe know there are likely to be strong opinions expressed, so let’s set up some attitude codes that we can quickly apply while reading the interviews:\n\n\nCreate a new parent code by either 1) selecting Create-&gt;code on the top ribbon or 2) right- clicking in the open space under the codes and selecting ‘new code’:\n\n\n\n\n\nGive this new code the title ‘Attitude’ (1), give it a rich description (remember your future self) (2),\nDo not ‘aggregate coding from children’ for the attitude parent code (3), as we would seldom search for something including everything coded at any type of attitude. This can be toggled on later if needed, though.\n\n\n\nNext, we want to create sub-codes within ‘Attitude’ for:\n\nMixed\nNegative\nNeutral\nPositive\n\n\n\nTo create a sub-code right-click an existing code and select ‘new code’:\n\n\n\nYou can see you now have a basic set of attitude codes to code to as you read the transcripts:\n\n\n\nCreate new code based on ideas emerging in the data\nAs you read, you may start to notice a key theme/idea/concept popping up throughout that doesn’t fit into an attitude that you have pre-defined. You may decide that this deserves its own new code. For example, the theme of ‘immigration’ emerges repeatedly\n\n\nCreate a new code for this in the same way as before…\n\n\n\n\nPractice open coding\n\n\nSpend some time open coding by reading thorough the interviews in the 2016 interview folder.\nAs you go along, code to existing codes or make new ones for recurring ideas. Don’t worry about going back and coding something that might not have occurred to you earlier in the interview or in previous interviews.\n\n\n\nRemember that coding is iterative! and the same piece of text can have MULTIPLE CODES.\n\n\n\nReflexive coding\n\n\n\n\n\n\nConsider🤔 Critical Considerations\n\n\n\nAfter reading a few interviews, take a break to revisit your codes.\n\nAre there any common themes that might make a good ‘parent code’?\nis there something that stands out in your mind from reading that you don’t see in your coding?\n\n\n\n\nDon’t be afraid to re-code the same section with more than one thing (e.g. you might code one comment as ‘trust’, ‘Labour Party’, and ‘positive’).\nDon’t be afraid to make mistakes – you can always un-code!",
-    "crumbs": [
-      "Start Coding",
-      "**Coding in NVivo**",
-      "Open coding"
-    ]
-  },
-  {
-    "objectID": "Designing your Nvivo project.html",
-    "href": "Designing your Nvivo project.html",
-    "title": "Design your own Nvivo project: first steps",
-    "section": "",
-    "text": "Before you start building your own Nvivo project,it’s a good idea to think through the components and likely structure in advance:\n🤔 Ask yourself about the following:\n\n\nWhat types of data and files do I have?\nThese need to be digitized, but could include text items like…\n- transcripts of interviews/focus groups \n- quantitative metadata\n- field notes \n- research tools\n- policy documents\n- literature \n- archive materials\nIt is also possible to include things like..\n- photographs or images\n- video/audio \n- maps \nCAUTION: adding large files to Nvivo slows the software down dramatically.\nFor that reason we advise against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things are best organised in a file hierarchy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on your research question such as ‘trust in institutions’, ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project."
   },
   {
     "objectID": "The dataset.html",
@@ -561,39 +488,126 @@
     ]
   },
   {
+    "objectID": "Designing your Nvivo project.html",
+    "href": "Designing your Nvivo project.html",
+    "title": "Design your own Nvivo project: first steps",
+    "section": "",
+    "text": "Before you start building your own Nvivo project,it’s a good idea to think through the components and likely structure in advance:\n🤔 Ask yourself about the following:\n\n\nWhat types of data and files do I have?\nThese need to be digitized, but could include text items like…\n- transcripts of interviews/focus groups \n- quantitative metadata\n- field notes \n- research tools\n- policy documents\n- literature \n- archive materials\nIt is also possible to include things like..\n- photographs or images\n- video/audio \n- maps \nCAUTION: adding large files to Nvivo slows the software down dramatically.\nFor that reason we advise against using Nvivo for compiling many PDF articles, for example. Referencing software might be better for managing academic literature. The same goes for video/audio files.\nIt is helpful to imagine how these things are best organised in a file hierarchy.\n\n\nWhat are the main units of analysis?\nThese could be individuals you’ve interviewed, organisations you’ve studied, communities you’ve worked in, etc. And you could have nested units at different levels (e.g. individuals nested in communities).\nThese units of analysis might later get created as ‘cases’ in the Nvivo project file, which enable you to keep information about that case all in one place.\nFor example, a case within a project file might represent an individual, with multiple linked interview transcripts, some fieldnotes, and some metadata telling of their demographics.\nThese cases and case structures can evolve as you conduct your research, too.\n\n\nWhat are the characteristics of these units?\nNow consider what characteristics of these units you have measured. For example, for individuals you have interviewed, you might have socioedemographic data recorded (e.g. age, sex, education) This would be known as metadata, and might be recorded in a spreadsheet or table.\n\n\nWhat are the linkages within the project?\nThis might be files that are linked within a single case or individual, for example an individual who has 2 sequential interview transcripts. Or, it might be linkages between different individuals or cases who live in the same household.\n\n\nWhat are likely to be key topics or themes?\nThis may be unknown at this stage, but you might imagine some key/core themes based on your research question such as ‘trust in institutions’, ‘sense of loss’, etc.\nThese themes might become ‘codes’ within your Nvivo project.",
+    "crumbs": [
+      "Project Setup",
+      "Design your own project"
+    ]
+  },
+  {
+    "objectID": "Open coding.html",
+    "href": "Open coding.html",
+    "title": "Open coding",
+    "section": "",
+    "text": "What is open coding?\n‘Open coding’ refers to inductive forms of coding, where meaning emerges from the data through the researcher engaging with the content and deciding to create a code.\nCodes are not pre-defined; they emerge through the analysis.\n\n\n\n\n\n\nConsider🤔 Critical Considerations\n\n\n\nBefore jumping into open coding, let’s consider:\n\nwhat themes we might expect to emerge from this dataset?\n\nwhat kinds of phenomena might be want to capture with open coding?\n\n\n\n\n\nCoding based on attitudes/emotions\nWe know there are likely to be strong opinions expressed, so let’s set up some attitude codes that we can quickly apply while reading the interviews:\n\n\nCreate a new parent code by either 1) selecting Create-&gt;code on the top ribbon or 2) right- clicking in the open space under the codes and selecting ‘new code’:\n\n\n\n\n\nGive this new code the title ‘Attitude’ (1), give it a rich description (remember your future self) (2),\nDo not ‘aggregate coding from children’ for the attitude parent code (3), as we would seldom search for something including everything coded at any type of attitude. This can be toggled on later if needed, though.\n\n\n\nNext, we want to create sub-codes within ‘Attitude’ for:\n\nMixed\nNegative\nNeutral\nPositive\n\n\n\nTo create a sub-code right-click an existing code and select ‘new code’:\n\n\n\nYou can see you now have a basic set of attitude codes to code to as you read the transcripts:\n\n\n\nCreate new code based on ideas emerging in the data\nAs you read, you may start to notice a key theme/idea/concept popping up throughout that doesn’t fit into an attitude that you have pre-defined. You may decide that this deserves its own new code. For example, the theme of ‘immigration’ emerges repeatedly\n\n\nCreate a new code for this in the same way as before…\n\n\n\n\nPractice open coding\n\n\nSpend some time open coding by reading thorough the interviews in the 2016 interview folder.\nAs you go along, code to existing codes or make new ones for recurring ideas. Don’t worry about going back and coding something that might not have occurred to you earlier in the interview or in previous interviews.\n\n\n\nRemember that coding is iterative! and the same piece of text can have MULTIPLE CODES.\n\n\n\nReflexive coding\n\n\n\n\n\n\nConsider🤔 Critical Considerations\n\n\n\nAfter reading a few interviews, take a break to revisit your codes.\n\nAre there any common themes that might make a good ‘parent code’?\nis there something that stands out in your mind from reading that you don’t see in your coding?\n\n\n\n\nDon’t be afraid to re-code the same section with more than one thing (e.g. you might code one comment as ‘trust’, ‘Labour Party’, and ‘positive’).\nDon’t be afraid to make mistakes – you can always un-code!",
+    "crumbs": [
+      "Start Coding",
+      "**Coding in NVivo**",
+      "Open coding"
+    ]
+  },
+  {
+    "objectID": "Organising codes.html",
+    "href": "Organising codes.html",
+    "title": "Organising codes",
+    "section": "",
+    "text": "Connections between codes\nAfter a few rounds of open coding, and some reflection as you along, some hierarchical structures might emerge.\n\n\n\n\n\n\nConsider🤔 Critical Considerations\n\n\n\nLook at your open codes and ask yourself:\n\nAre there any common themes that might make a good ‘parent code’?\nDo any codes refer to a theme or idea that may be experienced in a number of different ways (different sources, targets, circumstances, etc.)?\nAre there any common categories that would be useful to think with across many codes and examples?\nDo some of your codes exist within a common theme that could become a parent code?\nDoes it make sense to nest down, or create a new top code?\n\n\n\n\nNVivo jargon: top level codes are called ‘parent codes’; sub-codes are called ‘child codes’.\n\n\n\nHierachical tree coding\n\nAs we’ve already shown you, you can create a new parent code and drag in existing codes as sub-codes\nYou can also create new ‘child nodes’ i.e. subcodes of existing codes.\nYou can collapse codes by right clicking-&gt;copy- Merge into selected code\n\n\n\n\nRecommendations\n\nFor beginners, and at the very start of coding, 2 levels are probably enough\nMore than 3-4 levels becomes unwieldy",
+    "crumbs": [
+      "Start Coding",
+      "**Coding in NVivo**",
+      "Organising codes"
+    ]
+  },
+  {
+    "objectID": "Start coding.html",
+    "href": "Start coding.html",
+    "title": "What is coding?",
+    "section": "",
+    "text": "NoteWhat is coding?\n\n\n\nCodes are tags or containers for complex qualitative data; they are a way to index, sort, link and interrogate data.\nThe process of coding involves finding ways of summarizing key meanings within your data.\nThe same piece of text can have multiple meanings or codes.\n\n\n\n\n\n\n\n\nNoteSection Overview\n\n\n\nWithin this section we will cover the conceptual grounding for qualitative coding and set through the basic processes for creating codes and coding within NVivo.\n\n\n\nWhat are codes?\n\nCodes are tags or containers for complex qualitative data; they are a way to index, sort, link and interrogate data.\nThe process of coding involves finding ways of summarizing key meanings within your data.\nThe same piece of text can have multiple meanings or codes.\n\n\n\n\nDeductive vs inductive coding\nIn deductive coding, you approach your dataset with a pre-established list of codes, often based off existing theoretical frameworks or even the research tools themselves (e.g. the questions that were asked). This is a more top-down, etic approach that is most useful for confirming or testing existing theories, or imposing organizational and structure into your file (e.g. coding by interview guide or research questions).\nConversely, inductive coding is when you allow codes to emerge from your engagement with the dataset itself, with no preconceived categories. This is a bottom up, emic approach to coding.\nYour own approach may be heavily influenced by your discipline, research aims, and research questions.\nHowever, most work will be situated in a hybrid space between the two.\n\n\nCoding as iterative\nSorry folks, qualitative coding is far from one-and-done. Coding is a cyclical, ongoing process. Interviews cannot be read and coded just once. As we re-read our datasets, we continue to develop new codes and subcodes, and refine our understanding of the data. Each time we read our material, we gain a deeper level of understanding each time we read our transcripts. With each pass, we will notice new things, which may prompt us to read new academic articles or ask different questions. This work will in turn shape what we see and understand in our next reading of the dataset. Nvivo can help us organise and interrogate codes but coding is led by the researcher.\n\n\nThe practice of coding\nRemember, when coding in Nvivo:\n\nCodes can overlap\nCodes will sort themselves to be alphabetical list – so clear, direct, short codes are helpful.\nConsider your future self (and any collaborators), and try to annotate your coding by always including a code description: what you think this code means and what should be included here\nCodes should change as your project changes. They can be combined and rearranged.\nDon’t be afraid to make a code because you’re uncertain if it will be relevant or important enough. They’re a tool to think with and can always be adjusted later.\n\nBe careful: try not to code when tired, bored, or distracted – you must always be actively thinking (the ‘organic computer’ [your brain] is the primary tool of analysis).\n\n\n\nAutocoding or using AI for coding?\nYou might have heard about autocoding and potential use of AI in Nvivo 15.\nAutociding is currently a basic - but often useful- functionality in Nvivo. It can help you organise the text into cases or themes based on pre-defined criteria using a deductive apporach (we’ll show you these below!)\nHowever it is the researcher’s job to interpret and make meaning from data.\nIn Nvivo version 15 there is an AI helper, which can detect common words or patterns of text in documents, and can be used as a sort of data-driven inductive coding assistant. Again, this is currently quite basic and shouldn’t replace the essential work of the researcher making sense of the data themselves.\nBut to find out more here at the AI features in Nvivo 15, see these videos from Lumivero:, and an online youtube video.\n\n\nDifferent approaches to coding - learn more\nSee resources tab for more information about various approaches to coding.",
+    "crumbs": [
+      "Start Coding",
+      "What is coding?"
+    ]
+  },
+  {
+    "objectID": "orgnodes.html#adding-organisation-codes",
+    "href": "orgnodes.html#adding-organisation-codes",
+    "title": "Organisation Codes",
+    "section": "Adding Organisation Codes",
+    "text": "Adding Organisation Codes\n\n\nGo to the main ‘Codes’ folder.\nRight-click on any white space and select ‘New Code…’\n\n\n\nProvide it with a suitable name, such as ‘Organisation Codes’\nI have added “z - …” at the start as that ensure it’s placed at the end when alphabetically ordered.\n\n\n\nDrag and drop the existing ‘quotable quote’ code to become a child code of ‘z - Organisation Codes’.\n(Optional) rename it to ‘Gold’.\nCreate another two child codes ‘Unsure’ and ‘Example’.\n\n\n\n\n\n\n\nTipDifferent organisation codes\n\n\n\n\nThere are various different codes researchers make to to help with organising their coding. A few examples:\n\nExample - Use for coding sections that are serve as illustrative example of another code.\nGold - Use for coding sections that have high probability of later being used as a quote. (Though ensure to avoid cherry-picking!)\nImportant - Use for coding sections that are important for the analysis. (This can be distinct in many cases from ‘Gold’.)\nUnsure - Use for coding sections that are coded to another code, but you are unsure whether either it is right code for the section or this coded section is making you question the overall code.\n\nIMPORTANT - You do not need all of these! This is merely showing range of examples. Which and how many to have wil change based on personal preferences and analysis aims. For example, when working as part of a large team, ‘example’ can be useful for researchers to identify coded sections they think illustrate specific codes they are developing. This can then help inform discussion to agree a share coding schema for the project.\n\nAnother way to use codes for organising is having codes to store excerpts you intend to use / have used in specific articles or thesis chapters. This can be combined with queries as well to aid finding most relevant sections. For example, a Matrix Coding Query with your writing organisation codes with your main coding schema.\nDue to the much more niche use-case for these codes, they are definitely ones to chuck in their own folder to avoid cluttering the top-level folder.\n\n\n\nCode Matrix Query\nFirst:\n\nSelect two or three existing codes from the top-level Codes folder or ‘Autocoded (Theme)’ sub-folder.\nOpen tabs for to view the code results for each.\nQuickly go through coding sections from the code results to ‘Example’, ‘Gold’, and ‘Unsure’.\n\n\n\nGo to the Query Criteria folder\nRight-click and select New Query\nand, Matrix Coding Query\n\n\n\nRows = the regular codes you chose.\nColumns = Gold, Unsure, and Example.\nHit ‘Run Query’\nRemember to also ‘Save Criteria…’\n\nThis will then produce a coding matrix you can then use to find sections coded at both a regular and organisation code."
+  },
+  {
+    "objectID": "orgnodes.html#memo-links",
+    "href": "orgnodes.html#memo-links",
+    "title": "Organisation Codes",
+    "section": "Memo Links",
+    "text": "Memo Links\n\nCreate a linked memo for one of your chosen regular codes:\n\nRight-click the code.\nSelect ‘Memo Link’.\nThen ‘Link to New Memo…’\n\n\nProvide an appropriate name. For memos linked to codes I tend to go with “m - Code Name” naming convention.\n\n\nAdd headers for ‘Example’, ‘Gold’,’ Unsure’.\n\nYou can then use the coding matrix results to read through content coded to both the code and the three organisation nodes. (Or, for time, add some lorem ipsum.)\n\nMemo See Also Links\nIt is possible to link text within a file to text within a memo.\n\n\nSelect the text you want to link to the memo text.\nRight-click and select ‘Copy’.\n\n\nBack in the memo:\n\nSelect the memo text you want to be linked.\nRight-click and select ‘Paste as See-Also Link’.\n\n\nSee also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.\n\nImportantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can ‘Open To Item’. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.\n\n\nAutocode Memos\nAs an example of how flexible some of NVivos tools are, as with files, it is possible to autocode memos.\n\n\nRight-click the memo you created.\nSelect ‘Autocode…’\n\n\n\n\n\n\nChange ‘Under’ to ‘New Folder’\nProvide it an appropriate Name\nHit ‘Finish’\n\n\nThis may not seem like much with just a single memo, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections."
+  },
+  {
+    "objectID": "orgnodes.html#static-sets",
+    "href": "orgnodes.html#static-sets",
+    "title": "Organisation Codes",
+    "section": "Static Sets",
+    "text": "Static Sets\nGoing through the ‘Unsure’ sections, for example, may help you identify new code to create or ones to replace.\nSay you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.\nThis is where static sets come in handy.\n\nAdd three existing Codes to the static set.\nWithin your ‘Codes’ top-level folder create three new codes of your choice, for simplicity I’m just going with ‘A’, ‘B’, ‘C’.\nAdd these to the ‘New Codes’ static set.\n\n\nCoded to Old Codes, but not New Codes\n\n\nCreate a new Matrix Coding Query.\nRows = ‘Old Codes’ static set.\nColumns = ‘New Codes’ static set.\nChange ‘Coding at rows … columns’ to Not.\n‘Run Query’\n\nThis will create a single cell, double-clicking will open a coding results tab with all sections coded at the codes in the ‘Old Codes’ static set.\nYou can now work your way recoding to the New Codes. Importantly, during recoding you can hit ‘Run Query’ and get an update of how many sections are left to recode. This can be extremely useful you whilst recoding you realise you actually need a fourth new code ‘D’. You can create it, add it to ‘New Codes’ static set and ‘Run Query’ for your ‘Recoding Old with New’ Matrix Code Query.\n\nRemember you can change the ‘coding content’ to view more text surrounding the sections coded to your old codes. That won’t make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.\n\nSimilarly, you can turn on coding stripes and highlighting using the static set as a filter.\n\nThis can save a lot of headaches and frustration when if adopting a coding approach that have multiple stages in developing and refinding your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.\n\n\nOther uses for static sets\n\nGrouping conceptual related codes outside your main coding schema.\nCollating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.\nMaking a group of participants with similar experiences, but where it would not necessarily make sense to capture it using Attributes."
+  },
+  {
     "objectID": "Nvivo versions.html",
     "href": "Nvivo versions.html",
     "title": "Nvivo versions",
     "section": "",
-    "text": "In recent years, there have been several different releases of QSR Nvivo software, in both Windows and Mac versions. Different institutions may subscribe to different versions.\nThis matters because some features differ and compatibility cannot always be assumed, which can be quite annoying. Where possible, we recommend working with a windows version, because you have more advanced features available. Some windows features are ‘hidden’ for the mac versions.\nThe most commonly encountered versions :\n Between Nvivo versions, there is forwards compatibility only. This means that you can open an Nvivo nvp file made in Nvivo 12 in Nvivo Release 1, but not the other way around. To open an older file in a more recent version, open the file, and then click ‘upgrade’."
+    "text": "In recent years, there have been several different releases of QSR Nvivo software, in both Windows and Mac versions. Different institutions may subscribe to different versions.\nThis matters because some features differ and compatibility cannot always be assumed, which can be quite annoying. Where possible, we recommend working with a windows version, because you have more advanced features available. Some windows features are ‘hidden’ for the mac versions.\nThe most commonly encountered versions :\n Between Nvivo versions, there is forwards compatibility only. This means that you can open an Nvivo nvp file made in Nvivo 12 in Nvivo Release 1, but not the other way around. To open an older file in a more recent version, open the file, and then click ‘upgrade’.",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Versions"
+    ]
   },
   {
     "objectID": "Nvivo versions.html#how-many-versions-of-nvivo-are-there",
     "href": "Nvivo versions.html#how-many-versions-of-nvivo-are-there",
     "title": "Nvivo versions",
     "section": "",
-    "text": "In recent years, there have been several different releases of QSR Nvivo software, in both Windows and Mac versions. Different institutions may subscribe to different versions.\nThis matters because some features differ and compatibility cannot always be assumed, which can be quite annoying. Where possible, we recommend working with a windows version, because you have more advanced features available. Some windows features are ‘hidden’ for the mac versions.\nThe most commonly encountered versions :\n Between Nvivo versions, there is forwards compatibility only. This means that you can open an Nvivo nvp file made in Nvivo 12 in Nvivo Release 1, but not the other way around. To open an older file in a more recent version, open the file, and then click ‘upgrade’."
+    "text": "In recent years, there have been several different releases of QSR Nvivo software, in both Windows and Mac versions. Different institutions may subscribe to different versions.\nThis matters because some features differ and compatibility cannot always be assumed, which can be quite annoying. Where possible, we recommend working with a windows version, because you have more advanced features available. Some windows features are ‘hidden’ for the mac versions.\nThe most commonly encountered versions :\n Between Nvivo versions, there is forwards compatibility only. This means that you can open an Nvivo nvp file made in Nvivo 12 in Nvivo Release 1, but not the other way around. To open an older file in a more recent version, open the file, and then click ‘upgrade’.",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Versions"
+    ]
   },
   {
     "objectID": "Nvivo versions.html#converting-nvivo-files-between-windows-mac-versions",
     "href": "Nvivo versions.html#converting-nvivo-files-between-windows-mac-versions",
     "title": "Nvivo versions",
     "section": "Converting Nvivo files between windows /mac versions",
-    "text": "Converting Nvivo files between windows /mac versions\nTo convert .nvp files (windows) to .nvpx (mac), do this within the windows platform, by choosing ‘copy project’-&gt; copy to…\nWe recommend you work on one platform only and avoid frequent conversion."
+    "text": "Converting Nvivo files between windows /mac versions\nTo convert .nvp files (windows) to .nvpx (mac), do this within the windows platform, by choosing ‘copy project’-&gt; copy to…\nWe recommend you work on one platform only and avoid frequent conversion.",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Versions"
+    ]
   },
   {
     "objectID": "Nvivo versions.html#naming-and-terminology-changes",
     "href": "Nvivo versions.html#naming-and-terminology-changes",
     "title": "Nvivo versions",
     "section": "Naming and terminology changes",
-    "text": "Naming and terminology changes\nWith Nvivo Release 1.0 (Nvivo 13), QSR changed the terminology for key elements. A full list is here.\nSome important ones to note:"
+    "text": "Naming and terminology changes\nWith Nvivo Release 1.0 (Nvivo 13), QSR changed the terminology for key elements. A full list is here.\nSome important ones to note:",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Versions"
+    ]
   },
   {
     "objectID": "Nvivo versions.html#the-guidance-for-your-specific-version-can-be-found-here.",
     "href": "Nvivo versions.html#the-guidance-for-your-specific-version-can-be-found-here.",
     "title": "Nvivo versions",
     "section": "The guidance for your specific version can be found here.",
-    "text": "The guidance for your specific version can be found here."
+    "text": "The guidance for your specific version can be found here.",
+    "crumbs": [
+      "Additional Resources",
+      "NVivo Versions"
+    ]
   },
   {
     "objectID": "Downloading the data.html",
@@ -671,28 +685,44 @@
     "href": "primers.html",
     "title": "Primers on qualitative data and analysis",
     "section": "",
-    "text": "If you have never had formal masters-level training in qualitative enquiry, we recommend you follow some introductory material before you atten the NVivo workshops. This will help you get the most out of the day."
+    "text": "If you have never had formal masters-level training in qualitative enquiry, we recommend you follow some introductory material before you atten the NVivo workshops. This will help you get the most out of the day.",
+    "crumbs": [
+      "Additional Resources",
+      "Analysis Primers"
+    ]
   },
   {
     "objectID": "primers.html#what-is-qualitative-enquiry-and-data",
     "href": "primers.html#what-is-qualitative-enquiry-and-data",
     "title": "Primers on qualitative data and analysis",
     "section": "What is qualitative enquiry and data?",
-    "text": "What is qualitative enquiry and data?\nEngage with one or all of the following:\n\nThe Discipline and Practice of Qualitative Research which is Chapter 1 in Denzin and Lincoln, eds. (2018) The SAGE Handbook of Qualitative Research. 5th ed. London: SAGE Publications.\nIntroduction to qualitative research methods - Part 1 by Bhangu, Provost, and Caduff (2023) in Perspectives in Clinical Research 14(1) pp.39-42\nQualitative research the basics YouTube video by Degree Doctor (Dr Elizabeth Yardley)"
+    "text": "What is qualitative enquiry and data?\nEngage with one or all of the following:\n\nThe Discipline and Practice of Qualitative Research which is Chapter 1 in Denzin and Lincoln, eds. (2018) The SAGE Handbook of Qualitative Research. 5th ed. London: SAGE Publications.\nIntroduction to qualitative research methods - Part 1 by Bhangu, Provost, and Caduff (2023) in Perspectives in Clinical Research 14(1) pp.39-42\nQualitative research the basics YouTube video by Degree Doctor (Dr Elizabeth Yardley)",
+    "crumbs": [
+      "Additional Resources",
+      "Analysis Primers"
+    ]
   },
   {
     "objectID": "primers.html#what-is-coding",
     "href": "primers.html#what-is-coding",
     "title": "Primers on qualitative data and analysis",
     "section": "What is coding?",
-    "text": "What is coding?\n\nAn Introduction to Codes and Coding which is Chapter 1 in Saldaña (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd."
+    "text": "What is coding?\n\nAn Introduction to Codes and Coding which is Chapter 1 in Saldaña (2013) The Coding Manual for Qualitative Researchers. 2nd ed. London: Sage Publications Ltd.",
+    "crumbs": [
+      "Additional Resources",
+      "Analysis Primers"
+    ]
   },
   {
     "objectID": "primers.html#what-is-thematic-analysis",
     "href": "primers.html#what-is-thematic-analysis",
     "title": "Primers on qualitative data and analysis",
     "section": "What is thematic analysis?",
-    "text": "What is thematic analysis?\nThematic analysis is a commonly used method within qualitative analysis, suitable for using with software like NVivo.\nPapers:\n\nBraun, Virginia, and Victoria Clarke (2006) ‘Using Thematic Analysis in Psychology’. Qualitative Research in Psychology 3(2):77–101. doi: 10.1191/1478088706qp063oa.\nBraun, Virginia, and Victoria Clarke (2019) ‘Reflecting on Reflexive Thematic Analysis’. Qualitative Research in Sport, Exercise and Health 11(4):589–97. doi: 10.1080/2159676X.2019.1628806.\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nKiger, Michelle E., and Lara Varpio. (2020) ‘Thematic Analysis of Qualitative Data: AMEE Guide No. 131’. Medical Teacher 42(8):846–54. doi: 10.1080/0142159X.2020.1755030.\n\nYouTube:\n\nThematic analysis in qualitative research by Degree Doctor (Dr Elizabeth Yardley)\n\n\nReflexive Thematic analysis (Braun and Clarke) : lectures and videos\n\nA foundational textbook on this approach with interactive online content.\n\nAccompanying youtube lectures:"
+    "text": "What is thematic analysis?\nThematic analysis is a commonly used method within qualitative analysis, suitable for using with software like NVivo.\nPapers:\n\nBraun, Virginia, and Victoria Clarke (2006) ‘Using Thematic Analysis in Psychology’. Qualitative Research in Psychology 3(2):77–101. doi: 10.1191/1478088706qp063oa.\nBraun, Virginia, and Victoria Clarke (2019) ‘Reflecting on Reflexive Thematic Analysis’. Qualitative Research in Sport, Exercise and Health 11(4):589–97. doi: 10.1080/2159676X.2019.1628806.\nByrne, David. (2022) ‘A Worked Example of Braun and Clarke’s Approach to Reflexive Thematic Analysis’. Quality & Quantity 56(3):1391–1412. doi: 10.1007/s11135-021-01182-y.\nKiger, Michelle E., and Lara Varpio. (2020) ‘Thematic Analysis of Qualitative Data: AMEE Guide No. 131’. Medical Teacher 42(8):846–54. doi: 10.1080/0142159X.2020.1755030.\n\nYouTube:\n\nThematic analysis in qualitative research by Degree Doctor (Dr Elizabeth Yardley)\n\n\nReflexive Thematic analysis (Braun and Clarke) : lectures and videos\n\nA foundational textbook on this approach with interactive online content.\n\nAccompanying youtube lectures:",
+    "crumbs": [
+      "Additional Resources",
+      "Analysis Primers"
+    ]
   },
   {
     "objectID": "project-setup.html",
