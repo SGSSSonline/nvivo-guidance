@@ -141,7 +141,7 @@ custom-callout:
     title: "🧟 Slaying QDAS Zombies"
     icon: false
     appearance: "minimal"
-    color: "#62bd74"
+    color: "#1b9d8e"
   not-you:
     title: "🤢 It's not you, it's NVivo"
     icon: false
