@@ -93,7 +93,6 @@ website:
             - going-further/creating-framework-matrix.qmd
             - going-further/viewing-framework-matrix.qmd
             - going-further/summary-links.qmd
-            - going-further/reusable-cells.qmd
         - section: "**Dynamic Sets and Queries**"
           contents:
             - going-further/layering-structure.qmd
@@ -103,7 +102,8 @@ website:
             - going-further/view-results.qmd
             - going-further/compare-groups.qmd
             - going-further/re-casing.qmd
-            - going-further/set-query-summary.qmd
+            - going-further/reusable-cells.qmd
+        - going-further/set-query-summary.qmd
 
     - id: additional-resource
       title: "Additional Resources"
