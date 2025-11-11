@@ -25,7 +25,6 @@ Then, to create a new framework matrix:
 
 This will bring up the 'New Framework Matrix' dialogue:
 
-
 ::: instructions
 
 - Provide it with a suitable name.

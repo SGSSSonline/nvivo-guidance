@@ -12,9 +12,15 @@ We have though already covered some of the ways through which your analysis deve
 - Memos for exploring initial reflections and interpretation.
 - Static sets and queries for exploring and refining your coding as your analysis develops.
 
-Another useful feature for building synthesis, interpetation, and themes is framework matrices. Originally, in pen and paper days, framework matrices were often seen as an alternative to thematic coding, where instead of going through transcripts coding text, a matrix is created with rows for each participant and columns for the themes / codes. Information is then summarised for each participant for the columns, aiding in identifcation of patterns.
+Another useful feature for building synthesis, interpetation, and themes is framework matrices.
 
-Within NVivo this is no longer an 'either/or' and 'both' is a valid option. Importantly, NVivo makes it possible to create a workflow for moving from coding to framework matrices.
+:::
+
+::: zombie
+
+Originally, in pen and paper days, framework matrices were seen as an alternative to thematic coding, where instead of going through transcripts coding text, a matrix is created with rows for each participant and columns for the themes. Information is then summarised for each participant under each columns, aiding in the identifcation of patterns and comparisons.
+
+Within NVivo this is no longer an 'either/or' and 'both' is a perfectly valid option. Importantly, NVivo makes it possible to create a workflow for moving from coding to framework matrices. Indeed, even when adopting a primarly thematic coding approach, it can remain useful to incorporate even a simple framework matrix as a way to further organise and reflect on your initial coding - aiding in developing your analysis further and recording initial summarisation and reflections that help in moving from coding and analysis to writing up.
 
 :::
 

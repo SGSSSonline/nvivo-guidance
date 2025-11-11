@@ -2,7 +2,7 @@
 title: "Autocode Memos"
 ---
 
-As another example of how flexible some of NVivos features are, as with files, it is possible to autocode memos - in exactly same way as autocoded the transcripts.
+Most of the 'advanced' features within NVivo can be used and combined in various ways. As another example of how flexible some of NVivo's features are let's look at how we can autocode memos just like how we used it in the 'Start Coding' section for auto-coding interview and focus group transcripts.
 
 ::: instructions
 
@@ -68,8 +68,8 @@ Then, to view the autocoding:
 
 :::
 
-This may not seem like much with just a single or couple memos, but if you had a series of structure memos this would let you quickly find and navigate them by specific sections. Going through the ‘Unsure’ sections, for example, may help you identify new code to create or ones to replace.
+This may not seem like much with just a single or couple memos, but if you had created a number of memos structured with the same Headings this would let you quickly find and navigate them by specific sections. Going through the ‘Unsure’ sections, for example, may help you identify new codes to create or ones to replace.
 
-Say you decided to create three new codes to outright replace three old ones, but this is made tricky as the each code does replace one code, but instead cuts across content in 2-3 of the old codes.
+Now, in reviewing these sections, say you decided to create three new codes to outright replace three old ones. This may be tricky as each new code does not replace one existing code directly, but instead text you want to code to it is currently spread across 2-3 of the codes you are wanting to replace.
 
-This is where static sets come in handy...
+This is the type of issue that can cause confusion and frustration, as it is not clear how to best do it within NVivo. Static sets provide one way to do this in a stress-free way...

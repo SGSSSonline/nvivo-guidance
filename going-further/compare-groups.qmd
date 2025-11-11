@@ -6,7 +6,7 @@ title: "Compare Groups"
 
 Our final intial question was making an inital broad comparison between the views of Leave and Remain supporters.
 
-We can achieve this with a Matrix Coding Query combining our interview transcript autocoding with are People case classification attribute values.
+We can achieve this with a Matrix Coding Query combining our interview transcript autocoding with our People case classification attribute values.
 
 ### Matrix Coding Query
 

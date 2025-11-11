@@ -4,7 +4,11 @@ title: "Using Static Sets"
 
 ### What are Static Sets?
 
-Static Sets provide a means for collating and organising objects - whether transcripts, cases, codes, queries, etc - from across your project file. In contrast to the main workspace views within NVivo (Files, Coding, ...), where for example a code can only exist in a single specific folder within the Coding section, a code can be added to an unlimited number of static sets. This makes them ideal for making collections of codes for specific purposes outwith your main coding hierarchy.
+Static Sets provide a means for collating and organising objects - whether transcripts, cases, codes, queries, etc - from across your project file.
+
+In the main workspace views within NVivo (Files, Coding, ...) an object can only exist in one folder within these views. For example, a transcript can exist in your interview or focus group folders, but not both. Similarly, a code can only exist in a single specific folder within the Coding section.
+
+An object though can be added to an unlimited number of Static Sets. This makes them ideal for making collections of codes for specific purposes outwith your main coding hierarchy.
 
 For example, say you wanted to recode text coded at three existing codes to three new codes you have created.
 
@@ -43,7 +47,7 @@ Next, let's add some of our existing coding to the set. Navigate to 'Autocoded (
 
 :::
 
-Now, let's create another set and our new nodes:
+Now, let's create another set and our new codes:
 
 ::: instructions
 
@@ -141,6 +145,8 @@ You can now work your way recoding to the New Codes. **Importantly**, during rec
 
 Remember you can change the 'coding content' to view more text surrounding the sections coded to your old codes. That won't make a difference for most of the codes in this project file, but if you only coded sentences or even short phrases, this will add back some additional context.
 
+**Code > Content > Coding Context > Broad**
+
 ![](../images/codingcontext.png)
 
 Similarly, you can turn on coding stripes and highlighting using the static set as a filter.
@@ -151,12 +157,12 @@ Similarly, you can turn on coding stripes and highlighting using the static set 
 
 
 
-### Other uses for static sets
+### Other uses for Static Sets
 
-Static Sets can save a lot of headaches and frustration when adopting a coding approach that has multiple stages in developing and refining your codes or working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want retrieve quickly.
+Static Sets can save a lot of headaches and frustration when adopting a coding approach that has multiple stages in developing and refining your codes. They are also useful when working on a large project with multiple researchers coding across different policy areas where you have a lot of codes across multiple folders that you may want in some contexts to mix and match together.
 
 Similarly, they can also be used for:
 
-- Grouping conceptual related codes outside your main coding schema.
+- Grouping conceptual related codes together outside your main coding schema.
 - Collating a mix of items (files, cases, codes) that are pertinent to an aspect of your analysis.
 - Making a group of participants with similar experiences, but where it would not necessarily make sense to capture it using Attributes.

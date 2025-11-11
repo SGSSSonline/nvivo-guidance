@@ -4,7 +4,15 @@ title: "Memo Links"
 
 ### Memos in NVivo
 
-Memos within NVivo as basically rich-text files contained within your project file. They can be used for various purposes, such as storing additional project information, a log of analysis plans and what has been completed so far, and so on. One key use is to use them to store reflections about your coding. Importantly, it is possible to 'link' memos to any other object within NVivo, such as transcripts, cases, and codes. This means for each code you can create a link memo for it that can use to make reflexive notes as you code.
+Memos within NVivo are basically rich-text files contained within your project file. You can use them in a multitude of ways, such as for storing additional project information, a log of analysis plans and what has been completed so far, and so on.
+
+They can also be used to store reflections about your coding. Importantly, it is possible to 'link' memos to any other 'object' within NVivo, such as transcripts, cases, and codes. This means for each code you can create a linked memo for it that you can then use to make reflexive notes as you code.
+
+::: consider
+
+In our example here we are going to create linked memos for our thematic codes. Based on your own analysis you will want to consider what memos would be useful and what objects within NVivo they would make most sense to link with.
+
+:::
 
 ### Creating Memo Links
 
@@ -39,6 +47,8 @@ Provide an appropriate name. For memos linked to codes I tend to go with "m - Co
 
 ### Combining Features
 
-Now, you can use the coding matrix results we previously created to quickly find and read through content coded to both the code and these three organisation nodes. (Or, for time, add some lorem ipsum.)
+Now, you can use the coding matrix results we previously created to quickly find and read through content coded to both the code and these three organisation nodes. (Or, for time, add some 'lorem ipsum' placeholder text - again what is important for our examples is just have content to work with to demonstrate how some of the more 'intermediate' and 'advanced' features in NVivo can be used.)
 
-This shows the power of NVivo that comes from 'combining features' into a workflow which may not be obvious and intuitive at first, but once you have a general sense of the features you will start to see various ways they can be combined for different stages and aims of your analysis.
+This shows the power of NVivo that comes from 'combining features' into flexible analysis workflows. Again, whilst this may not be obvious and intuitive at first - and NVivo's interface does it no favours - once you have a general sense of the features you will start to see various ways they can be combined for different stages and aims of your analysis.
+
+When first learning NVivo this 'unintuitive barrier' can present itself 'twice'. The first is learning what is even possible through combining NVivo's features. The second is being able to remember how it was possible to combine the features. It can be useful to make notes of steps to follow for anything you want to repeat again. It is frustratingly easy to learn how to do something in NVivo, take a short break, and then struggle to retrace the steps you followed before.

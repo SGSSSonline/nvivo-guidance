@@ -4,7 +4,13 @@ title: "Memo See Also Links"
 
 ### What Are 'See Also Links'?
 
-'See Also Links' are a means to add a link between text across two different objects, such as text in a memo and text in a transcript. This makes it possible to write reflections on your coding and link directly to any text within the transcript you are directly speaking about.
+'See Also Links' are a way to add a link between text in two different objects, such as text in a memo and text in an interview transcript. This makes it possible to write reflections on your coding *and* link directly to any text within the transcript you are writing about.
+
+::: zombie
+
+A common zombie criticism of QDAS is that it creates distance between you and your data. Yet, being able to link initial reflectiosn on your coding to the original text itself shows one of the myriad ways that using QDAS can bring you closer to your data. Crucially, if you use memos to keep record of percolating thoughts, and these memos are linked to your thematic codes and the text in the memos directly linked to text from your interview transcripts, you are building notes and material that will help you in moving from coding to writing up your analysis.
+
+:::
 
 ### Creating a See Also Link
 
@@ -30,13 +36,20 @@ Then, back in the memo:
 
 :::
 
+::: not-you
+
+This rather cumbersome way to create See Also Links is a perfect example of how NVivo's interface does it no favours. Until I started doing these training sessions, I needed to search online for info for how to do these each time I had not used NVivo for a few months.
+
+:::
+
 ### Viewing See Also Links
 
-See also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.
+See Also links appear in red highlighting and, similar to Annotations, a panel listing all See-Also Links within the current tab can be displayed at the bottom of the page.
 
 ![](../images/mem-6.png)
 
-Importantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can 'Open To Item'. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section the linked text appears.
+Importantly, if you right-click red highlighted text or any of the items listed in the See-Also Links panel, you can 'Open To Item'. This will open a new tab for the file that contains the linked text, and will auto-scroll to the exact section where the linked text appears.
 
 ![](../images/mem-7.png)
 
+Whilst then - as with many things within NVivo - it can be a bit cumbersome to initially set some things up, the long-term value they provided - and time saved - does make up for it.
