@@ -78,6 +78,26 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>
+div.callout-consider.callout {
+  border-left-color: #ff8483;
+}
+div.callout-consider.callout-style-default > .callout-header {
+  background-color: rgba(255, 132, 131, 0.13);
+}
+div.callout-consider .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-consider.callout-style-default .callout-icon::before, div.callout-consider.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff8483" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+}
+div.callout-zombie.callout {
+  border-left-color: #1b9d8e;
+}
+div.callout-zombie.callout-style-default > .callout-header {
+  background-color: rgba(27, 157, 142, 0.13);
+}
+div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
+div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%231b9d8e" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
+}
 div.callout-not-you.callout {
   border-left-color: #ffa76d;
 }
@@ -97,26 +117,6 @@ div.callout-macos.callout-style-default > .callout-header {
 div.callout-macos .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
 div.callout-macos.callout-style-default .callout-icon::before, div.callout-macos.callout-titled .callout-icon::before {
   background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ffcf62" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
-}
-div.callout-zombie.callout {
-  border-left-color: #1b9d8e;
-}
-div.callout-zombie.callout-style-default > .callout-header {
-  background-color: rgba(27, 157, 142, 0.13);
-}
-div.callout-zombie .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-zombie.callout-style-default .callout-icon::before, div.callout-zombie.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%231b9d8e" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
-}
-div.callout-consider.callout {
-  border-left-color: #ff8483;
-}
-div.callout-consider.callout-style-default > .callout-header {
-  background-color: rgba(255, 132, 131, 0.13);
-}
-div.callout-consider .callout-toggle::before {  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(33, 37, 41)" class="bi bi-chevron-down" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"/></svg>');}
-div.callout-consider.callout-style-default .callout-icon::before, div.callout-consider.callout-titled .callout-icon::before {
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="%23ff8483" class="bi bi-exclamation-triangle" viewBox="0 0 16 16"><path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.146.146 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.163.163 0 0 1-.054.06.116.116 0 0 1-.066.017H1.146a.115.115 0 0 1-.066-.017.163.163 0 0 1-.054-.06.176.176 0 0 1 .002-.183L7.884 2.073a.147.147 0 0 1 .054-.057zm1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767L8.982 1.566z"/></svg>');
 }
 </style>
 
@@ -567,7 +567,7 @@ div.callout-consider.callout-style-default .callout-icon::before, div.callout-co
 
 <section id="what-are-organisation-codes" class="level3">
 <h3 class="anchored" data-anchor-id="what-are-organisation-codes">What are ‘organisation’ codes?</h3>
-<p>Organisation codes are various different codes that are not part of the main ‘thematic’ coding, but that researchers create to to help with organising their coding.</p>
+<p>Organisation codes are various different codes that are not part of the main ‘thematic’ coding, but that researchers create to help with organising their coding.</p>
 <p>A few examples:</p>
 <ul>
 <li><strong>Example</strong> - Use for coding sections that are serve as illustrative example of another code.</li>
@@ -576,7 +576,21 @@ div.callout-consider.callout-style-default .callout-icon::before, div.callout-co
 <li><strong>Unsure</strong> - Use for coding sections that are coded to another code, but you are unsure whether either it is right code for the section or this coded section is making you question the overall code.</li>
 </ul>
 <p><img src="../images/codes-4.png" class="img-fluid"></p>
-<p><strong>IMPORTANT</strong> - You do not need all of these! This is merely showing range of examples. Which and how many to have wil change based on personal preferences and analysis aims. For example, when working as part of a large team, ‘example’ can be useful for researchers to identify coded sections they think illustrate specific codes they are developing. This can then help inform discussion to agree a share coding schema for the project.</p>
+<div class="callout callout-style-simple callout-important callout-titled" title="Important">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>You do not need all of these organisation codes! The list here is merely showing examples of type of codes you may want to consider.</p>
+<p>Which and how many to have will change based on personal preferences and analysis aims. When working as part of a large team, ‘example’ can be useful for researchers to identify coded sections they think illustrate specific codes they are developing. This can then help inform discussion to agree a share coding schema for the project.</p>
+<p>You can also use whatever names are meaningful to you. I am a fan of ‘gold’ - and like to have a ‘gold pan’ grouping different ‘gold’ nodes. However, as we will see a variant name for this type of code used by others is ‘quotable quote’.</p>
+</div>
+</div>
 </section>
 <section id="creating-organisation-codes" class="level3">
 <h3 class="anchored" data-anchor-id="creating-organisation-codes">Creating Organisation Codes</h3>
@@ -590,7 +604,7 @@ div.callout-consider.callout-style-default .callout-icon::before, div.callout-co
 <div class="instructions">
 <ul>
 <li>Provide it with a suitable name, such as ‘Organisation Codes’</li>
-<li>I have added “z - …” at the start as that ensure it’s placed at the end when alphabetically ordered.</li>
+<li>I have added “z - …” at the start so it is placed at the end when the codes are alphabetically sorted (which they are by default in most places NVivo lists your codes).</li>
 </ul>
 <p><img src="../images/codes-2.png" class="img-fluid"></p>
 </div>
@@ -605,9 +619,9 @@ div.callout-consider.callout-style-default .callout-icon::before, div.callout-co
 </section>
 <section id="other-types-of-organisation-codes" class="level3">
 <h3 class="anchored" data-anchor-id="other-types-of-organisation-codes">Other Types of Organisation Codes</h3>
-<p>Another way to use codes for organising is having codes to store excerpts you intend to use / have used in specific articles or thesis chapters. This can be combined with queries as well to aid finding most relevant sections. For example, a Matrix Coding Query - which we will cover next - with your writing organisation codes with your main coding schema.</p>
+<p>Another way to use codes for organising is having codes to store excerpts you intend to use - or have already used - in specific articles or thesis chapters. These can be combined with queries to facilitate finding relevant excerpts when writing. A Matrix Coding Query - which we will cover next - can be used to quickly show excerpts coded as each of your main codes <strong>and</strong> your writing organisation codes.</p>
 <p><img src="../images/codes-writing.png" class="img-fluid"></p>
-<p>Due to the much more niche use-case for these codes, they are definitely ones to chuck in their own folder to avoid cluttering the top-level folder.</p>
+<p>Due to the much more niche use-case for these codes, they are definitely ones to chuck in their own sub-folder to avoid cluttering the top-level Codes folder.</p>
 
 
 </section>
